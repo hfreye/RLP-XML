@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<teila xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://bsbb.eu" xsi:schemaLocation="http://bsbb.eu/ teila.xsd">
+<id>A</id>
+<title>Bildung und Erziehung in den Jahrgangsstufen</title>
+<kapitel>
+	<id>A-1</id>
+	<title>Grundsätze</title>
+	<subtext>
+		<id>A-1-1</id>
+		<title>Aufgaben schulischer Bildung</title>
+		<content>
+		Es ist Aufgabe schulischer Bildung, gemeinsam mit den Eltern die wertvollen Anlagen der Kinder und Jugendlichen zu erkennen und besmöglich zu fördern, damit sie ihre individuellen Fähigkeiten und Fertigkeiten zur vollen Entfaltung bringen und diese für die eigene Lebensgestaltung ebenso wie für eine aktive Beteiligung an der Bewältigung gegenwärtiger und zukünftiger gesellschaftlicher Herausforderungen nutzen können.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-1-2</id>
+		<title>Schule als Lern- und Lebensort</title>
+		<content>
+		Die Schule als gemeinsamer Lern- und Lebensort hat – insbesondere in ihrer ganztägigen Organisationsform – eine große Bedeutung als sozialer Raum, in dem Kinder und Jugendliche lernen, ihr eigenes Leben zunehmend selbstständig in die Hand zu nehmen und ihr Umfeld aktiv mitzugestalten. Schülerinnen und Schüler1 lernen ihre Rechte auf Teilhabe am gesellschaftlichen Leben kennen und erleben, wie sie sich zivilgesellschaftlich engagieren sowie bei der Gestaltung öffentlicher Angelegenheiten mitwirken können. In diesem Sinne erhalten sie die Gelegenheit, sich zu erproben und dabei ihr eigenes Handeln und das ihres Umfeldes kritisch zu reflektieren.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-1-3</id>
+		<title>Inklusion</title>
+		<content>
+		Alle Schülerinnen und Schüler haben gemäß der landesspezifischen Regelungen ein Recht auf eine gemeinsame und bestmögliche Bildung. Dieser Anspruch besteht unabhängig von z. B. körperlichen und geistigen Potenzialen, Herkunft, sozioökonomischem Status, Kultur, Sprache, Religion, Welt-anschauung sowie sexueller Orientierung und Geschlechtsidentität. Die dadurch gegebene Vielfalt stellt eine Bereicherung und Ressource dar. Die Schule bezieht diese Vielfalt gezielt und konstruktiv in den Unterricht und das Schulleben ein.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-1-4</id>
+		<title>Lernerfahrungen</title>
+		<content>
+		Die Schule knüpft an das an, was Kinder und Jugendliche an Kenntnissen, 
+Erfahrungen und Einsichten über sich, ihr eigenes Lebensumfeld und die Welt mitbringen. In den jeweils aktuellen Grundsätzen für die elementare Bildung der Länder Berlin und Brandenburg sind Kompetenzen beschrieben, auf die Schule aufbauen kann.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-1-5</id>
+		<title>Lebenslanges Lernen</title>
+		<content>
+		Die von Globalisierung und fast unbegrenzter Verfügbarkeit von Informationen geprägte Welt erfordert eine Neuorientierung für das Lernen im Unterricht. Die Vorstellung, man könne lebenslang ausschließlich von einem in Kindheit und Jugend erworbenen Wissensvorrat zehren, wird der Realität nicht mehr gerecht. Mehr als um die Vermittlung von Wissen geht es daher um die Entwicklung von Motivation, Interesse und Neugier und um die Fähigkeit, Informationen aufzunehmen, sie mit vorhandenen Kenntnissen zu vernetzen, zu bewerten und gestaltend zu nutzen. Schülerinnen und Schüler sollen lernen, das erworbene Wissen und Können auf neue Bereiche zu übertragen, eigene Ziele zu verwirklichen und sich den Anforderungen in Schule, Beruf und Alltag zu stellen.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-1-6</id>
+		<title>Kompetenzentwicklung</title>
+		<content>
+		Um bereits vorhandene Kompetenzen weiterzuentwickeln und neue zu erwerben, werden gezielt Wissen, Fähigkeiten und Fertigkeiten aufgebaut und vielfältig angewandt. Zunehmend werden im Verlauf der Schulzeit fachliche Grenzen überschritten und vernetztes Denken und Handeln gefördert. So entstehen auf der Grundlage des fachbezogenen und fachübergreifenden 
+Kompetenzerwerbs durch Interesse und Motivation geleitetes Handlungsvermögen und Handlungsbereitschaft.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-1-7</id>
+		<title>Standardorientierung</title>
+		<content>
+		Die Standards des Rahmenlehrplans beschreiben, welche fachlichen und überfachlichen Kompetenzen die Schülerinnen und Schüler erwerben, erweitern und vertiefen müssen. Sie dienen den Lernenden und Lehrenden als Orientierung für erfolgreiche schulische Arbeit. Als allgemein verbindlicher Maßstab für das Erreichte und das noch zu Erreichende bilden sie die Voraussetzung für eine individualisierte Unterrichtsgestaltung in heterogenen Lerngruppen, die den unterschiedlichen Persönlichkeiten und Lerngeschwindigkeiten der Schülerinnen und Schüler auf der Grundlage einer lernprozessbegleitenden Diagnostik, Beratung und Förderung gerecht wird.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-1-8</id>
+		<title>Themen und Inhalte</title>
+		<content>
+		Die im Rahmenlehrplan dargestellten Themen und Inhalte berücksichtigen die Systematik des jeweiligen Faches und die fachübergreifenden Anforderungen. Sie sind eine wesentliche Grundlage für die Kompetenzentwicklung der Kinder und Jugendlichen. Die Beschäftigung mit den Themen und Inhalten soll es den Schülerinnen und Schülern ermöglichen, eigene Interessen zu entdecken und zu pflegen sowie vergangene, gegenwärtige und zukünftige Herausforderungen in der eigenen Kultur und in anderen zu erkennen und für ihre 
+Lebensgestaltung und Lebensplanung zu nutzen.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-1-9</id>
+		<title>Schulinterne Curricula</title>
+		<content>
+		Der Rahmenlehrplan bietet Orientierung und Raum für die Gestaltung schulinterner Curricula. Diese entstehen als Ergebnis der Zusammenarbeit der an der Schule Beteiligten und nutzen die Anregungen und Kooperationsangebote externer Partnerinnen und Partner. Die schulinternen Curricula beachten die Vorgaben des Rahmenlehrplans einschließlich der Basiscurricula und berücksichtigen das schulische Umfeld, die Neigungen und Interessen sowie die Lernvoraussetzungen der Schülerinnen und Schüler an der jeweiligen Schule ebenso wie das schulische Profil und Ganztagskonzept. Dazu werden fachbezogene, fachübergreifende und fächerverbindende Entwicklungsschwerpunkte sowie profilbildende Maßnahmen festgelegt. Die fachliche Kooperation ist dabei ebenso von großer Bedeutung wie fachübergreifende Absprachen und Vereinbarungen. Das auf der Grundlage des Rahmenlehrplans erstellte schulinterne Curriculum dient dazu, überprüfbare und transparente Festlegungen bezüglich der Qualität der Unterrichtsarbeit in den Fächern zu treffen und deren Evaluation zu ermöglichen.
+		</content>
+	</subtext>
+</kapitel>
+<kapitel>
+	<id>A-2</id>
+	<title>2 Übergreifende Bildungs- und Erziehungsaufgaben</title>
+	<subtext>
+		<id>A-2-1</id>
+		<title></title>
+		<content>
+		Die Befähigung der Schülerinnen und Schüler zum Umgang mit Herausforderungen der heutigen Gesellschaft ist Aufgabe der Schule. Besondere Beachtung bei der Unterrichtsplanung und -gestaltung und in der gesamten Schulkultur finden Themen und Schwerpunkte, die das gegenwärtige und zukünf­tige Leben der Lernenden berücksichtigen. Der Kompetenzerwerb in diesen Bereichen trägt zur Persönlichkeitsentwicklung der Kinder und Jugendlichen bei und ermöglicht ihre aktive Teilnahme am gesellschaft­lichen Leben.
+Der Rahmenlehrplan geht von einem dynamischen und umfassenden Bildungsbegriff aus, der für einen lebenslangen Lern- und Entwicklungsprozess des Menschen steht, bei dem er seine fachlichen, kulturellen, lebenspraktischen, persönlichen und sozialen Kompetenzen beständig erweitert.
+Auf dieser Grundlage verfolgt Schule das Ziel, die Schülerinnen und Schüler zur aktiven Teilhabe am gesellschaftlichen, politischen, wirtschaftlichen, wissenschaftlichen und kulturellen Leben zu befähigen und zu ermutigen. Von zentraler Bedeutung ist es dabei, die Schule als Lebensraum zu gestalten, in dem gesellschaftliche Werte vermittelt und gelebt werden. Ein gutes Schulklima ermöglicht es den Schülerinnen und Schülern, sich mit den Werten der Demokratie und nachhaltigen Entwicklung auseinanderzusetzen und dafür Handlungskompetenzen zu entwickeln. Auch die Teilhabe am kulturellen Leben, der Erwerb interkultureller Kompetenzen und die Gesundheitsförderung sind Schwerpunkte des schulischen Bildungsauftrags, die sowohl im Unterricht als auch im außerunterrichtlichen Bereich umgesetzt werden.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-2-2</id>
+		<title>Sprach- und Medienbildung</title>
+		<content>
+		Die Entwicklung der Sprach- und Medienkompetenz ist Basis für das Verstehen, die Verständigung und das Verständnis der Welt. Ein sicherer Umgang mit Sprache und eine umfängliche Medienbildung befähigen Schülerinnen und Schüler dazu, zu kommunizieren und ihr eigenes Lernen selbstständig zu organisieren.
+Die systematische Sprachbildung ist Aufgabe aller Fächer. Sie schafft die 
+Voraussetzungen für ein erfolgreiches fachbezogenes und fachübergreifendes Lernen und Kommunizieren.
+Die schulische Medienbildung vereint das Lernen mit Medien und das Lernen über Medien. Damit ermöglicht sie den Schülerinnen und Schülern eine konstruktive und kritische Auseinandersetzung mit der Medienwelt.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-2-3</id>
+		<title>Übergreifende Themen</title>
+		<content>
+		Alle im Teil B des Rahmenlehrplans dargestellten übergreifenden Themen 
+bilden besonders bedeutsame gesellschaftliche Herausforderungen ab, die sowohl im Fachunterricht als auch im fachübergreifenden oder fächerverbindenden Unterricht Berücksichtigung finden. Die Zusammenstellung folgt 
+bildungspolitischen Schwerpunkten der Länder Berlin und Brandenburg. Die übergreifenden Themen weisen vielfältige Schnittmengen auf und bieten 
+Möglichkeiten zur Schärfung des Schulprofils und der Umsetzung schul­programmatischer Vorhaben.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-2-4</id>
+		<title>Berufs- und Studienorientierung</title>
+		<content>
+		Auf die persönliche Zukunft bereitet Schule insbesondere vor, indem sie Lernende in Kontakt mit der Berufswelt bringt und Fähigkeiten fördert, die für eine berufliche Ausbildung bzw. ein späteres Studium von Bedeutung sind. Dazu leisten auch Angebote zum Dualen Lernen/Praxislernen einen wichtigen Beitrag.
+Die Kenntnisse über berufliche Perspektiven und die Lebensbedingungen im europäischen Raum erweitern die zukünftigen Handlungsspielräume der Lernenden und bereiten sie auf ein selbstbestimmtes Leben im politischen, gesellschaftlichen und wirtschaftlichen Raum Europa vor.
+		</content>
+	</subtext>
+</kapitel>
+<kapitel>
+	<id>A-3</id>
+	<title>3 Lernen und Unterricht</title>
+	<subtext>
+		<id>A-3-1</id>
+		<title>Lernkultur</title>
+		<content>
+		Beim Lernen und Lehren in den Jahrgangsstufen 1 bis 10 wird den besonderen Entwicklungsabschnitten, in denen sich die Kinder und Jugendlichen befinden, Rechnung getragen. Alle Lernenden erhalten zunehmend die Möglichkeit, Verantwortung für ihren eigenen Lernfortschritt zu übernehmen und sich aktiv an der Gestaltung des Unterrichts zu beteiligen. Als Grundlage hierfür dienen für sie verständliche und nachvollziehbare Kriterien und Bewertungsmaßstäbe. Dadurch können sie zunehmend selbstständig ihre Stärken sowie ihre Entwicklungsmöglichkeiten einschätzen und den für sie passenden Lernweg beschreiten. Fehler und Umwege werden dabei als bedeutsame Bestandteile von Erfahrungs- und Lernprozessen erkannt und genutzt.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchtigungen erhalten Lernangebote, die es ihnen ermöglichen, aktiv und gleichberechtigt am Unterricht teilzunehmen.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-3-2</id>
+		<title>Lernphasen</title>
+		<content>
+		Neben der Auseinandersetzung mit dem Neuen sind Phasen des Anwendens, des Übens, des Systematisierens sowie des Vertiefens und Festigens für erfolgreiches Lernen von großer Bedeutung, denn nur in der praktischen Umsetzung wird der Kompetenzerwerb der Lernenden gefördert. Solche Lernphasen ermöglichen auch die gemeinsame Suche nach Anwendungen für neu erworbenes Wissen und verlangen eine variantenreiche Gestaltung im Hinblick auf Übungssituationen, in denen vielfältige Methoden und Medien zum Einsatz gelangen.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-3-3</id>
+		<title>Lernbereiche</title>
+		<content>
+		Der vorliegende Rahmenlehrplan bietet die Grundlage für die Bildung von Lernbereichen gemäß der jeweiligen Rechts- und Verwaltungsvorschriften der Länder Berlin und Brandenburg.
+Hierbei gibt es zwei Gestaltungsmöglichkeiten: Zum einen können mehrere Unterrichtsfächer zu einem Lernbereich zusammengefasst werden, zum anderen kann der Unterricht in mehreren Fächern durch enge Absprachen und schulinterne curriculare Festlegungen fachübergreifend gemeinsam gestaltet werden.
+Im schulinternen Curriculum werden die Zielsetzungen des Lernbereiches, der inhaltliche Zusammenhang zwischen den einbezogenen Fächern und der
+Anteil der jeweiligen Fächer festgelegt. Die im Rahmenlehrplan angeführten Pflichtbereiche sind hierbei verbindlich.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-3-4</id>
+		<title>Fachübergreifendes und fächerverbin-dendes Lernen</title>
+		<content>
+		Die Vorbereitung und Durchführung von fachübergreifenden und fächerverbindenden Unterrichtsvorhaben und Projekten ermöglichen es allen Beteiligten, Inhalte und Themenfelder in einen größeren Zusammenhang einzuordnen und Bezüge zu ihrem engeren und weiteren Lebensumfeld herzustellen.
+Im Rahmen von Projekten, an deren Planung und Organisation sich Schülerinnen und Schüler ihrem Alter entsprechend aktiv beteiligen, werden auch über Fachgrenzen hinaus Lernprozesse vollzogen und Lernprodukte erstellt. Dabei nutzen die Lernenden überfachliche Fähigkeiten und Fertigkeiten wie
+z. B. Methoden des Dokumentierens und Präsentierens. Projektarbeit ist ein geeignetes Mittel, um die Motivation der Lernenden zu fördern, selbstständiges Denken zu entwickeln und erworbenes Wissen aus unterschiedlichen
+Fächern miteinander zu vernetzen. Dies dient der Stärkung des Selbstbewusstseins, wobei durch die Arbeit im Team zugleich die Übernahme demokratischer und sozialer Verantwortung geübt wird.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-3-5</id>
+		<title>Außerschulische Erfahrungen</title>
+		<content>
+		Durch die Teilnahme an Projekten und Wettbewerben, durch das Lernen an außerschulischen Lernorten wie in Schülerlaboren, Forschungsstätten, Museen, Gedenkstätten, Theatern, Universitäten oder in Unternehmen, durch Auslandsaufenthalte und durch internationale Begegnungen erweitern die Lernenden ihren Erfahrungshorizont. Sie erhalten Gelegenheit, in neuen Zusammenhängen zu denken und zu handeln sowie eigene Haltungen, Einschätzungen und Perspektiven zu reflektieren.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-3-6</id>
+		<title>Wertschätzung kultureller Identitäten/ Mehrsprachigkeit</title>
+		<content>
+		Sprache und Kultur sind Bestandteile der Identität. Die unterschiedlichen
+Herkunftssprachen und kulturellen Hintergründe der Schülerinnen und Schüler werden im Unterricht wertgeschätzt und berücksichtigt. Mehrsprachige Kinder und Jugendliche haben spezifische Kompetenzen, die genutzt und gefördert werden. Die Schule respektiert diese vielfältigen Sprachleistungen und kulturellen Identitäten der Lernenden, die von individuellen Erfahrungen und der eigenen Geschichte geprägt sind. Dies gilt im Land Brandenburg insbesondere für Sorben/Wenden1 in deren angestammtem Siedlungsgebiet und für Schülerinnen und Schüler mit niederdeutscher Herkunftssprache2. Die Mehrsprachigkeit ist eine Grundlage für das Erlernen weiterer Sprachen und für
+lebenslanges Sprachenlernen. Mehrsprachige Kinder und Jugendliche können leichter in ihrem multikulturellen Umfeld und im globalen Kontext kommunizieren und so auch ihre interkulturelle Handlungsfähigkeit stärken. 
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-3-7</id>
+		<title>Bilingualer Unterricht</title>
+		<content>
+		Bilingualer Unterricht ist gekennzeichnet durch Sachfachunterricht in einer modernen Fremdsprache. Der bilinguale Sachfachunterricht bietet die Möglichkeit zum fachübergreifenden und fächerverbindenden Lernen. Auf der Grundlage der im Rahmenlehrplan festgelegten Vorgaben für die jeweiligen Unterrichtsfächer werden verstärkt Themenbeispiele, Sichtweisen und methodisch-didaktische Ansätze aus den Bezugskulturen einbezogen. Diese werden im schulinternen Curriculum präzisiert. Die Leistungsfeststellung und Leistungsbewertung für das Sachfach erfolgen auf der Grundlage der dafür festgelegten Bewertungskriterien.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-3-8</id>
+		<title>Regelungen für
+bilinguale Züge</title>
+		<content>
+		ilinguale Züge und Schulen arbeiten auf der Grundlage besonderer Regelungen, die u. a. Festlegungen bezüglich der fremdsprachig erteilten Unterrichtsfächer treffen. Auch für diese Fächer gilt der Rahmenlehrplan mit den jeweiligen schulspezifischen Ergänzungen in Form von Unterrichtsplänen, die Elemente der jeweiligen Referenzkulturen einbeziehen.
+		</content>
+	</subtext>
+</kapitel>
+<kapitel>
+	<id>A-4</id>
+	<title>4 Leistungsfeststellung und Leistungsbewertung</title>
+	<subtext>
+		<id>A-4-1</id>
+		<title>Kriterienorientierung</title>
+		<content>
+		Die Leistungsfeststellung und die Leistungsbewertung erfolgen mithilfe von transparenten und nachvollziehbaren Kriterien. Diese werden auf der Grundlage der im Rahmenlehrplan gesetzten Standards in Verbindung mit Themen und Inhalten entwickelt und berücksichtigen die rechtlichen Regelungen für die jeweilige Schulstufe und Schulart. Die Leistungen können in mündlicher, schriftlicher und praktischer Form erbracht werden. Dazu gehören u. a. Port­folio, Lernbegleitheft, mediengestützte Präsentation und Projektarbeit.
+		</content>
+	</subtext>
+	<subtext>
+		<id>A-4-2</id>
+		<title>Lernberatung</title>
+		<content>
+		Eine erfolgreiche Lernberatung setzt grundsätzlich transparente Kriterien an die erwarteten Leistungen sowie nachvollziehbare, kompetenzorientierte Rückmeldungen zu den von Schülerinnen und Schülern erbrachten Leistungen voraus. Sie ist wertschätzend und unterstützt die Lernenden dabei, Stärken und Schwächen als Bestandteil ihrer Persönlichkeit zu sehen und kritische Rückmeldung als wesentliche Voraussetzung für die eigene Weiterentwicklung zu betrachten.
+Eine gezielte Lernberatung ermöglicht es Kindern und Jugendlichen, zunehmend selbstständig ihren Lernstand, ihre Stärken und ihr Entwicklungspotenzial realistisch einzuschätzen, um ihre Lebensplanung daran auszurichten.
+Lernberatung ist Teil einer Kultur des fairen Austauschs, bei dem auch die Lernenden dazu anregt werden, eigene Leistungen und die anderer kritisch zu reflektieren und wertschätzend zu würdigen. Die auf diese Weise geförderte Eigenaktivität in Verbindung mit einem gestärkten Selbstwertgefühl ermöglicht es Schülerinnen und Schülern, zunehmend selbstständig zu handeln, die
+Anforderungen in Schule, Ausbildung und Beruf zu meistern und Verantwortung in gesellschaftlichen Gestaltungsprozessen zu übernehmen.
+		</content>
+	</subtext>
+</kapitel>
+</teila>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://bsbb.eu"
+           xmlns="http://bsbb.eu"
+           elementFormDefault="qualified">
+
+    <xs:simpleType name="stringtype">
+        <xs:restriction base="xs:string"/>
+    </xs:simpleType>
+
+   <xs:complexType name="textcontent">
+       <xs:sequence>
+           <xs:element name="id" type="stringtype"/>
+           <xs:element name="title" type="stringtype"/>
+           <xs:element name="content" type="stringtype"
+                       minOccurs="0"
+                       maxOccurs="1"/>
+           <xs:element name="subtext" type="textcontent"
+                       minOccurs="0"
+                       maxOccurs="20"/>
+       </xs:sequence>
+   </xs:complexType>
+
+    <xs:simpleType name="leveltype">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[A-H]+"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="standardtype">
+	    	<xs:sequence>
+	    		<xs:element name="id" type="stringtype"/>
+	    		<xs:element name="content" type="stringtype" />
+	    	</xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="stufentype">
+        <xs:sequence>
+            <xs:element name="id" type="stringtype"/>
+            <xs:element name="level" type="leveltype"/>
+            <xs:sequence>
+	    		<xs:element name="standard" type="standardtype" 
+	    			minOccurs="1"
+	    			maxOccurs="20" />
+	    	</xs:sequence>           
+        </xs:sequence>
+    </xs:complexType>
+
+
+    <xs:complexType name="competencetype">
+        <xs:sequence>
+            <xs:element name="id" type="stringtype"/>
+            <xs:element name="name" type="stringtype"/>
+            <xs:element name="stufe" type="stufentype"
+                        minOccurs="1"
+                        maxOccurs="8"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="competenceareatype">
+        <xs:sequence>
+            <xs:element name="id" type="stringtype"/>
+            <xs:element name="name" type="stringtype"/>
+            <xs:element name="subarea" type="competenceareatype"
+                        minOccurs="0"
+                        maxOccurs="20"/>
+            <xs:element name="competence" type="competencetype"
+                        minOccurs="0"
+                        maxOccurs="20"/>
+        </xs:sequence>
+    </xs:complexType>
+
+
+    <xs:complexType name="c2type">
+        <xs:sequence>
+            <xs:element name="vorwort" type="textcontent"
+                        minOccurs="0"
+                        maxOccurs="3"/>
+            <xs:element name="area" type="competenceareatype"
+                        minOccurs="0"
+                        maxOccurs="20"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="themainhalttype">
+        <xs:sequence>
+            <xs:element name="id" type="stringtype"/>
+            <xs:element name="title" type="stringtype"/>
+            <xs:element name="content" type="stringtype"
+                        minOccurs="0"
+                        maxOccurs="20"/>
+            <xs:element name="inhalt" type="themainhalttype"
+                        minOccurs="0"
+                        maxOccurs="20"/>
+        </xs:sequence>
+    </xs:complexType>
+
+   <xs:complexType name="c3type">
+       <xs:sequence>
+           <xs:element name="id" type="stringtype"/>
+           <xs:element name="title" type="stringtype"/>
+           <xs:element name="vortext" type="textcontent"/>
+           <xs:element name="themainhalt" type="themainhalttype"
+                       minOccurs="1"
+                       maxOccurs="30"/>
+       </xs:sequence>
+   </xs:complexType>
+
+    <xs:complexType name="fachtype">
+        <xs:sequence>
+            <xs:element name="id" type="stringtype"/>
+            <xs:element name="title" type="stringtype"/>
+            <xs:element name="c1" type="textcontent"/>
+            <xs:element name="c2" type="c2type"/>
+            <xs:element name="c3" type="c3type"/>
+        </xs:sequence>
+    </xs:complexType>
+
+
+    <xs:complexType name="ctype">
+        <xs:sequence>
+            <xs:element name="fach" type="fachtype"
+                        minOccurs="2"
+                        maxOccurs="50"/>
+        </xs:sequence>
+    </xs:complexType>
+
+   <xs:complexType name="bctype">
+       <xs:sequence>
+           <xs:element name="id" type="stringtype"/>
+           <xs:element name="title" type="stringtype"/>
+           <xs:element name="bc1" type="textcontent"/>
+           <xs:element name="bc2" type="textcontent"/>
+           <xs:element name="bc3" type="c2type"/>
+       </xs:sequence>
+   </xs:complexType>
+
+	<xs:complexType name="btype">
+		<xs:sequence>
+			<xs:element name="id" type="stringtype" />
+			<xs:element name="title" type="stringtype" />
+			<xs:element name="einleitung" type="textcontent" />
+			<xs:element name="bcs" type="bctype" />
+			<xs:element name="bcm" type="bctype" />
+			<xs:element name="ueber" type="textcontent" 
+				minOccurs="1" maxOccurs="15" />
+		</xs:sequence>
+	</xs:complexType>
+
+   <xs:complexType name="atype">
+       <xs:sequence>
+           <xs:element name="id" type="stringtype"/>
+           <xs:element name="title" type="stringtype"/>
+           <xs:element name="kapitel" type="textcontent"
+                       minOccurs="1"
+                       maxOccurs="4"/>
+       </xs:sequence>
+   </xs:complexType>
+
+    <xs:complexType name="rlp110type">
+        <xs:sequence>
+            <xs:element name="a" type="atype"/>
+            <xs:element name="b" type="btype"/>
+            <xs:element name="c" type="ctype"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="rlp110" type="rlp110type"/>
+
+</xs:schema>

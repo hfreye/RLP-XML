@@ -1,0 +1,519 @@
+<?xml version="1.0"?>
+<bc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://bsbb.eu" xsi:schemaLocation="http://bsbb.eu/ bc.xsd">
+	<id>B-BCS</id>
+	<title>Basiscurriculum Srachbildung</title>
+	<bc1>
+		<id>B-BCS-1</id>
+		<title>Die Bedeutung der Srachbildung</title>
+		<content>
+		Eine flexible und sichere Sprachkompetenz ist von entscheidender Bedeutung für die individuelle Identitätsbildung sowie für die Teilhabe an Gesellschaft und Kultur. Sie ist eine Grundvoraussetzung für lebenslanges Lernen. Sprachbildung ist daher Teil von Bildung insgesamt und Aufgabe aller an Schule Beteiligten. Die Mehrsprachigkeit bietet eine Chance, die Entwicklung von Sprachkompetenz zusätzlich zu unterstützen und zu fördern. Mehrsprachig aufwachsende Schülerinnen und Schüler verfügen über spezifische Kompetenzen, die genutzt und weiterentwickelt werden können.
+		</content>
+	</bc1>
+	<bc2>
+		<id>B-BCS-2</id>
+		<title>Der Beitrag der Srachbildung zum Kompetenzerwerb in den Unterrichtsfächern</title>
+		<content>
+			<id>B-BCS-2-1</id>
+			<title></title>
+			<content>
+			Im Unterricht findet fachliches Lernen im Wesentlichen durch sprachliches Handeln statt. Sachverhalte und Zusammenhänge werden primär durch Sprache angeeignet.
+Bildungssprache ist dadurch gekennzeichnet, dass sie im Hinblick auf Präzision in der Wortwahl (z. B. durch Verwendung von Fachsprache), grammatische Richtigkeit und durch Vollständigkeit im Satzbau den Anforderungen an schriftliche Texte entspricht. Dadurch unterscheidet sie sich von der Alltagssprache. Für die Schülerinnen und Schüler bedeutet dies, dass sie lernen, längeren Erklärungen zu folgen, Fachtexte zu lesen und zu verstehen, Vorträge zu halten sowie mündlich oder schriftlich Sachverhalte zusammenhängend und verständlich darzulegen. Bildungssprache stellt somit höhere Ansprüche an die Lernenden als Alltagssprache, die meist situationsgebunden und dialogisch geprägt ist.
+Sprachkompetenz entwickelt sich in der gesamten Schulzeit in erster Linie in den vier Fertigkeiten verstehendes Hören und Lesen sowie Sprechen und Schreiben. Der Aufbau von sprachlichem Wissen (Fachwortschatz und fachsprachliche Grammatik wie z. B. Passivformen oder Nominalisierungen) wird besonders gefördert durch die konsequente Einbettung in sprachliche Handlungen (z. B. beim Erklären, Beschreiben, Begründen). Jeder Unterricht trägt dazu bei, die bildungssprachlichen Kompetenzen aufzubauen. Die systematische 
+Entwicklung bildungssprachlicher Kompetenzen sichert ein nachhaltiges Verständnis der Fachinhalte und ist somit primär für das Fachlernen von Bedeutung.
+Die fachübergreifenden und die fachspezifischen sprachlichen Kompetenzen ergänzen einander. In den Standards des Basiscurriculums sind die sprachlichen Anforderungen beschrieben, an denen die Standards der Unterrichtsfächer anknüpfen. Von zentraler Bedeutung ist dabei die geschriebene Sprache. Sie ermöglicht es, Wissenswelten, die über die unmittelbare Erfahrung hinausgehen, selbstständig zu erschließen.
+In allen Fächern, besonders aber in den Natur- und Gesellschaftswissenschaften, wird den Schülerinnen und Schülern neues Wissen anhand verschiedener Textsorten zugänglich 
+gemacht und von ihnen verarbeitet. Dies erfordert Lesekompetenz sowie die Kompetenz, eigene Texte für andere oder für sich selbst schreiben zu können. Beim monologischen Sprechen entwickeln die Lernenden die Kompetenz, sich zusammenhängend und adressatenbezogen zu äußern, beim Zuhören lernen sie, einem längeren Text zu folgen.
+In der Interaktion werden Kompetenzen der Lernenden insbesondere im Hinblick auf eine konstruktive Teilnahme an Diskussionen entwickelt. Reflexion über Sprache fördert und 
+sichert die bildungssprachliche Handlungskompetenz insofern, als sprachliche Phänomene bewusst wahrgenommen und in ihrer Beschaffenheit erkannt werden.
+Bildungssprachliche Handlungskompetenz entwickelt sich in allen Fächern:
+durch eine aktive Teilnahme an Diskussionen (Interaktion)
+durch das Erschließen von mündlichen und schriftlichen Texten (Rezeption)
+durch das Sprechen und Schreiben von zusammenhängenden und in sich 
+schlüssigen Texten (Produktion)
+durch die Wahrnehmung unterschiedlicher sprachlicher Phänomene und Register (Sprachbewusstheit)
+Sie wächst in allen Bereichen: 
+mit dem Aufbau eines differenzierten und reichhaltigen Wortschatzes
+mit dem Verfügen über vielfältige Satzbaumuster sowie 
+mit einer breiten Kenntnis von Text- und Gesprächssorten
+			</content>
+		</content>
+		<content>
+			<id>B-BCS-2-2</id>
+			<title>Kompetenzmodell Srachbildung</title>
+			<content>
+Kompetenzbereiche der Sprachbildung, die für das Lernen in allen Fächern von Bedeutung sind:
+Im Kompetenzmodell sind die zentralen sprachlichen Kompetenzbereiche benannt. Für jeden Bereich werden im Folgenden sprachliche Kompetenzen ausgewiesen, die die Schülerinnen und Schüler im Unterricht der Jahrgangsstufen 1 bis 10 erwerben. Die Niveaustufe G schließt dabei die für Niveaustufe D beschriebenen Kompetenzen ein (nähere Erläuterungen zu den Niveaustufen siehe Teil C, Kapitel 2). Einige Standards sind niveauübergreifend dargestellt.			
+			</content>
+		</content>
+	</bc2>
+	<bc3>
+  	 <area>
+ 	  	 <id>B-BCS-K1</id>
+ 	  	 <name>Rezeption/Hörverstehen</name>
+ 	  	 <competence>
+ 	  	  	 <id>B-BCS-K1-1</id>
+ 	  	  	 <name>Hörtexte, auch medial vermittelte, verstehen und nutzen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K1-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K1-1-D-1</id>
+ 	  	  	  	  	 <content>Einzelinformationen aus klar strukturierten Vorträgen aufgabengeleitet ermitteln und wiedergeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K1-1-D-2</id>
+ 	  	  	  	  	 <content>Einzelinformationen aus medial vermittelten Texten (z. B. Hörbuch, Film) aufgabengeleitet ermitteln und wiedergeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K1-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K1-1-G-1</id>
+ 	  	  	  	  	 <content>zentrale Informationen aus Vorträgen, Berichten ermitteln und wiedergeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K1-1-G-2</id>
+ 	  	  	  	  	 <content>zentrale Informationen aus medial vermittelten Texten (z. B. Radiobeitrag, Interview, Podcast, Online-Tutorials) ermitteln und wiedergeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>B-BCS-K1-2</id>
+ 	  	  	 <name>Strategien des verstehenden Zuhörens anwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K1-2-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K1-2-D-1</id>
+ 	  	  	  	  	 <content>gezielte Aufmerksamkeit auf Aussagen von Hörtexten und längeren Redebeiträgen richten</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K1-2-D-2</id>
+ 	  	  	  	  	 <content>sprachliche Handlungen wie Frage, Aufforderung, Bitte u. a. unterscheiden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K1-2-DG</id>
+ 	  	  	  	 <level>DG</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K1-2-DG-1</id>
+ 	  	  	  	  	 <content>Nichtverstandenes aus Hörtexten und längeren Redebeiträgen benennen und gezielt nachfragen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K1-2-DG-2</id>
+ 	  	  	  	  	 <content>die Bedeutung unbekannter Wörter, Fachbegriffe oder Wendungen aus dem Text- bzw. Redezusammenhang erschließen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K1-2-DG-3</id>
+ 	  	  	  	  	 <content>Stichpunkte zur Unterstützung des Hörverständnisses notieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K1-2-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K1-2-G-1</id>
+ 	  	  	  	  	 <content>in Hörtexten und längeren Redebeiträgen Wesentliches von Nebensächlichem unterscheiden und wiedergeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K1-2-G-2</id>
+ 	  	  	  	  	 <content>sprachliche Handlungen wie Rückfrage, Richtigstellung, Hervorhebung, Äußerung von Zweifel u. a. als Redeabsicht deuten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>B-BCS-K2</id>
+ 	  	 <name>Rezeption/Leseverstehen</name>
+ 	  	 <competence>
+ 	  	  	 <id>B-BCS-K2-1</id>
+ 	  	  	 <name>Texte verstehen und nutzen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K2-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K2-1-D-1</id>
+ 	  	  	  	  	 <content>aus Texten gezielt Informationen ermitteln (z. B. Fakten, Ereignisse, Themen)</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K2-1-D-2</id>
+ 	  	  	  	  	 <content>grafische Darstellungen beschreiben und erläutern</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K2-1-D-3</id>
+ 	  	  	  	  	 <content>Informationen verschiedener Texte zu einem Thema vergleichen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K2-1-D-4</id>
+ 	  	  	  	  	 <content>die Meinung der Autorin/des Autors zusammenfassend wiedergeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K2-1-DG</id>
+ 	  	  	  	 <level>DG</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K2-1-DG-1</id>
+ 	  	  	  	  	 <content>den wesentlichen Inhalt von Texten zusammenfassen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K2-1-DG-2</id>
+ 	  	  	  	  	 <content>Texte verschiedener Art lesen und in andere Darstellungsformen übertragen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K2-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K2-1-G-1</id>
+ 	  	  	  	  	 <content>Informationen aus Texten zweckgerichtet nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K2-1-G-2</id>
+ 	  	  	  	  	 <content>grafische Darstellungen interpretieren und bewerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K2-1-G-3</id>
+ 	  	  	  	  	 <content>Informationen verschiedener Texte zu einem Thema bewerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K2-1-G-4</id>
+ 	  	  	  	  	 <content>Begründungen für Meinungen/Haltungen/Thesen von Autorinnen/Autoren wiedergeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>B-BCS-K2-2</id>
+ 	  	  	 <name>Lesetechniken und Lesestrategien anwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K2-2-DG</id>
+ 	  	  	  	 <level>DG</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K2-2-DG-1</id>
+ 	  	  	  	  	 <content>Lesetechniken (u. a. orientierendes, selektives, überfliegendes und wiederholtes Lesen) entsprechend der Leseabsicht anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K2-2-DG-2</id>
+ 	  	  	  	  	 <content>Lesestrategien für die einzelnen Phasen des Lesens (vor, während und nach dem Lesen) nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>B-BCS-K3</id>
+ 	  	 <name>Produktion/Sprechen</name>
+ 	  	 <competence>
+ 	  	  	 <id>B-BCS-K3-1</id>
+ 	  	  	 <name>Sachverhalte und Informationen zusammenfassend wiedergeben</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K3-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K3-1-D-1</id>
+ 	  	  	  	  	 <content>wichtige Informationen aus Texten auf der Grundlage eigener Notizen nennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K3-1-D-2</id>
+ 	  	  	  	  	 <content>Sachverhalte und Abläufe beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K3-1-D-3</id>
+ 	  	  	  	  	 <content>Beobachtungen wiedergeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K3-1-DG</id>
+ 	  	  	  	 <level>DG</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K3-1-DG-1</id>
+ 	  	  	  	  	 <content>Arbeitsergebnisse aus Einzel-, Partner- und Gruppenarbeit präsentieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K3-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K3-1-G-1</id>
+ 	  	  	  	  	 <content>Informationen aus Texten kommentierend zusammenfassen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K3-1-G-2</id>
+ 	  	  	  	  	 <content>Sachverhalte und Abläufe veranschaulichen, erklären und interpretieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K3-1-G-3</id>
+ 	  	  	  	  	 <content>Beobachtungen und Betrachtungen (z. B. Vorgang, Abbildung, Bild, Objekt und Modell) beschreiben und erläutern</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>B-BCS-K3-2</id>
+ 	  	  	 <name>Überlegungen zu einem Thema darlegen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K3-2-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K3-2-D-1</id>
+ 	  	  	  	  	 <content>zu einem Sachverhalt oder zu Texten eigene Überlegungen äußern</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K3-2-D-2</id>
+ 	  	  	  	  	 <content>Vermutungen äußern und begründen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K3-2-DG</id>
+ 	  	  	  	 <level>DG</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K3-2-DG-1</id>
+ 	  	  	  	  	 <content>die eigene Meinung mit Argumenten stützen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K3-2-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K3-2-G-1</id>
+ 	  	  	  	  	 <content>zu einem Sachverhalt oder zu Texten Stellung nehmen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K3-2-G-2</id>
+ 	  	  	  	  	 <content>Hypothesen formulieren und begründen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>B-BCS-K3-3</id>
+ 	  	  	 <name>Einen Vortrag halten</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K3-3-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K3-3-D-1</id>
+ 	  	  	  	  	 <content>mithilfe von Notizen und vorgegebenen Redemitteln (z. B. zu Beginn, anschließend, zum Schluss) adressatenbezogen vortragen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K3-3-DG</id>
+ 	  	  	  	 <level>DG</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K3-3-DG-1</id>
+ 	  	  	  	  	 <content>Gestaltungsmittel (z. B. Lautstärke, Sprechtempo, Pausen, Betonung, Körpersprache) zur Verstärkung von Redeabsichten einsetzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K3-3-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K3-3-G-1</id>
+ 	  	  	  	  	 <content>mithilfe von Stichwörtern und geeigneten Redemitteln (z. B. im Folgenden, abschließend, zusammenfassend) adressatengerecht vortragen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>B-BCS-K4</id>
+ 	  	 <name>Produktion/Schreiben</name>
+ 	  	 <competence>
+ 	  	  	 <id>B-BCS-K4-1</id>
+ 	  	  	 <name>Texte schreiben</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K4-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K4-1-D-1</id>
+ 	  	  	  	  	 <content>Textmuster (z. B. persönlicher Brief, Liste, Protokoll) und Textbausteine (z. B. Anrede im Brief) anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K4-1-D-2</id>
+ 	  	  	  	  	 <content>sprachliche Mittel (z. B. Präpositionen, Konjunktionen wie wenn …, dann …, bevor, nachdem, solange) zur Verdeutlichung inhaltlicher Zusammenhänge anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K4-1-D-3</id>
+ 	  	  	  	  	 <content>informierende Texte (z. B. Bericht, Beschreibung) unter Nutzung von geeigneten extmustern und -bausteinen sowie von Wortlisten schreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K4-1-D-4</id>
+ 	  	  	  	  	 <content>die eigene Meinung unter Nutzung von geeigneten sprachlichen Mitteln und Wortlisten darlegen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K4-1-DG</id>
+ 	  	  	  	 <level>DG</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K4-1-DG-1</id>
+ 	  	  	  	  	 <content>die Adressaten und den Schreibanlass berücksichtigen (z. B. durch den Schreibstil und die Wahl der sprachlichen Mittel)</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K4-1-DG-2</id>
+ 	  	  	  	  	 <content>Grammatik-, Rechtschreib- und Zeichensetzungsregeln nutzen, die für die Lesbarkeit ihrer Texte bedeutsam sind</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K4-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K4-1-G-1</id>
+ 	  	  	  	  	 <content>Textmuster (z. B. formeller Brief, Bauanleitung, Tabelle) und fachspezifische Textbausteine (z. B. Formelschreibweise) anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K4-1-G-2</id>
+ 	  	  	  	  	 <content>weitere sprachliche Mittel (z. B. Passiv/ Aktiv, indirekte Rede) nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K4-1-G-3</id>
+ 	  	  	  	  	 <content>Zusammenfassungen, Protokolle unter Nutzung geeigneter Textmuster und -bausteine (z. B. Kraft einwirken, ausüben) schreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K4-1-G-4</id>
+ 	  	  	  	  	 <content>einen Kommentar oder eine Stellungnahme unter Nutzung geeigneter Textmuster und -bausteine verfassen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>B-BCS-K4-2</id>
+ 	  	  	 <name>Schreibstrategien anwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K4-2-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K4-2-D-1</id>
+ 	  	  	  	  	 <content>vorgegebene Textmuster zur Planung eines Textes (z. B. Steckbrief, Mindmap, Brainstorming, Schlüsselfragen, Clustering, Stichworttechnik) nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K4-2-D-2</id>
+ 	  	  	  	  	 <content>im Text Gedanken verbinden, den Text einleiten und abschließen und dabei vorgegebene Wörter oder Textbausteine verwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K4-2-DG</id>
+ 	  	  	  	 <level>DG</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K4-2-DG-1</id>
+ 	  	  	  	  	 <content>Texte überarbeiten und Überarbeitungshilfen nutzen (Formen der Rückmeldung, Wörterbuch)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K4-2-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K4-2-G-1</id>
+ 	  	  	  	  	 <content>geeignete Textmuster zur Planung eines Textes zweckgerichtet auswählen und nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K4-2-G-2</id>
+ 	  	  	  	  	 <content>Texte in Abschnitte gliedern und dabei strukturierende Textbausteine verwenden (z. B. daraus folgt, es ist anzunehmen, zu beweisen ist)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>B-BCS-K5</id>
+ 	  	 <name>Interaktion</name>
+ 	  	 <competence>
+ 	  	  	 <id>B-BCS-K5-1</id>
+ 	  	  	 <name>In Gesprächen auf Redebeiträge reagieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K5-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K5-1-D-1</id>
+ 	  	  	  	  	 <content>Gesprächsregeln vereinbaren und beachten</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K5-1-D-2</id>
+ 	  	  	  	  	 <content>sprachliche Handlungen wie Vermutung, Behauptung, Kritik usw. unterscheiden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K5-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K5-1-G-1</id>
+ 	  	  	  	  	 <content>eigene Gesprächsbeiträge unter Beachtung der Gesprächssituation, des Themas und des Gegenübers formulieren (z. B. Fragen und Rückfragen stellen, Zustimmung und Zweifel äußern, bereits Gesagtes wertschätzen und daran anschließen)</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K5-1-G-2</id>
+ 	  	  	  	  	 <content>sprachliche Handlungen wie Rückfrage, Richtigstellung, Hervorhebung, Äußerung von Zweifel als Redeabsicht deuten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>B-BCS-K6</id>
+ 	  	 <name>Sprachbewusstheit</name>
+ 	  	 <competence>
+ 	  	  	 <id>B-BCS-K6-1</id>
+ 	  	  	 <name>Wörter und Formulierungen der Alltags-, Bildungs- und Fachsprache unterscheiden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K6-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K6-1-D-1</id>
+ 	  	  	  	  	 <content>alltagssprachliche und bildungssprachliche Formulierungen (z. B. ein Urteil/einen Baum fällen, Beitrag zahlen/leisten) situationsgemäß anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K6-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K6-1-G-1</id>
+ 	  	  	  	  	 <content>Fachbegriffe und fachliche Wendungen (z. B. ein Urteil fällen, einen Beitrag leisten, Aufgabe lösen) nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>B-BCS-K6-2</id>
+ 	  	  	 <name>Wortbildungsmuster nutzen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K6-2-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K6-2-D-1</id>
+ 	  	  	  	  	 <content>Wörter zerlegen und bilden aus Stamm, Präfix (Vorsilbe, z. B. be-, ge-) und Suffix (Nachsilbe, z. B. -ung, -keit)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K6-2-DG</id>
+ 	  	  	  	 <level>DG</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K6-2-DG-1</id>
+ 	  	  	  	  	 <content>die Bedeutung von Wörtern und Fachbegriffen aufgrund von Wortbildungsmustern erklären</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K6-2-DG-2</id>
+ 	  	  	  	  	 <content>die Bedeutung von Fach- bzw. Fremdwörtern aus ihren Wortbestandteilen (z. B. inter-, trans-, pro-) ableiten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K6-2-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K6-2-G-1</id>
+ 	  	  	  	  	 <content>Wortbildungsmuster (Zusammensetzungen, Ableitungen mit Präfixen und Suffi-xen, Nominalisierungen, z. B. -bar, ent-, -ieren, -heit, un-) für eigene Wortbildungen nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>B-BCS-K6-3</id>
+ 	  	  	 <name>Mehrsprachigkeit nutzen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K6-3-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K6-3-D-1</id>
+ 	  	  	  	  	 <content>Wörter (z. B. Zahlwörter, Operatoren) und Formulierungen in verschiedenen Sprachen nutzen (Herkunftssprachen, gelernte Fremdsprachen, Regionalsprachen)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>B-BCS-K6-3-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>B-BCS-K6-3-G-1</id>
+ 	  	  	  	  	 <content>Wörter und Wendungen in verschiedenen Sprachen (Herkunftssprachen, gelernte Fremdsprachen, Regionalsprachen) vergleichen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	</bc3>
+</bc>
