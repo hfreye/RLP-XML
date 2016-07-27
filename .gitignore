@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.settings/org.eclipse.wst.common.project.facet.core.xml
+*.prefs
+.project
+.buildpath
