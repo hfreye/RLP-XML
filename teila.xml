@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <teila xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 	xmlns="http://bsbb.eu" 
-	xsi:schemaLocation="http://bsbb.eu/ atype.xsd">
+	xsi:schemaLocation="http://bsbb.eu atype.xsd">
 <id>A</id>
 <title>Bildung und Erziehung in den Jahrgangsstufen</title>
 <kapitel>

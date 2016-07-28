@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <teilb xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 	xmlns="http://bsbb.eu" 
-	xsi:schemaLocation="http://bsbb.eu/ btype.xsd">
+	xsi:schemaLocation="http://bsbb.eu btype.xsd">
 <id>B</id>
 <title>Fachübergreifende Kompetenzentwicklung</title>
 <einleitung>
