@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://bsbb.eu" xmlns="http://bsbb.eu"
+	elementFormDefault="qualified">
+
+<xs:include schemaLocation="http://bsbb.eu/bctype.xsd"></xs:include>
+
+	<xs:complexType name="btype">
+		<xs:sequence>
+			<xs:element name="id" type="stringtype" />
+			<xs:element name="title" type="stringtype" />
+			<xs:element name="einleitung" type="textcontent" />
+			<xs:element name="bcs" type="bctype" />
+			<xs:element name="bcm" type="bctype" />
+			<xs:element name="ueber" type="textcontent" 
+				minOccurs="1" maxOccurs="15" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="teilb" type="btype" />
+
+</xs:schema>

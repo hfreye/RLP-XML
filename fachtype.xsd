@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://bsbb.eu"
+           xmlns="http://bsbb.eu"
+           elementFormDefault="qualified">
+
+<xs:include schemaLocation="http://bsbb.eu/textcontent.xsd"></xs:include>
+<xs:include schemaLocation="http://bsbb.eu/c2type.xsd"></xs:include>
+
+    <xs:complexType name="themainhalttype">
+        <xs:sequence>
+            <xs:element name="id" type="stringtype"/>
+            <xs:element name="title" type="stringtype"/>
+            <xs:element name="content" type="stringtype"
+                        minOccurs="0"
+                        maxOccurs="20"/>
+            <xs:element name="inhalt" type="themainhalttype"
+                        minOccurs="0"
+                        maxOccurs="20"/>
+        </xs:sequence>
+    </xs:complexType>
+
+   <xs:complexType name="c3type">
+       <xs:sequence>
+           <xs:element name="id" type="stringtype"/>
+           <xs:element name="title" type="stringtype"/>
+           <xs:element name="vortext" type="textcontent"/>
+           <xs:element name="themainhalt" type="themainhalttype"
+                       minOccurs="1"
+                       maxOccurs="30"/>
+       </xs:sequence>
+   </xs:complexType>
+
+    <xs:complexType name="fachtype">
+        <xs:sequence>
+            <xs:element name="id" type="stringtype"/>
+            <xs:element name="title" type="stringtype"/>
+            <xs:element name="c1" type="textcontent"/>
+            <xs:element name="c2" type="c2type"/>
+            <xs:element name="c3" type="c3type"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="fach" type="fachtype"/>
+
+</xs:schema>
