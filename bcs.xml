@@ -14,7 +14,7 @@
 	<bc2>
 		<id>B-BCS-2</id>
 		<title>Der Beitrag der Srachbildung zum Kompetenzerwerb in den Unterrichtsfächern</title>
-		<content>
+		<subtext>
 			<id>B-BCS-2-1</id>
 			<title></title>
 			<content>
@@ -38,15 +38,15 @@ mit dem Aufbau eines differenzierten und reichhaltigen Wortschatzes
 mit dem Verfügen über vielfältige Satzbaumuster sowie 
 mit einer breiten Kenntnis von Text- und Gesprächssorten
 			</content>
-		</content>
-		<content>
+		</subtext>
+		<subtext>
 			<id>B-BCS-2-2</id>
 			<title>Kompetenzmodell Srachbildung</title>
 			<content>
 Kompetenzbereiche der Sprachbildung, die für das Lernen in allen Fächern von Bedeutung sind:
 Im Kompetenzmodell sind die zentralen sprachlichen Kompetenzbereiche benannt. Für jeden Bereich werden im Folgenden sprachliche Kompetenzen ausgewiesen, die die Schülerinnen und Schüler im Unterricht der Jahrgangsstufen 1 bis 10 erwerben. Die Niveaustufe G schließt dabei die für Niveaustufe D beschriebenen Kompetenzen ein (nähere Erläuterungen zu den Niveaustufen siehe Teil C, Kapitel 2). Einige Standards sind niveauübergreifend dargestellt.			
 			</content>
-		</content>
+		</subtext>
 	</bc2>
 	<bc3>
   	 <area>
