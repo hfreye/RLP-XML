@@ -3,16 +3,9 @@
 	targetNamespace="http://bsbb.eu" xmlns="http://bsbb.eu"
 	elementFormDefault="qualified">
 
-<xs:include schemaLocation="http://bsbb.eu/fachtype.xsd"></xs:include>
 <xs:include schemaLocation="http://bsbb.eu/atype.xsd"></xs:include>
 <xs:include schemaLocation="http://bsbb.eu/btype.xsd"></xs:include>
-
-	<xs:complexType name="ctype">
-		<xs:sequence>
-			<xs:element name="fach" type="fachtype" minOccurs="2"
-				maxOccurs="50" />
-		</xs:sequence>
-	</xs:complexType>
+<xs:include schemaLocation="http://bsbb.eu/ctype.xsd"></xs:include>
 
 	<xs:complexType name="rlp110type">
 		<xs:sequence>

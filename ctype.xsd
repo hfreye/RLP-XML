@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://bsbb.eu" xmlns="http://bsbb.eu"
+	elementFormDefault="qualified">
+
+<xs:include schemaLocation="http://bsbb.eu/fachtype.xsd"></xs:include>
+
+	<xs:complexType name="ctype">
+		<xs:sequence>
+			<xs:element name="fach" type="fachtype" minOccurs="2"
+				maxOccurs="50" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="teilc" type="ctype" />
+
+</xs:schema>
