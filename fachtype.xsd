@@ -9,7 +9,7 @@
 
     <xs:complexType name="themainhalttype">
         <xs:sequence>
-            <xs:element name="id" type="stringtype"/>
+            <xs:element name="id" type="xs:ID"/>
             <xs:element name="title" type="stringtype"/>
             <xs:element name="content" type="stringtype"
                         minOccurs="0"
@@ -22,7 +22,7 @@
 
    <xs:complexType name="c3type">
        <xs:sequence>
-           <xs:element name="id" type="stringtype"/>
+           <xs:element name="id" type="xs:ID"/>
            <xs:element name="title" type="stringtype"/>
            <xs:element name="vortext" type="textcontent"/>
            <xs:element name="themainhalt" type="themainhalttype"
@@ -33,7 +33,7 @@
 
     <xs:complexType name="fachtype">
         <xs:sequence>
-            <xs:element name="id" type="stringtype"/>
+            <xs:element name="id" type="xs:ID"/>
             <xs:element name="title" type="stringtype"/>
             <xs:element name="c1" type="textcontent"/>
             <xs:element name="c2" type="c2type"/>

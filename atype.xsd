@@ -8,14 +8,12 @@
 
    <xs:complexType name="atype">
        <xs:sequence>
-           <xs:element name="id" type="stringtype"/>
+           <xs:element name="id" type="xs:ID"/>
            <xs:element name="title" type="stringtype"/>
            <xs:element name="kapitel" type="textcontent"
                        minOccurs="1"
                        maxOccurs="4"/>
        </xs:sequence>
    </xs:complexType>
-
    <xs:element name="teila" type="atype"/>
-
 </xs:schema>

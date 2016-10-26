@@ -13,14 +13,14 @@
 
 	<xs:complexType name="standardtype">
 		<xs:sequence>
-			<xs:element name="id" type="stringtype" />
+			<xs:element name="id" type="xs:ID" />
 			<xs:element name="content" type="stringtype" />
 		</xs:sequence>
 	</xs:complexType>
 
 	<xs:complexType name="stufentype">
 		<xs:sequence>
-			<xs:element name="id" type="stringtype" />
+			<xs:element name="id" type="xs:ID" />
 			<xs:element name="level" type="leveltype" />
 			<xs:sequence>
 				<xs:element name="standard" type="standardtype"

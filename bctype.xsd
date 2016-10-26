@@ -9,7 +9,7 @@
 
    <xs:complexType name="bctype">
        <xs:sequence>
-           <xs:element name="id" type="stringtype"/>
+           <xs:element name="id" type="xs:ID"/>
            <xs:element name="title" type="stringtype"/>
            <xs:element name="bc1" type="textcontent"/>
            <xs:element name="bc2" type="textcontent"/>

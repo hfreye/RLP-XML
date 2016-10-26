@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 <rlp110 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 	xmlns="http://bsbb.eu" 
-		xsi:schemaLocation="http://bsbb.eu rlp110.xsd">
+	xsi:schemaLocation="http://bsbb.eu rlp110.xsd"
+	>
 <a>
 <id>A</id>
 <title>Bildung und Erziehung in den Jahrgangsstufen</title>
@@ -1881,7 +1882,6 @@ So erwerben die Schülerinnen und Schüler die notwendigen Kompetenzen für ein 
 </ueber>
 </b>
 <c>
-
 <fach>
 	<id>C-DE</id>
 	<title>Deutsch</title>
