@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <fach xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 	xmlns="http://bsbb.eu" 
-	xsi:schemaLocation="http://bsbb.eu/ fachtype.xsd">
+	xsi:schemaLocation="http://bsbb.eu fachtype.xsd">
 
 	<id>C-MA</id>
 	<title>Mathematik</title>
@@ -2536,8 +2536,8 @@ In einem zeitgemäßen Mathematikunterricht können alle Medien und Hilfsmittel 
 					<content>Vergleichen und Ordnen von natürlichen Zahlen bis 100 [ggf. bis 20] stellenweise sowie am Zahlenstrahl und Zahlenstrich (auch mit Relationszeichen)</content>
 				</inhalt>				
 				<inhalt>
-					<id></id>
-					<title>C-MA-I1-2-B-3</title>
+					<id>C-MA-I1-2-B-3</id>
+					<title></title>
 					<content>Angeben von Vorgänger, Nachfolger und Nachbarzehnern</content>
 				</inhalt>				
 			</inhalt>
