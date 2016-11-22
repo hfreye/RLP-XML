@@ -1,0 +1,2972 @@
+<?xml version="1.0"?>
+<fach xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns="http://bsbb.eu" 
+	xsi:schemaLocation="http://bsbb.eu fachtype.xsd">
+
+	<id>C-NW</id>
+	<title>Naturwissenschaften 7 – 10</title>
+	<c1>
+		<id>C-NW-1</id>
+		<title></title>
+		<subtext>
+			<id>C-NW-1-1</id>
+			<title>Ziele des Unterrichts</title>
+			<content>
+Der Wahlpflichtunterricht Naturwissenschaften 7 – 10 ermöglicht den Schülerinnen und Schülern eine Kompetenzentwicklung im Hinblick auf eine vertiefte naturwissenschaftliche Grundbildung. Darunter versteht man die Beschreibung und Erklärung von Phänomenen, die Nutzung der Sprache und der fachspezifischen Methoden der Erkenntnisgewinnung der Naturwissenschaften. Dazu gehört auch das naturwissenschaftlich-praktische Arbeiten, welches eine analytische und rationale Betrachtung der Umwelt der Schülerinnen und Schüler ermöglicht.
+Die Gemeinsamkeiten der naturwissenschaftlichen Sicht auf die Welt bilden das Ziel des integrierten naturwissenschaftlichen Unterrichts. Dazu gehören:
+Naturwissenschaftliche Theorien
+Phänomene sind mit Theorien erklärbar, dabei ist das Wissen vorläufiges Wissen.
+Erkenntnisse werden so gewonnen, dass jeder einzelne Schritt prinzipiell nachvollziehbar ist, dadurch wird es durch andere überprüfbar.
+Gemeinsame Untersuchungsmethoden 
+Beobachten, Klassifizieren, Erheben von Messdaten, Schlussfolgern, Variieren von 
+Variablen, Entwickeln von Modellen etc.
+Stellung der Naturwissenschaften 
+Sie sind gesellschaftlich bedeutsam.
+Sie haben bestimmte Kommunikationsstrukturen.
+Sie streben gemeinsame ethische Maßstäbe, zu denen auch die Nachhaltigkeit gehört, an.
+Die Schülerinnen und Schüler entwickeln Kompetenzen, mit deren Hilfe sie naturwissenschaftliche Untersuchungen durchführen, die Probleme unter Verwendung naturwissenschaftlicher Erkenntnisse und Methoden lösen, über naturwissenschaftliche Themen kommunizieren und auf der Grundlage der Kenntnis naturwissenschaftlicher Zusammenhänge Entscheidungen verantwortungsbewusst treffen und reflektieren. 
+Nachhaltigkeit im Sinne eines schützenden, ressourcenschonenden und Folgeschäden minimierenden Umgangs mit der Umwelt ist ein zentrales Kriterium für die kritische Betrachtung gesellschaftlichen Handelns und somit Bestandteil relevanter Bildung.
+Globale Herausforderungen, wie die nachhaltige Versorgung der Menschheit mit Energie, Rohstoffen und Nahrung prägen die Zukunft der Menschheit. Es wird daher wesentlich davon abhängen, mit welcher Denkweise der Mensch sein individuelles Handeln weiterentwickelt und die Beziehung zur Natur nachhaltig verändert. Nachhaltiges Denken und Handeln sind wesentliche Aufgaben des naturwissenschaftlichen Unterrichts und erweitern die Anbahnung von Kompetenzen zur nachhaltigen Gestaltung einer globalen Gesellschaft. 
+Die Schülerinnen und Schüler nutzen die Denk- und Arbeitsweisen eines naturwissenschaftlichen Faches, um zu erkennen, dass viele Schlüsselprobleme der Menschheit, wie Energieversorgung und Umgang mit Rohstoffen, nur interdisziplinär lösbar sind. Ein integrativer Ansatz soll somit den späteren interdisziplinären Anforderungen in Beruf und Studium gerecht werden. Deshalb zielt der Unterricht in den Naturwissenschaften im Sinne einer Berufsorientierung auch auf eine Thematisierung entsprechender naturwissenschaftlicher und technischer Inhalte in der Berufswelt sowie auf die Tätigkeitsfelder ausgewählter Berufe.
+Ein naturwissenschaftlicher Unterricht zeichnet sich auch dadurch aus, dass er sprachsensibel und sprachintensiv gestaltet wird. Das Erwerben, Festigen und Vertiefen der bildungssprachlichen Kompetenzen ist in besonderer Weise für Bildungserfolge relevant, da diese das Fundament jedes spezifischen Kompetenzerwerbs sind. Schülerinnen und Schüler 
+werden grundlegend befähigt, Texte zu rezipieren, zu produzieren und letztlich zu reflektieren. Die erwartete fachliche, aber auch sprachliche Schülerleistung wird durch die Operatoren klar ausgewiesen. Das Produzieren von Texten und das Präsentieren von Arbeitsergebnissen auf Basis der Fachsprache ist Ziel allgemeiner, wie auch fachspezifischer Sprachförderung. Sprachliche und fachliche Verständnisprobleme werden identifiziert sowie bei der Gestaltung des Unterrichts, der Unterrichtsmaterialien, aber auch bei der Schulorganisation berücksichtigt.
+Digitale Medien erlauben neue Formen der Kommunikation und verändern Lernprozesse. Den Lernenden wird, am Beispiel fachspezifischer Einsatzmöglichkeiten, eine grundlegende Bildung vermittelt, durch die aktive Teilhabe an der Medien- und Wissenschaftsgesellschaft möglich ist. Umfassende Medienkompetenz ist eine Schlüsselqualifikation.
+Der Unterricht im Fach Naturwissenschaften 7 – 10 berücksichtigt neben der objektivierbaren Erfahrungswelt die subjektive Erlebniswelt der Schülerinnen und Schüler. Dies erleichtert auch die Diagnose und Prävention von Fehlkonzepten. Lernen findet deshalb in situativen Sinn- und Sachzusammenhängen, den Kontexten, statt, die die Interessen von Schülerinnen und Schülern gleichermaßen einbeziehen.			
+			</content>
+		</subtext>
+		<subtext>
+			<id>C-NW-1-2</id>
+			<title>Fachbezogene Kompetenzen</title>
+			<content>
+Der integrierte naturwissenschaftliche Unterricht vernetzt grundlegende naturwissenschaftliche Konzepte. Das Nutzen der Gemeinsamkeiten der Fächer Biologie, Chemie und Physik führt zu einem vertieften Verständnis der fachlichen Zusammenhänge und Bezüge. Die im Fachunterricht der naturwissenschaftlichen Fächer erworbenen zentralen Kompetenzen werden im Wahlpflichtunterricht Naturwissenschaften 7 – 10 systematisch vernetzt, erweitert, vertieft und gefestigt.
+Praxis- und Alltagsnähe sowie die typischen naturwissenschaftlichen Arbeitsweisen sollen hierbei immer im Mittelpunkt eines möglichst selbstständigen Handelns der Schülerinnen und Schüler stehen.
+Naturwissenschaftliches Arbeiten erfolgt unabhängig von der speziellen Fachrichtung nach den gleichen grundlegenden Prinzipien. Daher weisen die im Fach Naturwissenschaften 7 – 10 und die in den anderen naturwissenschaftlichen Fächern zu erwerbenden Kompetenzen große Gemeinsamkeiten auf.
+Um diese Gemeinsamkeiten zu verdeutlichen und Anhaltspunkte für fachübergreifendes und fächerverbindendes Arbeiten aufzuzeigen, sind nachfolgend die Kompetenzen für die naturwissenschaftlichen Fächer gemeinsam beschrieben.
+Kompetenzen in diesen vier Bereichen (Mit Fachwissen umgehen, Erkenntnisse gewinnen, Kommunizieren, Bewerten) ermöglichen es den Schülerinnen und Schülern, die natürliche und kulturelle Welt zu verstehen und zu erklären. Inhalts- und handlungsbezogene Kompetenzen können nur gemeinsam erworben werden. Als Resultat entwickeln sich naturwissenschaftliche Kompetenzen.
+
+Mit Fachwissen umgehen 
+Die Schülerinnen und Schüler erwerben Kompetenzen in der Auseinandersetzung mit fachlichen Fragestellungen und Inhalten. Die Breite der Naturwissenschaften, ihr Wissensstand und ihre Dynamik erfordern für den naturwissenschaftlichen Unterricht eine Reduktion auf wesentliche naturwissenschaftliche Inhalte und ein exemplarisches Vorgehen.
+Die Schülerinnen und Schüler erarbeiten die Inhalte auf der Grundlage von miteinander 
+vernetzten Basiskonzepten. Diese dienen der Strukturierung und Systembildung und legen die Grundlagen für das Verständnis von naturwissenschaftlichen Phänomenen und Zusammenhängen.
+Die Lernenden zeigen naturwissenschaftliche Handlungsfähigkeit, wenn sie bei der Bearbeitung naturwissenschaftlicher Fragestellungen flexibel die Systemebenen wechseln (vertikaler Perspektivwechsel) und unterschiedliche naturwissenschaftliche Perspektiven innerhalb 
+einer Naturwissenschaft und zwischen den unterschiedlichen Naturwissenschaften einnehmen (horizontaler Perspektivwechsel). Beim Aufbau von vernetztem Wissen entwickeln die Lernenden in besonderem Maße systemisches und multiperspektivisches Denken. Basiskonzepte ermöglichen den Schülerinnen und Schülern auch deshalb eine interdisziplinäre Vernetzung von Wissen, weil die Lernenden in den drei Fächern Biologie, Chemie und 
+Physik vergleichbare Strukturierungselemente benutzen.
+Die Schülerinnen und Schüler erarbeiten sich ein strukturiertes naturwissenschaftliches Grundwissen. Mit dessen Hilfe verfolgen und bewerten sie naturwissenschaftliche Problemfelder in gesellschaftlichen Zusammenhängen und Diskussionen. Dieses Grundwissen ist außerdem Grundlage für die weitere Vertiefung naturwissenschaftlicher Bildung.
+Die in der Schule relevanten naturwissenschaftlichen Fachinhalte lassen sich auf vernetzte Basiskonzepte zurückführen. Ab der Jahrgangsstufe 7 werden die folgenden Basiskonzepte in den Fächern Biologie, Chemie und Physik berücksichtigt.
+Beziehungsstruktur naturwissenschaftlicher Basiskonzepte
+
+Im Fach Naturwissenschaften 7 – 10 können die gemeinsamen Charakteristika der Naturwissenschaften Biologie, Chemie und Physik durch Berücksichtigung der Überschneidungen der Basiskonzepte sichtbar gemacht werden.
+Diese Überschneidungen, die auf enge Zusammenhänge hindeuten, sind für fachübergreifende naturwissenschaftliche Betrachtungen von besonderer Bedeutung:
+System-Konzepte in der Biologie und Physik, aber auch in Technik und Wirtschaft, im Fach Wirtschaft-Arbeit-Technik,
+Energie-Konzepte in der Chemie und Physik, indirekt auch in der Biologie (Energieflüsse, Ökosysteme),
+Konzepte, denen der Aufbau der Materie zugrunde liegt (Stoff-Teilchen-Konzept der Chemie, Materie-Konzept der Physik),
+Konzepte, in denen Wechselwirkungen eine Rolle spielen (Struktur-Funktions-Konzept der Biologie, Struktur-Eigenschafts-Konzept der Chemie, Wechselwirkungs-Konzept der Physik),
+Entwicklungs-Konzepte im Fach Wirtschaft-Arbeit-Technik, aber auch in der Biologie.
+Erkenntnisse gewinnen
+Die Naturwissenschaften nutzen als grundlegende wissenschaftsmethodische Verfahren die Beobachtung, den Vergleich, das Experiment sowie die Modellbildung. Dies geschieht im Unterricht vorwiegend im Rahmen der problemorientierten Methode, die sich an naturwissenschaftlicher Arbeit orientiert. Die Schülerinnen und Schüler beobachten und beschreiben Phänomene, formulieren Fragestellungen und stellen Hypothesen auf. Sie planen ihr Vorgehen und erschließen sachgerechte Informationen mithilfe entsprechender Untersuchungs- sowie Recherchemethoden. Sie wenden dabei fachspezifische und allgemeine naturwissenschaftliche Arbeitstechniken an: Zurückführen auf und Einordnen in bereits Bekanntes, Systematisieren, Vergleichen, Aufstellen von Hypothesen, Experimentieren. Die Lernenden 
+werten gewonnene Daten bzw. Ergebnisse aus, überprüfen Hypothesen und beantworten die Fragestellungen.
+Modelle und Modellbildung kommen im naturwissenschaftlichen Erkenntnisprozess besonders dann zur Anwendung, wenn komplexe Phänomene bearbeitet oder veranschaulicht werden müssen. Lernende verwenden ein Modell als eine idealisierte oder generalisierte Darstellung eines existierenden oder gedachten Objektes, Systems oder Prozesses. Die Auswahl eines geeigneten Modells unter Beachtung der Fragestellung und das kritische Reflektieren des 
+Modells sind bedeutsamer Teil der naturwissenschaftlichen Erkenntnisgewinnung.
+Kommunizieren 
+Die Fähigkeit zu adressatengerechter und sachbezogener Kommunikation unter Einbeziehung geeigneter Medien ist ein wesentlicher Bestandteil naturwissenschaftlicher Grundbildung. Dazu ist eine sachgemäße Verknüpfung von Alltags- und Fachsprache erforderlich.
+In ihrer Lebenswelt begegnen den Schülerinnen und Schülern Phänomene, die sie sich und anderen aufgrund ihrer Biologie-, Chemie- und Physikkenntnisse unter Nutzung der Fachsprache erklären können. In der anzustrebenden Auseinandersetzung erkennen sie die Zusammenhänge, suchen Informationen und werten diese aus. Dazu ist es notwendig, dass sie die entsprechende Fachsprache verstehen, korrekt anwenden und ggf. in die Alltagssprache übersetzen. Ergebnisse bzw. erarbeitete Teillösungen werden anderen mitgeteilt. Die Schülerinnen und Schüler stellen ihre Position unter Orientierung auf das Fach dar, reflektieren sie, finden Argumente oder revidieren ggf. ihre Auffassung aufgrund der vorgetragenen Einwände. Kommunikation ist Methode und Ziel des Lernens gleichermaßen.
+Bewerten
+Das Heranziehen biologischer, chemischer und physikalischer Denkmethoden und Erkenntnisse zum Verständnis und zur Bewertung naturwissenschaftlicher, technischer und gesellschaftlicher Entscheidungen ist Teil einer zeitgemäßen Allgemeinbildung.
+Durch die Auswahl geeigneter Sachverhalte können die Schülerinnen und Schüler Vernetzungen der einzelnen Naturwissenschaften in Alltag, Umwelt und Wissenschaft erkennen. Die gezielte Auswahl von Kontexten ermöglicht es den Lernenden, naturwissenschaftliche Kenntnisse auf neue Fragestellungen zu übertragen, Probleme in realen Situationen zu erfassen, Interessenkonflikte auszumachen, mögliche Lösungen zu erwägen und deren Konsequenzen zu diskutieren. Bei der Betrachtung gesellschaftsrelevanter Themen aus unterschiedlichen Perspektiven erkennen die Schülerinnen und Schüler, dass Problemlösungen von Wertentscheidungen abhängig sind. Sie prüfen Argumente auf ihren sachlichen und ideologischen Anteil und treffen Entscheidungen sachgerecht, selbstbestimmt und verantwortungsbewusst.
+Sie differenzieren nach biologisch, chemisch und physikalisch belegten, hypothetischen oder nicht naturwissenschaftlichen Aussagen in Texten und Darstellungen und kennen die Grenzen der naturwissenschaftlichen Sichtweise.
+1.3 Weitere Hinweise zu den Kompetenzbereichen
+Für den Kompetenzbereich Mit Fachwissen umgehen sind im Kapitel 2.1 für die jeweiligen naturwissenschaftlichen Fächer fachspezifische Standards formuliert. Die Standards orientieren sich an den Basiskonzepten des jeweiligen Faches, ohne diese jedoch vollständig abzubilden.
+Für die Kompetenzbereiche Erkenntnisse gewinnen (Kapitel 2.2), Kommunizieren (Kapitel 2.3) und Bewerten (Kapitel 2.4) sind gemeinsame Standards für die Fächer Naturwissenschaften 7 – 10 und Biologie, Chemie, Physik in ihrer Progression angegeben. 
+Die Standards des Kompetenzbereiches Erkenntnisse gewinnen beschreiben die Fähigkeiten der Schülerinnen und Schüler, aus Beobachtungen oder Modellen Daten zu gewinnen, daraus Schlussfolgerungen zu ziehen und dabei auch die Grenzen der Aussagefähigkeit zu erfassen. Die Kompetenzentwicklung zeigt sich im Grad der Selbstständigkeit bei der Aneignung naturwissenschaftlicher Erkenntnismethoden.
+Bei den Standards des Kompetenzbereiches Kommunizieren wurden neben den KMK-Standards für den Mittleren Schulabschluss der Fächer Biologie, Chemie und Physik auch die Standards des Basiscurriculums Sprachbildung berücksichtigt.
+Die drei Teilbereiche des Kompetenzbereiches Bewerten werden auf der Grundlage der KMK-Bildungsstandards für den Mittleren Schulabschluss und unter Berücksichtigung des Basiscurriculums Medienbildung fachübergreifend dargestellt. Das Wissen über nachhaltige Entwicklung bildet das Fundament für den Erwerb der Kompetenzen der drei Teilbereiche beim Bewertungsprozess.			
+			</content>
+		</subtext>
+	</c1>
+	<c2>
+	<vorwort>
+		<id>C-NW-2-BE</id>
+		<title>Regelungen für das Land Berlin</title>
+		<content>
+Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren 
+Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler.
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungs­vorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+Für Grundschulen und Grundstufen der Gemeinschaftsschulen sowie an 
+weiterführenden Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Schulanfangsphase 	Niveaustufen A, B, in Teilen C
+Jahrgangsstufen	3 – 4	Niveaustufe C, in Teilen D
+Jahrgangsstufe	5	Niveaustufen C – D 
+Jahrgangsstufe	6	Niveaustufe D, in Teilen E
+
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen 
+werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufe 	3	Niveaustufe B, in Teilen C
+Jahrgangsstufen	4 – 6	Niveaustufe C
+Jahrgangsstufen 	7 – 8	Niveaustufe D
+Jahrgangsstufen 	9 – 10	Niveaustufen D – E
+
+Zur Vorbereitung auf den der Berufsbildungsreife gleichwertigen Abschluss werden in den Jahrgangsstufen 9 und 10 auch Angebote auf dem Niveau F unterbreitet.
+Je nach dem Grad der Lernbeeinträchtigung erreichen die Schülerinnen und Schüler die 
+gesetzten Standards nicht im vollen Umfang bzw. nicht zum vorgegebenen Zeitpunkt. Dem trägt eine individuelle Ausrichtung des Unterrichtsangebots Rechnung.
+Für die Integrierte Sekundarschule gilt:
+grundlegendes Niveau:
+Jahrgangsstufen	7 – 8	Niveaustufen D – E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufe F, in Teilen G
+erweitertes Niveau: 
+Jahrgangsstufen	7 – 8 	Niveaustufe E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufen F – G
+
+
+Für das Gymnasium gilt:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+
+Die folgende Darstellung veranschaulicht die im Berliner Schulsystem in den Jahrgangs-stufen 1 bis 10 möglichen Lerngeschwindigkeiten im Überblick und zeigt die Durchlässigkeit des Schulsystems. Sie bietet zudem eine Grundlage für eine systematische Schullaufbahnberatung. In der Darstellung ist auch erkennbar, welche Anforderungen Schülerinnen und Schüler erfüllen müssen, die die Voraussetzungen für den Erwerb der Berufsbildungsreife erst am Ende der Jahrgangsstufe 10 erreichen. Dieses Niveau können auch Schülerinnen und Schüler mit dem sonderpädagogischen Förderschwerpunkt Lernen erreichen, wenn sie den der Berufsbildungsreife gleichwerten Abschluss anstreben. 
+
+Der Wahlpflichtunterricht Naturwissenschaften 7 – 10 wird dazu genutzt, dass  die Schülerinnen und Schüler ihre bereits erworbenen Kompetenzen nutzen und vertiefen. Am Ende der Jahrgangsstufe 10 wird das entsprechende Übergangs- bzw. Abschlussniveau erreicht.		
+		</content>
+	</vorwort>
+	<vorwort>
+		<id>C-NW-2-BB</id>
+		<title>Regelungen für das Land Brandeburg</title>
+		<content>
+Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen 
+Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren 
+Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler. 
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungs­vorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+Grundschule 
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang der Grundschule Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden können.
+Für Grundschulen und für Primarstufen von Ober- und Gesamtschulen sowie 
+für weiterführende allgemeinbildende Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Jahrgangsstufen	1 – 2	Niveaustufen A und B
+Jahrgangsstufen	3 – 4	Niveaustufe C
+Jahrgangsstufen	5 – 6	Niveaustufe D 
+
+Förderschwerpunkt Lernen
+Die folgende tabellarische Darstellung beschreibt, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang zum Erwerb des Abschlusses der Schule mit dem sonderpädagogischen Förderschwerpunkt Lernen Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden können.
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen 
+werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufen	1 – 2	Niveaustufen A und B 
+Jahrgangsstufe	3	Niveaustufe B
+Jahrgangsstufen	4 – 6	Niveaustufe C
+Jahrgangsstufen	7 – 8	Niveaustufe D
+Jahrgangsstufen	9 – 10	Niveaustufen D und E
+
+Schülerinnen und Schüler, für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen festgestellt worden ist und die dem Bildungsgang Förderschule Lernen gemäß 
+§ 30 BbgSchulG zugeordnet sind, erhalten im Unterricht Lernangebote, die ein Erreichen der Niveaustufen A, B, C, D und E ermöglichen sollen. Hierbei sind die individuellen Lernvoraussetzungen der Schülerinnen und Schüler zu berücksichtigen.
+In diesem Bildungsgang wird mit der Niveaustufe E das gemeinsame Bildungsziel am Ende der Jahrgangsstufe 10 abgebildet.
+Zur Vorbereitung auf den der Berufsbildungsreife entsprechenden Abschluss wird in den Jahrgangsstufen 9 und 10 schülerbezogen auch auf dem Niveau F unterrichtet.
+Schulen der Sekundarstufe I
+Ausgehend vom grundlegenden, erweiterten und vertieften Anspruchsniveau unterscheidet sich der Unterricht in der Sekundarstufe I in der Art der Erschließung, der Vertiefung und dem Grad der Komplexität der zugrunde gelegten Themen und Inhalte. Bei der inneren 
+Organisation in Klassen und Kursen ist dies zu berücksichtigen.
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel in den verschiedenen Bildungsgängen der Sekundarstufe I 
+Niveaustufen durchlaufen bzw. erreichen. Der Unterricht enthält immer auch Angebote auf der jeweils höheren Niveaustufe.
+Am Unterricht in Fächern ohne äußere Fachleistungsdifferenzierung nehmen Schülerinnen und Schüler mit unterschiedlichen Lernvoraussetzungen teil. Die dem Unterricht zugrunde gelegte Niveaustufe ist daher so zu wählen, dass sie für alle Lernenden eine optimale Förderung ermöglicht.
+
+a) Oberschule
+In der EBR-Klasse des kooperativen Modells und im A-Kurs des integrativen Modells wird im Unterricht eine grundlegende Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufen D und E
+Jahrgangsstufe	8 	Niveaustufen E und F
+Jahrgangsstufe	9	Niveaustufe F
+Jahrgangsstufe	10	Niveaustufen F und G
+
+In der FOR-Klasse des kooperativen Modells sowie im B-Kurs des integrativen Modells wird im Unterricht eine erweiterte Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8 	Niveaustufen E und F
+Jahrgangsstufe	9	Niveaustufen F und G
+Jahrgangsstufe	10	Niveaustufe G
+
+In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass sowohl eine grundlegende als auch eine erweiterte Bildung vermittelt wird. Hierbei sind die für die Oberschule dargestellten Niveaustufen zugrunde zu legen.
+
+b) Gesamtschule
+Im G-Kurs der Gesamtschule wird zur Sicherung der Durchlässigkeit zum E-Kurs neben der grundlegenden Bildung auch die erweiterte Bildung vermittelt. Im E-Kurs der 
+Gesamtschule wird zur Sicherung der Durchlässigkeit zum G-Kurs neben der vertieften Bildung auch die erweiterte Bildung vermittelt.
+In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass eine grundlegende, erweiterte und vertiefte Bildung vermittelt wird. Hierbei sind die für die Oberschule und das Gymnasium dargestellten Niveaustufen zugrunde zu legen.
+
+c) Gymnasium
+In den Klassen des Gymnasiums wird im Unterricht eine vertiefte Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+
+Der Wahlpflichtunterricht Naturwissenschaften 7 – 10 wird dazu genutzt, dass  die Schülerinnen und Schüler ihre bereits erworbenen Kompetenzen nutzen und vertiefen. Am Ende der Jahrgangsstufe 10 wird das entsprechende Übergangs- bzw. Abschlussniveau erreicht.		
+		</content>
+	</vorwort>
+
+ 	 <area>
+ 	  	 <id>NW-K1</id>
+ 	  	 <name>Mit Fachwissen umgehen</name>
+ 	  	 <competence>
+ 	  	  	 <id>NW-K1-1</id>
+ 	  	  	 <name>Naturwissenschaftliche Sachverhalte beschreiben und erklären</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-1-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-1-DE-1</id>
+ 	  	  	  	  	 <content>naturwissenschaftliche Sachverhalte lebensweltlicher Kontexte beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-1-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-1-F-1</id>
+ 	  	  	  	  	 <content>naturwissenschaftliche Sachverhalte, Zusammenhänge und Ergebnisse strukturieren und darstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-1-G-1</id>
+ 	  	  	  	  	 <content>naturwissenschaftliche Sachverhalte in Fachkontexten erklären</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-1-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-1-H-1</id>
+ 	  	  	  	  	 <content>einen Sachverhalt mithilfe mehrerer naturwissenschaftlicher Zusammenhänge erklären</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>NW-K1-2</id>
+ 	  	  	 <name>Naturwissenschaftliches Wissen strukturieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-2-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-2-DE-1</id>
+ 	  	  	  	  	 <content>Begriffe und Objekte nach vorgegebenen Kriterien ordnen und vergleichen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-2-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-2-F-1</id>
+ 	  	  	  	  	 <content>Prinzipien zur Strukturierung naturwissenschaftlicher Sachverhalte anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-2-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-2-GH-1</id>
+ 	  	  	  	  	 <content>Analogien zwischen naturwissenschaftlichen Sachverhalten nutzen, um Neues mit Bekanntem zu verknüpfen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>NW-K1-3</id>
+ 	  	  	 <name>Verallgemeinern, Abstrahieren und Problemlösen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-3-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-3-D-1</id>
+ 	  	  	  	  	 <content>Analogien zwischen alltäglichen und naturwissenschaftlichen Sachverhalten herstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-3-E</id>
+ 	  	  	  	 <level>E</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-3-E-1</id>
+ 	  	  	  	  	 <content>zwischen wesentlichen und unwesentlichen Aspekten, die zur Lösung von Aufgaben und Problemen nötig
+sind, unterscheiden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-3-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-3-F-1</id>
+ 	  	  	  	  	 <content>Erkenntnisse und Gesetzmäßigkeiten auf vergleichbare Sachverhalte übertragen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-3-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-3-F-1</id>
+ 	  	  	  	  	 <content>naturwissenschaftliche Kenntnisse in ähnlichen Kontexten anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-3-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-3-G-1</id>
+ 	  	  	  	  	 <content>bei Aufgaben- und Problemlösungen das Kausalitätsprinzip anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-3-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-3-G-1</id>
+ 	  	  	  	  	 <content>naturwissenschaftliche Kenntnisse in neuen Kontexten anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-3-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-3-H-1</id>
+ 	  	  	  	  	 <content>naturwissenschaftliche Aufgaben und Probleme mithilfe ihrer Kenntnisse zu qualitativen und quantitativen Zusammenhängen lösen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>NW-K1-4</id>
+ 	  	  	 <name>Basiskonzepte nutzen und vernetzen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-4-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-4-D-1</id>
+ 	  	  	  	  	 <content>Zusammenhänge zwischen Alltagserfahrungen und naturwissenschaftlichen
+Inhalten beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-4-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-4-EF-1</id>
+ 	  	  	  	  	 <content>naturwissenschaftliche Inhalte Basiskonzepten zuordnen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-4-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-4-G-1</id>
+ 	  	  	  	  	 <content>einen naturwissenschaftlichen Sachverhalt unter Nutzung eines Basiskonzeptes erläutern</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>NW-K1-4-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>NW-K1-4-H-1</id>
+ 	  	  	  	  	 <content>naturwissenschaftliche Basiskonzepte auf neue Phänomene anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>NW-K2</id>
+ 	  	 <name>Erkenntnisse gewinnen</name>
+ 	  	 <subarea>
+ 	  	  	 <id>NW-K2-1</id>
+ 	  	  	 <name>Beobachten, Vergleichen, Ordnen</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K2-1-1</id>
+ 	  	  	  	 <name>Beobachten</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-1-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-1-1-D-1</id>
+ 	  	  	  	  	  	 <content>zwischen Beobachtung und Deutung unterscheiden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-1-1-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-1-1-EF-1</id>
+ 	  	  	  	  	  	 <content>aufgabenbezogen Beobachtungskriterien festlegen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-1-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-1-1-GH-1</id>
+ 	  	  	  	  	  	 <content>Deutungen aus Beobachtungen auf einen neuen Sachverhalt anwenden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K2-1-2</id>
+ 	  	  	  	 <name>Vergleichen und Ordnen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-1-2-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-1-2-D-1</id>
+ 	  	  	  	  	  	 <content>mit vorgegebenen Kriterien beschreibend Sachverhalte/Objekte ordnen und vergleichen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-1-2-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-1-2-EF-1</id>
+ 	  	  	  	  	  	 <content>mit geeigneten Kriterien ordnen und vergleichen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-1-2-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-1-2-GH-1</id>
+ 	  	  	  	  	  	 <content>nach einem übergeordneten Vergleichskriterium ordnen und vergleichen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>NW-K2-2</id>
+ 	  	  	 <name>Naturwissenschaftliche Untersuchungen durchführen</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K2-2-1</id>
+ 	  	  	  	 <name>Fragestellung</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-2-1-DE</id>
+ 	  	  	  	  	 <level>DE</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-2-1-DE-1</id>
+ 	  	  	  	  	  	 <content>naturwissenschaftliche Fragen formulieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-2-1-FG</id>
+ 	  	  	  	  	 <level>FG</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-2-1-FG-1</id>
+ 	  	  	  	  	  	 <content>naturwissenschaftliche Fragen unter Einbeziehung ihres Fachwissens formulieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-2-1-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-2-1-H-1</id>
+ 	  	  	  	  	  	 <content>ein theoretisches Konzept zur Bearbeitung einer naturwissenschaftlichen Fragestellung
+heranziehen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K2-2-2</id>
+ 	  	  	  	 <name>Hypothesenbildung</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-2-2-DE</id>
+ 	  	  	  	  	 <level>DE</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-2-2-DE-1</id>
+ 	  	  	  	  	  	 <content>Hypothesen aufstellen, die auf naturwissenschaftlichen Fragestellungen basieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-2-2-FGH</id>
+ 	  	  	  	  	 <level>FGH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-2-2-FGH-1</id>
+ 	  	  	  	  	  	 <content>aufgestellte Hypothesen bestätigen oder nach Widerlegung weitere Hypothesen entwickeln</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K2-2-3</id>
+ 	  	  	  	 <name>Planung und Durchführung</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-2-3-DE</id>
+ 	  	  	  	  	 <level>DE</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-2-3-DE-1</id>
+ 	  	  	  	  	  	 <content>Experimente zur Überprüfung von Hypothesen nach Vorgaben planen und durchführen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-2-3-FG</id>
+ 	  	  	  	  	 <level>FG</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-2-3-FG-1</id>
+ 	  	  	  	  	  	 <content>Experimente mit Kontrolle planen und durchführen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-2-3-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-2-3-H-1</id>
+ 	  	  	  	  	  	 <content>den Untersuchungsplan und die praktische Umsetzung beurteilen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K2-2-4</id>
+ 	  	  	  	 <name>Auswertung und Reflexion</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-2-4-DE</id>
+ 	  	  	  	  	 <level>DE</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-2-4-DE-1</id>
+ 	  	  	  	  	  	 <content>das Untersuchungsergebnis unter Rückbezug auf die Hypothese beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-2-4-FG</id>
+ 	  	  	  	  	 <level>FG</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-2-4-FG-1</id>
+ 	  	  	  	  	  	 <content>Untersuchungsergebnisse (auch erwartungswidrige) interpretieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-2-4-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-2-4-H-1</id>
+ 	  	  	  	  	  	 <content>Daten, Trends und Beziehungen interpretieren, diese erklären und weiterführende Schlussfolgerungen
+ableiten</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>NW-K2-3</id>
+ 	  	  	 <name>Mit Modellen umgehen</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K2-3-1</id>
+ 	  	  	  	 <name>Nutzen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-3-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-3-1-D-1</id>
+ 	  	  	  	  	  	 <content>mit Modellen naturwissenschaftliche Sachverhalte beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-3-1-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-3-1-EF-1</id>
+ 	  	  	  	  	  	 <content>mit Modellen naturwissenschaftliche Zusammenhänge erklären</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K2-3-2</id>
+ 	  	  	  	 <name>Testen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-3-2-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-3-2-D-1</id>
+ 	  	  	  	  	  	 <content>Modelle bezüglich ihrer Einsatzmöglichkeiten prüfen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-3-2-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-3-2-EF-1</id>
+ 	  	  	  	  	  	 <content>Modelle mit dem naturwissenschaftlichen Sachverhalt vergleichen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-3-2-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-3-2-GH-1</id>
+ 	  	  	  	  	  	 <content>mithilfe von Modellen Hypothesen ableiten</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K2-3-3</id>
+ 	  	  	  	 <name>Ändern</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-3-3-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-3-3-D-1</id>
+ 	  	  	  	  	  	 <content>Modelle bezüglich ihrer Eignung prüfen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-3-3-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-3-3-EF-1</id>
+ 	  	  	  	  	  	 <content>Modelle aufgrund neuer Erkenntnisse über bzw. fehlender Passung zum naturwissenschaftlichen
+Sachverhalt ändern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-3-3-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-3-3-GH-1</id>
+ 	  	  	  	  	  	 <content>Modelle ändern, wenn die aus ihnen abgeleiteten Hypothesen widerlegt sind</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>NW-K2-4</id>
+ 	  	  	 <name>Elemente der Mathematik anwenden</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K2-4-1</id>
+ 	  	  	  	 <name>Mit naturwissenschaftlichen Größen umgehen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-4-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-4-1-D-1</id>
+ 	  	  	  	  	  	 <content>Einheitenvorsätze für Längen-, Flächen-, Volumen- und Masseangaben (Milli, Kilo u.a.) verwenden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-4-1-D-2</id>
+ 	  	  	  	  	  	 <content>Zusammenhänge zwischen zwei Größen mit Aussagen der Form &quot;Je ..., desto ...&quot; beschreiben
+</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-4-1-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-4-1-E-1</id>
+ 	  	  	  	  	  	 <content>Einheitenvorsätze (z. B. Mega, Kilo, Milli) verwenden und Größenangaben umrechnen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-4-1-E-2</id>
+ 	  	  	  	  	  	 <content>Zusammenhänge zweier Größen auf Proportionalität prüfen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-4-1-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-4-1-F-1</id>
+ 	  	  	  	  	  	 <content>gemessene und berechnete Größen mit sinnvoller Genauigkeit angeben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-4-1-G</id>
+ 	  	  	  	  	 <level>G</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-4-1-G-1</id>
+ 	  	  	  	  	  	 <content>Einheitenvorsätze in Potenzschreibweise nutzen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-4-1-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-4-1-H-1</id>
+ 	  	  	  	  	  	 <content>Zusammenhänge zwischen Größen unter Verwendung von Gleichungen und Diagrammen erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K2-4-2</id>
+ 	  	  	  	 <name>Messwerte erfassen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-4-2-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-4-2-D-1</id>
+ 	  	  	  	  	  	 <content>vorgegebene Messgrößen von Messgeräten ablesen und protokollieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-4-2-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-4-2-E-1</id>
+ 	  	  	  	  	  	 <content>Messgrößen ermitteln und Fehlerquellen von Messungen angeben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-4-2-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-4-2-F-1</id>
+ 	  	  	  	  	  	 <content>den Einfluss von Messfehlern erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-4-2-G</id>
+ 	  	  	  	  	 <level>G</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-4-2-G-1</id>
+ 	  	  	  	  	  	 <content>Mittelwerte einer Messreihe berechnen </content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-4-2-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-4-2-H-1</id>
+ 	  	  	  	  	  	 <content>grobe, zufällige und systematische Fehler unterscheiden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K2-4-3</id>
+ 	  	  	  	 <name>Mathematische Verfahren anwenden</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-4-3-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-4-3-D-1</id>
+ 	  	  	  	  	  	 <content>Grundrechenarten der Mathematik auf naturwissenschaftliche Sachverhalte anwenden
+</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-4-3-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-4-3-E-1</id>
+ 	  	  	  	  	  	 <content>Verhältnisgleichungen umformen und Größen berechnen </content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-4-3-FG</id>
+ 	  	  	  	  	 <level>FG</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-4-3-FG-1</id>
+ 	  	  	  	  	  	 <content>vorgegebene Verfahren der Mathematik beim Umgang mit Gleichungen, chemischen Formeln, 
+Reaktionsgleichungen, Diagrammen und Tabellen anwenden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K2-4-3-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K2-4-3-H-1</id>
+ 	  	  	  	  	  	 <content>mathematische Verfahren bei der Auswertung von gemessenen oder recherchierten Daten begründet auswählen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>NW-K3</id>
+ 	  	 <name>Kommunizieren</name>
+ 	  	 <subarea>
+ 	  	  	 <id>NW-K3-1</id>
+ 	  	  	 <name>Informationen erschließen – Textrezeption</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K3-1-1</id>
+ 	  	  	  	 <name>Recherchieren</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-1-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-1-1-D-1</id>
+ 	  	  	  	  	  	 <content>Informationen aus einem Text aufgabengeleitet entnehmen und wiedergeben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-1-1-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-1-1-EF-1</id>
+ 	  	  	  	  	  	 <content>themenbezogen zu einem naturwissenschaftlichen Sachverhalt in verschiedenen Quellen recherchieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-1-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-1-1-GH-1</id>
+ 	  	  	  	  	  	 <content>die Seriosität und fachliche Relevanz von Informationen in verschiedenen Medien bewerten/hinterfragen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K3-1-2</id>
+ 	  	  	  	 <name>Informationen aus grafischen Darstellungen entnehmen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-1-2-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-1-2-D-1</id>
+ 	  	  	  	  	  	 <content>grafische Darstellungen beschreiben und aus ihnen Daten entnehmen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-1-2-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-1-2-E-1</id>
+ 	  	  	  	  	  	 <content>Diagramme mit zwei Variablen beschreiben und aus ihnen Daten entnehmen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-1-2-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-1-2-F-1</id>
+ 	  	  	  	  	  	 <content>aus Diagrammen Trends ableiten</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-1-2-G</id>
+ 	  	  	  	  	 <level>G</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-1-2-G-1</id>
+ 	  	  	  	  	  	 <content>grafische Darstellungen erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-1-2-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-1-2-H-1</id>
+ 	  	  	  	  	  	 <content>die Aussagekraft von Darstellungen bewerten und hinterfragen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>NW-K3-2</id>
+ 	  	  	 <name>Informationen weitergeben – Textproduktion</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K3-2-1</id>
+ 	  	  	  	 <name>Darstellungsformen wechseln</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-2-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-2-1-D-1</id>
+ 	  	  	  	  	  	 <content>Daten strukturieren und in Tabellen, Schaubildern und Diagrammen nach Vorgabe darstellen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-2-1-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-2-1-E-1</id>
+ 	  	  	  	  	  	 <content>aus einer Versuchsanleitung eine Versuchsskizze entwickeln</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-2-1-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-2-1-F-1</id>
+ 	  	  	  	  	  	 <content>grafische Darstellungen zu Sachverhalten entwerfen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-2-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-2-1-GH-1</id>
+ 	  	  	  	  	  	 <content>kontinuierliche Texte in Fachsprache umwandeln (z. B. Größengleichungen, chemische Formeln, Reaktionsgleichungen)</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K3-2-2</id>
+ 	  	  	  	 <name>Texte zu Sachverhalten produzieren</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-2-2-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-2-2-D-1</id>
+ 	  	  	  	  	  	 <content>naturwissenschaftliche Sachverhalte unter Verwendung der Alltagssprache unter Einbeziehung
+von Fachbegriffen beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-2-2-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-2-2-EF-1</id>
+ 	  	  	  	  	  	 <content>naturwissenschaftliche Sachverhalte mit geeigneten bildlichen, sprachlichen,
+symbolischen oder mathematischen Darstellungsformen veranschaulichen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-2-2-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-2-2-GH-1</id>
+ 	  	  	  	  	  	 <content>naturwissenschaftliche Sachverhalte adressaten- und sachgerecht in verschiedenen Darstellungsformen
+erklären</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K3-2-3</id>
+ 	  	  	  	 <name>Dokumentieren</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-2-3-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-2-3-D-1</id>
+ 	  	  	  	  	  	 <content>Untersuchungen unter Vorgaben protokollieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-2-3-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-2-3-EF-1</id>
+ 	  	  	  	  	  	 <content>Untersuchungen selbstständig protokollieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-2-3-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-2-3-GH-1</id>
+ 	  	  	  	  	  	 <content>anhand des Protokolls den Versuch erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K3-2-4</id>
+ 	  	  	  	 <name>Präsentieren</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-2-4-DE</id>
+ 	  	  	  	  	 <level>DE</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-2-4-DE-1</id>
+ 	  	  	  	  	  	 <content>mit Hilfe von Stichworten, Anschauungsmaterialien und Medien Ergebnisse präsentieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-2-4-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-2-4-F-1</id>
+ 	  	  	  	  	  	 <content>sach-, situations-und adressatenbezogen Untersuchungsmethoden und Ergebnisse präsentieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-2-4-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-2-4-GH-1</id>
+ 	  	  	  	  	  	 <content>Medien für eine Präsentation kriterienorientiert auswählen und die Auswahl reflektieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>NW-K3-3</id>
+ 	  	  	 <name>Argumentieren – Interaktion</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K3-3-1</id>
+ 	  	  	  	 <name>Schlüssige Begründungen von Aussagen formulieren</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-3-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-3-1-D-1</id>
+ 	  	  	  	  	  	 <content>Aussagen und Behauptungen mit Beispielen, einfachen Fakten oder Daten begründen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-3-1-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-3-1-E-1</id>
+ 	  	  	  	  	  	 <content>zu einer Aussage eine passende Begründung formulieren, in der die stützenden Daten oder Fakten erläutert werden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-3-1-FG</id>
+ 	  	  	  	  	 <level>FG</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-3-1-FG-1</id>
+ 	  	  	  	  	  	 <content>Hypothesen fachgerecht und folgerichtig mit Daten, Fakten oder Analogien begründen bzw. widerlegen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-3-1-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-3-1-H-1</id>
+ 	  	  	  	  	  	 <content>Widersprüche in einer Argumentation erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>NW-K3-4</id>
+ 	  	  	 <name>Über (Fach)sprache nachdenken – Sprachbewusstheit</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K3-4-1</id>
+ 	  	  	  	 <name>Sprache im Fachunterricht thematisieren</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-4-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-4-1-D-1</id>
+ 	  	  	  	  	  	 <content>mehrdeutige Wörter voneinander unterscheiden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-4-1-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-4-1-E-1</id>
+ 	  	  	  	  	  	 <content>die Bedeutung wesentlicher Fachbegriffe von ihrer Wortherkunft aus erklären</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-4-1-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-4-1-F-1</id>
+ 	  	  	  	  	  	 <content>Fachbegriffe vernetzt darstellen (z. B. Begriffsnetze, Ober- und Unterbegriffe)</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-4-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-4-1-GH-1</id>
+ 	  	  	  	  	  	 <content>naturwissenschaftliche Sachverhalte fachsprachlich präzisieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K3-4-2</id>
+ 	  	  	  	 <name>Alltags- und Fachsprache bewusst verwenden</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-4-2-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-4-2-D-1</id>
+ 	  	  	  	  	  	 <content>zwischen alltags- und fachsprachlicher Beschreibung von Sachverhalten unterscheiden </content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-4-2-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-4-2-EF-1</id>
+ 	  	  	  	  	  	 <content>die Bedeutung einzelner Fachbegriffe erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K3-4-2-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K3-4-2-GH-1</id>
+ 	  	  	  	  	  	 <content>Zusammenhänge zwischen naturwissenschaftlichen Sachverhalten und Alltagserscheinungen herstellen und dabei bewusst Fachsprache in Alltagssprache übersetzen und umgekehrt</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>NW-K4</id>
+ 	  	 <name>Bewerten</name>
+ 	  	 <subarea>
+ 	  	  	 <id>NW-K4-1</id>
+ 	  	  	 <name>Handlungsoptionen diskutieren und auswählen</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K4-1-1</id>
+ 	  	  	  	 <name>Bewertungskriterien</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-1-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-1-1-D-1</id>
+ 	  	  	  	  	  	 <content>alltagsbezogene Bewertungskriterien festlegen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-1-1-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-1-1-E-1</id>
+ 	  	  	  	  	  	 <content>vorgegebene Bewertungskriterien anwenden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-1-1-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-1-1-F-1</id>
+ 	  	  	  	  	  	 <content>in einem Entscheidungsprozess relevante Bewertungskriterien anwenden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-1-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-1-1-GH-1</id>
+ 	  	  	  	  	  	 <content>die Relevanz von Bewertungskriterien für Handlungsoptionen erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K4-1-2</id>
+ 	  	  	  	 <name>Handlungsoptionen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-1-2-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-1-2-D-1</id>
+ 	  	  	  	  	  	 <content>Handlungsoptionen kriteriengeleitet vergleichen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-1-2-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-1-2-EF-1</id>
+ 	  	  	  	  	  	 <content>in einer Entscheidungssituation zwischen mehreren Handlungsoptionen begründet auswählen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-1-2-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-1-2-GH-1</id>
+ 	  	  	  	  	  	 <content>unter Berücksichtigung verschiedener Perspektiven Kompromisse entwickeln</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>NW-K4-2</id>
+ 	  	  	 <name>Handlungen reflektieren</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K4-2-1</id>
+ 	  	  	  	 <name>Schlussfolgerungen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-2-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-2-1-D-1</id>
+ 	  	  	  	  	  	 <content>Schlussfolgerungen auf der Grundlage naturwissenschaftlichen Alltagswissens ziehen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-2-1-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-2-1-EF-1</id>
+ 	  	  	  	  	  	 <content>Schlussfolgerungen mit Verweis auf Daten oder auf der Grundlage von naturwissenschaftlichen Informationen ziehen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-2-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-2-1-GH-1</id>
+ 	  	  	  	  	  	 <content>Möglichkeiten und Folgen ihres Handelns beurteilen und Konsequenzen daraus ableiten</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>NW-K4-3</id>
+ 	  	  	 <name>Werte und Normen reflektieren</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K4-3-1</id>
+ 	  	  	  	 <name>Werte und Normen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-3-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-3-1-D-1</id>
+ 	  	  	  	  	  	 <content>Wertvorstellungen von Meinungen, Aussagen oder Emotionen unterscheiden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-3-1-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-3-1-E-1</id>
+ 	  	  	  	  	  	 <content>das eigene Handeln in Bezug auf ihre Wertvorstellungen reflektieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-3-1-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-3-1-F-1</id>
+ 	  	  	  	  	  	 <content>zwischen Werten und Normen unterscheiden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-3-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-3-1-GH-1</id>
+ 	  	  	  	  	  	 <content>eigene Wertevorstellungen in Bezug auf Werte anderer und Normen der Gesellschaft reflektieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>NW-K4-3-2</id>
+ 	  	  	  	 <name>Sicherheits- und Verhaltensregeln</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-3-2-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-3-2-D-1</id>
+ 	  	  	  	  	  	 <content>Sicherheits- und Verhaltensregeln des naturwissenschaftlichen Unterrichts einhalten</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-3-2-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-3-2-E-1</id>
+ 	  	  	  	  	  	 <content>Sicherheits- und Verhaltensregeln aus dem schulischen Kontext auf das eigene Lebensumfeld übertragen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-3-2-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-3-2-F-1</id>
+ 	  	  	  	  	  	 <content>untersuchungsspezifische Sicherheitsaspekte situationsadäquat begründet auswählen und beachten</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>NW-K4-3-2-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>NW-K4-3-2-GH-1</id>
+ 	  	  	  	  	  	 <content>Sicherheitsrisiken einschätzen und neue Sicherheitsmaßnahmen ableiten</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	 </area>
+
+ 	</c2>
+	<c3>
+		<id>C-NW-3</id>
+		<title>Themen und Inhalte</title>
+		<vortext>
+			<id>C-NW-3-0</id>
+			<title>Allgemeine Hinweise</title>
+			<content>
+Das Kapitel 3 im Fach Naturwissenschaften 7 – 10 enthält 15 Themenfelder. Diese sind jeweils in Themen unterteilt, die durch Inhalte verschiedener Fächer unterlegt sind. Es wird empfohlen, mindestens ein Themenfeld pro Schulhalbjahr auszuwählen und zu bearbeiten. 
+Die Themen stellen Orientierungen dar. Die Öffnung des Unterrichts bietet die Möglichkeit, Inhalte regional, zeitlich und entsprechend der konkreten Situation an der Schule zu akzentuieren und zu verändern. Der Freiraum besteht sowohl in der inhaltlichen als auch der zeitlichen Dimension, die gewählt werden kann, um ein Themenfeld zu erschließen.
+Die Themenfelder, Themen und Inhalte bilden die Grundlage für differenzierte Aufgabenstellungen und eine Materialauswahl, die eine Herausforderung für das gesamte Leistungsspektrum einer Lerngruppe darstellt. Die Lernenden erhalten Gelegenheit, ihre Fähigkeiten und Fertigkeiten im Umgang mit den Themenfeldern, Themen und Inhalten allein und in der 
+Zusammenarbeit mit anderen unter Beweis zu stellen. Sie erfahren dabei, in welchem Maße sie die gesetzten Standards erreichen bzw. was sie tun können, um ihre Kompetenzen zu vertiefen und zu erweitern.
+Die ausgewiesenen Themenfelder werden für Schülerinnen und Schüler, die wegen einer 
+erheblichen und langandauernden Beeinträchtigung ihres Lern- und Leistungsverhaltens sonderpädagogische Förderung erhalten oder für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen1 festgestellt wurde, schülerbezogen berücksichtigt. Sie werden entsprechend der Lebensbedeutsamkeit für die Schülerinnen und Schüler ausgewählt.
+Um die gleichberechtigte Teilhabe am gesellschaftlichen Leben, unabhängig von ethnischer und kultureller Herkunft, sozialem und wirtschaftlichem Status, Geschlecht und sexueller Orientierung, Alter und Behinderung sowie Religion und Weltanschauung zu ermöglichen, ist es erforderlich, diese individuelle Vielfalt der Lernenden bei der Planung des Unterrichts zu berücksichtigen. Damit fördert der Unterricht die Stärken unterschiedlicher Persönlichkeiten und ermöglicht inklusives Lernen.
+Die Schülerinnen und Schüler erfahren im Unterricht und an außerschulischen Lernorten etwas über Strukturen, Prozesse und Zusammenhänge in Natur und Technik. Damit sie dieses Wissen einschätzen, bewerten und sinnvoll in das eigene Weltbild einfügen können, ist es von entscheidender Bedeutung, dass sie auch erfahren, wie diese Erkenntnisse gewonnen werden. Dazu lernen sie die naturwissenschaftlichen Arbeitsweisen kennen, zu denen 
+sowohl die charakteristischen Denkmethoden, mit denen man in den Naturwissenschaften zu Erkenntnissen gelangt, als auch die charakteristischen Arbeitsmethoden der Fachgebiete Physik, Chemie und Biologie zählen.
+Zur unterrichtlichen Erarbeitung der Themenfelder wird angeregt, zum jeweiligen Thema mit den Schülerinnen und Schülern Fragen zu entwickeln, die sich aus dem Entdecken, 
+Beobachten und Beschreiben von Phänomenen ergeben und die dann experimentell oder durch Erkunden zu bearbeiten sind. Dabei werden die Fragen und deren Bearbeitung von Niveaustufe zu Niveaustufe zunehmend komplexer. Analyse, Deutung und Auswertung der Phänomene bestimmen die weitere Arbeit an den Themen.
+
+
+Übersicht über die Themenfelder 
+
+3.1 Forschen wie eine Naturwissenschaftlerin bzw. ein Naturwissenschaftler
+3.2 Die Grenzen des Sichtbaren – optische Geräte
+3.3 Vom ganz Kleinen und ganz Großen
+3.4 Wasser ist Leben
+3.5 Energie gehört zum Leben – Energieversorgung der Menschheit
+3.6 Mensch – Bewegung – Gesundheit
+3.7 Klima im Wandel
+3.8 (Ein-)Blick in den Haushalt
+3.9 Bauen und Wohnen
+3.10 Information und Kommunikation
+3.11 Sucht, Drogen und Doping
+3.12 Die Natur
+3.13 Licht und Farbe
+3.14 Nahrung für die Welt
+3.15 Kondensate zum Essen und Verpacken
+			</content>
+		</vortext>
+	<themainhalt>
+		<id>C-NW-3-1</id>
+		<title>Forschen wie eine Naturwissenschaftlerin bzw. ein Naturwissenschaftler</title>
+		<content>
+		In diesem einführenden Themenfeld werden naturwissenschaftliche Arbeitsweisen und 
+Methoden erarbeitet, um die Grundlagen für das Verständnis naturwissenschaftlicher 
+Zusammenhänge zu schaffen. Die Schülerinnen und Schüler lernen, richtig zu beobachten, zu messen und zu ordnen. Sie werden zur Planung, Durchführung und Dokumentation von 
+Experimenten befähigt und lernen, Modelle zur Erklärung naturwissenschaftlicher Sachverhalte zu nutzen. Dabei steht das handlungsorientierte Arbeiten der Schülerinnen und Schüler im Vordergrund. 
+		</content>
+		<inhalt>
+			<id>C-NW-3-1-1</id>
+			<title>Inhalte</title>
+			<inhalt>
+				<id>C-NW-3-1-1-1</id>
+				<title>Wahrnehmung und Beobachtung</title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-1-1-2</id>
+				<title>Ordnen und Klassifizieren</title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-1-1-3</id>
+				<title>Messen, Messwerkzeuge und Größen</title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-1-1-4</id>
+				<title>Recherchieren und Interpretieren</title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-1-1-5</id>
+				<title>Experimentieren und Protokollieren</title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-1-1-6</id>
+				<title>Dokumentieren und Präsentieren</title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-1-1-7</id>
+				<title>Arbeit mit Modellen</title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+		</inhalt>	
+		<inhalt>
+			<id>C-NW-3-1-2</id>
+			<title>Basiskonzept</title>
+			<content></content>
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-1-2-2</id>
+			<title>Beispiele</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-1-2-3</id>
+			<title>Beispiele für Unterrichtseinheiten</title>
+			<inhalt>
+				<id>C-NW-3-1-2-3-1</id>
+				<title>Stoffe im Alltag</title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-1-2-3-2</id>
+				<title>Lebensraum Wald</title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>				
+		</inhalt>					
+		
+		<inhalt>
+			<id>C-NW-3-1-2-4</id>
+			<title>Weitere Kontexte</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>	
+	</themainhalt>
+
+	<themainhalt>
+		<id>C-NW-3-2</id>
+		<title></title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-NW-3-2-1</id>
+			<title>Inhalte</title>
+			<inhalt>
+				<id>C-NW-3-2-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-2-1-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-2-1-3</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-2-1-4</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-2-1-5</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-2-1-6</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-2-1-7</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-2-1-8</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-2-1-9</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>			
+		</inhalt>	
+		<inhalt>
+			<id>C-NW-3-2-2</id>
+			<title>Basiskonzept</title>
+			<content></content>
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-2-2-2</id>
+			<title>Beispiele</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-2-2-3</id>
+			<title>Beispiele für Unterrichtseinheiten</title>
+			<inhalt>
+				<id>C-NW-3-2-2-3-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-2-2-3-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>				
+		</inhalt>					
+		
+		<inhalt>
+			<id>C-NW-3-2-2-4</id>
+			<title>Weitere Kontexte</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>	
+	</themainhalt>
+	<themainhalt>
+		<id>C-NW-3-3</id>
+		<title></title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-NW-3-3-1</id>
+			<title>Inhalte</title>
+			<inhalt>
+				<id>C-NW-3-3-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-3-1-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-3-1-3</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-3-1-4</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-3-1-5</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-3-1-6</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-3-1-7</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-3-1-8</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-3-1-9</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>			
+		</inhalt>	
+		<inhalt>
+			<id>C-NW-3-3-2</id>
+			<title>Basiskonzept</title>
+			<content></content>
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-3-2-2</id>
+			<title>Beispiele</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-3-2-3</id>
+			<title>Beispiele für Unterrichtseinheiten</title>
+			<inhalt>
+				<id>C-NW-3-3-2-3-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-3-2-3-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>				
+		</inhalt>					
+		
+		<inhalt>
+			<id>C-NW-3-3-2-4</id>
+			<title>Weitere Kontexte</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>	
+	</themainhalt>
+	<themainhalt>
+		<id>C-NW-3-4</id>
+		<title></title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-NW-3-4-1</id>
+			<title>Inhalte</title>
+			<inhalt>
+				<id>C-NW-3-4-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-4-1-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-4-1-3</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-4-1-4</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-4-1-5</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-4-1-6</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-4-1-7</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-4-1-8</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-4-1-9</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>			
+		</inhalt>	
+		<inhalt>
+			<id>C-NW-3-4-2</id>
+			<title>Basiskonzept</title>
+			<content></content>
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-4-2-2</id>
+			<title>Beispiele</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-4-2-3</id>
+			<title>Beispiele für Unterrichtseinheiten</title>
+			<inhalt>
+				<id>C-NW-3-4-2-3-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-4-2-3-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>				
+		</inhalt>					
+		
+		<inhalt>
+			<id>C-NW-3-4-2-4</id>
+			<title>Weitere Kontexte</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>	
+	</themainhalt>
+	<themainhalt>
+		<id>C-NW-3-5</id>
+		<title></title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-NW-3-5-1</id>
+			<title>Inhalte</title>
+			<inhalt>
+				<id>C-NW-3-5-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-5-1-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-5-1-3</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-5-1-4</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-5-1-5</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-5-1-6</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-5-1-7</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-5-1-8</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-5-1-9</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>			
+		</inhalt>	
+		<inhalt>
+			<id>C-NW-3-5-2</id>
+			<title>Basiskonzept</title>
+			<content></content>
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-5-2-2</id>
+			<title>Beispiele</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-5-2-3</id>
+			<title>Beispiele für Unterrichtseinheiten</title>
+			<inhalt>
+				<id>C-NW-3-5-2-3-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-5-2-3-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>				
+		</inhalt>					
+		
+		<inhalt>
+			<id>C-NW-3-5-2-4</id>
+			<title>Weitere Kontexte</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>	
+	</themainhalt>
+	<themainhalt>
+		<id>C-NW-3-6</id>
+		<title></title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-NW-3-6-1</id>
+			<title>Inhalte</title>
+			<inhalt>
+				<id>C-NW-3-6-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-6-1-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-6-1-3</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-6-1-4</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-6-1-5</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-6-1-6</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-6-1-7</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-6-1-8</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-6-1-9</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>			
+		</inhalt>	
+		<inhalt>
+			<id>C-NW-3-6-2</id>
+			<title>Basiskonzept</title>
+			<content></content>
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-6-2-2</id>
+			<title>Beispiele</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-6-2-3</id>
+			<title>Beispiele für Unterrichtseinheiten</title>
+			<inhalt>
+				<id>C-NW-3-6-2-3-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-6-2-3-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>				
+		</inhalt>					
+		
+		<inhalt>
+			<id>C-NW-3-6-2-4</id>
+			<title>Weitere Kontexte</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>	
+	</themainhalt>
+	<themainhalt>
+		<id>C-NW-3-7</id>
+		<title></title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-NW-3-7-1</id>
+			<title>Inhalte</title>
+			<inhalt>
+				<id>C-NW-3-7-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-7-1-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-7-1-3</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-7-1-4</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-7-1-5</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-7-1-6</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-7-1-7</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-7-1-8</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-7-1-9</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>			
+		</inhalt>	
+		<inhalt>
+			<id>C-NW-3-7-2</id>
+			<title>Basiskonzept</title>
+			<content></content>
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-7-2-2</id>
+			<title>Beispiele</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-7-2-3</id>
+			<title>Beispiele für Unterrichtseinheiten</title>
+			<inhalt>
+				<id>C-NW-3-7-2-3-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-7-2-3-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>				
+		</inhalt>					
+		
+		<inhalt>
+			<id>C-NW-3-7-2-4</id>
+			<title>Weitere Kontexte</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>	
+	</themainhalt>
+	<themainhalt>
+		<id>C-NW-3-8</id>
+		<title></title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-NW-3-8-1</id>
+			<title>Inhalte</title>
+			<inhalt>
+				<id>C-NW-3-8-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-8-1-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-8-1-3</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-8-1-4</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-8-1-5</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-8-1-6</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-8-1-7</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-8-1-8</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-8-1-9</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>			
+		</inhalt>	
+		<inhalt>
+			<id>C-NW-3-8-2</id>
+			<title>Basiskonzept</title>
+			<content></content>
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-8-2-2</id>
+			<title>Beispiele</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-8-2-3</id>
+			<title>Beispiele für Unterrichtseinheiten</title>
+			<inhalt>
+				<id>C-NW-3-8-2-3-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-8-2-3-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>				
+		</inhalt>					
+		
+		<inhalt>
+			<id>C-NW-3-8-2-4</id>
+			<title>Weitere Kontexte</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>	
+	</themainhalt>
+	<themainhalt>
+		<id>C-NW-3-9</id>
+		<title></title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-NW-3-9-1</id>
+			<title>Inhalte</title>
+			<inhalt>
+				<id>C-NW-3-9-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-9-1-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-9-1-3</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-9-1-4</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-9-1-5</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-9-1-6</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-9-1-7</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-9-1-8</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-9-1-9</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>			
+		</inhalt>	
+		<inhalt>
+			<id>C-NW-3-9-2</id>
+			<title>Basiskonzept</title>
+			<content></content>
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-9-2-2</id>
+			<title>Beispiele</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-9-2-3</id>
+			<title>Beispiele für Unterrichtseinheiten</title>
+			<inhalt>
+				<id>C-NW-3-9-2-3-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-9-2-3-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>				
+		</inhalt>					
+		
+		<inhalt>
+			<id>C-NW-3-9-2-4</id>
+			<title>Weitere Kontexte</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>	
+	</themainhalt>
+	<themainhalt>
+		<id>C-NW-3-10</id>
+		<title></title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-NW-3-10-1</id>
+			<title>Inhalte</title>
+			<inhalt>
+				<id>C-NW-3-10-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-10-1-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-10-1-3</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-10-1-4</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-10-1-5</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-10-1-6</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-10-1-7</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-10-1-8</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-10-1-9</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>			
+		</inhalt>	
+		<inhalt>
+			<id>C-NW-3-10-2</id>
+			<title>Basiskonzept</title>
+			<content></content>
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-10-2-2</id>
+			<title>Beispiele</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-10-2-3</id>
+			<title>Beispiele für Unterrichtseinheiten</title>
+			<inhalt>
+				<id>C-NW-3-10-2-3-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-10-2-3-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>				
+		</inhalt>					
+		
+		<inhalt>
+			<id>C-NW-3-10-2-4</id>
+			<title>Weitere Kontexte</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>	
+	</themainhalt>
+	<themainhalt>
+		<id>C-NW-3-11</id>
+		<title></title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-NW-3-11-1</id>
+			<title>Inhalte</title>
+			<inhalt>
+				<id>C-NW-3-11-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-11-1-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-11-1-3</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-11-1-4</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-11-1-5</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-11-1-6</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-11-1-7</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-11-1-8</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-11-1-9</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>			
+		</inhalt>	
+		<inhalt>
+			<id>C-NW-3-11-2</id>
+			<title>Basiskonzept</title>
+			<content></content>
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-11-2-2</id>
+			<title>Beispiele</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-11-2-3</id>
+			<title>Beispiele für Unterrichtseinheiten</title>
+			<inhalt>
+				<id>C-NW-3-11-2-3-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-11-2-3-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>				
+		</inhalt>					
+		
+		<inhalt>
+			<id>C-NW-3-11-2-4</id>
+			<title>Weitere Kontexte</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>	
+	</themainhalt>
+	<themainhalt>
+		<id>C-NW-3-12</id>
+		<title></title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-NW-3-12-1</id>
+			<title>Inhalte</title>
+			<inhalt>
+				<id>C-NW-3-12-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-12-1-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-12-1-3</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-12-1-4</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-12-1-5</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-12-1-6</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-12-1-7</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-12-1-8</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-12-1-9</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>			
+		</inhalt>	
+		<inhalt>
+			<id>C-NW-3-12-2</id>
+			<title>Basiskonzept</title>
+			<content></content>
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-12-2-2</id>
+			<title>Beispiele</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-12-2-3</id>
+			<title>Beispiele für Unterrichtseinheiten</title>
+			<inhalt>
+				<id>C-NW-3-12-2-3-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-12-2-3-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>				
+		</inhalt>					
+		
+		<inhalt>
+			<id>C-NW-3-12-2-4</id>
+			<title>Weitere Kontexte</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>	
+	</themainhalt>
+	<themainhalt>
+		<id>C-NW-3-13</id>
+		<title></title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-NW-3-13-1</id>
+			<title>Inhalte</title>
+			<inhalt>
+				<id>C-NW-3-13-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-13-1-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-13-1-3</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-13-1-4</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-13-1-5</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-13-1-6</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-13-1-7</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-13-1-8</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-13-1-9</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>			
+		</inhalt>	
+		<inhalt>
+			<id>C-NW-3-13-2</id>
+			<title>Basiskonzept</title>
+			<content></content>
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-13-2-2</id>
+			<title>Beispiele</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-13-2-3</id>
+			<title>Beispiele für Unterrichtseinheiten</title>
+			<inhalt>
+				<id>C-NW-3-13-2-3-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-13-2-3-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>				
+		</inhalt>					
+		
+		<inhalt>
+			<id>C-NW-3-13-2-4</id>
+			<title>Weitere Kontexte</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>	
+	</themainhalt>
+	<themainhalt>
+		<id>C-NW-3-14</id>
+		<title></title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-NW-3-14-1</id>
+			<title>Inhalte</title>
+			<inhalt>
+				<id>C-NW-3-14-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-14-1-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-14-1-3</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-14-1-4</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-14-1-5</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-14-1-6</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-14-1-7</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-14-1-8</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-14-1-9</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>			
+		</inhalt>	
+		<inhalt>
+			<id>C-NW-3-14-2</id>
+			<title>Basiskonzept</title>
+			<content></content>
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-14-2-2</id>
+			<title>Beispiele</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-14-2-3</id>
+			<title>Beispiele für Unterrichtseinheiten</title>
+			<inhalt>
+				<id>C-NW-3-14-2-3-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-14-2-3-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>				
+		</inhalt>					
+		
+		<inhalt>
+			<id>C-NW-3-14-2-4</id>
+			<title>Weitere Kontexte</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>	
+	</themainhalt>
+	<themainhalt>
+		<id>C-NW-3-15</id>
+		<title></title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-NW-3-15-1</id>
+			<title>Inhalte</title>
+			<inhalt>
+				<id>C-NW-3-15-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-15-1-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-15-1-3</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-15-1-4</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-15-1-5</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-15-1-6</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-15-1-7</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-15-1-8</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-15-1-9</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>				
+			</inhalt>			
+		</inhalt>	
+		<inhalt>
+			<id>C-NW-3-15-2</id>
+			<title>Basiskonzept</title>
+			<content></content>
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-15-2-2</id>
+			<title>Beispiele</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>
+		<inhalt>
+			<id>C-NW-3-15-2-3</id>
+			<title>Beispiele für Unterrichtseinheiten</title>
+			<inhalt>
+				<id>C-NW-3-15-2-3-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW-3-15-2-3-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>				
+		</inhalt>					
+		
+		<inhalt>
+			<id>C-NW-3-15-2-4</id>
+			<title>Weitere Kontexte</title>
+			<content></content>
+			<content></content>
+			<content></content>				
+		</inhalt>	
+	</themainhalt>
+	
+
+	</c3>
+</fach>
