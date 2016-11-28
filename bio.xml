@@ -1473,9 +1473,8 @@ unterschiedlichen Aufgaben sehr verschieden. Ihre Grundstruktur ist aber außer 
 	</themainhalt>
 	<themainhalt>
 		<id>C-BIO-3-2</id>
-		<title>Lebensräume und ihre Bewohner – vielfältige Wechselwirkungen </title>
-		<content>
-		Lebewesen wie Pflanzen oder Tiere, die sich einen bestimmten Lebensraum teilen, bilden zusammen Lebensgemeinschaften. In diesen sind sie voneinander abhängig und leben 
+		<title>Lebensräume und ihre Bewohner – vielfältige Wechselwirkungen</title>
+		<content>Lebewesen wie Pflanzen oder Tiere, die sich einen bestimmten Lebensraum teilen, bilden zusammen Lebensgemeinschaften. In diesen sind sie voneinander abhängig und leben 
 somit in einem kleinen oder großen Ökosystem. Durch ein eng verzahntes Mosaik sehr 
 unterschiedlicher Lebensräume entsteht eine unglaubliche Artenvielfalt, die in diesem 
 Themenfeld untersucht werden soll.
@@ -1483,340 +1482,452 @@ Themenfeld untersucht werden soll.
 		<inhalt>
 			<id>C-BIO-3-2-1</id>
 			<title>Inhalte</title>
-			<content></content>
-			<content></content>
-			<content></content>
-			<content></content>
+			<content>Gliederung eines Ökosystems</content>
+			<content>Wechselbeziehungen im Ökosystem</content>
+			<content>Bedeutung der Ökosysteme für den Menschen
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-2-2</id>
 			<title>Experimente/Untersuchungen</title>
-			<content>Gliederung eines Ökosystems </content>
-			<content>Wechselbeziehungen im Ökosystem</content>
-			<content></content>
-			<content></content>
+			<content>Pflanzen- und Tierbestimmung</content>
+			<content>Anlegen einer Pflanzensammlung</content>
+			<content>Tierbeobachtung</content>
+			<content>Geländepraktikum</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-2-3</id>
 			<title>Bezüge zu den Basiskonzepten</title>
 			<inhalt>
 				<id>C-BIO-3-2-3-1</id>
-				<title></title>
-				<content></content>
+				<title>Entwicklung</title>
+				<content>Ökosystem im Wechsel der Jahreszeiten</content>
+				<content>langfristige Veränderungen von Ökosystemen</content>
+				<content>Veränderungen von Ökosystemen durch Eingriffe des Menschen</content>
 			</inhalt>
 			<inhalt>
 				<id>C-BIO-3-2-3-2</id>
-				<title></title>
-				<content></content>
+				<title>System</title>
+				<content>für ein Ökosystem charakteristische Arten und deren Bedeutung im 
+Gesamtgefüge</content>
+				<content>Nahrungsketten und -netze</content>
+				<content>Bedeutung von Umweltfaktoren für ein Ökosystem</content>
+				<content>Zusammenhänge von Organismus, Population und Ökosystem</content>
+				<content>Bedeutung der Fotosynthese</content>
+				<content>stoffliche und energetische Wechselwirkungen in einem Ökosystem</content>
+				<content>Energiefluss zwischen den Trophiestufen</content>
+				<content>Stoffkreisläufe in einem Ökosystem</content>
+				<content>Schutz der Umwelt und die Erfüllung der Grundbedürfnisse aller Lebewesen sowie künftiger Generationen als Merkmale nachhaltiger Entwicklung</content>
 			</inhalt>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-2-4</id>
 			<title>Mögliche Kontexte</title>
-			<content></content>
-			<content></content>
+			<content>Regenwürmer verbessern den Boden</content>
+			<content>Ein Insekt als Haustier</content>
+			<content>Asseln – landbewohnende Krebse?</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-2-5</id>
 			<title>Fachbegriffe</title>
-			<content></content>
-			<content></content>
+			<content>biotische und abiotische Umweltfaktoren</content>
+			<content>Fotosynthese</content>
+			<content>Symbiose, Parasitismus, Konkurrenz</content>
+			<content>Produzenten, Konsumenten, Destruenten</content>
+			<content>Nahrungskette/Nahrungsnetz</content>
+			<content>Ökosystem</content>
+			<content>Stoffkreislauf</content>
+			<content>Nachhaltigkeit und Umweltschutz</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-2-6</id>
 			<title>Beispiele für Differenzierungsmöglichkeiten</title>
-			<content></content>
-			<content></content>
+			<content>Untersuchung verschieden komplexer Ökosysteme (Pflasterritze, Hecke oder Teich)</content>
+			<content>Beurteilung anthropogener Einflüsse unter verschiedenen Aspekten der Nachhaltigkeit (sozial, ökonomisch und/oder ökologisch)</content>
+			<content>Darstellung von Stoffkreisläufen unter Verwendung von Wortgleichungen oder Reaktionsgleichungen</content>
 		</inhalt>		
 	</themainhalt>
 	<themainhalt>
 		<id>C-BIO-3-3</id>
-		<title></title>
-		<content>
+		<title>Stoffwechsel des Menschen</title>
+		<content>Das Wort Stoffwechsel ist ein häufig verwendeter Fachbegriff, wird aber oft nur synonym für Verdauung angewandt. Unter Stoffwechsel versteht man alle biochemischen Vorgänge, die innerhalb unseres Körpers auf unterschiedlichen Systemebenen ablaufen. Exemplarisch für Stoffwechselvorgänge werden in diesem Themenfeld Ernährung und Verdauung sowie Transport und Ausscheidung betrachtet. 
 		</content>
 		<inhalt>
 			<id>C-BIO-3-3-1</id>
 			<title>Inhalte</title>
-			<content></content>
-			<content></content>
-			<content></content>
-			<content></content>
+			<inhalt>
+				<id>C-BIO-3-3-1-1</id>
+				<title>Ernährung und Verdauung</title>
+				<content>Zusammensetzung der Nahrung</content>
+				<content>Bedeutung der Nähr- und Zusatzstoffe für den Menschen</content>
+				<content>Nachweisreaktionen der Nährstoffe</content>
+				<content>Bau und Funktion der Verdauungsorgane</content>
+	 	    </inhalt>
+	    	<inhalt>
+				<id>C-BIO-3-3-1-2</id>
+				<title>Transport und Ausscheidung</title>
+				<content>Bau und Funktion des Blutgefäßsystems und des Herzens</content>
+				<content>Zusammensetzung des Blutes und Funktion der Blutbestandteile, Blutgruppen</content>
+				<content>Bau und Funktion der Atmungsorgane</content>
+		    </inhalt>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-3-2</id>
 			<title>Experimente/Untersuchungen</title>
-			<content></content>
-			<content></content>
-			<content></content>
-			<content></content>
+			<content>Nährstoffnachweise</content>
+			<content>Praktikum: Herz-Kreislauf, Atmung z. B. Messung von Puls, Blutdruck und Atemfrequenz unter verschiedenen Bedingungen, Untersuchung der Atembewegungen</content>
+			<content>Modellbildung am Beispiel der Lunge oder des Herzens</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-3-3</id>
 			<title>Bezüge zu den Basiskonzepten</title>
 			<inhalt>
 				<id>C-BIO-3-3-3-1</id>
-				<title></title>
-				<content></content>
+				<title>Struktur und Funktion</title>
+				<content>Wirkungsweise von Enzymen (Schlüssel-Schloss-Prinzip)</content>
+				<content>Zusammenhang zwischen Bau und Funktion der Verdauungs- und Atmungsorgane</content>
+				<content>Aufbau und die Funktion des Herz-Kreislauf-Systems sowie deren Erkrankungen</content>
 			</inhalt>
 			<inhalt>
 				<id>C-BIO-3-3-3-2</id>
-				<title></title>
-				<content></content>
+				<title>System</title>
+				<content>Energiegehalt von Nährstoffen</content>
+				<content>Ernährungspyramide unter energetischen Aspekten</content>
+				<content>Prinzip der Zellatmung als Prozess der Energieumwandlung von chemisch gebundener Energie in andere Energieformen</content>
 			</inhalt>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-3-4</id>
 			<title>Mögliche Kontexte</title>
-			<content></content>
-			<content></content>
+			<content>Fast Food – Slow Food – Whole Food: Ernährung kritisch betrachtet</content>
+			<content>Essstörungen – mehr als eine Krankheit</content>
+			<content>Das Blut ist ein besonderer Saft</content>
+			<content>Herz- und Kreislauferkrankungen – Geißel unserer Kultur</content>
+			<content>Blutspende und Organtransplantation kann Leben retten</content>
+			<content>Erste-Hilfe-Maßnahmen – jeder kann helfen</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-3-5</id>
 			<title>Fachbegriffe</title>
-			<content></content>
-			<content></content>
+			<content>Fette, Eiweiße, Kohlenhydrate</content>
+			<content>Enzyme</content>
+			<content>Schlüssel-Schloss-Prinzip</content>
+			<content>AB0-System</content>
+			<content>Antigen, Antikörper</content>
+			<content>Arterien, Venen, Kapillaren</content>
+			<content>Blutkreislauf</content>
+			<content>Diffusion</content>	
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-3-6</id>
 			<title>Beispiele für Differenzierungsmöglichkeiten</title>
-			<content></content>
-			<content></content>
+			<content>Darstellung der Verdauung unter Verwendung von Wortgleichungen oder Reaktionsgleichungen</content>
+			<content>Vorgabe von detaillierten Versuchsdurchführungen oder thesengeleitete Experimente zur Durchführung von Nährstoffnachweisen </content>
+			<content>Nutzung unterschiedlicher Modelle verschiedener Abstraktionsniveaus für die Beschreibung von Prozessen des Herz-Kreislauf- sowie des Atmungssystems</content>
 		</inhalt>		
 	</themainhalt>
 	<themainhalt>
 		<id>C-BIO-3-4</id>
-		<title></title>
-		<content>
-		</content>
+		<title>Sexualität, Fortpflanzung und Entwicklung</title>
+		<content>Sich fortzupflanzen und die eigenen Gene an die nächste Generation weiterzugeben, ist,  evolutionsbiologisch betrachtet, das Ziel aller Lebewesen. Beim Menschen ist die Sexualität im Gegensatz zu fast allen anderen Tieren kein reines Instinktverhalten. In diesem Themenfeld werden die Komplexität der Sexualität, aber auch die Entwicklung des Menschen und die Geburt betrachtet. Der Pubertät als einer Zeit starker körperlicher Veränderungen und des Entdeckens der eigenen Sexualität wird in diesem Themenfeld besondere Bedeutung beigemessen.</content>
 		<inhalt>
 			<id>C-BIO-3-4-1</id>
 			<title>Inhalte</title>
-			<content></content>
-			<content></content>
-			<content></content>
-			<content></content>
+			<inhalt>
+				<id>C-BIO-3-4-1-1</id>
+				<title>Grundlagen menschlicher Sexualität</title>
+				<content>Bau und Funktion der Geschlechtsorgane</content>
+				<content>Hormone und Hormonwirkung, Pubertät</content>
+				<content>Liebe und Partnerschaft</content>
+				<content>Verhütung</content>
+			</inhalt>
+			<inhalt>
+				<id>C-BIO-3-4-1-2</id>
+				<title>Die Entwicklung des Menschen</title>
+				<content>Entwicklung von Embryo und Fetus</content>
+				<content>Schwangerschaft und Geburt</content>
+			</inhalt>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-4-2</id>
 			<title>Experimente/Untersuchungen</title>
-			<content></content>
-			<content></content>
-			<content></content>
-			<content></content>
+			<content>Umgang mit Kondomen am Modell</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-4-3</id>
 			<title>Bezüge zu den Basiskonzepten</title>
 			<inhalt>
 				<id>C-BIO-3-4-3-1</id>
-				<title></title>
-				<content></content>
+				<title>Entwicklung</title>
+				<content>Befruchtung, Keimesentwicklung und Geburt als Stationen der Individualentwicklung des Menschen</content>
+				<content>Verfahren der pränatalen Diagnostik</content>
 			</inhalt>
 			<inhalt>
 				<id>C-BIO-3-4-3-2</id>
-				<title></title>
-				<content></content>
+				<title>Struktur und Funktion</title>
+				<content>Vor- und Nachteile verschiedener Verhütungsmethoden</content>
+				<content>Wirkungsweise der Sexualhormone bei der Regulation des weiblichen Zyklus und deren Bedeutung für die Pubertät</content>
+			</inhalt>
+			<inhalt>
+				<id>C-BIO-3-4-3-3</id>
+				<title>System</title>
+				<content>biologische, ethische, soziale und kulturelle Fragen der Sexualität</content>
 			</inhalt>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-4-4</id>
 			<title>Mögliche Kontexte</title>
-			<content></content>
-			<content></content>
+			<content>Das erste Mal</content>
+			<content>Nein! heißt Nein – sexueller Missbrauch</content>
+			<content>Pubertät – ich verändere mich</content>
+			<content>Ungewollt schwanger – und jetzt?</content>
+			<content>Hygiene und sexuell übertragbare Krankheiten</content>
+			<content>Es ist normal, verschieden zu sein</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-4-5</id>
 			<title>Fachbegriffe</title>
-			<content></content>
-			<content></content>
+			<content>Spermium, Eizelle</content>
+			<content>Zygote</content>
+			<content>Hormone</content>
+			<content>sexuelle Selbstbestimmung</content>
+			<content>sexuelle Orientierung</content>
+			<content>Geschlechtsidentität</content>
+			<content>Transgeschlechtlichkeit und Intergeschlechtlichkeit</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-4-6</id>
 			<title>Beispiele für Differenzierungsmöglichkeiten</title>
-			<content></content>
-			<content></content>
+			<content>Nutzung unterschiedlicher Informationsquellen, z. B. Informationsmaterial der Bundeszentrale für gesundheitliche Aufklärung (BZgA), Besuch von Beratungsstellen oder Fachärzten</content>
+			<content>geschlechtsspezifische Differenzierung, Intergeschlechtlichkeit</content>
+			<content>Darstellung der Regulation der Geschlechtshormone und ihre Wirkung auf den Organismus auf unterschiedlichen Abstraktionsniveaus</content>
+			<content>Lernszenarien unter Berücksichtigung verschiedener Perspektiven der Jugendlichen</content>
 		</inhalt>		
 	</themainhalt>
 	<themainhalt>
 		<id>C-BIO-3-5</id>
-		<title></title>
-		<content>
-		</content>
+		<title>Gesundheit - Krankheit</title>
+		<content>Überall in unserer Umwelt gibt es Bakterien, Viren, Pilze und Einzeller. Manche von ihnen wirken als Krankheitserreger. Gelingt es ihnen, in den menschlichen Körper einzudringen, treffen sie auf ein komplexes Abwehrsystem, das die Erreger ganz allgemein aber auch sehr gezielt bekämpft. Die Abläufe der Immunantwort und Möglichkeiten zur Bekämpfung von Infektionskrankheiten, z. B. durch Impfungen, werden in diesem Themenfeld erarbeitet.</content>
 		<inhalt>
 			<id>C-BIO-3-5-1</id>
 			<title>Inhalte</title>
-			<content></content>
-			<content></content>
-			<content></content>
-			<content></content>
+			<content>Bakterien und Viren als Krankheitserreger; Infektionskrankheiten</content>
+			<content>Bestandteile des Immunsystems</content>
+			<content>passive und aktive Immunisierung</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-5-2</id>
 			<title>Experimente/Untersuchungen</title>
-			<content></content>
-			<content></content>
-			<content></content>
-			<content></content>
+			<content>Auswertung statistischer Untersuchungen zu Infektionskrankheiten</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-5-3</id>
 			<title>Bezüge zu den Basiskonzepten</title>
 			<inhalt>
 				<id>C-BIO-3-5-3-1</id>
-				<title></title>
-				<content></content>
+				<title>Struktur und Funktion</title>
+				<content>Merkmale von Bakterien</content>
+				<content>Bau und das Prinzip der Vermehrung von Viren</content>
+				<content>Antigen-Antikörper-Reaktion und aktive und passive Immunisierung</content>
 			</inhalt>
 			<inhalt>
 				<id>C-BIO-3-5-3-2</id>
-				<title></title>
-				<content></content>
+				<title>System</title>
+				<content>Bestandteile des Immunsystems (humorale und zelluläre Immunabwehr)</content>
 			</inhalt>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-5-4</id>
 			<title>Mögliche Kontexte</title>
-			<content></content>
-			<content></content>
+			<content>Geschichte des Penicillins</content>
+			<content>HIV/AIDS, Grippe, HPV</content>
+			<content>Mein Impfausweis</content>
+			<content>Allergien</content>
+			<content>Reisen in andere Klimazonen </content>
+			<content>Tiere als Krankheitsüberträger</content>
+			<content>Schutzimpfungen – Wohl oder Übel</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-5-5</id>
 			<title>Fachbegriffe</title>
-			<content></content>
-			<content></content>
+			<content>prokaryotische Zelle</content>
+			<content>Antibiotikum</content>
+			<content>Infektion</content>
+			<content>spezifische und unspezifische Immunabwehr</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-5-6</id>
 			<title>Beispiele für Differenzierungsmöglichkeiten</title>
-			<content></content>
-			<content></content>
+			<content>Darstellung der Immunabwehr auf unterschiedlichen Abstraktionsniveaus</content>
+			<content>Nutzung unterschiedlicher Modelle verschiedener Abstraktionsniveaus für die Darstellung des Baus von Bakterien und Viren</content>
+			<content>Recherche zu Infektionskrankheiten unter Nutzung unterschiedlicher Quellen (Literatur, Internet, Besuch einer Beratungsstelle)</content>
 		</inhalt>		
 	</themainhalt>
 	<themainhalt>
 		<id>C-BIO-3-6</id>
-		<title></title>
-		<content>
-		</content>
+		<title>Bau und Funktion des Nervensystems</title>
+		<content>Das Nervensystem umfasst alle Nervenzellen des menschlichen Körpers. Mit ihm kommuni-ziert er mit der Umwelt und steuert gleichzeitig vielfältige Mechanismen im Inneren. Das Nervensystem nimmt mithilfe von Sinneszellen Informationen aus der Umwelt auf, verarbeitet sie und löst Reaktionen wie Muskelbewegungen oder Schmerzempfindungen aus. Dieses System kann durch Drogen oder Erkrankungen beeinträchtigt werden.</content>
 		<inhalt>
 			<id>C-BIO-3-6-1</id>
 			<title>Inhalte</title>
-			<content></content>
-			<content></content>
-			<content></content>
-			<content></content>
+			<inhalt>
+				<id>C-BIO-3-6-1-1</id>
+				<title>Sinne des Menschen</title>
+				<content>Sinnesorgane und Reizarten</content>
+				<content>Bau und Funktion eines Sinnesorgans</content>
+				<content>Funktionsstörung des Sinnesorgans</content>
+			</inhalt>
+			<inhalt>
+				<id>C-BIO-3-6-1-2</id>
+				<title>Nervensystem</title>
+				<content>Bau und Funktion der Nervenzelle</content>
+				<content>Aufbau und Funktion des Nervensystems</content>
+			</inhalt>
+			<inhalt>
+				<id>C-BIO-3-6-1-3</id>
+				<title>Sucht und Suchtprävention</title>
+			</inhalt>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-6-2</id>
 			<title>Experimente/Untersuchungen</title>
-			<content></content>
-			<content></content>
-			<content></content>
-			<content></content>
+			<content>­	Experimente zu den Leistungen der Sinnesorgane</content>
+			<content>­	Mikroskopie von Nervenzellen (Dauerpräparat)</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-6-3</id>
 			<title>Bezüge zu den Basiskonzepten</title>
 			<inhalt>
 				<id>C-BIO-3-6-3-1</id>
-				<title></title>
-				<content></content>
+				<title>Struktur und Funktion</title>
+				<content>Aufbau des Nervensystems und Funktion im Zusammenwirken mit Sinnesorganen (Reiz-Reaktions-Schema)</content>
+				<content>Zusammenhang zwischen Bau und Funktion sowie Funktions-störungen von Sinnesorganen</content>
 			</inhalt>
 			<inhalt>
 				<id>C-BIO-3-6-3-2</id>
-				<title></title>
-				<content></content>
+				<title>System</title>
+				<content>Zusammenwirken von Organen und Organsystemen beim Informationsaustausch bei einem Sinnesorgan</content>
+				<content>biologische, ethische, soziale und kulturelle Fragen des Drogenmissbrauchs</content>
 			</inhalt>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-6-4</id>
 			<title>Mögliche Kontexte</title>
-			<content></content>
-			<content></content>
+			<content>Funktionsstörungen der Sinnesorgane</content>
+			<content>Schädigungen und Erkrankungen des Nervensystems</content>
+			<content>Sinne und Gehirn arbeiten zusammen – Sinnestäuschungen</content>
+			<content>Lernen und Gedächtnis</content>
+			<content>Stress meiden – gesund bleiben</content>
+			<content>Wege in die Sucht – legale und illegale Drogen</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-6-5</id>
 			<title>Fachbegriffe</title>
-			<content></content>
-			<content></content>
+			<content>Axon, Synapse, Soma, Dendrit</content>
+			<content>Zentralnervensystem und peripheres Nervensystem</content>
+			<content>vegetatives Nervensystem</content>
+			<content>Reflex</content>
+			<content>Reiz-Reaktion-Schema</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-6-6</id>
 			<title>Beispiele für Differenzierungsmöglichkeiten</title>
-			<content></content>
-			<content></content>
+			<content>Beschreibung oder Erklärung der Informationsaufnahme und -weitergabe im Nervensystem auf unterschiedlichen Abstraktionsniveaus</content>
+			<content>Nutzung unterschiedlicher Modelle verschiedener Abstraktionsniveaus für die Beschreibung von Prozessen der Informationsaufnahme, -verarbeitung und -speicherung </content>
 		</inhalt>		
 	</themainhalt>
 	<themainhalt>
 		<id>C-BIO-3-7</id>
-		<title></title>
-		<content>
-		</content>
+		<title>Genetik</title>
+		<content>Der biologische Teilbereich der Genetik befasst sich neben der Weitergabe von Genen auch mit der Ausprägung von Merkmalen. Ausgehend von den Kreuzungsexperimenten Mendels werden die bis heute noch gültigen Vererbungsregeln in verschiedenen Zusammenhängen untersucht. Von besonderem Interesse ist dabei die Humangenetik, welche sich mit der Vererbung beim Menschen beschäftigt.</content>
 		<inhalt>
 			<id>C-BIO-3-7-1</id>
 			<title>Inhalte</title>
-			<content></content>
-			<content></content>
-			<content></content>
-			<content></content>
+			<inhalt>
+				<id>C-BIO-3-7-1-1</id>
+				<title>zelluläre Grundlagen der Vererbung</title>
+				<content>Chromosomen als Träger der Erbanlagen</content>
+				<content>Zellteilungsprozesse</content>
+				<content>Gregor Mendel und die Vererbungsregeln</content>
+			</inhalt>
+			<inhalt>
+				<id>C-BIO-3-7-1-2</id>
+				<title>Vererbung beim Menschen</title>
+				<content>Methoden der Humangenetik</content>
+				<content>Vererbung der Blutgruppen und des Geschlechts</content>
+				<content>Mutationen, genetisch bedingte Krankheiten</content>
+			</inhalt>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-7-2</id>
 			<title>Experimente/Untersuchungen</title>
-			<content></content>
-			<content></content>
-			<content></content>
-			<content></content>
+			<content>Arbeiten mit Chromosomen-Modellen</content>
+			<content>Auswertung von Karyogrammen</content>
+			<content>Aufstellen und Analysieren von Stammbäumen</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-7-3</id>
 			<title>Bezüge zu den Basiskonzepten</title>
 			<inhalt>
 				<id>C-BIO-3-7-3-1</id>
-				<title></title>
-				<content></content>
+				<title>Struktur und Funktion</title>
+				<content>Gesetzmäßigkeiten von Erbgängen</content>
+				<content>Chromosomen als Träger der genetischen Information und deren Rolle bei der Zellteilung</content>
 			</inhalt>
 			<inhalt>
 				<id>C-BIO-3-7-3-2</id>
-				<title></title>
-				<content></content>
+				<title>Entwicklung</title>
+				<content>Vorgang der Mitose und ihre Bedeutung</content>
+				<content>Prinzip und Bedeutung der Meiose am Beispiel des Menschen</content>
+				<content>mendelsche Regeln</content>
+				<content>Unterschied zwischen Mutation und Modifikation</content>
 			</inhalt>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-7-4</id>
 			<title>Mögliche Kontexte</title>
-			<content></content>
-			<content></content>
+			<content>Ein Mönch entdeckt Vererbungsregeln</content>
+			<content>Genetik in der Landwirtschaft – Züchtung</content>
+			<content>Genetische Beratung</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-7-5</id>
 			<title>Fachbegriffe</title>
-			<content></content>
-			<content></content>
+			<content>Chromosomen</content>
+			<content>DNA</content>
+			<content>Gen/Allel</content>
+			<content>Mitose/Meiose</content>
+			<content>Genotyp/Phänotyp</content>
+			<content>Erbgänge</content>
+			<content>Kreuzungsschema</content>
+			<content>Modifikation</content>
+			<content>Mutation</content>
+			<content>Karyogramm</content>
+			<content>Pränatale Diagnostik</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-7-6</id>
 			<title>Beispiele für Differenzierungsmöglichkeiten</title>
-			<content></content>
-			<content></content>
+			<content>Nutzung oder Bau unterschiedlicher Modelle verschiedener Abstraktionsniveaus für die Beschreibung von Zellteilungsprozessen</content>
+			<content>Analysieren/Interpretieren von Stammbäumen oder Entwickeln von Stammbäumen anhand von Fachtexten</content>
+			<content>Recherche zu genetisch bedingten Krankheiten unter Nutzung unterschiedlicher Quellen (Literatur, Internet, Besuch einer Beratungsstelle) und Präsentation der Ergebnisse in verschiedenen Formen</content>
 		</inhalt>		
 	</themainhalt>
 	<themainhalt>
 		<id>C-BIO-3-8</id>
-		<title></title>
-		<content>
-		</content>
+		<title>Evolution</title>
+		<content>In der Evolution spiegeln sich die Vielfalt der Lebewesen und deren Wechselwirkungen wider. Betrachtungen zur Evolution beleuchten die Entstehung und das Werden des Lebens als stammesgeschichtlichen Prozess und vermitteln die Einsicht, dass wir Menschen Teil der Evolution sind. In diesem Themenfeld geht es um die Vernetzung und punktuelle Vertiefung des bereits erworbenen Wissens über Ökologie, Genetik und Evolution.</content>
 		<inhalt>
 			<id>C-BIO-3-8-1</id>
 			<title>Inhalte</title>
-			<content></content>
-			<content></content>
-			<content></content>
-			<content></content>
+			<content>Evolutionstheorien von Lamarck und Darwin</content>
+			<content>Indizien für die Evolution</content>
+			<content>Evolution des Menschen</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-8-2</id>
 			<title>Experimente/Untersuchungen</title>
-			<content></content>
-			<content></content>
+			<content>Vergleich von Fossilien</content>
+			<content>Vergleich von Hominidenschädeln</content>
 			<content></content>
 			<content></content>
 		</inhalt>
@@ -1825,87 +1936,55 @@ Themenfeld untersucht werden soll.
 			<title>Bezüge zu den Basiskonzepten</title>
 			<inhalt>
 				<id>C-BIO-3-8-3-1</id>
-				<title></title>
-				<content></content>
+				<title>System</title>
+				<content>Angepasstheiten von Organismen an die Umwelt</content>
 			</inhalt>
 			<inhalt>
 				<id>C-BIO-3-8-3-2</id>
-				<title></title>
-				<content></content>
+				<title>Entwicklung</title>
+				<content>Fossilien als Belege für Evolution</content>
+				<content>stammesgeschichtliche Verwandtschaft ausgewählter Pflanzen oder Tiere</content>
+				<content>Abstammung des Menschen </content>
+				<content>Mutationen und Selektion als Beispiele für Mechanismen der Evolution</content>
 			</inhalt>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-8-4</id>
 			<title>Mögliche Kontexte</title>
-			<content></content>
-			<content></content>
+			<content>Wie alles begann – die Entstehung der Erde und des Lebens</content>
+			<content>Die Stammesgeschichte der Organismen</content>
+			<content>Der Landgang der Pflanzen und Wirbeltiere</content>
+			<content>Darwin – ein Forscherleben</content>
+			<content>Wie wir wurden, was wir sind</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-8-5</id>
 			<title>Fachbegriffe</title>
-			<content></content>
-			<content></content>
+			<content>Art</content>
+			<content>Fossilien</content>
+			<content>Rudiment</content>
+			<content>Homologie/Analogie</content>
+			<content>Brückentier</content>
+			<content>Evolutionsfaktoren (Selektion, Isolation, Mutation)</content>
+			<content>Variabilität</content>
+			<content>Stammbaum</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-8-6</id>
 			<title>Beispiele für Differenzierungsmöglichkeiten</title>
-			<content></content>
-			<content></content>
+			<content>Aufgabenstellungen unterschiedlicher Komplexität bei der Beschreibung bzw. Erklärung der Entstehung von Arten durch das Wirken der verschiedenen Evolutionsfaktoren</content>
+			<content>Lernszenarien zur Erarbeitung verschiedener Evolutionstheorien unter Berücksichtigung der unterschiedlichen Lerntypen</content>
+			<content>Beschreibungen oder Erklärungen zur Abgrenzung von homologen und analogen Entwicklungen auf unterschiedlichen Abstraktionsniveaus </content>
 		</inhalt>		
 	</themainhalt>
 	<themainhalt>
 		<id>C-BIO-3-9</id>
-		<title></title>
-		<content>
+		<title>Wahlpflichtfach</title>
+		<content>Der Wahlpflichtunterricht stellt ein Angebot dar, das über den Regelunterricht hinausgeht und ihn thematisch erweitert. Er dient der Vertiefung von Fachinhalten und schafft die Möglichkeit, Fachliches und Überfachliches zu verbinden. 
+Im schulinternen Curriculum wird sichergestellt, dass thematische Dopplungen mit dem Re-gelunterricht und Vorgriffe auf Inhalte des Unterrichts in der gymnasialen Oberstufe vermieden werden.
+Grundlage für den Unterricht im Wahlpflichtfach sind die fachlichen Kompetenzbereiche. Werden weitere Fächer hinzugezogen, gilt dies für die Kompetenzbereiche aller beteiligten Fächer.  
+In den Fächern Biologie, Chemie und Physik kann im Wahlpflichtfach auf Themenfelder aus dem Fachteil Naturwissenschaften 7 – 10 zurückgegriffen werden.
 		</content>
-		<inhalt>
-			<id>C-BIO-3-9-1</id>
-			<title>Inhalte</title>
-			<content></content>
-			<content></content>
-			<content></content>
-			<content></content>
-		</inhalt>
-		<inhalt>
-			<id>C-BIO-3-9-2</id>
-			<title>Experimente/Untersuchungen</title>
-			<content></content>
-			<content></content>
-			<content></content>
-			<content></content>
-		</inhalt>
-		<inhalt>
-			<id>C-BIO-3-9-3</id>
-			<title>Bezüge zu den Basiskonzepten</title>
-			<inhalt>
-				<id>C-BIO-3-9-3-1</id>
-				<title></title>
-				<content></content>
-			</inhalt>
-			<inhalt>
-				<id>C-BIO-3-9-3-2</id>
-				<title></title>
-				<content></content>
-			</inhalt>
-		</inhalt>
-		<inhalt>
-			<id>C-BIO-3-9-4</id>
-			<title>Mögliche Kontexte</title>
-			<content></content>
-			<content></content>
-		</inhalt>
-		<inhalt>
-			<id>C-BIO-3-9-5</id>
-			<title>Fachbegriffe</title>
-			<content></content>
-			<content></content>
-		</inhalt>
-		<inhalt>
-			<id>C-BIO-3-9-6</id>
-			<title>Beispiele für Differenzierungsmöglichkeiten</title>
-			<content></content>
-			<content></content>
-		</inhalt>		
 	</themainhalt>
 
 	</c3>
