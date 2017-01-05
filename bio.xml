@@ -7,7 +7,7 @@
 	<title>biologie</title>
 	<c1>
 		<id>C-BIO-1</id>
-		<title></title>
+		<title>Kompetenzentwicklung im Fach Biologie</title>
 		<subtext>
 			<id>C-BIO-1-1</id>
 			<title>Ziele des Unterrichts</title>
@@ -1484,7 +1484,7 @@ Themenfeld untersucht werden soll.
 			<title>Inhalte</title>
 			<content>Gliederung eines Ökosystems</content>
 			<content>Wechselbeziehungen im Ökosystem</content>
-			<content>Bedeutung der Ökosysteme für den Menschen
+			<content>Bedeutung der Ökosysteme für den Menschen</content>
 		</inhalt>
 		<inhalt>
 			<id>C-BIO-3-2-2</id>

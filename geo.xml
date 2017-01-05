@@ -1,0 +1,1111 @@
+<?xml version="1.0"?>
+<fach xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns="http://bsbb.eu" 
+	xsi:schemaLocation="http://bsbb.eu fachtype.xsd">
+
+	<id>C-GEO</id>
+	<title>Geografie</title>
+	<c1>
+		<id>C-GEO-1</id>
+		<title>Kompetenzentwicklung im Fach Geografie</title>
+		<subtext>
+			<id>C-GEO-1-1</id>
+			<title>Ziele des Unterrichts</title>
+			<content>
+			Das Fach Geografie bietet den Schülerinnen und Schülern ein besonderes Entwicklungs­potenzial, denn im Geografieunterricht eröffnen sich den Lernenden vielfältige Gelegenheiten, eine komplexer werdende, sich ständig verändernde Welt besser zu verstehen und sich in ihr zu orientieren, um verantwortungsbewusst Entscheidungen zu treffen sowie nach diesen nachhaltig handeln zu können. 
+Im Zeitalter der Globalisierung ist systemisches und vernetztes Denken, Planen, Organisieren und Handeln eine tägliche Herausforderung im Alltag und im Berufsleben. Das Fach Geografie fördert diese Kompetenzen unter besonderer Berücksichtigung neuer Kommunikationsmöglichkeiten und durch Übernahme von Verantwortung im Lernprozess seitens der Schülerinnen und Schüler. In der Auseinandersetzung mit komplexen Zusammenhängen entwickeln die Lernenden kommunikative Fertigkeiten sowie die Fähigkeit zum selbstständigen Arbeiten und zur Teamarbeit. Somit werden sie auch auf ihre spätere Arbeitstätigkeit vorbereitet.
+Geografieunterricht beinhaltet die Analyse und die Bewertung komplexer regionaler Beziehungsmuster. Die Schülerinnen und Schüler betrachten Strukturen, Funktionen und Prozesse, die sich sowohl auf natürliche als auch auf soziale Phänomene beziehen können, aus einer geografischen Perspektive. Diese weist Orten Bedeutungen zu und diskutiert deren Vernetzung und Interaktionen auf globaler, regionaler und lokaler Ebene. Dabei werden Orte und Räume als konstruiert verstanden, wobei alle vier Raumkonzepte berücksichtigt werden: Neben dem Realraum und dem Beziehungsraum sollen dem individuell wahrgenommenen Raum sowie dem Raum in seiner gesellschaftlichen Wahrnehmung eine gleichberechtigte Bedeutung zugemessen werden. Diese Besonderheiten des Faches ermöglichen es, die Wechselwirkungen menschlichen Handelns und der Umwelt auf unterschiedlichen Maßstabsebenen und mit verschiedenen Methoden zu untersuchen. Das heißt, die Lernenden werden in die Lage versetzt, verschiedene Phänomene und Prozesse zu kategorisieren und zu analysieren sowie Entwicklungen zu prognostizieren und in ihren Auswirkungen multiperspektivisch zu beurteilen.
+Im Fach Geografie kommt dem exemplarischen Lernen eine große Bedeutung zu. Anhand geeigneter Fallstudien sowie unter Nutzung von ausgewählten geografischen Konzepten wird ein besseres Verständnis der Welt entwickelt.
+Die großen Herausforderungen unserer Zeit leiten die Auswahl der Inhalte des Geografie­unterrichts aus den relevanten Themenbereichen Globalisierung und Regionalisierung, Ökonomie und Ökologie, Bevölkerungsentwicklung und Verstädterung, Ressourcen und Energie, regionale und globale Disparitäten sowie Klimawandel und Klimaschutz. Die Orientierung an diesen Herausforderungen ermöglicht es, Geografieunterricht aktuell und lebensweltnah zu gestalten.
+In diesen Themenbereichen ergeben sich relevante Fragestellungen. Ziel des geografischen Lernens ist, diese ins Zentrum geografischen Denkens zu setzen, um im Alltag verantwortungsbewusst und nachhaltig handeln zu können.
+Geografisches Lernen fördert insbesondere Aspekte aus den übergreifenden Themen Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen, der kulturellen und interkulturellen Bildung, der Verbraucherbildung, der Mobilitätsbildung, der Europabildung sowie der Demokratiebildung und knüpft auch an die Themen Gleichstellung sowie Gleichberechtigung der Geschlechter (Gender Mainstreaming) sowie der Sexualerziehung/Bildung für sexuelle Selbstbestimmung an.
+Ebenso bedeutsam ist die Medienbildung, die durch den Einsatz, z. B. von Geoinformationssystemen und Werkzeugen der Fernerkundung, vermittelt werden kann.
+Vor allem durch die Arbeit mit sprachlichen und nichtsprachlichen Materialien und Medien wird die rezeptive und produktive Sprachkompetenz entwickelt. Dabei wenden die Lernenden an konkreten geografischen Beispielen die Fachsprache an.
+Im Geografieunterricht bekommen die Schülerinnen und Schüler die Gelegenheit, fachspezi-fische Kompetenzen zu entwickeln. Eine besondere Bedeutung haben dabei herausfordernde Aufgaben, durch sie können die Lernenden ihr Wissen in Kompetenzen umsetzen. Eine 
+entsprechende Aufgabenkultur in Form von komplexen Lernaufgaben, z. B. auch unter forschungsleitender Fragestellung (problemorientierter Unterricht), spielt somit eine wichtige 
+Rolle.
+Diversität ist ein Untersuchungsgegenstand der Geografie. Das inklusive geografische Lernen geht von der grundsätzlichen Verschiedenheit und Pluralität in der Gesellschaft aus und erkennt diese Vielfalt an. Durch diesen Zugang wird Diversität als Stärke wahrgenommen. Neben dem Blick auf das Eigene bekommen die Lernenden durch die Untersuchung der Vielfalt die Möglichkeit, sich von ihnen individuell als fremd und anders Empfundenem zu öffnen, aber auch den eigenen Umgang damit zu reflektieren. Ein Unterricht, der diese Pluralität beherzigt, orientiert sich an den Bedürfnissen und Möglichkeiten aller Lernenden.
+			</content>
+		</subtext>
+		<subtext>
+			<id>C-GEO-1-2</id>
+			<title>Fachbezogene Kompetenzen</title>
+			<content>
+			Das Kompetenzmodell für den Geografieunterricht beschreibt die Kompetenzbereiche, in denen die Schülerinnen und Schüler Fähigkeiten und Fertigkeiten entwickeln. Dabei werden die Kompetenzbereiche Systeme erschließen, Methoden anwenden, Kommunizieren, Urteilen sowie der Kompetenzbereich Sich orientieren, der das Alleinstellungsmerkmal des Faches Geografie darstellt, so miteinander verknüpft, dass sie in der zentralen geografischen Handlungskompetenz zusammenfließen. Damit werden die Schülerinnen und Schüler befähigt, begründete lebensweltliche Entscheidungen zu treffen und an der demokratischen Entwicklung der Gesellschaft teilzunehmen.
+Der Kompetenzbereich Systeme erschließen umfasst die Fähigkeit der Schülerinnen und Schüler, mit anwendungsorientiertem, raumbezogenem Fachwissen natürliche und soziale Phänomene auf unterschiedlichen Maßstabsebenen als geografische Systeme erfassen sowie Wechselbeziehungen zwischen Mensch und Umwelt analysieren zu können. Die Schülerinnen und Schüler können Kenntnisse auf neue Sachverhalte anwenden sowie Problem­lösungsstrategien entwickeln und umsetzen. Die Systemkompetenz wird durch die Auseinan­dersetzung mit geografischen Strukturen, Funktionen und Prozessen entwickelt.
+Im Kompetenzbereich Methoden anwenden wird die Fähigkeit der Schülerinnen und Schüler entwickelt, geografisch relevante Informationen und Erkenntnisse zu gewinnen, auszuwerten, darzustellen sowie ihre Arbeitsschritte zu reflektieren. Der Besuch von außerschulischen Lernorten bietet dafür besondere Lerngelegenheiten und ist somit fester Bestandteil des Geografieunterrichts. 
+Der Kompetenzbereich Sich orientieren beschreibt die Fähigkeit, sich mithilfe von topografischem Grundwissen, Karten und Plänen sowie technischen Hilfsmitteln bzw. Leitsystemen (Symbole und Piktogramme) in Räumen zu orientieren. Sie umfasst den sachgerechten 
+Umgang mit Orientierungsrastern (z. B. Gradnetz, Zeitzonen) und Ordnungssystemen 
+(z. B. Klima- und Vegetationszonen, Wirtschaftsräume).
+Im Kompetenzbereich Kommunizieren wird vor allem die Fähigkeit entwickelt, geografische Sachverhalte auf angemessenem fachsprachlichem Niveau zu verstehen, zu verbalisieren und adressatengerecht zu präsentieren. Die Schülerinnen und Schüler können kommunikative Absichten unterscheiden und Argumente formulieren. 
+Der Kompetenzbereich Urteilen bedeutet hier die Fähigkeit, raumbezogene Sachverhalte und Probleme, Informationen aus Medien und geografische Erkenntnisse kriteriengeleitet zu 
+reflektieren. Ein Urteil muss ausgewogen, sachlich korrekt und begründet sein sowie mehrere Perspektiven berücksichtigen. Die Sachurteilsbildung ist die Fähigkeit, geografische Gegen­stände unter Anwendung fachbezogener Kenntnisse und Methoden zu prüfen. Ein Werturteil bezieht sich auf einen transparenten ethischen Rahmen. 
+Diese Kompetenzbereiche dienen dazu, die übergeordnete geografische Handlungskompetenz zu entwickeln, das heißt, sie ermöglichen es, im Rahmen gesellschaftlicher Teilhabe sachgerecht und ethische Vorstellungen berücksichtigend handeln zu können.
+Im Fach Geografie werden die im Fach Gesellschaftswissenschaften 5/6 geförderten geografischen Erkenntnisse aufgegriffen und bereits vorhandene geografische Kompetenzen weiterentwickelt. Fachübergreifende Methoden- und Urteilskompetenzen werden geografie­spezifisch konkretisiert und ausgebaut.
+			</content>
+		</subtext>
+	</c1>
+	<c2>
+	<vorwort>
+		<id>C-GEO-2-BE</id>
+		<title>Regelungen für das Land Berlin</title>
+		<content>
+		Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen 
+Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren 
+Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler.
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungs­vorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+Für Grundschulen und Grundstufen der Gemeinschaftsschulen sowie an 
+weiterführenden Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Schulanfangsphase 	Niveaustufen A, B, in Teilen C
+Jahrgangsstufen	3 – 4	Niveaustufe C, in Teilen D
+Jahrgangsstufe	5	Niveaustufen C – D 
+Jahrgangsstufe	6	Niveaustufe D, in Teilen E
+
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen 
+werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufe 	3	Niveaustufe B, in Teilen C
+Jahrgangsstufen	4 – 6	Niveaustufe C
+Jahrgangsstufen 	7 – 8	Niveaustufe D
+Jahrgangsstufen 	9 – 10	Niveaustufen D – E
+
+Zur Vorbereitung auf den der Berufsbildungsreife gleichwertigen Abschluss werden in den Jahrgangsstufen 9 und 10 auch Angebote auf dem Niveau F unterbreitet.
+Je nach dem Grad der Lernbeeinträchtigung erreichen die Schülerinnen und Schüler die 
+gesetzten Standards nicht im vollen Umfang bzw. nicht zum vorgegebenen Zeitpunkt. Dem trägt eine individuelle Ausrichtung des Unterrichtsangebots Rechnung.
+Für die Integrierte Sekundarschule gilt:
+grundlegendes Niveau:
+Jahrgangsstufen	7 – 8	Niveaustufen D – E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufe F, in Teilen G
+erweitertes Niveau: 
+Jahrgangsstufen	7 – 8 	Niveaustufe E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufen F – G
+
+
+Für das Gymnasium gilt:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+
+Die folgende Darstellung veranschaulicht die im Berliner Schulsystem in den Jahrgangs-stufen 1 bis 10 möglichen Lerngeschwindigkeiten im Überblick und zeigt die Durchlässigkeit des Schulsystems. Sie bietet zudem eine Grundlage für eine systematische Schullaufbahnberatung. In der Darstellung ist auch erkennbar, welche Anforderungen Schülerinnen und Schüler erfüllen müssen, die die Voraussetzungen für den Erwerb der Berufsbildungsreife erst am Ende der Jahrgangsstufe 10 erreichen. Dieses Niveau können auch Schülerinnen und Schüler mit dem sonderpädagogischen Förderschwerpunkt Lernen erreichen, wenn sie den der Berufsbildungsreife gleichwerten Abschluss anstreben. 
+
+Für den Unterricht im Fach Geografie werden Standards auf den Niveaustufen D bis H ausgewiesen. Schülerinnen und Schüler haben in der Schule bereits vielfältige Vorerfahrungen gewonnen, die sie im Unterricht in neu einsetzenden Fächern nutzen können. Am Ende der Jahrgangsstufe 10 wird das entsprechende Übergangs- bzw. Abschlussniveau erreicht. 
+Epochal erteilter Unterricht orientiert sich an Doppeljahrgangsstufen und stellt sicher, dass am Ende einer Doppeljahrgangsstufe die jeweils vorgegebenen Niveaustufen für beide Jahrgangsstufen erreicht werden. Im schulinternen Curriculum wird festgelegt, wie am Ende der Jahrgangsstufe 10 das entsprechende Abschluss- bzw. Übergangsniveau erreicht wird. 
+Das Wahlpflichtfach, auch wenn es fachübergreifend angelegt ist, orientiert sich an den fachbezogenen Standards. Die Anforderungen für die jeweiligen Jahrgangsstufen werden im schulinternen Curriculum festgelegt. 
+		</content>
+	</vorwort>
+	<vorwort>
+		<id>C-GEO-2-BB</id>
+		<title>Regelungen für das Land Brandenburg</title>
+		<content>
+		Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen 
+Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren 
+Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler. 
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungs­vorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+Grundschule 
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang der Grundschule Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen 
+erreicht werden können.
+Für Grundschulen und für Primarstufen von Ober- und Gesamtschulen sowie 
+für weiterführende allgemeinbildende Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Jahrgangsstufen	1 – 2	Niveaustufen A und B
+Jahrgangsstufen	3 – 4	Niveaustufe C
+Jahrgangsstufen	5 – 6	Niveaustufe D 
+
+Förderschwerpunkt Lernen
+Die folgende tabellarische Darstellung beschreibt, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang zum Erwerb des Abschlusses der Schule mit dem sonderpädagogischen Förderschwerpunkt Lernen Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden können.
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen 
+werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufen	1 – 2	Niveaustufen A und B 
+Jahrgangsstufe	3	Niveaustufe B
+Jahrgangsstufen	4 – 6	Niveaustufe C
+Jahrgangsstufen	7 – 8	Niveaustufe D
+Jahrgangsstufen	9 – 10	Niveaustufen D und E
+
+Schülerinnen und Schüler, für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen festgestellt worden ist und die dem Bildungsgang Förderschule Lernen gemäß 
+§ 30 BbgSchulG zugeordnet sind, erhalten im Unterricht Lernangebote, die ein Erreichen der Niveaustufen A, B, C, D und E ermöglichen sollen. Hierbei sind die individuellen Lernvoraussetzungen der Schülerinnen und Schüler zu berücksichtigen.
+In diesem Bildungsgang wird mit der Niveaustufe E das gemeinsame Bildungsziel am Ende der Jahrgangsstufe 10 abgebildet.
+Zur Vorbereitung auf den der Berufsbildungsreife entsprechenden Abschluss wird in den Jahrgangsstufen 9 und 10 schülerbezogen auch auf dem Niveau F unterrichtet.
+Schulen der Sekundarstufe I
+Ausgehend vom grundlegenden, erweiterten und vertieften Anspruchsniveau unterscheidet sich der Unterricht in der Sekundarstufe I in der Art der Erschließung, der Vertiefung und dem Grad der Komplexität der zugrunde gelegten Themen und Inhalte. Bei der inneren 
+Organisation in Klassen und Kursen ist dies zu berücksichtigen.
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel in den verschiedenen Bildungsgängen der Sekundarstufe I 
+Niveaustufen durchlaufen bzw. erreichen. Der Unterricht enthält immer auch Angebote auf der jeweils höheren Niveaustufe.
+Am Unterricht in Fächern ohne äußere Fachleistungsdifferenzierung nehmen Schülerinnen und Schüler mit unterschiedlichen Lernvoraussetzungen teil. Die dem Unterricht zugrunde gelegte Niveaustufe ist daher so zu wählen, dass sie für alle Lernenden eine optimale Förderung ermöglicht.
+
+a) Oberschule
+In der EBR-Klasse des kooperativen Modells und im A-Kurs des integrativen Modells wird im Unterricht eine grundlegende Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufen D und E
+Jahrgangsstufe	8 	Niveaustufen E und F
+Jahrgangsstufe	9	Niveaustufe F
+Jahrgangsstufe	10	Niveaustufen F und G
+
+In der FOR-Klasse des kooperativen Modells sowie im B-Kurs des integrativen Modells wird im Unterricht eine erweiterte Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8 	Niveaustufen E und F
+Jahrgangsstufe	9	Niveaustufen F und G
+Jahrgangsstufe	10	Niveaustufe G
+
+In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass sowohl eine grundlegende als auch eine erweiterte Bildung vermittelt wird. Hierbei sind die für die Oberschule dargestellten Niveaustufen zugrunde zu legen.
+
+b) Gesamtschule
+Im G-Kurs der Gesamtschule wird zur Sicherung der Durchlässigkeit zum E-Kurs neben der grundlegenden Bildung auch die erweiterte Bildung vermittelt. Im E-Kurs der 
+Gesamtschule wird zur Sicherung der Durchlässigkeit zum G-Kurs neben der vertieften Bildung auch die erweiterte Bildung vermittelt.
+In Fächern ohne äußere Fachleitungsdifferenzierung ist der Unterricht so zu gestalten, dass eine grundlegende, erweiterte und vertiefte Bildung vermittelt wird. Hierbei sind die für die Oberschule und das Gymnasium dargestellten Niveaustufen zugrunde zu legen.
+
+c) Gymnasium
+In den Klassen des Gymnasiums wird im Unterricht eine vertiefte Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+
+Für den Unterricht im Fach Geografie werden Standards auf den Niveaustufen D bis H ausgewiesen. Schülerinnen und Schüler haben in der Schule bereits vielfältige Vorerfahrungen gewonnen, die sie im Unterricht in neu einsetzenden Fächern nutzen können. Am Ende der Jahrgangsstufe 10 wird das entsprechende Übergangs- bzw. Abschlussniveau erreicht. 
+Epochal erteilter Unterricht orientiert sich an Doppeljahrgangsstufen und stellt sicher, dass am Ende einer Doppeljahrgangsstufe die jeweils vorgegebenen Niveaustufen für beide Jahrgangsstufen erreicht werden. Im schulinternen Curriculum wird festgelegt, wie am Ende der Jahrgangsstufe 10 das entsprechende Abschluss- bzw. Übergangsniveau erreicht wird. 
+Das Wahlpflichtfach, auch wenn es fachübergreifend angelegt ist, orientiert sich an den fachbezogenen Standards. Die Anforderungen für die jeweiligen Jahrgangsstufen werden im schulinternen Curriculum festgelegt. 
+		</content>
+	</vorwort>
+ 	 <area>
+ 	  	 <id>GEO-K1</id>
+ 	  	 <name>Sich orientieren</name>
+ 	  	 <competence>
+ 	  	  	 <id>GEO-K1-1</id>
+ 	  	  	 <name>Geografische Objekte und Sachverhalte in räumliche Orientierungsraster und Ordnungssysteme einordnen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K1-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-1-D-1</id>
+ 	  	  	  	  	 <content>die Lage eines geografischen Objekts in Beziehung zu weiteren geografischen Bezugseinheiten (z. B. Flüsse, Gebirge) beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-1-D-2</id>
+ 	  	  	  	  	 <content>geografische Objekte mithilfe der Planquadrate im Atlas lokalisieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K1-1-E</id>
+ 	  	  	  	 <level>E</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-1-E-1</id>
+ 	  	  	  	  	 <content>geografische Objekte und Orte in einem Orientierungsraster (z. B. Gradnetz) lokalisieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-1-E-2</id>
+ 	  	  	  	  	 <content>geografische Objekte und Orte in ein räumliches Ordnungssystem einordnen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K1-1-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-1-F-1</id>
+ 	  	  	  	  	 <content>geografische Objekte und Orte in verschiedene Ordnungssysteme (z. B. Klimazonen, Vegetationszonen) einordnen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K1-1-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-1-GH-1</id>
+ 	  	  	  	  	 <content>Raumstrukturen aus Lagebeziehungen ableiten</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-1-GH-2</id>
+ 	  	  	  	  	 <content>geografische Objekte und Orte in verschiedenen Orientierungsrastern lokalisieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>GEO-K1-2</id>
+ 	  	  	 <name>Mit Karten umgehen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K1-2-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-2-D-1</id>
+ 	  	  	  	  	 <content>Kartenskizzen anfertigen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-2-D-2</id>
+ 	  	  	  	  	 <content>aus Karten geringer Komplexität Informationen ermitteln</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K1-2-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-2-EF-1</id>
+ 	  	  	  	  	 <content>Karten mit geringer Informationsdichte anfertigen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-2-EF-2</id>
+ 	  	  	  	  	 <content>aus Karten höherer Komplexität Informationen ermitteln</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K1-2-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-2-G-1</id>
+ 	  	  	  	  	 <content>Karten mit höherer Informationsdichte anfertigen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-2-G-2</id>
+ 	  	  	  	  	 <content>aus Karten unterschiedlicher Maßstabsdimensionen Informationen ermitteln</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K1-2-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-2-H-1</id>
+ 	  	  	  	  	 <content>angeleitet zu einer vorgegebenen Fragestellung eine Kartierung vornehmen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-2-H-2</id>
+ 	  	  	  	  	 <content>aus topografischen Karten Informationen ermitteln</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>GEO-K1-3</id>
+ 	  	  	 <name>Sich in Realräumen orientieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K1-3-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-3-D-1</id>
+ 	  	  	  	  	 <content>ihren Standort mittels einer Karte geringer Informationsdichte und anderer Orientierungshilfen (z. B. Wegweiser, Straßennamen) bestimmen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K1-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-3-EF-1</id>
+ 	  	  	  	  	 <content>ihren Standort mittels einer Karte höherer Informationsdichte (z. B. Stadtplan, Liniennetz) und anderer Orientierungshilfen bestimmen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K1-3-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K1-3-GH-1</id>
+ 	  	  	  	  	 <content>sich mittels einer Karte und anderer Orientierungshilfen (z. B. Kompass, GPS) zielgerichtet orientieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>GEO-K2</id>
+ 	  	 <name>Systeme erschließen</name>
+ 	  	 <competence>
+ 	  	  	 <id>GEO-K2-1</id>
+ 	  	  	 <name>Systeme erfassen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K2-1-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K2-1-DE-1</id>
+ 	  	  	  	  	 <content>geografische Systeme beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K2-1-FGH</id>
+ 	  	  	  	 <level>FGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K2-1-FGH-1</id>
+ 	  	  	  	  	 <content>geografische Systeme vergleichen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>GEO-K2-2</id>
+ 	  	  	 <name>Systemstrukturen analysieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K2-2-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K2-2-DE-1</id>
+ 	  	  	  	  	 <content>Strukturen in geografischen Systemen beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K2-2-DE-2</id>
+ 	  	  	  	  	 <content>für eine Raumanalyse einzelne Materialien kontextorientiert auswerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K2-2-FGH</id>
+ 	  	  	  	 <level>FGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K2-2-FGH-1</id>
+ 	  	  	  	  	 <content>kausale Zusammenhänge in geografischen Systemen problemorientiert untersuchen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K2-2-FGH-2</id>
+ 	  	  	  	  	 <content>für eine Raumanalyse komplexe Zusammenhänge aus unterschiedlichen Materialien synthetisieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>GEO-K2-3</id>
+ 	  	  	 <name>Teilprozesse erklären</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K2-3-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K2-3-D-1</id>
+ 	  	  	  	  	 <content>Ursachen und Folgen räumlicher Entwicklungen (z. B. Wechselwirkungen zwischen Mensch und Umwelt) beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K2-3-EFG</id>
+ 	  	  	  	 <level>EFG</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K2-3-EFG-1</id>
+ 	  	  	  	  	 <content>mehrstufige Ursache-Folge-Beziehungen und Kreisläufe beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K2-3-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K2-3-H-1</id>
+ 	  	  	  	  	 <content>systemgefährdende Einflussfaktoren ableiten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>GEO-K2-4</id>
+ 	  	  	 <name>Lösungsstrategien entwickeln</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K2-4-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K2-4-D-1</id>
+ 	  	  	  	  	 <content>vorgegebene Problemlösungsstrategien beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K2-4-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K2-4-EF-1</id>
+ 	  	  	  	  	 <content>bekannte Problemlösungsstrategien auf ähnliche Räume/Sachverhalte übertragen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K2-4-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K2-4-GH-1</id>
+ 	  	  	  	  	 <content>eigene Problemlösungsansätze entwickeln</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>GEO-K3</id>
+ 	  	 <name>Methoden anwenden</name>
+ 	  	 <competence>
+ 	  	  	 <id>GEO-K3-1</id>
+ 	  	  	 <name>Erkenntnisleitende Fragestellungen entwickeln</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K3-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K3-1-D-1</id>
+ 	  	  	  	  	 <content>aus geografischen Medien wie Texten und Bildern sachorientierte Fragen ableiten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K3-1-E</id>
+ 	  	  	  	 <level>E</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K3-1-E-1</id>
+ 	  	  	  	  	 <content>aus geografischen Medien wie Karten sachorientierte Fragen ableiten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K3-1-FGH</id>
+ 	  	  	  	 <level>FGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K3-1-FGH-1</id>
+ 	  	  	  	  	 <content>aus geografischen Medien wie Tabellen, Diagrammen, Karikaturen erkenntnisleitende Fragen ableiten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>GEO-K3-2</id>
+ 	  	  	 <name>Informationen  gewinnen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K3-2-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K3-2-D-1</id>
+ 	  	  	  	  	 <content>aus geografischen Medien wie Texten, Bildern, Experimen-ten raumspezifische Informationen ermitteln</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K3-2-E</id>
+ 	  	  	  	 <level>E</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K3-2-E-1</id>
+ 	  	  	  	  	 <content>aus geografischen Medien wie Profilen raumspezifische Informationen ermitteln</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K3-2-FGH</id>
+ 	  	  	  	 <level>FGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K3-2-FGH-1</id>
+ 	  	  	  	  	 <content>aus weiteren geografischen Medien wie Tabellen, Diagrammen, Karikaturen, Satelliten- und Luftaufnahmen, Modellen sowie audiovisuellen Medien raumspezifische Funktionen, Strukturen oder Prozesse ermitteln</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>GEO-K3-3</id>
+ 	  	  	 <name>Informationen verarbeiten</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K3-3-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K3-3-D-1</id>
+ 	  	  	  	  	 <content>Informationen aus geografischen Materialien vergleichen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K3-3-D-2</id>
+ 	  	  	  	  	 <content>Daten ordnen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K3-3-E</id>
+ 	  	  	  	 <level>E</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K3-3-E-1</id>
+ 	  	  	  	  	 <content>Daten vergleichen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K3-3-FG</id>
+ 	  	  	  	 <level>FG</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K3-3-FG-1</id>
+ 	  	  	  	  	 <content>Informationen aus geografischen Materialien verknüpfen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K3-3-FG-2</id>
+ 	  	  	  	  	 <content>Daten klassifizieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K3-3-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K3-3-H-1</id>
+ 	  	  	  	  	 <content>Erkenntnisse systematisieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>GEO-K3-4</id>
+ 	  	  	 <name>Informationen  präsentieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K3-4-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K3-4-DE-1</id>
+ 	  	  	  	  	 <content>eindimensionale Diagramme (z. B. Linien-, Balken- und Säulendiagramme) erstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K3-4-DE-2</id>
+ 	  	  	  	  	 <content>Zusammenhänge mithilfe von Kausalketten veranschaulichen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K3-4-FG</id>
+ 	  	  	  	 <level>FG</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K3-4-FG-1</id>
+ 	  	  	  	  	 <content>mehrdimensionale Diagramme (z. B. Klimadiagramme) und Kreisdiagramme erstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K3-4-FG-2</id>
+ 	  	  	  	  	 <content>Zusammenhänge mithilfe von Wirkungsgefügen veranschaulichen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K3-4-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K3-4-H-1</id>
+ 	  	  	  	  	 <content>komplexe Daten in Diagramme umsetzen (z. B. in Dreiecksdiagramme und Netzdiagramme)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>GEO-K4</id>
+ 	  	 <name>Kommunizieren</name>
+ 	  	 <competence>
+ 	  	  	 <id>GEO-K4-1</id>
+ 	  	  	 <name>Geografische Sachverhalte mündlich und schriftlich darstellen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K4-1-DEF</id>
+ 	  	  	  	 <level>DEF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K4-1-DEF-1</id>
+ 	  	  	  	  	 <content>einfache geografische Sachverhalte in ihren Zusammenhängen geordnet verbalisieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K4-1-DEF-2</id>
+ 	  	  	  	  	 <content>informierende Texte (z. B. Bericht, Protokoll) zu geografischen Sachverhalten unter Nutzung von geeigneten Textmustern und -bausteinen in ihren Zusammenhängen geordnet schreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K4-1-DEF-3</id>
+ 	  	  	  	  	 <content>geografisch relevante alltags- und fachsprachliche Formulierungen unterscheiden</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K4-1-DEF-4</id>
+ 	  	  	  	  	 <content>Fachsprache sachgerecht in mündlichen und schriftlichen Darbietungen anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K4-1-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K4-1-GH-1</id>
+ 	  	  	  	  	 <content>geografische Sachverhalte anhand verschiedener Darstellungen (Text, Grafik, Diagramm) zielgerichtet zur Fragestellung, sachlogisch geordnet und unter der Verwendung der Fachsprache beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K4-1-GH-2</id>
+ 	  	  	  	  	 <content>informierende und argumentierende Texte zu komplexen geografischen Sachverhalten unter Nutzung geeigneter Textmuster und -bausteine in ihren Zusammenhängen geordnet schreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>GEO-K4-2</id>
+ 	  	  	 <name>Argumente formulieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K4-2-DEF</id>
+ 	  	  	  	 <level>DEF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K4-2-DEF-1</id>
+ 	  	  	  	  	 <content>zu einem geografischen Sachverhalt ihre Meinung unter Nutzung von Textbausteinen begründet formulieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K4-2-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K4-2-GH-1</id>
+ 	  	  	  	  	 <content>zu einem geografischen Sachverhalt begründet eine Stellungnahme formulieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>GEO-K5</id>
+ 	  	 <name>Urteilen</name>
+ 	  	 <competence>
+ 	  	  	 <id>GEO-K5-1</id>
+ 	  	  	 <name>Situationen/Sachverhalte/Prozesse im Raum unter Anwendung geografischer Kenntnisse und Methoden beurteilen (Sachurteil)</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K5-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K5-1-D-1</id>
+ 	  	  	  	  	 <content>allgemeine Kriterien (z. B. Ausgewogenheit, Korrektheit, Begründetsein) zur Beurteilung nennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K5-1-D-2</id>
+ 	  	  	  	  	 <content>Situationen/Sachverhalte aus einer Perspektive darstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K5-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K5-1-EF-1</id>
+ 	  	  	  	  	 <content>allgemeine Kriterien (z. B. Ausgewogenheit, Korrektheit, Begründetsein) zur Beurteilung anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K5-1-EF-2</id>
+ 	  	  	  	  	 <content>Situationen/Sachverhalte sowie Entwicklungen/Prozesse aus der Pro- und Kontraperspektive darstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K5-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K5-1-G-1</id>
+ 	  	  	  	  	 <content>fachbezogene Kriterien (z. B. ökologische, ökonomische, soziale Adäquanz, Gegenwarts- und Zukunftsbedeutung, Perspektivität) zur Beurteilung anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K5-1-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K5-1-H-1</id>
+ 	  	  	  	  	 <content>Situationen/Sachverhalte sowie Entwicklungen/Prozesse multiperspektivisch darstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>GEO-K5-2</id>
+ 	  	  	 <name>Sachverhalte/Prozesse unter Einbeziehung fachbasierter und fachübergreifender Werte und Normen bewerten (ethisches Werturteil)</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K5-2-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K5-2-D-1</id>
+ 	  	  	  	  	 <content>für ausgewählte Raumkonflikte den ethischen Rahmen formulieren, indem sie eigene Werte und Interessen/ Normen bestimmen. (= betroffenes Werturteil)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K5-2-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K5-2-EF-1</id>
+ 	  	  	  	  	 <content>für ausgewählte Raumkonflikte den ethischen Rahmen formulieren, indem sie unterschiedliche Werte und Normen der Akteure bestimmen (Mediation)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K5-2-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K5-2-GH-1</id>
+ 	  	  	  	  	 <content>Sachverhalte und Prozesse in Hinblick auf Normen und Werte (z. B. Menschenrechte, Naturschutz, Nachhaltigkeit) reflektieren (Moderation)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>GEO-K5-3</id>
+ 	  	  	 <name>Informationen aus Medien kriteriengestützt bewerten</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K5-3-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K5-3-D-1</id>
+ 	  	  	  	  	 <content>aus klassischen und modernen Medien gewonnene Informationen kriteriengeleitet bewerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K5-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K5-3-EF-1</id>
+ 	  	  	  	  	 <content>die Aussagekraft/Eignung von Medien unter Anleitung reflektieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K5-3-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K5-3-G-1</id>
+ 	  	  	  	  	 <content>die Aussagekraft/Eignung geografischer Arbeitstechniken und Medien selbständig reflektieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>GEO-K5-3-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>GEO-K5-3-H-1</id>
+ 	  	  	  	  	 <content>aus eigenen Erhebungen (wie z. B. Geländearbeit) gewonnene Informationen kriteriengeleitet bewerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+
+	</c2>
+	<c3>
+		<id>C-GEO-3</id>
+		<title>Themen und Inhalte</title>
+		<vortext>
+			<id>C-GEO-3-0</id>
+			<title></title>
+			<content>
+			</content>
+			<subtext>
+				<id>C-GEO-3-0-1</id>
+				<title>Übersicht über die Themenfelder</title>
+				<content>
+				</content>
+			</subtext>
+		</vortext>
+		
+	<themainhalt>
+		<id>C-GEO-3-1</id>
+		<title>Leben in Risikoräumen 7/8</title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-GEO-3-1-1</id>
+			<title>Verbindliche Inhalte</title>
+			<inhalt>
+				<id>C-GEO-3-1-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-GEO-3-1-1-2</id>
+				<title></title>
+				<content></content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-GEO-3-1-2</id>
+			<title>Mögliche Konkretisierungen</title>
+			<inhalt>
+				<id>C-GEO-3-1-2-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-GEO-3-1-2-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+			</inhalt>
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEO-3-2</id>
+		<title>Migration und Bevölkerung 7/8</title>
+		<content></content>
+		<content></content>
+		<inhalt>
+			<id>C-GEO-3-2-1</id>
+			<title>Verbindliche Inhalte</title>
+			<inhalt>
+				<id>C-GEO-3-2-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-GEO-3-2-1-2</id>
+				<title></title>
+				<content></content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-GEO-3-2-2</id>
+			<title>Mögliche Konkretisierungen</title>
+			<inhalt>
+				<id>C-GEO-3-2-2-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-GEO-3-2-2-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+			</inhalt>
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEO-3-3</id>
+		<title>Migration und Bevölkerung 7/8</title>
+		<content></content>
+		<content></content>
+		<inhalt>
+			<id>C-GEO-3-3-1</id>
+			<title>Verbindliche Inhalte</title>
+			<inhalt>
+				<id>C-GEO-3-3-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-GEO-3-3-1-2</id>
+				<title></title>
+				<content></content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-GEO-3-3-2</id>
+			<title>Mögliche Konkretisierungen</title>
+			<inhalt>
+				<id>C-GEO-3-3-2-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-GEO-3-3-2-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+			</inhalt>
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEO-3-4</id>
+		<title>Migration und Bevölkerung 7/8</title>
+		<content></content>
+		<content></content>
+		<inhalt>
+			<id>C-GEO-3-4-1</id>
+			<title>Verbindliche Inhalte</title>
+			<inhalt>
+				<id>C-GEO-3-4-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-GEO-3-4-1-2</id>
+				<title></title>
+				<content></content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-GEO-3-4-2</id>
+			<title>Mögliche Konkretisierungen</title>
+			<inhalt>
+				<id>C-GEO-3-4-2-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-GEO-3-4-2-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+			</inhalt>
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEO-3-5</id>
+		<title>Migration und Bevölkerung 7/8</title>
+		<content></content>
+		<content></content>
+		<inhalt>
+			<id>C-GEO-3-5-1</id>
+			<title>Verbindliche Inhalte</title>
+			<inhalt>
+				<id>C-GEO-3-5-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-GEO-3-5-1-2</id>
+				<title></title>
+				<content></content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-GEO-3-5-2</id>
+			<title>Mögliche Konkretisierungen</title>
+			<inhalt>
+				<id>C-GEO-3-5-2-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-GEO-3-5-2-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+			</inhalt>
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEO-3-6</id>
+		<title>Migration und Bevölkerung 7/8</title>
+		<content></content>
+		<content></content>
+		<inhalt>
+			<id>C-GEO-3-6-1</id>
+			<title>Verbindliche Inhalte</title>
+			<inhalt>
+				<id>C-GEO-3-6-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-GEO-3-6-1-2</id>
+				<title></title>
+				<content></content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-GEO-3-6-2</id>
+			<title>Mögliche Konkretisierungen</title>
+			<inhalt>
+				<id>C-GEO-3-6-2-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-GEO-3-6-2-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+			</inhalt>
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEO-3-7</id>
+		<title>Migration und Bevölkerung 7/8</title>
+		<content></content>
+		<content></content>
+		<inhalt>
+			<id>C-GEO-3-7-1</id>
+			<title>Verbindliche Inhalte</title>
+			<inhalt>
+				<id>C-GEO-3-7-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-GEO-3-7-1-2</id>
+				<title></title>
+				<content></content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-GEO-3-7-2</id>
+			<title>Mögliche Konkretisierungen</title>
+			<inhalt>
+				<id>C-GEO-3-7-2-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-GEO-3-7-2-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+			</inhalt>
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEO-3-8</id>
+		<title>Migration und Bevölkerung 7/8</title>
+		<content></content>
+		<content></content>
+		<inhalt>
+			<id>C-GEO-3-8-1</id>
+			<title>Verbindliche Inhalte</title>
+			<inhalt>
+				<id>C-GEO-3-8-1-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-GEO-3-8-1-2</id>
+				<title></title>
+				<content></content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-GEO-3-8-2</id>
+			<title>Mögliche Konkretisierungen</title>
+			<inhalt>
+				<id>C-GEO-3-8-2-1</id>
+				<title></title>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+				<content></content>
+			</inhalt>
+			<inhalt>
+				<id>C-GEO-3-8-2-2</id>
+				<title></title>
+				<content></content>
+				<content></content>
+			</inhalt>
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEO-3-9</id>
+		<title>Wahlpflichtfach</title>
+		<content></content>
+		<inhalt>
+			<id>C-GEO-3-9-1</id>
+			<title>Themenfeld 1</title>
+			<content></content>
+		</inhalt>
+		<inhalt>
+			<id>C-GEO-3-9-2</id>
+			<title>Themenfeld 2</title>
+			<content></content>
+		</inhalt>
+		<inhalt>
+			<id>C-GEO-3-9-3</id>
+			<title>Themenfeld 3</title>
+			<content></content>
+		</inhalt>
+	</themainhalt>	
+	</c3>
+</fach>
