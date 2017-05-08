@@ -833,19 +833,33 @@ Um Niveaustufe E (in Teilen) in den Unterricht zu integrieren, kann diese den Te
  	  	  	 </competence>
  	  	 </subarea>
  	 </area>
- 
- 
- 	</c2>
+  	</c2>
 	<c3>
 		<id>C-NW56-3</id>
 		<title>Themen und Inhalte</title>
 		<vortext>
 			<id>C-NW56-3-0</id>
 			<title>Allgemeine Hinweise</title>
-			<content>
+			<content>In diesem Kapitel sind die Inhalte für das Fach Naturwissenschaften 5/6 in neun Themenfeler gegliedert dargestellt. Diese Themenfelder bilden den Rahmen, in welchem naturwissen-schaftliches Lernen fachübergreifend stattfinden kann. Die einzelnen Themenfelder greifen ineinander und können in beliebiger Reihenfolge unterrichtet werden. Die in den Themenfeldern aufgeführten Inhalte sind verbindlich.
 
-			</content>
-		</vortext>
+Übersicht über die Themenfelder
+
+3.1	Von den Sinnen zum Messen
+3.2	Stoffe im Alltag
+3.3	Die Sonne als Energiequelle
+3.4	Welt des Großen – Welt des Kleinen
+3.5	Pflanzen – Tiere – Lebensräume
+3.6	Bewegung zu Wasser, zu Lande und in der Luft
+3.7	Körper und Gesundheit
+3.8	Sexualerziehung
+3.9	Technik 
+
+Die Themen orientieren sich an Alltagsphänomenen und -problemen. Alltagsprobleme werden meist komplex und dadurch immer fachübergreifend betrachtet. Jede Fachdisziplin schlägt jedoch eigene Sichtweisen und Lösungen vor. So entstehen spezifische, fächerbezogene Wirklichkeitsausschnitte, die notwendigerweise fragmentarisch sind und erst in ihrer Gesamtheit zur Annäherung an eine Lösung für das Problem führen. 
+Der fachübergreifende Ansatz ermöglicht zum einen den bruchlosen Übergang vom Sachunterricht und somit das Anknüpfen an die Vorerfahrungen der Schülerinnen und Schüler. Zum anderen werden anschlussfähige Grundlagen in den überfachlichen Kompetenzen der drei Naturwissenschaften, den gemeinsamen Denk-, Arbeits- und Handlungsweisen, langfristig angelegt.
+Die ausgewiesenen Themenfelder werden für Schülerinnen und Schüler, die wegen einer erheblichen und langandauernden Beeinträchtigung ihres Lern- und Leistungsverhaltens sonderpädagogische Förderung erhalten oder für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen  festgestellt wurde, schülerbezogen berücksichtigt. Sie werden entsprechend der Lebensbedeutsamkeit für die Schülerinnen und Schüler ausgewählt.
+Der tabellarische Aufbau der Themenfelder und damit die separate Aufführung der Inhalte aus der Biologie, Chemie und Physik zeigen die Perspektiven der jeweiligen Naturwissenschaft auf ein Phänomen auf. 
+Das Ziel des themenzentrierten Arbeitens ist jedoch nicht, die naturwissenschaftlichen Dis-ziplinen einzeln zu unterrichten; viel mehr geht es darum, die spezifischen Sichtweisen der einzelnen Disziplinen erkennbar zu machen und langfristig in komplexen Handlungsfeldern anwenden zu können.
+Der Vermittlung von naturwissenschaftlichen Fachmethoden kommt eine zentrale Rolle zu. Die Schülerinnen und Schüler werden in experimentelle Methoden, die Arbeit mit Modellen und das Erstellen und Interpretieren von grafischen Darstellungen eingeführt. Hinweise zu diesen Bereichen sind in den Themenfeldern unter Fachmethoden und Experimenten aufgeführt.</content></vortext>
 	<themainhalt>
 		<id>C-NW56-3-1</id>
 		<title>Von den Sinnen zum Messen</title>
@@ -860,30 +874,25 @@ Licht, Schall, Temperatur und Druck werden exemplarisch und auf die menschlichen
 			<inhalt>
 				<id>C-NW56-3-1-1-1</id>
 				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Sinnesorgane verarbeiten Sinnes-reize</content>
+				<content>–	Reiz, Erregung, Wahrnehmung</content>
+				<content>–	Tast-, Temperatur-, Hör-, Seh-, Geschmacks-, Geruchssinn</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-1-1-2</id>
 				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>Unterscheidung:–	Körper  -   Stoff</content>
+				<content>Stoffeigenschaften:–	Geruch, Farbe, Beschaffenheit</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-1-1-3</id>
 				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>Phänomene–	Licht, Schall, Temperatur, Druck</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-1-1-4</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Fachmethoden</title>
+				<content>Beobachten, Sinnesreize den Sinnen zuordnen</content>
 			</inhalt>
 		</inhalt>	
 		<inhalt>
@@ -892,38 +901,31 @@ Licht, Schall, Temperatur und Druck werden exemplarisch und auf die menschlichen
 			<inhalt>
 				<id>C-NW56-3-1-2-1</id>
 				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Sinnesorgane sind reizspezifisch und haben charakteristische Grenzen (Hörschwelle)</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-1-2-2</id>
 				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Indikatoren (z. B. Rot-kohlsaft, Teststreifen für Wasserhärte)</content>
+				<content>–	Nachweisreaktionen (z. B. Stärkenachweis)</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-1-2-3</id>
 				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	nicht sichtbares Licht (z. B. UV- oder IR-Licht)</content>
+				<content>–	nicht hörbarer Schall (z. B. Ultraschall, Infraschall)</content>
+				<content>–	Messgeräte (z. B. Thermometer, Waage)</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-1-2-4</id>
 				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>Prinzip des Thermometers – Wärmeausdehnung von Flüssigkeiten</content>
 			</inhalt>	
 			<inhalt>
 				<id>C-NW56-3-1-2-5</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
+				<title>Fachmethoden</title>
+				<content>Eigenbau von z. B. Thermometer, Sanduhr, Wasseruhr, Waage</content>
+				</inhalt>	
 		</inhalt>
 		<inhalt>
 			<id>C-NW56-3-1-3</id>
@@ -931,969 +933,674 @@ Licht, Schall, Temperatur und Druck werden exemplarisch und auf die menschlichen
 			<inhalt>
 				<id>C-NW56-3-1-3-1</id>
 				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Messgerät</content>
+				<content>–	Messgröße, Messwert und Maßeinheit</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-1-3-2</id>
 				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>Kalibrierung von Messgeräten am Beispiel des Thermometers und der Waage</content>
 			</inhalt>	
 			<inhalt>
 				<id>C-NW56-3-1-3-3</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Fachmethoden</title>
+				<content>Messergebnisse mit Maßzahl und Einheit erfassen und im Punktdiagramm eintragen</content>
 			</inhalt>	
 			<inhalt>
 				<id>C-NW56-3-1-3-4</id>
 				<title>Experimente</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	subjektives Temperaturempfinden</content>
+				<content>–	Vergleich von Schätzung und Messung unterschiedlich temperierten Wassers</content>
+				<content>–	Wie genau ist der Tastsinn?</content>
+				<content>–	unterschiedlich starke Ausprägung an verschiedenen Körperstellen erforschen</content>
+				<content>–	Vergleichen, Ordnen, Messen: Verglei-chen der Massen von Körpern unter Verwendung einer Waage</content>
+				<content>–	Bau einfacher Messgeräte (Waage, Thermometer)</content>				
 			</inhalt>	
 			<inhalt>
 				<id>C-NW56-3-1-3-5</id>
 				<title>Fachbegriffe</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Sinnesorgan, Reiz, Wahrnehmung</content>
+				<content>–	Messgerät, Messgröße</content>
+				<content>–	Messwert, Maßeinheit</content>
+				<content>–	Thermometer, Temperatur</content>
+				<content>–	Waage, Masse, Kilogramm, Gramm</content>
+				<content>–	Volumen, Liter, Milliliter</content>				
 			</inhalt>	
 		</inhalt>
 	</themainhalt>
-	
 	<themainhalt>
 		<id>C-NW56-3-2</id>
-		<title></title>
-		<content>
-		</content>
+		<title>Stoffe im Alltag</title>
+		<content>Das Themenfeld bietet Gelegenheit, die Vielfalt von Stoffen als Nährstoffe, Brennstoffe, Farbstoffe, Werkstoffe, Kunststoffe bewusster wahrzunehmen. Menschen nutzen Stoffe aus der Natur oder stellen neue Stoffe her. Kenntnisse der Eigenschaften von Stoffen machen eine gezielte Verwendung möglich und erleichtern den Alltag. Daneben ist zu beachten, dass sich Stoffe mit der Zeit in andere Stoffe umwandeln. Umwelt- und gesundheitliche Aspekte sowie Aspekte des sicheren Arbeitens sind zu beachten. 
+Die Schülerinnen und Schüler klassifizieren die Stoffe und nutzen dabei Techniken zum Ordnen, Vergleichen und Systematisieren.
+Die konkrete erfahrbare Stoffebene steht im Vordergrund, wird aber durch eine Betrachtung auf der abstrakten Teilchenebene ergänzt.</content>
 		<inhalt>
 			<id>C-NW56-3-2-1</id>
-			<title>Thema: </title>
+			<title>Thema: Eigenschaften von Körpern und Stoffen</title>
 			<inhalt>
 				<id>C-NW56-3-2-1-1</id>
 				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>Wahrnehmungen:–	Aussehen, Geruch, Geschmack</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-2-1-2</id>
 				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>Stoffeigenschaften:–	Brennbarkeit</content>
+				<content>–	Schmelz- und Siedetemperaturen</content>
+				<content>–	Löslichkeit</content>
+				<content>–	Aggregatzustände (Teilchenvorstellung)</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-2-1-3</id>
 				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>Phänomene:–	Magnetismus</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-2-1-4</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Fachmethoden</title>
+				<content>Sorgfältiges und sicherheitsbewusstes Arbeiten, Anwenden von Teilchenmodellen</content>
 			</inhalt>
-		</inhalt>	
-		<inhalt>
+			</inhalt>
+			<inhalt>
 			<id>C-NW56-3-2-2</id>
-			<title>Thema: </title>
+			<title>Thema: Klassifizierung von Stoffen</title>
 			<inhalt>
 				<id>C-NW56-3-2-2-1</id>
-				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Inhalte aus der Chemie</title>
+				<content>Stoffe in alltagsbezogene Kategorien in folgende Stoffklassen ordnen:–	Brennstoffe, Gefahrstoffe, Nährstoffe</content>
+				<content>–	Metalle, Naturstoffe, Kunststoffe</content>
+				<content>–	Sicherheitsregeln</content>
+				<content>–	Bedeutung von Gefahrstoffsymbolen auf Haushaltsverpackungen</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-2-2-2</id>
-				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Inhalte aus der Physik</title>
+				<content>Einteilung von Körpern nach:–	leitend und nicht leitend</content>
+				<content>–	magnetisch und nicht magnetisch</content>
+				<content>–	hart und weich</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-2-2-3</id>
-				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>
+				<title>Technik</title>
+				<content>Technische Anwendung von Stoffen bezogen auf ihre Materialeigenschaften</content>
+			</inhalt>	
 			<inhalt>
 				<id>C-NW56-3-2-2-4</id>
-				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Fachmethoden</title>
+				<content>Kriteriengeleitete Untersuchungen (Ordnen und Vergleichen)</content>
 			</inhalt>	
+			</inhalt>
 			<inhalt>
-				<id>C-NW56-3-2-2-5</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-		</inhalt>
-		<inhalt>
-			<id>C-NW56-3-2-3</id>
-			<title>Thema: </title>
+				<id>C-NW56-3-2-3</id>
+				<title>Thema: Reinstoffe, Stoffgemische und Trennverfahren</title>
 			<inhalt>
 				<id>C-NW56-3-2-3-1</id>
-				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Inhalte aus der Chemie</title>
+				<content>–	Reinstoff (Plastikflasche) und Gemenge (Hausmüll)</content>
+				<content>–	Lösemittel (Wasser) und Lösungen (Früchtetee)</content>
+				<content>–	Sedimentation, Filtration</content>
+				<content>–	Papierchromatografie</content>
+				<content>–	Eindampfen/Kristallisation</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-2-3-2</id>
 				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>Mülltrennung, Recycling, Kläranlagen, Salzgewinnung</content>
 			</inhalt>	
 			<inhalt>
 				<id>C-NW56-3-2-3-3</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Fachmethoden</title>
+				<content>Darstellung von Prozessen, Anwenden von Teilchenmodellen</content>
+			</inhalt>
 			</inhalt>	
 			<inhalt>
-				<id>C-NW56-3-2-3-4</id>
+				<id>C-NW56-3-2-4</id>
+				<title>Thema: Stoffumwandlungen in Alltags- und Laborsituationen</title>
+			<inhalt>
+				<id>C-NW56-3-2-4-1</id>
+				<title>Inhalte aus der Biologie</title>
+				<content>–	Kompostierung</content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW56-3-2-4-2</id>
+				<title>Inhalte aus der Chemie</title>
+				<content>–	Rosten von Eisen</content>
+				<content>–	Verbrennung (Kerze)</content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW56-3-2-4-3</id>
+				<title>Inhalte aus der Physik</title>
+				<content>–	Wärmeerzeugung</content>
+			</inhalt>	
+			<inhalt>
+				<id>C-NW56-3-2-4-4</id>
+				<title>Fachmethoden</title>
+				<content>Untersuchungen protokollieren, Versuchsaufbau skizzieren</content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW56-3-2-4-5</id>
 				<title>Experimente</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Trennung von Stoffgemischen</content>
+				<content>–	Untersuchung einer Kerzenflamme</content>
+				<content>–	Kristalle züchten</content>				
 			</inhalt>	
 			<inhalt>
-				<id>C-NW56-3-2-3-5</id>
+				<id>C-NW56-3-2-4-6</id>
 				<title>Fachbegriffe</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Brennstoffe, Gefahrstoffe, Kunststoffe</content>
+				<content>–	Brennbarkeit, Schmelztemperatur, Siedetemperatur, Löslichkeit</content>
+				<content>–	Reinstoffe, Gemische, Lösungen</content>
+				<content>–	Aggregatzustände: fest, flüssig, gasförmig</content>
+				<content>–	Sedimentation, Filtration, Papierchroma-tografie</content>
+				<content>–	Eindampfen/Kristallisation</content>
 			</inhalt>	
-		</inhalt>
-	</themainhalt>
+			</inhalt>
+		</themainhalt>
 	<themainhalt>
 		<id>C-NW56-3-3</id>
-		<title></title>
-		<content>
-		</content>
+		<title>Die Sonne als Energiequelle</title>
+		<content>Die Sonne ist ein natürlicher Zeitgeber. Ihr Einfluss auf die Tages- und Jahreszeiten und die daraus resultierenden Anpassungen der Lebewesen (z. B. Frühjahrsblüte, Blattabwurf im Herbst, Winterfell) werden zunehmend bewusster wahrgenommen. 
+Die Sonne ist die primäre Energiequelle der Erde. Sie ist Motor des Wasserkreislaufs und Pflanzen nutzen die Lichtenergie, um Stoffe aufzubauen. 
+Charakteristisch für die Erkenntnisgewinnung in diesem Themenfeld ist die Aufnahme von Mess- und Beobachtungsdaten über einen längeren Zeitraum. 
+Ein Schwerpunkt bei Entwicklung der naturwissenschaftlichen Arbeitsweise ist, hypothesen-geleitet zu experimentieren (z. B. Experimente zum Pflanzenwachstum).</content>
 		<inhalt>
 			<id>C-NW56-3-3-1</id>
-			<title>Thema: </title>
+			<title>Thema: Eigenschaften des Lichts</title>
 			<inhalt>
 				<id>C-NW56-3-3-1-1</id>
 				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>Pflanzenwachstum: –	Pflanzen als Energiewandler, Fotosynthese (propädeutisch)</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-3-1-2</id>
 				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Brennstoffe als Licht- und Wärmequellen</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-3-1-3</id>
 				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	geradlinige und allseitige Ausbreitung des Lichts</content>
+				<content>–	Modell Lichtstrahl</content>
+				<content>–	Schatten</content>
+				<content>–	Reflexionsgesetz</content>
+				<content>–	Brechung (nur qualitativ)</content>
+				<content>–	Phänomen der spektralen Zerlegung von Licht, z. B. beim Prisma oder Regenbogen</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-3-1-4</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Technik</title>
+				<content>Sonnenkollektor, Solarzelle</content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW56-3-3-1-5</id>
+				<title>Fachmethoden</title>
+				<content>Anwenden des Modells Lichtstrahl, Experimentieren, Protokollieren, Messwerte über einen längeren Zeitraum aufnehmen, Schemazeichnungen</content>
 			</inhalt>
 		</inhalt>	
 		<inhalt>
 			<id>C-NW56-3-3-2</id>
-			<title>Thema: </title>
+			<title>Thema: Einfluss der Sonne auf die Erde</title>
 			<inhalt>
 				<id>C-NW56-3-3-2-1</id>
 				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Wärmeisolation bei Lebe-wesen</content>
+				<content>–	Sonnenschutz/Haut-pigmentierung</content>
+				<content>–	Austausch von Sauerstoff und Kohlenstoffdioxid bei Pflanzen und Tieren</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-3-2-2</id>
 				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Zusammensetzung der Luft</content>
+				<content>–	Anomalie des Wassers</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-3-2-3</id>
 				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Wärmestrahlung der Son-ne (phänomenologisch)</content>
+				<content>–	Erdatmosphäre als dyna-mische Lufthülle (Luft- und Wasserkreislauf)</content>
+				<content>–	Treibhauseffekt</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-3-2-4</id>
 				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>Windkraft</content>
 			</inhalt>	
 			<inhalt>
 				<id>C-NW56-3-3-2-5</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-		</inhalt>
-		<inhalt>
-			<id>C-NW56-3-3-3</id>
-			<title>Thema: Messgeräte</title>
-			<inhalt>
-				<id>C-NW56-3-3-3-1</id>
-				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Experimente</title>
+				<content>–	Bau einer Sonnenuhr</content>
+				<content>–	Temperaturerhöhung von Körpern durch Sonnenstrahlung in Abhängigkeit von der Oberfläche</content>
+				<content>–	Modellversuche zum Treibhauseffekt</content>
 			</inhalt>
 			<inhalt>
-				<id>C-NW56-3-3-3-2</id>
-				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-3-3-3</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-3-3-4</id>
-				<title>Experimente</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-3-3-5</id>
+				<id>C-NW56-3-3-2-6</id>
 				<title>Fachbegriffe</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Lichtstrahl, Reflexion, Brechung</content>
+				<content>–	Luft, Atmosphäre, Sauerstoff, Kohlenstoff-dioxid</content>
+				<content>–	Wasserkreislauf</content>				
 			</inhalt>	
-		</inhalt>
+			</inhalt>
 	</themainhalt>
 	<themainhalt>
 		<id>C-NW56-3-4</id>
-		<title></title>
-		<content>
-		</content>
+		<title>Welt des Großen – Welt des Kleinen</title>
+		<content>In diesem Themenfeld sollen Größenordnungen und Größenverhältnisse von Mikrokosmos und Makrokosmos bewusstgemacht werden. Bei der Behandlung des Makrokosmos steht der Aufbau unseres Sonnensystems im Vordergrund. Daneben werden Kristalle und Zellen des Mikrokosmos thematisiert.
+Technische Entwicklung bringt verschiedene optische Geräte hervor (z. B. Brille, Mikroskop, Fernrohr, Lupe) und damit die Möglichkeit, unsere Sinne und damit unser Weltbild zu erweitern. Das angeleitete und zunehmend selbstständige Beobachten mit optischen Hilfsmitteln ist ein wesentlicher Bestandteil der Erkenntnisgewinnung. Mithilfe geeigneter Modelle werden Größenordnungen veranschaulicht und die räumliche Vorstellung gefördert.</content>
 		<inhalt>
 			<id>C-NW56-3-4-1</id>
-			<title>Thema:</title>
+			<title>Thema:Erde als ein Planet im Sonnensystem</title>
 			<inhalt>
 				<id>C-NW56-3-4-1-1</id>
-				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Inhalte aus der Astronomie</title>
+				<content>–	Tages-, Jahresablauf</content>
+				<content>–	Mond- und Sonnenfinsternis (Bewegung der Erde um die Sonne und des Mondes um die Erde, Drehbewegung der Erde)</content>
+				<content>–	Entstehung der Jahreszeiten (Neigung der Erdachse)</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-4-1-2</id>
-				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Fachmethoden</title>
+				<content>Arbeit mit Modellen, z. B. Tellurium als Modell des Sonnensystems und Globus als Erdmodell</content>
 			</inhalt>
-			<inhalt>
-				<id>C-NW56-3-4-1-3</id>
-				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>
-			<inhalt>
-				<id>C-NW56-3-4-1-4</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>
-		</inhalt>	
+			</inhalt>	
 		<inhalt>
 			<id>C-NW56-3-4-2</id>
-			<title>Thema: </title>
+			<title>Thema: Optische Geräte </title>
 			<inhalt>
 				<id>C-NW56-3-4-2-1</id>
 				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Präparate herstellen</content>
+				<content>–	Pflanzenzellen</content>
+				<content>–	einzellige Organismen (Heuaufguss)</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-4-2-2</id>
 				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Kristalle (Wachstum, Form, Farbe)</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-4-2-3</id>
 				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Bilder vergrößern mithilfe von Sammellinsen, Lupe, Mikroskop</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-4-2-4</id>
 				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>Mikroskop (Aufbau und Funktionsweise)</content>
 			</inhalt>	
 			<inhalt>
 				<id>C-NW56-3-4-2-5</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-		</inhalt>
-		<inhalt>
-			<id>C-NW56-3-4-3</id>
-			<title>Thema: </title>
-			<inhalt>
-				<id>C-NW56-3-4-3-1</id>
-				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Fachmethoden</title>
+				<content>Anwenden des Modells Lichtstrahl, mikroskopische Bilder zeichnen, Modell einer Pflanzenzelle herstellen</content>
 			</inhalt>
 			<inhalt>
-				<id>C-NW56-3-4-3-2</id>
-				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-4-3-3</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-4-3-4</id>
+				<id>C-NW56-3-4-2-6</id>
 				<title>Experimente</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
+				<content>–	Betrachtung von verschiedenen Materialien (Federn, Haaren, Kristallen, Pflanzen-teilen, Kleinlebewesen) mit der Lupe, dem Mikroskop und dem Binokular</content>
+			</inhalt>
 			<inhalt>
-				<id>C-NW56-3-4-3-5</id>
+				<id>C-NW56-3-4-2-7</id>
 				<title>Fachbegriffe</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Sonnensystem, Lupe, Mikroskop, Fernrohr</content>
+				<content>–	Modelle: Globus, Zelle</content>
+				<content>–	Kristall</content>
 			</inhalt>	
 		</inhalt>
 	</themainhalt>
 	<themainhalt>
 		<id>C-NW56-3-5</id>
-		<title></title>
-		<content>
-		</content>
+		<title>Pflanzen, Tiere, Lebensräume</title>
+		<content>Tiere und Pflanzen haben charakteristische Lebensweisen, sind ihrer Umgebung angepasst und stehen in Nahrungsbeziehungen zueinander. Bei der Erkundung von Lebensräumen nehmen die Schülerinnen und Schüler die Vielfalt der Formen wahr.
+Sie sammeln, ordnen und beschreiben wiederkehrende Muster und erarbeiten Differenzierungsmerkmale von Lebewesen. Bei der Bestimmung von Pflanzen- und Tierarten wird die Fachsystematik entwickelt. 
+Lebensräume werden von Menschen genutzt und dadurch verändert. Aus dem Wissen über Ökosysteme ergeben sich Konsequenzen für einen nachhaltigen Umgang mit der Natur. Kenntnisse über Wildtiere und die Angepasstheit an ihren Lebensraum sind Voraussetzung für artgerechte Haltung von Nutz- und Haustieren. Die Schülerinnen und Schüler lernen, verschiedene Perspektiven einzunehmen und Argumente für die Lösung von Umweltfragen zu sammeln, zu ordnen und zu gewichten. Sie reflektieren ihr eigenes Handeln und verändern es gegebenenfalls.
+</content>
 		<inhalt>
 			<id>C-NW56-3-5-1</id>
-			<title>Thema: </title>
+			<title>Thema: Merkmale und Lebensbedingungen von Tieren und Pflanzen</title>
 			<inhalt>
 				<id>C-NW56-3-5-1-1</id>
 				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Merkmale des Lebens</content>
+				<content>–	Arten und ihre spezifischen Merkmale, einfache Bestimmungshilfen</content>
+				<content>–	Körperbau, Fortpflanzung, Entwicklung, Verhalten</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-5-1-2</id>
-				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Technik</title>
+				<content>Vom Menschen verursachte Einflüsse auf Lebewesen und ihre natürlichen Lebensräume</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-5-1-3</id>
-				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>
-			<inhalt>
-				<id>C-NW56-3-5-1-4</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>
+				<title>Fachmethoden</title>
+				<content>Vergleichen, Ordnen und Unterscheiden, Beobachten und Erklären, konstante und variable Bedingungen beim Experimentieren unterscheiden</content>
+				</inhalt>
 		</inhalt>	
 		<inhalt>
 			<id>C-NW56-3-5-2</id>
-			<title>Thema: </title>
+			<title>Thema: Wechselwirkungen von Organismen in ihren Lebensräumen</title>
 			<inhalt>
 				<id>C-NW56-3-5-2-1</id>
 				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Wachstumsbedingungen von Pflanzen</content>
+				<content>–	Angepasstheit von Pflan-zen und Tieren an die Jahreszeiten und an den Lebensraum</content>
+				<content>–	Winterschlaf, -ruhe, -starre</content>
+				<content>–	Tierwanderungen</content>
+				<content>–	Vegetationsperioden, Frühblüher</content>
+				<content>–	Verbreitung von Früchten und Samen</content>
+				<content>–	Nahrungsbeziehungen</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-5-2-2</id>
 				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>Einflussfaktoren für Lebewesen:–	Wasser, Boden, Nährstoffe, Luft, Mineralsalze</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-5-2-3</id>
 				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>Einflussfaktoren für Lebewesen:–	Temperatur, Lichtintensität</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-5-2-4</id>
-				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-5-2-5</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-		</inhalt>
-		<inhalt>
-			<id>C-NW56-3-5-3</id>
-			<title>Thema: Messgeräte</title>
-			<inhalt>
-				<id>C-NW56-3-5-3-1</id>
-				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Fachmethoden</title>
+				<content>Beobachten und Messen über einen längeren Zeitraum</content>
 			</inhalt>
 			<inhalt>
-				<id>C-NW56-3-5-3-2</id>
-				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-5-3-3</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-5-3-4</id>
+				<id>C-NW56-3-5-2-5</id>
 				<title>Experimente</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
+				<content>–	Bau eines Modells einer Flugfrucht</content>
+				<content>–	Wachstum von Pflanzen in Abhängigkeit von Licht und Nährstoffgaben</content>
+			</inhalt>
 			<inhalt>
-				<id>C-NW56-3-5-3-5</id>
+				<id>C-NW56-3-5-2-6</id>
 				<title>Fachbegriffe</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Wachstum, Fortpflanzung, Stoffwechsel, Reizbarkeit, Bewegung</content>
+				<content>-	Früchte, Samen, Samenverbreitung, Winterschlaf, -ruhe, -starre</content>
+				<content>–	Lebensraum</content>
 			</inhalt>	
 		</inhalt>
 	</themainhalt>
 	<themainhalt>
 		<id>C-NW56-3-6</id>
-		<title></title>
-		<content>
-		</content>
+		<title>Bewegung zu Wasser, zu Lande und in der Luft</title>
+		<content>Viele Lebewesen bzw. technische Objekte sind in ihrer Körperform bzw. Bauweise für bestimmte Bewegungen optimiert (Bionik). Ein Vergleich von Lebewesen zeigt die Angepasstheiten des Bewegungsapparates an verschiedene Lebensräume. Die Energienutzung aus der Verbrennung von Nährstoffen bzw. Kraftstoffen ermöglicht Bewegung in Natur und Technik.
+Analogien in Natur und Technik ermöglichen es den Schülerinnen und Schülern, Vergleichskriterien zu entwickeln und anzuwenden. Daneben werden Funktionsmodelle erprobt.</content>
 		<inhalt>
 			<id>C-NW56-3-6-1</id>
-			<title>Thema:</title>
+			<title>Thema: Bewegungsarten bei Menschen und Tieren</title>
 			<inhalt>
 				<id>C-NW56-3-6-1-1</id>
 				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Angepasstheit der Gestalt und Lebens-weise an den jeweiligen Lebensraum</content>
+				<content>–	Gehen, Laufen, Springen, Fliegen, Schwimmen</content>
+				<content>–	Vogelkörper, Vogelflügel, Federn</content>
+				<content>–	Schwimmblase</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-6-1-2</id>
-				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Inhalte aus der Physik</title>
+				<content>–	Stromlinienform</content>
+				<content>–	Schweben, Sinken, Steigen, Schwimmen im Wasser</content>
+				<content>–	Auftrieb (propädeutisch)</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-6-1-3</id>
-				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>
+				<title>Technik</title>
+				<content>Bionik – Vergleich Flugzeug und Vogelform</content>
+				</inhalt>
 			<inhalt>
 				<id>C-NW56-3-6-1-4</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>
+				<title>Fachmethoden</title>
+				<content>Zusammenhang zwischen Struktur und Funktion beschreiben</content>
+				</inhalt>
 		</inhalt>	
 		<inhalt>
 			<id>C-NW56-3-6-2</id>
-			<title>Thema: </title>
+			<title>Thema: Beschreibung von Bewegung</title>
 			<inhalt>
 				<id>C-NW56-3-6-2-1</id>
 				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	menschliche Bewegung (Heben, Werfen, Schieben)</content>
+				<content>–	Modell: Zusammenspiel von Muskeln, Sehnen, Knochen</content>
+				<content>–	Schlussfolgerungen für Gesunderhaltung des eigenen Körpers</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-6-2-2</id>
-				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Inhalte aus der Physik</title>
+				<content>–	Formen von Bewegungen: geradlinige Bewegungen, Kreisbewegungen, Schwingungen</content>
+				<content>–	Geschwindigkeit bei geradlinig gleichförmigen Bewegungen</content>
+				<content>–	Bewegungsenergie</content>
+				<content>–	Reibungskräfte</content>
+				<content>–	Strömungswiderstand (propädeutisch)</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-6-2-3</id>
-				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>
+				<title>Technik</title>
+				<content>Erwünschte und unerwünschte Strömungswiderstände beim Fahrzeugbau bzw. Fallschirm</content>
+			</inhalt>	
 			<inhalt>
 				<id>C-NW56-3-6-2-4</id>
-				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-6-2-5</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-		</inhalt>
-		<inhalt>
-			<id>C-NW56-3-6-3</id>
-			<title>Thema: Messgeräte</title>
-			<inhalt>
-				<id>C-NW56-3-6-3-1</id>
-				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Fachmethoden</title>
+				<content>Weg- und Zeitmessungen einer gleichförmige Bewegung erfassen und protokollieren, Weg-Zeit-Diagramm zeichnen</content>
+				<content>Schlussfolgerungen auf der Grundlage naturwissenschaftlichen Alltagswissens ziehen</content>
 			</inhalt>
 			<inhalt>
-				<id>C-NW56-3-6-3-2</id>
-				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-6-3-3</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-6-3-4</id>
+				<id>C-NW56-3-6-2-5</id>
 				<title>Experimente</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
+				<content>Weg- und Zeitmessungen bei einer gleichförmigen Bewegung</content>
+			</inhalt>
 			<inhalt>
-				<id>C-NW56-3-6-3-5</id>
+				<id>C-NW56-3-6-2-6</id>
 				<title>Fachbegriffe</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Schwimmblase, Auftrieb, Stromlinienform</content>
+				<content>–	Bewegung, Geschwindigkeit</content>
+				<content>-	Reibung</content>
 			</inhalt>	
 		</inhalt>
 	</themainhalt>
 	<themainhalt>
 		<id>C-NW56-3-7</id>
-		<title></title>
-		<content>
-		</content>
+		<title>Körper und Gesundheit</title>
+		<content>In diesem Themenfeld sollen eigene Körpererfahrungen bewusstgemacht und daraus Verantwortung für sich und andere entwickelt werden. Kenntnisse über Nahrung und Körperfunktionen versetzen die Schülerinnen und Schüler in die Lage, die Bedeutung sportlicher Betätigung und einer ausgewogenen Ernährung argumentativ nachzuvollziehen. Die Schülerinnen und Schüler lernen dabei den Körper als komplexes, ganzheitliches System kennen, das auf Störungen mit Gegenmaßnahmen reagiert.</content>
 		<inhalt>
 			<id>C-NW56-3-7-1</id>
-			<title>Thema: </title>
+			<title>Thema: Bewegungsapparat des Menschen</title>
 			<inhalt>
 				<id>C-NW56-3-7-1-1</id>
 				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>menschliches Skelett: –	Aufbau, Funktionen von Knochen, Gelenken, Muskeln</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-7-1-2</id>
 				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Bestandteile von Knochen</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-7-1-3</id>
 				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	richtiges Sitzen, Heben, Gehen</content>
+				<content>–	Kraft, Hebel</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-7-1-4</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Technik</title>
+				<content>Bionik, Robotik, Medizin, z. B. Prothetik</content>
+			</inhalt>
+			<inhalt>
+				<id>C-NW56-3-7-1-5</id>
+				<title>Fachmethoden</title>
+				<content>Modelle anwenden, eigene Modelle entwickeln, Modellkritik</content>
 			</inhalt>
 		</inhalt>	
 		<inhalt>
 			<id>C-NW56-3-7-2</id>
-			<title>Thema: </title>
+			<title>Thema: Verdauung und Ernährung – den Nährstoffen auf der Spur</title>
 			<inhalt>
 				<id>C-NW56-3-7-2-1</id>
 				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Verdauungsorgane und ihre Aufgaben</content>
+				<content>–	Nahrungspyramide, -kreis</content>
+				<content>–	Körperzellen verbrennen Nährstoffe</content>
+				<content>–	erhöhter Nährstoffbedarf der Körperzellen bei Belastung</content>
+				<content>–	höhere Belastung zeigt sich durch erhöhte Atem- und Pulsfrequenz (Schwitzen)</content>
+				<content>–	Anlegen von Nährstoffspeichern</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-7-2-2</id>
 				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Energiebedarf und -umsatz</content>
+				<content>–	Nährstoffe und ihre Nachweise</content>
+				<content>–	Energiegehalt verschiedener Energieträger, Brennwert</content>
+				<content>–	Umwandlung der Energie der Nährstoffe</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-7-2-3</id>
-				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>
-			<inhalt>
-				<id>C-NW56-3-7-2-4</id>
 				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>Lebensmitteltechnologie</content>
 			</inhalt>	
 			<inhalt>
-				<id>C-NW56-3-7-2-5</id>
+				<id>C-NW56-3-7-2-4</id>
 				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>Schlussfolgerungen auf der Grundlage naturwissenschaftlichen Alltagswissens ziehen, Nachweisreaktionen planen und durchführen, angeleitet protokollieren, Schlussfolgerungen aus Belegen ziehen</content>
 			</inhalt>	
 		</inhalt>
 		<inhalt>
 			<id>C-NW56-3-7-3</id>
-			<title>Thema: </title>
+			<title>Thema: Suchtprävention</title>
+			<content>–	Strategien zur Abwehr von Suchtverhalten</content>
+			<content>–	stoffliche Suchtmittel: Tabak, Alkohol, Drogen, Süßes</content>
+			<content>–	nichtstoffliche Suchtmittel: Fernsehen/Video, Computer</content>
 			<inhalt>
 				<id>C-NW56-3-7-3-1</id>
-				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Experimente</title>
+				<content>–	Ein gesundes Frühstück</content>
+				<content>–	Pulsfrequenz messen in Ruhe und Bewegung</content>
+				<content>–	Nussknacker</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-7-3-2</id>
-				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-7-3-3</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-7-3-4</id>
-				<title>Experimente</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-7-3-5</id>
 				<title>Fachbegriffe</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Knochen, Gelenke, Muskeln</content>
+				<content>–	Nahrungspyramide bzw. -kreis Verdauungsorgane</content>
+				<content>–	Suchtmittel</content>				
 			</inhalt>	
 		</inhalt>
 	</themainhalt>
 	<themainhalt>
 		<id>C-NW56-3-8</id>
-		<title></title>
-		<content>
-		</content>
+		<title>Sexualerziehung</title>
+		<content>In diesem Themenfeld werden die der Aufklärung und Prävention zugehörigen Themen aus dem Bereich Sexualität aufgegriffen. Sie werden in Bezug zu den weiteren aufgeführten gesellschaftlichen Aspekten vermittelt. 
+Die Schülerinnen und Schüler setzen sich mit den biologischen Veränderungen des Körpers während der Pubertät auseinander. Sie kennen Zusammenhänge der Zeugung und Emp-fängnisverhütung und wissen um die Gefahren und die Prävention von sexuell übertragbaren Krankheiten.
+Sie tauschen sich über das eigene Körperbewusstsein und Körpergefühl aus. Dabei setzen sie sich mit verschiedenen kulturellen und religiösen Wertvorstellungen, unterschiedlichen Lebensstilen und Lebenssituationen in Bezug auf Sexualität, Partnerschaft und Familie auseinander. 
+Besonders wichtig sind hier eine behutsame, sensible Herangehensweise und ein respekt-voller Umgang mit persönlichen Befindlichkeiten. Vorurteile müssen ggf. erst bewusstge-macht werden, bevor man sie vorsichtig aufbrechen und ihnen entgegentreten kann. Ein wichtiger Aspekt ist dabei auch die Prävention von psychischer und physischer Gewalt.</content>
 		<inhalt>
 			<id>C-NW56-3-8-1</id>
-			<title>Thema: Menschliche Sinne und Wahrnehmung</title>
+			<title>Thema: Der Körper verändert sich – Wachstum und Pubertät</title>
 			<inhalt>
 				<id>C-NW56-3-8-1-1</id>
-				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Sexualität und Identität</title>
+				<content>–	biologische Veränderun-gen des Körpers während der Pubertät</content>
+				<content>–	Förderung eines positiven Körperbewusstseins und Körpergefühls</content>
+				<content>–	sexuelle Orientierungen</content>
+				<content>–	Geschlecht und Geschlechtsidentitäten</content>
+				<content>–	Fragen zur Sexualität (Gefühle, Körperentwick-lung und -wahrnehmung u. a.) klären</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-8-1-2</id>
-				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Prävention</title>
+				<content>–	Beratungs- und Informati-onsstellen</content>
+				<content>–	Kondome als Schutz vor sexuell übertragbaren Krankheiten einschließlich HIV-Infektionen, AIDS</content>
+				<content>–	Empfängnisverhütung und Schwangerschaft</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-8-1-3</id>
-				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Gesellschaft und Kultur</title>
+				<content>–	sexualisierte Inhalte in SMS, sozialen Netzwer-ken und anderen Medien</content>
+				<content>–	Geschlechterrollen und vorherrschende Schön-heitsideale</content>
+				<content>–	Darstellungen von Sexua-lität in den Medien reflek-tieren</content>
+				<content>–	religiöse, kulturelle und ethische Moralvorstellungen</content>
+				<content>–	Respekt und Toleranz gegenüber verschiedenen Lebens- und Familienmodellen</content>			
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-8-1-4</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>
+				<title>Sprache</title>
+				<content>Funktionen von Sprache im Unterricht reflektieren; sexualfreundliche, situationsbezogene, Intimität schützende, nicht diskriminierende Sprache – sachdienliche Kommunikation</content>
+				</inhalt>
 		</inhalt>	
-		<inhalt>
-			<id>C-NW56-3-8-2</id>
-			<title>Thema: Sinnestäuschungen (Subjektivität und Objektivität)</title>
-			<inhalt>
-				<id>C-NW56-3-8-2-1</id>
-				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>
-			<inhalt>
-				<id>C-NW56-3-8-2-2</id>
-				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>
-			<inhalt>
-				<id>C-NW56-3-8-2-3</id>
-				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>
-			<inhalt>
-				<id>C-NW56-3-8-2-4</id>
-				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-8-2-5</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-		</inhalt>
-		<inhalt>
-			<id>C-NW56-3-8-3</id>
-			<title>Thema: Messgeräte</title>
-			<inhalt>
-				<id>C-NW56-3-8-3-1</id>
-				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>
-			<inhalt>
-				<id>C-NW56-3-8-3-2</id>
-				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-8-3-3</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-8-3-4</id>
-				<title>Experimente</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-8-3-5</id>
-				<title>Fachbegriffe</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-		</inhalt>
 	</themainhalt>
 	<themainhalt>
 		<id>C-NW56-3-9</id>
-		<title>Von den Sinnen zum Messen</title>
-		<content>
-		</content>
+		<title>Technik</title>
+		<content>Maschinen bestehen aus miteinander verbundenen, zusammenwirkenden mechanischen und elektrischen Bauteilen. Ihre Baupläne weisen Ähnlichkeiten zur Darstellung von Funktionsmodellen von Organismen auf. Um die Funktionsweise von Maschinen zu verstehen, benötigt man grundlegende Kenntnisse über Kraftübertragung, Verbindungselemente und elektrische Stromkreise. Durch viele Geräte finden Energieumwandlungen statt.
+Experimente an einfachen Stromkreisen und die Untersuchung von Maschinen sind wesentliche Methoden der Erkenntnisgewinnung. Dafür eignen sich Maschinen mit beweglichen Teilen, die sich demontieren und dadurch in Aufbau und Funktion untersuchen lassen (z. B. Handmixer, Haartrockner).
+Die Bestandteile zerlegter Maschinen und deren Anordnung können mithilfe von Schaltsymbolen zeichnerisch dargestellt werden. Die Schülerinnen und Schüler konstruieren und bauen einfache Stromkreise und Maschinen. Dabei werden die Regeln zum sicheren Umgang mit elektrischen Geräten beachtet.</content>
 		<inhalt>
 			<id>C-NW56-3-9-1</id>
-			<title>Thema: Menschliche Sinne und Wahrnehmung</title>
+			<title>Thema: Geräte und Maschinen im Alltag</title>
 			<inhalt>
 				<id>C-NW56-3-9-1-1</id>
 				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Gelenke</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-9-1-2</id>
 				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Stoffeigenschaften geeigneter Werkstoffe</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-9-1-3</id>
 				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Hebel, Rollen, Zahnräder</content>
+				<content>–	Transportmodell (z. B. Fahrradkettenmodell)</content>
+				</inhalt>
+				<inhalt>
+				<id>C-NW56-3-9-1-4</id>
+				<title>Technik</title>
+				<content>Geräte und Maschinen als zusammenwirkende Bauteile unterschiedlicher Funktion, gleichartige Bauteile (z. B. Antrieb, Getriebe, Schalter, Gehäuse, Prozessor, Speicher) als Bestandteile unterschiedlichster Geräte, Wind- und Wasserkraft</content>
 			</inhalt>
 			<inhalt>
-				<id>C-NW56-3-9-1-4</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<id>C-NW56-3-9-1-5</id>
+				<title>Fachmethoden</title>
+				<content>Funktionsmodelle für einfache Maschinen anwenden (z. B. Fahrrad), Bedienungsanleitungen nutzen, aus technischen Zeichnungen Informationen entnehmen</content>
 			</inhalt>
 		</inhalt>	
 		<inhalt>
 			<id>C-NW56-3-9-2</id>
-			<title>Thema: Sinnestäuschungen (Subjektivität und Objektivität)</title>
+			<title>Thema: Elektrischer Stromkreis</title>
 			<inhalt>
 				<id>C-NW56-3-9-2-1</id>
-				<title>Inhalte aus der Biologie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Inhalte aus der Chemie</title>
+				<content>Stoffeigenschaften: –	elektrisch leitend und nicht leitend</content>
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-9-2-2</id>
-				<title>Inhalte aus der Chemie</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Inhalte aus der Physik</title>
+				<content>–	Stromkreis</content>
+				<content>–	Leiter und Nichtleiter</content>
+				<content>–	Wirkungen des elektrischen Stroms (Wärme-, Licht-, magnetische Wirkung)</content>				
 			</inhalt>
 			<inhalt>
 				<id>C-NW56-3-9-2-3</id>
-				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>
+				<title>Technik</title>
+				<content>Elektrische Geräte, wie z. B. Haarfön (Bauteile, Schalter, Heizdraht, Ventilator, Kabel, Gehäuse), Verbrennungs- und Elektromotor, Erzeugung von elektrischer Energie und Wärme in Kraftwerken und durch regenerative Energiequellen</content>
+			</inhalt>	
 			<inhalt>
 				<id>C-NW56-3-9-2-4</id>
-				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-9-2-5</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-		</inhalt>
-		<inhalt>
-			<id>C-NW56-3-9-3</id>
-			<title>Thema: Messgeräte</title>
-			<inhalt>
-				<id>C-NW56-3-9-3-1</id>
-				<title>Inhalte aus der Physik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<title>Fachmethoden</title>
+				<content>Experimente durchführen, Ergebnisse beschreiben, mit Modellen naturwissenschaftliche Sachverhalte beschreiben, elektrische Geräte zerlegen, charakteristische Bestandteile identifizieren und ihre Funktion beschreiben, Schaltpläne zeichnen</content>
 			</inhalt>
 			<inhalt>
-				<id>C-NW56-3-9-3-2</id>
-				<title>Technik</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-9-3-3</id>
-				<title>Fachmethode</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
-			<inhalt>
-				<id>C-NW56-3-9-3-4</id>
+				<id>C-NW56-3-9-2-5</id>
 				<title>Experimente</title>
-				<content></content>
-				<content></content>
-				<content></content>				
-			</inhalt>	
+				<content>–	einfacher Stromkreis</content>
+			</inhalt>
 			<inhalt>
-				<id>C-NW56-3-9-3-5</id>
+				<id>C-NW56-3-9-2-6</id>
 				<title>Fachbegriffe</title>
-				<content></content>
-				<content></content>
-				<content></content>				
+				<content>–	Hebel, Gelenke</content>
+				<content>–	Rollen, Zahnräder elektrischer Strom, Stromkreis</content>
+				<content>–	Leiter, Nichtleiter</content>
+				<content>–	Schalter, Schaltplan</content>
 			</inhalt>	
 		</inhalt>
-	</themainhalt>
-
+		</themainhalt>
 	</c3>
 </fach>

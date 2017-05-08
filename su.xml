@@ -1,0 +1,1965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fach xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns="http://bsbb.eu" 
+	xsi:schemaLocation="http://bsbb.eu fachtype.xsd">
+
+<id>C-SU</id>
+	<title>Sachunterricht</title>
+	<c1>
+		<id>C-SU-1</id>
+		<title>Kompetenzentwicklung im Fach Sachunterricht</title>
+		<subtext>
+			<id>C-SU-1-1</id>
+			<title>Ziele des Unterrichts</title>
+			<content>Im Sachunterricht setzen sich die Schülerinnen und Schüler in den Jahrgangsstufen 1 bis 4 mit ihrer natürlichen, kulturellen, sozialen und technisch gestalteten sowie historisch geprägten Umwelt auseinander. Sie erschließen sich bekannte und neue Erfahrungsräume und lernen Zugänge zu sich selbst, zu anderen und zur Sache kennen. Dabei knüpfen sie an eigene Einsichten, Interessen und Fähigkeiten, vor- und außerschulische Erfahrungen und Kenntnisse an und erwerben neues Wissen über die Welt sowie vielfältige Fähigkeiten und Fertigkeiten zum Umgang mit der Einen Welt.
+			Die Schülerinnen und Schüler werden im Sachunterricht befähigt, gemeinsam mit anderen Fragestellungen zu Phänomenen zu entwickeln und zu bearbeiten. Hierzu gehören Fragen nach
+			
+			–	Objekten und Subjekten		Was/Wer ist das? Wo und wie ist das? 
+											Wer und wie bin ich?
+			–	Begründungen und 
+				Zusammenhängen				Warum ist das so? Womit hängt das zusammen?
+			–	Prozessen					Wie und warum ist es so geworden? Wie funktioniert das?
+			–	Gegenwarts- und 
+				Zukunftsbedeutungen			Wie gehen wir damit um? Was wird daraus?
+			
+			Durch vielgestaltige Lehr- und Lernformen können Schülerinnen und Schüler zunehmend eigenständig und kompetent entdeckend und forschend sowie weltoffen lernen. Ausgangs-punkt des Lehrens und Lernens ist, soweit möglich, das Konkrete und die Realbegegnung, im und auch außerhalb des Klassenraums. Dabei erweitern die Schülerinnen und Schüler nicht nur ihr Wissen über die Welt, sondern auch darüber, wie sie selbst neue Erkenntnisse erwerben können.
+			Der Sachunterricht trägt zur Identitätsentwicklung bei, dazu gehört, sich und andere Menschen in großer Vielfalt und Unterschiedlichkeit wahrzunehmen und zu respektieren. Ziel des Unterrichts ist auch das mitwirkende und verantwortliche Handeln der Schülerinnen und Schüler in der Lerngruppe und im Lebensumfeld.
+			Für den Sachunterricht leitend sind Ansatz und Anspruch, die Komplexität der Welt in den Unterricht hineinzunehmen und sich mit ihr vielperspektivisch und perspektivenübergreifend auseinanderzusetzen. Dies gelingt, indem für den Bildungsprozess relevante und zugleich exemplarische Phänomene gründlich untersucht werden. Insofern ermöglicht der Sachunterricht den Schülerinnen und Schülern, den Sachen und der Welt zwar in Ausschnitten, jedoch inhaltlich anspruchsvoll, vernetzt und integrativ zu begegnen.</content>
+		</subtext>
+		<subtext>
+			<id>C-SU-1-2</id>
+			<title>Fachbezogene Kompetenzen</title>
+			<content>Die Kompetenzen für den Sachunterricht beziehen sich auf die prozessorientierten Denk-, Arbeits- und Handlungsweisen, mittels derer sich Schülerinnen und Schüler Phänomenen annähern und sich handelnd mit ihnen auseinandersetzen. Die Kompetenzen lassen sich (analytisch) in die Bereiche Erkennen, Kommunizieren, Urteilen sowie Handeln gliedern, wobei es zwischen den Bereichen Überschneidungen gibt. Unterrichtswirksame Leitfragen aus der Sicht der Lernenden unterstützen die Kompetenzentwicklung.
+Mit zunehmendem Grad der Kompetenzentwicklung vertiefen die Lernenden ihre Orientie-rung über sich, andere und die Welt. 
+Die Kompetenzentwicklung verläuft individuell und vollzieht sich in der Begegnung mit immer neuen Inhalten und Lernformen sowie im Austausch mit anderen.</content>
+		</subtext>
+		</c1>
+		<c2>
+		<vorwort>
+		<id>C-SU-2-BE</id>
+		<title>Regelungen für das Land Berlin</title>
+		<content>
+Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen 
+Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren 
+Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler.
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungs­vorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+
+Für Grundschulen und Grundstufen der Gemeinschaftsschulen sowie an weiterführenden Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Schulanfangsphase 	Niveaustufen A, B, in Teilen C
+Jahrgangsstufen	3 – 4	Niveaustufe C, in Teilen D
+Jahrgangsstufe	5	Niveaustufen C – D 
+Jahrgangsstufe	6	Niveaustufe D, in Teilen E
+
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen 
+werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufe 	3	Niveaustufe B, in Teilen C
+Jahrgangsstufen	4 – 6	Niveaustufe C
+Jahrgangsstufen 	7 – 8	Niveaustufe D
+Jahrgangsstufen 	9 – 10	Niveaustufen D – E
+
+Zur Vorbereitung auf den der Berufsbildungsreife gleichwertigen Abschluss werden in den Jahrgangsstufen 9 und 10 auch Angebote auf dem Niveau F unterbreitet.
+Je nach dem Grad der Lernbeeinträchtigung erreichen die Schülerinnen und Schüler die 
+gesetzten Standards nicht im vollen Umfang bzw. nicht zum vorgegebenen Zeitpunkt. Dem trägt eine individuelle Ausrichtung des Unterrichtsangebots Rechnung.
+Für die Integrierte Sekundarschule gilt:
+grundlegendes Niveau:
+Jahrgangsstufen	7 – 8	Niveaustufen D – E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufe F, in Teilen G
+erweitertes Niveau: 
+Jahrgangsstufen	7 – 8 	Niveaustufe E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufen F – G
+
+
+Für das Gymnasium gilt:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+
+Die folgende Darstellung veranschaulicht die im Berliner Schulsystem in den Jahrgangs-stufen 1 bis 10 möglichen Lerngeschwindigkeiten im Überblick und zeigt die Durchlässigkeit des Schulsystems. Sie bietet zudem eine Grundlage für eine systematische Schullaufbahnberatung. In der Darstellung ist auch erkennbar, welche Anforderungen Schülerinnen und Schüler erfüllen müssen, die die Voraussetzungen für den Erwerb der Berufsbildungsreife erst am Ende der Jahrgangsstufe 10 erreichen. Dieses Niveau können auch Schülerinnen und Schüler mit dem sonderpädagogischen Förderschwerpunkt Lernen erreichen, wenn sie den der Berufsbildungsreife gleichwerten Abschluss anstreben. 
+
+Der Sachunterricht in den Jahrgangsstufen 1 bis 4 beginnt auf dem Standardniveau A. Für die Entwicklung von Unterrichtsangeboten auf der Niveaustufe D (in Teilen) kann diese den Teilen C des Rahmenlehrplanes für die sich anschließenden Fächer Gesellschaftswissen-schaften 5/6 und Naturwissenschaften 5/6 jeweils im Kapitel 2 entnommen werden.</content>
+	</vorwort>
+	<vorwort>
+		<id>C-SU-2-BB</id>
+		<title>Regelungen für das Land Brandeburg</title>
+		<content>
+Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchtigungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren 
+Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler. 
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungs­vorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+Grundschule 
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang der Grundschule Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden können.
+Für Grundschulen und für Primarstufen von Ober- und Gesamtschulen sowie 
+für weiterführende allgemeinbildende Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Jahrgangsstufen	1 – 2	Niveaustufen A und B
+Jahrgangsstufen	3 – 4	Niveaustufe C
+Jahrgangsstufen	5 – 6	Niveaustufe D 
+
+Förderschwerpunkt Lernen
+Die folgende tabellarische Darstellung beschreibt, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang zum Erwerb des Abschlusses der Schule mit dem sonderpädagogischen Förderschwerpunkt Lernen Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden können.
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufen	1 – 2	Niveaustufen A und B 
+Jahrgangsstufe	3	Niveaustufe B
+Jahrgangsstufen	4 – 6	Niveaustufe C
+Jahrgangsstufen	7 – 8	Niveaustufe D
+Jahrgangsstufen	9 – 10	Niveaustufen D und E
+
+Schülerinnen und Schüler, für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen festgestellt worden ist und die dem Bildungsgang Förderschule Lernen gemäß 
+§ 30 BbgSchulG zugeordnet sind, erhalten im Unterricht Lernangebote, die ein Erreichen der Niveaustufen A, B, C, D und E ermöglichen sollen. Hierbei sind die individuellen Lernvoraussetzungen der Schülerinnen und Schüler zu berücksichtigen.
+In diesem Bildungsgang wird mit der Niveaustufe E das gemeinsame Bildungsziel am Ende der Jahrgangsstufe 10 abgebildet.
+Zur Vorbereitung auf den der Berufsbildungsreife entsprechenden Abschluss wird in den Jahrgangsstufen 9 und 10 schülerbezogen auch auf dem Niveau F unterrichtet.
+Schulen der Sekundarstufe I
+Ausgehend vom grundlegenden, erweiterten und vertieften Anspruchsniveau unterscheidet sich der Unterricht in der Sekundarstufe I in der Art der Erschließung, der Vertiefung und dem Grad der Komplexität der zugrunde gelegten Themen und Inhalte. Bei der inneren 
+Organisation in Klassen und Kursen ist dies zu berücksichtigen.
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel in den verschiedenen Bildungsgängen der Sekundarstufe I 
+Niveaustufen durchlaufen bzw. erreichen. Der Unterricht enthält immer auch Angebote auf der jeweils höheren Niveaustufe.
+Am Unterricht in Fächern ohne äußere Fachleistungsdifferenzierung nehmen Schülerinnen und Schüler mit unterschiedlichen Lernvoraussetzungen teil. Die dem Unterricht zugrunde gelegte Niveaustufe ist daher so zu wählen, dass sie für alle Lernenden eine optimale Förderung ermöglicht.
+
+a) Oberschule
+In der EBR-Klasse des kooperativen Modells und im A-Kurs des integrativen Modells wird im Unterricht eine grundlegende Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufen D und E
+Jahrgangsstufe	8 	Niveaustufen E und F
+Jahrgangsstufe	9	Niveaustufe F
+Jahrgangsstufe	10	Niveaustufen F und G
+
+In der FOR-Klasse des kooperativen Modells sowie im B-Kurs des integrativen Modells wird im Unterricht eine erweiterte Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8 	Niveaustufen E und F
+Jahrgangsstufe	9	Niveaustufen F und G
+Jahrgangsstufe	10	Niveaustufe G
+
+In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass sowohl eine grundlegende als auch eine erweiterte Bildung vermittelt wird. Hierbei sind die für die Oberschule dargestellten Niveaustufen zugrunde zu legen.
+
+b) Gesamtschule
+Im G-Kurs der Gesamtschule wird zur Sicherung der Durchlässigkeit zum E-Kurs neben der grundlegenden Bildung auch die erweiterte Bildung vermittelt. Im E-Kurs der 
+Gesamtschule wird zur Sicherung der Durchlässigkeit zum G-Kurs neben der vertieften Bildung auch die erweiterte Bildung vermittelt.
+In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass eine grundlegende, erweiterte und vertiefte Bildung vermittelt wird. Hierbei sind die für die Oberschule und das Gymnasium dargestellten Niveaustufen zugrunde zu legen.
+
+c) Gymnasium
+In den Klassen des Gymnasiums wird im Unterricht eine vertiefte Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+
+Der Sachunterricht in den Jahrgangsstufen 1 bis 4 beginnt auf dem Standardniveau A. Für die Entwicklung von Unterrichtsangeboten auf der Niveaustufe D (in Teilen) kann diese den Teilen C des Rahmenlehrplanes für die sich anschließenden Fächer Gesellschaftswissenschaften 5/6 und Naturwissenschaften 5/6 jeweils im Kapitel 2 entnommen werden.</content>
+	</vorwort>
+	<subarea>
+		<area>
+		<id>SU-K1</id>
+ 	  	 <name>Erkennen</name>
+ 	  	 <competence>
+ 	  	  	 <id>SU-K1-1</id>
+ 	  	  	 <name>Sachbezogen Fragen stellen und Vermutungen äußern</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K1-1-A</id>
+ 	  	  	  	 <level>A</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-1-A-1</id>
+ 	  	  	  	  	 <content>Fragen zu einem Phänomen oder Thema stellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K1-1-B</id>
+ 	  	  	  	 <level>B</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-1-B-1</id>
+ 	  	  	  	  	 <content>Vorschläge äußern, die zur Beantwortung von Fragen führen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K1-1-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-1-C-1</id>
+ 	  	  	  	  	 <content>Vermutungen zu möglichen Antworten äußern</content>
+ 	  	  	  	 </standard>
+ 	  	  	  </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>SU-K1-2</id>
+ 	  	  	 <name>Planen, organisieren und auswerten</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K1-2-A</id>
+ 	  	  	  	 <level>A</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-2-A-1</id>
+ 	  	  	  	  	 <content>sich an der Planung und Ausführung von Arbeits- und Lernschritten beteiligen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K1-2-B</id>
+ 	  	  	  	 <level>B</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-2-B-1</id>
+ 	  	  	  	  	 <content>Arbeits- und Lernschritte vorbereiten und ausführen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-2-B-2</id>
+ 	  	  	  	  	 <content>Arbeits- und Lernschritte nach Kriterien auswerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K1-2-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-2-C-1</id>
+ 	  	  	  	  	 <content>ein Vorhaben (z. B. ein Experiment, ein Themenportfolio, eine Befragung) nach Vorgaben planen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-2-C-2</id>
+ 	  	  	  	  	 <content>ein Vorhaben durchführen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-2-C-3</id>
+ 	  	  	  	  	 <content>ein Vorhaben auswerten (z. B. Frage, Ziel, Materialien, Geräte, Schritte, Untersuchungsmethode, Zeiteinteilung, Ergebnisse)</content>
+ 	  	  	  	 </standard>
+ 	  	  	</stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>SU-K1-3</id>
+ 	  	  	 <name>Untersuchen, beobachten, sich informieren und dokumentieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K1-3-A</id>
+ 	  	  	  	 <level>A</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-3-A-1</id>
+ 	  	  	  	  	 <content>Materialien (z. B. Bildern, Objekten) einzelne Informationen entnehmen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-3-A-2</id>
+ 	  	  	  	  	 <content>Modell und Original voneinander unterscheiden</content>
+ 	  	  	  	 </standard>
+ 	  	  	  </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K1-3-B</id>
+ 	  	  	  	 <level>B</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-3-B-1</id>
+ 	  	  	  	  	 <content>einen Sachverhalt (z. B. ein Objekt, eine Situation) auf Grundlage einer Fragestellung untersuchen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-3-B-2</id>
+ 	  	  	  	  	 <content>fachbezogene Methoden zur Bearbeitung anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-3-B-3</id>
+ 	  	  	  	  	 <content>Beobachtungen, Erprobungen und Versuche durchführen </content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-3-B-4</id>
+ 	  	  	  	  	 <content>vorgegebene Medien (z. B. Sachtexte, Bilder, Karten, Skizzen) zur Informationsentnahme nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-3-B-5</id>
+ 	  	  	  	  	 <content>Unterschiede und Gemeinsamkeiten von Modell und Original benennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K1-3-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-3-C-1</id>
+ 	  	  	  	  	 <content>ein Phänomen (in einem Zusammenhang) im Hinblick auf eine Fragestellung untersuchen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-3-C-2</id>
+ 	  	  	  	  	 <content>fachbezogene Methoden zur Bearbeitung auswählen </content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-3-C-3</id>
+ 	  	  	  	  	 <content>Arbeitsschritte in ihrer sachlogischenReihenfolge benennen </content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-3-C-4</id>
+ 	  	  	  	  	 <content>Beobachtungen, Erprobungen und Versuche zeichnerisch und/oder schriftlich festhalten</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-3-C-5</id>
+ 	  	  	  	  	 <content>Beobachtungen, Erprobungen und Versuche beschreiben </content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-3-C-6</id>
+ 	  	  	  	  	 <content>Medien (z. B. Karten und Tabellen) zielgerichtet zur Informationsentnahme nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-3-C-7</id>
+ 	  	  	  	  	 <content>mithilfe von Modellen Sachverhalte beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>SU-K1-4</id>
+ 	  	  	 <name>Vergleichen und ordnen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K1-4-A</id>
+ 	  	  	  	 <level>A</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-4-A-1</id>
+ 	  	  	  	  	 <content>Dinge oder Informationen miteinander vergleichen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-4-A-2</id>
+ 	  	  	  	  	 <content>Unterschiede und Gemeinsamkeiten benennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K1-4-BC</id>
+ 	  	  	  	 <level>BC</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-4-BC-1</id>
+ 	  	  	  	  	 <content>Kriterien zum Vergleichen und Ordnen benennen (z. B. Zeit, Funktion, Lebensraum)</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-4-BC-2</id>
+ 	  	  	  	  	 <content>Dinge oder Informationen nach Kriterien vergleichen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-4-BC-3</id>
+ 	  	  	  	  	 <content>Dinge oder Informationen nach Kriterien ordnen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>SU-K1-5</id>
+ 	  	  	 <name>Gestalten und darstellen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K1-5-A</id>
+ 	  	  	  	 <level>A</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-5-A-1</id>
+ 	  	  	  	  	 <content>einfache Gestaltungsentscheidungen treffen (z. B. Farben auswählen)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K1-5-B</id>
+ 	  	  	  	 <level>B</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-5-B-1</id>
+ 	  	  	  	  	 <content>Ergebnisse mithilfe von Bildvorlagen und ggf. Wortkarten gestalten (z. B. ausschneiden und anordnen)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K1-5-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K1-5-C-1</id>
+ 	  	  	  	  	 <content>verschiedene Formate in der Aufbereitung von Lern- und Arbeitsergebnissen anwenden (z. B. Zeichnung, Plakat, Tabelle, Kurzvortrag, szenisches Spiel)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>SU-K2</id>
+ 	  	 <name>Kommunizieren</name>
+ 	  	 <competence>
+ 	  	  	 <id>SU-K2-1</id>
+ 	  	  	 <name>Sich sachbezogen mitteilen und nachfragen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K2-1-A</id>
+ 	  	  	  	 <level>A</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-1-A-1</id>
+ 	  	  	  	  	 <content>zu einem Thema zugehörige Bilder oder Dinge auswählen und zeigen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K2-1-B</id>
+ 	  	  	  	 <level>B</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-1-B-1</id>
+ 	  	  	  	  	 <content>sprachlich verständlich und sachbezogen Vermutungenäußern </content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-1-B-2</id>
+ 	  	  	  	  	 <content>sich sprachlich verständlich ausdrücken und sachbezogen erzählen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-1-B-3</id>
+ 	  	  	  	  	 <content>um Hilfe bitten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K2-1-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-1-C-1</id>
+ 	  	  	  	  	 <content>Gedanken, Erfahrungen, Sachverhalte, Abläufe und Beobachtungensachbezogen wiedergeben und zusammenfassen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-1-C-2</id>
+ 	  	  	  	  	 <content>gezielt um Unterstützung bitten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>SU-K2-2</id>
+ 	  	  	 <name>Sach- und regelbezogen interagieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K2-2-A</id>
+ 	  	  	  	 <level>A</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-2-A-1</id>
+ 	  	  	  	  	 <content>grundlegende Gesprächsregeln einhalten (z. B. zuhören, sich melden, ausreden lassen)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K2-2-B</id>
+ 	  	  	  	 <level>B</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-2-B-1</id>
+ 	  	  	  	  	 <content>zusätzliche Gesprächsregeln vorschlagen (z. B. Anknüpfen an vorher Gesagtes)</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-2-B-2</id>
+ 	  	  	  	  	 <content>zusätzliche Gesprächsregeln einüben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-2-B-3</id>
+ 	  	  	  	  	 <content>einander Rückmeldung geben (z. B. Nachfragen, Zustimmung)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K2-2-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-2-C-1</id>
+ 	  	  	  	  	 <content>aufeinander bezogen kommunizieren </content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-2-C-2</id>
+ 	  	  	  	  	 <content>mit anderen gemeinsam planen, Argumente sachlich austauschen (diskutieren) und Entscheidungen treffen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>SU-K2-3</id>
+ 	  	  	 <name>Gelerntes und Ergebnisse vortragen und Medien nutzen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K2-3-A</id>
+ 	  	  	  	 <level>A</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-3-A-1</id>
+ 	  	  	  	  	 <content>Gelerntes auf Nachfragen wiedergeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K2-3-B</id>
+ 	  	  	  	 <level>B</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-3-B-1</id>
+ 	  	  	  	  	 <content>Gelerntes und Ergebnisse vortragen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-3-B-2</id>
+ 	  	  	  	  	 <content>in der Vorstellung von Ergebnissen ein Medium (z. B. Abbildung, Tabelle) nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K2-3-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-3-C-1</id>
+ 	  	  	  	  	 <content>Lern- und Arbeitsergebnisse sachangemessen und zusammenhängend vorstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-3-C-2</id>
+ 	  	  	  	  	 <content>Ergebnisse unter Einbezug von Medien zusammenfassend präsentieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-3-C-3</id>
+ 	  	  	  	  	 <content>Nachfragen und Kritik äußern sowie darauf antworten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>SU-K2-4</id>
+ 	  	  	 <name>Fachsprache kennen und nutzen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K2-4-A</id>
+ 	  	  	  	 <level>A</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-4-A-1</id>
+ 	  	  	  	  	 <content>(Fach-)Begriffe zuordnen (z. B. zu einem Lebewesen, Gegenstand, Vorgang)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K2-4-B</id>
+ 	  	  	  	 <level>B</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-4-B-1</id>
+ 	  	  	  	  	 <content>(Fach-)Begriffe Oberbegriffen zuordnen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K2-4-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K2-4-C-1</id>
+ 	  	  	  	  	 <content>Fachbegriffe in ihrem Kontext anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>SU-K3</id>
+ 	  	 <name>Urteilen</name>
+ 	  	 <competence>
+ 	  	  	 <id>SU-K3-1</id>
+ 	  	  	 <name>Urteile bilden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K3-1-A</id>
+ 	  	  	  	 <level>A</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K3-1-A-1</id>
+ 	  	  	  	  	 <content>Entscheidungen bezüglich Zustimmung oder Ablehnung treffen (z. B. mag ich – mag ich nicht)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K3-1-B</id>
+ 	  	  	  	 <level>B</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K3-1-B-1</id>
+ 	  	  	  	  	 <content>eine wertende Aussage formulieren (z. B. ich finde … ich denke …)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K3-1-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K3-1-C-1</id>
+ 	  	  	  	  	 <content>zu einer Frage oder einem Unterrichtsthema Stellung beziehen und diese begründen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>SU-K3-2</id>
+ 	  	  	 <name>Andere Standpunkte wahrnehmen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K3-2-A</id>
+ 	  	  	  	 <level>A</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K3-2-A-1</id>
+ 	  	  	  	  	 <content>Standpunkte von anderen spielerisch übernehmen (z. B. im Rollenspiel)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K3-2-BC</id>
+ 	  	  	  	 <level>BC</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K3-2-BC-1</id>
+ 	  	  	  	  	 <content>unterschiedliche Standpunkte voneinander unterscheiden</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K3-2-BC-2</id>
+ 	  	  	  	  	 <content>Aussagen anderer mit eigenen Worten wiedergeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>SU-K3-3</id>
+ 	  	  	 <name>Medien und Arbeitsweisen reflektieren und bewerten</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K3-3-AB</id>
+ 	  	  	  	 <level>AB</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K3-3-AB-1</id>
+ 	  	  	  	  	 <content>Genutzte Medien und Materialien (z. B. Buch, Internet, Lupe) und erprobte Arbeitsweisen (z. B. Partnerarbeit, Befragung, Versuch) aufzählen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K3-3-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K3-3-C-1</id>
+ 	  	  	  	  	 <content>angeben, woher oder von wem sie Informationen gewonnen haben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K3-3-C-2</id>
+ 	  	  	  	  	 <content>das eigene Lern- und Arbeitsverhalten anhand von vorgegebenen Kriterien bewerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>SU-K4</id>
+ 	  	 <name>Handeln</name>
+ 	  	 <competence>
+ 	  	  	 <id>SU-K4-1</id>
+ 	  	  	 <name>Verabredungen treffen und einhalten</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K4-1-A</id>
+ 	  	  	  	 <level>A</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-1-A-1</id>
+ 	  	  	  	  	 <content>einen Arbeitsauftrag erfüllen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K4-1-B</id>
+ 	  	  	  	 <level>B</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-1-B-1</id>
+ 	  	  	  	  	 <content>eine Aufgabe auswählen und ausführen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-1-B-2</id>
+ 	  	  	  	  	 <content>Regeln einhalten (z. B. zum Umgang miteinander, mit dem Eigentum)</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-1-B-3</id>
+ 	  	  	  	  	 <content>Sicherheitsregeln für Schule und Alltag nennen (z. B. für den Klassenraum, für Experimente, für den Schulhof und Ausflüge, im Straßenverkehr)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K4-1-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-1-C-1</id>
+ 	  	  	  	  	 <content>Aufgaben und Verabredungen eigenverantwortlich und zuverlässig ausführen bzw. einhalten</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-1-C-2</id>
+ 	  	  	  	  	 <content>Regeln vorschlagen und begründen (z. B. für Unterrichts- und Pausenzeiten, den Umgang mit Ressourcen)</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-1-C-3</id>
+ 	  	  	  	  	 <content>den Sinn von Sicherheits- und Verhaltensregeln für Schule und Alltag begründen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>SU-K4-2</id>
+ 	  	  	 <name>in Gemeinschaft verantwortungsvoll handeln</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K4-2-A</id>
+ 	  	  	  	 <level>A</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-2-A-1</id>
+ 	  	  	  	  	 <content>eigene Bedürfnisse äußern</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K4-2-BC</id>
+ 	  	  	  	 <level>BC</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-2-BC-1</id>
+ 	  	  	  	  	 <content>als Teil einer Gruppe Aufgaben ausführen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-2-BC-2</id>
+ 	  	  	  	  	 <content>untereinander Hilfestellungen geben und annehmen </content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-2-BC-3</id>
+ 	  	  	  	  	 <content>Ursachen von Konflikten benennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-2-BC-4</id>
+ 	  	  	  	  	 <content>konstruktive Lösungsmöglichkeiten für Konflikte diskutieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-2-BC-5</id>
+ 	  	  	  	  	 <content>sich an demokratischen Entscheidungen beteiligen (z. B. Abstimmungen in der Klasse, Gestaltung und Nutzung des Klassenraums)</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-2-BC-6</id>
+ 	  	  	  	  	 <content>Vorschläge zum nachhaltigen Umgang mit Ressourcen machen und begründen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>SU-K4-3</id>
+ 	  	  	 <name>Verantwortung für das eigene Lernen übernehmen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K4-3-A</id>
+ 	  	  	  	 <level>A</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-3-A-1</id>
+ 	  	  	  	  	 <content>Lern- und Arbeitsergebnisse nach Vorgaben überarbeiten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K4-3-B</id>
+ 	  	  	  	 <level>B</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-3-B-1</id>
+ 	  	  	  	  	 <content>Lern- und Arbeitsergebnisse selbst kontrollieren (z. B. anhand von Lösungsbögen)</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-3-B-2</id>
+ 	  	  	  	  	 <content>Lern- und Arbeitsergebnisse kriterienorientiert überarbeiten</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-3-B-3</id>
+ 	  	  	  	  	 <content>Lernstrategien verabreden und einhalten (z. B. Unterstreichen, Skizze anlegen)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K4-3-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-3-C-1</id>
+ 	  	  	  	  	 <content>über ihre Stärken und Schwächen nachdenken (z. B. mithilfe von Kompetenzrastern) und diese benennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-3-C-2</id>
+ 	  	  	  	  	 <content>das eigene Lern und Arbeitsverhalten kritisch reflektieren und Konsequenzen benennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-3-C-3</id>
+ 	  	  	  	  	 <content>sich selbst neue Lern- und Arbeitsziele setzen und diese umsetzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>SU-K4-4</id>
+ 	  	  	 <name>Nutzung von und Umgang mit Materialien und natürlichen Ressourcen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K4-4-A</id>
+ 	  	  	  	 <level>A</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-4-A-1</id>
+ 	  	  	  	  	 <content>Unterrichtsmaterialien benennen und sie voneinander unterscheiden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K4-4-B</id>
+ 	  	  	  	 <level>B</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-4-B-1</id>
+ 	  	  	  	  	 <content>Materialien, Instrumente, Geräte, Apparate und Medien aufgabenbezogen nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-4-B-2</id>
+ 	  	  	  	  	 <content>mit Materialien und Ressourcen sorgsam und nachhaltig umgehen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SU-K4-4-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SU-K4-4-C-1</id>
+ 	  	  	  	  	 <content>Materialien, Instrumente, Geräte, Apparate und Medien selbstständig und zielgerichtet auswählen und nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+		</area>
+		</subarea>
+	</c2>
+	<c3>
+		<id>C-SU-3</id>
+		<title>Themen und Inhalte</title>
+		<vortext>Der vernetzende und integrative Aufbau der Themenfelder und Themen wird der Komplexität der Welt gerecht, mit der Schülerinnen und Schüler in ihrem Alltag konfrontiert sind und hilft ihnen zugleich, sich die Sache und die Welt wie auch das eigene Ich vertiefend zu erschließen und sich in der Welt zu orientieren.
+Für den Sachunterricht sind acht Themenfelder vorgesehen, die in ihrer Vielfalt für einen modernen Sachunterricht wesentliche Themen abdecken. Erde, Kind, Markt, Rad etc. sind jeweils auf eine Sache oder ein Phänomen fokussiert, mit dem die Lernenden eine Vorstellung und in der Regel auch Erfahrungen verknüpfen. Gleichzeitig stehen Tier, Wasser, Woh-nen, Zeit etc. als ein Synonym für einen größeren Themenzusammenhang, haben jeweils ei-nen Gegenwarts- und Zukunftsbezug sowie exemplarische Bedeutung. Alle Themenfelder weisen zudem Bezüge zu den fünf Perspektiven des Sachunterrichts (die sozialwissen-schaftliche, die naturwissenschaftliche, die geografische, die historische sowie die technische, vgl. S. 23 – 26), auf. Schließlich gibt es Verknüpfungen zur Sprach- und Medienbildung sowie zu weiteren übergreifenden Themen des Rahmenlehrplans (wie z. B. Mobilitätsbildung und Verkehrserziehung, Demokratiebildung, Gesundheitsförderung, Nachhaltige Entwick-lung/Lernen in globalen Zusammenhängen und Interkulturelle Bildung).
+Verbindlichkeit: Das Kapitel 3 weist acht obligatorische Themenfelder aus. Sie sind alphabetisch angeordnet, ihre Reihenfolge für den Unterricht ist frei wählbar.
+Die Themen innerhalb eines Themenfeldes sind verbindlich. Grau unterlegte Themen sind fakultativ. Zusätzliche, selbst entwickelte Themen sollen die Bearbeitung sinnvoll ergänzen. Aus den vorgegebenen Inhalten trifft die Lehrkraft, möglichst gemeinsam mit den Schülerinnen und Schülern, eine Auswahl bzw. ergänzt diese. Die Entscheidung orientiert sich in Umfang und Anspruch an der Lerngruppe. 
+Können die Schülerinnen und Schüler Themen und Inhalte selbstständig auswählen, so achtet die Lehrkraft darauf, dass für jedes Kind im Laufe des Schuljahrs eine Ausgewogenheit hinsichtlich der sachunterrichtlichen Perspektiven (vgl. S. 23 – 26), erreicht wird.
+Einzelne Inhalte kommen in mehr als einem Themenfeld vor. Hier entscheidet die Lehrkraft, welchem Themenfeld sie zugeordnet werden bzw. mit welchen Schwerpunkten oder Vertiefungen sie in einer erneuten Bearbeitung sinnvoll erscheinen.
+In der Spalte Unterrichtsanregungen finden sich Hinweise zur Umsetzung der Themen und Inhalte sowie Möglichkeiten der Differenzierung; sie haben anregenden, jedoch keinen obligatorischen Charakter.
+
+Schulinterne Fachplanung: Sie soll, angepasst an die Organisationsformen und an die Rahmenbedingungen der schulischen Arbeit, die Aufteilung der Themenfelder und Themen regeln. Themenfelder, Themen und Inhalte können ggf. mehrfach aufgegriffen werden.
+Generierung weiterer Themenfelder: Neben der Bearbeitung der vorgegebenen Themenfelder steht es den Lehrkräften frei, zusätzliche für ihre Lerngruppen oder gemeinsam mit ihnen zu entwickeln. Bei der Konzeptionierung ergänzender Themenfelder sind folgende Kriterien zu beachten:
+
+–	die Interessen und Fragen der Lernenden sind leitend
+–	mehrere Perspektiven des Sachunterrichts sind zu vernetzen
+–	die Themenfelder befördern die Kompetenzentwicklung aller Schülerinnen und Schüler in der Lerngruppe
+
+Grundlage für die Entwicklung ergänzender Themenfelder können z. B. der Schulstandort, aktuelle gesellschaftliche Herausforderungen oder auch die Schwerpunkte des Schulpro-gramms sein.
+
+Kompetenzorientierung: Alle Themenfelder ermöglichen den Erwerb bzw. die Weiterentwicklung aller Kompetenzen der Bereiche Erkennen, Kommunizieren, Urteilen und Handeln auf verschiedenen Niveaustufen. 
+Themen und Inhalte bilden die Grundlage für differenzierte Aufgabenstellungen und eine Materialauswahl, die eine Herausforderung für das gesamte Leistungsspektrum einer Lern-gruppe darstellt. Die Lernenden erhalten Gelegenheit, ihre Fähigkeiten und Fertigkeiten im Umgang mit den Themenfeldern, Themen und Inhalten allein und in der Zusammenarbeit mit anderen unter Beweis zu stellen. Sie erfahren dabei, in welchem Maße sie die gesetzten Standards erreichen bzw. was sie tun können, um ihre Kompetenzen zu vertiefen und zu erweitern.
+
+Themenvielfalt und Heterogenität: Die inhaltliche Vielfalt unterstützt einen Sachunterricht in unterschiedlichen Lerngruppenorganisationen und für heterogene und inklusive Gruppen: 
+Alle Schülerinnen und Schüler arbeiten an demselben Themenfeld, jedoch nicht jedes Kind muss alle Themen oder alle Inhalte bearbeiten. Dabei werden die Lernenden in Erarbeitung der Inhalte über verschiedene Wahrnehmungskanäle angesprochen und erproben vielfältige Wege des Lernens. Formen der Binnendifferenzierung und Individualisierung kommen zur Geltung, z. B. durch 
+
+–	ausgewählte und aufgegliederte Inhalte für Teilgruppen,
+–	das Angebot unterschiedlicher Zugänge und Thematisierungen,
+–	unterschiedliche Komplexität und unterschiedliches Abstraktionsniveau in den Inhalten, den Materialien und Aufgabenstellungen,
+–	individuelle Formen der Bearbeitung.
+
+Im Sinne des kooperativen Lernens werden Erkenntnisse und Ergebnisse unter allen Lernenden ausgetauscht bzw. präsentiert und tragen so zur Kompetenzentwicklung aller bei.
+		
+Domänenspezifische Arbeitsweisen: Im Rahmen einer sozialwissenschaftlichen Einord-nung der Themen und Inhalte sollte eine fortgesetzte Beteiligung der Schülerinnen und Schüler an Lern- und Entscheidungsprozessen ermöglicht werden. Naturwissenschaftliche und technische Schwerpunkte sollten durch vielfältige Beobachtungen, Erprobungen und Versuche begleitet sein. Für die geografische Orientierung empfiehlt sich eine beständige Arbeit mit Kartenmaterial und dem Globus. Für die historische Einordnung bietet sich die Arbeit mit einem Zeitfries (beschriftet und bebildert) sowie mit Quellen an.
+Für alle Themenfelder eignen sich neben den Vorschlägen zur unterrichtlichen Umsetzung die Arbeit mit Themenportfolios und die Einrichtung von Lernwerkstätten.
+
+Zur Bedeutung der fünf Perspektiven im Sachunterricht
+
+Schülerinnen und Schüler entwickeln ihre Kompetenzen anhand der Beschäftigung mit vielfältigen Phänomenen in ihrer Lebenswelt, wie sie in den Themenfeldern des Sachunterrichts repräsentiert sind. Der Sachunterricht trägt dazu bei, diese Erfahrungen zu erweitern, zu vertiefen und zu systematisieren. Bei der Unterrichtsplanung sind die fünf Perspektiven des Sachunterrichts (die sozialwissenschaftliche, die naturwissenschaftliche, die geografische, die historische und die technische) handlungsleitend. Dies bedeutet, dass der Unterricht zum einen die Erfahrungen der Lernenden und zum anderen Fachinhalte, wissenschaftsbezogene Fragestellungen, Methoden, Konzepte und Ziele des Lernens aus verschiedenen Fachwissenschaften berücksichtigt. Hierdurch wird auch die Anschlussfähigkeit an die Fächer in der Doppeljahrgangsstufe 5/6 gesichert. Im Sachunterricht werden über die Arbeit an den Inhalten die Perspektiven sowie weitere fachübergreifende Inhalte sinnvoll miteinander vernetzt.
+
+Zur sozialwissenschaftlichen Perspektive
+
+Menschen leben in Gesellschaftsformen zusammen und gestalten dieses Zusammenleben nach Grundsätzen, Werten und Normen. Unterschiede und Ähnlichkeiten gibt es in gesell-schaftlicher, politischer, sozialer, wirtschaftlicher und auch ökonomischer Hinsicht, sowohl zwischen als auch innerhalb von Gesellschaften. Schülerinnen und Schüler sammeln eigene Erfahrungen innerhalb ihrer Familie, in Lerngruppen und Schule wie auch im gesellschaftlichen Gefüge – und auch bezogen auf Differenzkategorien wie Geschlecht, Alter, Religion, Behinderung, Weltanschauung oder Kultur und Herkunft.
+Darüber hinaus werden Schülerinnen und Schüler insbesondere durch Medien mit gesellschaftspolitischen Prozessen und Diskussionen (z. B. Wahlen und Genderaspekte) sowie Problemen (z. B. Kriege und Krisen) in Gesellschaften hier und anderswo konfrontiert.
+Zu den Zielen des Lernens gehört es,
+
+–	gesellschaftliche Gruppen und sich selbst als Teil unterschiedlicher Gruppen wahrzunehmen,
+–	Werte und Normen wie Gerechtigkeit, Frieden, Demokratie, Fairness, Respekt und Nach-haltigkeit zu benennen und zu achten,
+–	Toleranz, gegenseitigen Respekt, Perspektivenwechsel und Solidarität sowie Konfliktlö-sungsverhalten einzuüben (Gewaltprävention),
+–	Einflussfaktoren für Kaufentscheidungen wie Peergroup, Werbung, Qualität und fairer sowie nachhaltiger Handel zu erkennen und werten,
+–	begründete politische Urteile (gut versus schlecht; für oder gegen ein Handeln; wie etwas zu regeln ist) zu entwickeln,
+–	reales und simulatives gesellschaftliches Handeln vornehmlich im Lerngruppenzusammenhang zu planen, zu erproben und auszuwerten, um am gemeinschaftlichen Leben partizipieren zu können.
+
+Zusammengefasst trägt die sozialwissenschaftliche Perspektive dazu bei, den Schülerinnen und Schülern gesellschaftlich verantwortungsvolles Handeln zu ermöglichen, das zur demokratischen Teilhabe und Mitwirkung ermutigt und befähigt.
+
+Zur naturwissenschaftlichen Perspektive
+Naturphänomene begleiten den Alltag der Lernenden, doch bedingt durch ihre Alltäglichkeit fällt es manchmal schwer, sie bewusst wahrzunehmen. Die naturwissenschaftliche Perspektive des Sachunterrichts eröffnet eine neue Sichtweise auf diese Phänomene: Alltäglich Erscheinendes wird hinterfragt, Komplexes reduziert. Naturwissenschaftliche Verfahren helfen dabei, Fragen interessegeleitet handlungs- und sachorientiert nachzugehen. 
+In der Auseinandersetzung mit Naturphänomenen können Schülerinnen und Schüler vielen Dingen aus der belebten und unbelebten Natur entdeckend und forschend auf den Grund gehen. Dabei lernen sie,
+
+–	Fragen an die belebte und unbelebte Natur zu stellen und sich über eigene Ideen und Theorien auszutauschen,
+–	ihre naturwissenschaftsbezogenen Erfahrungen, ihr Wissen und Können einzubringen,
+–	Naturerscheinungen zu explorieren, zu erforschen, genau zu beobachten und gezielt zu untersuchen sowie zu interpretieren,
+–	Fragen mithilfe von (auch selbst geplanten) Versuchen nachzugehen,
+–	aus den gewonnen Erkenntnissen Konsequenzen für das Alltagshandeln abzuleiten,
+–	mit den Ressourcen der Natur verantwortungsbewusst und kritisch umzugehen (Nachhaltigkeit).
+
+Hierbei erarbeiten sich die Schülerinnen und Schüler vielfältige Erfahrungen und Erkenntnisse über die natürliche Welt sowie naturwissenschaftlich relevante Denk-, Arbeits- und Handlungsweisen, lernen die Arbeit von Forscherinnen und Forschern kennen und reflektieren über die Natur der Naturwissenschaften. Auf diese Weise entwickeln sie ihre Vorstellungen in Richtung tragfähiger naturwissenschaftlicher Konzepte weiter.
+
+Zur geografischen Perspektive
+
+Schülerinnen und Schüler leben in unterschiedlichen Räumen und erfahren damit verbundene lebensweltliche Zusammenhänge durch eigene Begegnungen. Diese werden durch Infor-mationen und Berichte in Medien zu Räumen und Lebenssituationen in der Nähe und Ferne ergänzt. Hierdurch entwickeln Schülerinnen und Schüler eine Vorstellung von Vielfalt, Eigenart und Unterschiedlichkeit menschlicher Lebenssituationen im Zusammenhang mit räumlichen Bedingungen. Sie erfahren, wie unterschiedlich Menschen ihre Umwelt nutzen und verändern. 
+Die Schülerinnen und Schüler lernen verschiedene Möglichkeiten kennen, sich in ihrer natürlichen, gebauten und auch in der virtuellen Welt zu orientieren. Sie erfahren von Zusammenhängen und Verflechtungen in der Einen Welt. 
+In der Auseinandersetzung mit ihrer Lebensumwelt und anhand für sie bedeutsamer Beispiele lernen Schülerinnen und Schüler,
+
+–	die räumliche Lage und Wegeverläufe zu beschreiben, zeichnerisch festzuhalten und sich zu orientieren (Raum-Lage-Beziehungen: z. B. Klassenraum, Schulgelände, Schulweg, Elemente in der Landschaft),
+–	die Veränderungen der natürlichen und gebauten Umwelt wahrzunehmen und eigene Ideen zur Gestaltung zu entwerfen,
+–	eine Vorstellung von Nähe und Ferne zu entwickeln und diese mit unterschiedlichen Medien und Modellen (z. B. Sandkastenmodell, Netzplan, Globus, Satellitenbilder) in Beziehung zu setzen.
+
+Durch die Beschäftigung mit Naturerscheinungen lernen die Schülerinnen und Schüler natürliche Zyklen und Kreisläufe wahrzunehmen und zu dokumentieren (z. B. Tag und Nacht, Jahreszeiten und Wettererscheinungen, Wasserkreislauf).
+In der Teilhabe an der Gestaltung der Umwelt lernen die Schülerinnen und Schüler den nachhaltigen Umgang mit natürlichen Ressourcen in Zusammenhang mit verschiedenen Lebenssituationen (z. B. in Bezug auf Abfallvermeidung, Mobilitätsverhalten, gesunde Ernährung, Freizeitgestaltung).
+
+Zur historischen Perspektive
+
+Individuelles wie gesellschaftliches Leben der Gegenwart baut immer auch auf der Vergangenheit auf und ist durch sie geprägt. Dies wird im Alltag der Lernenden durch vielfältige Bezüge zur Geschichte deutlich, z. B. durch Erzählungen und (Bild-)Quellen aus der Familiengeschichte oder durch das breite Feld der Geschichtskultur, so z. B. durch Filme, Spielzeug und Bücher mit Bezügen zur Vergangenheit, durch historische Feste, Feiertage, Straßennamen, Museen und vieles mehr. 
+Auf Grundlage von Begegnungen mit der Vergangenheit stellen die Schülerinnen und Schüler Fragen an diese, sammeln vor allem anhand von Quellen (Bilder, Sachquellen und Texte) Erkenntnisse und erfahren dabei, dass die Vergangenheit vielfältig und andersartig ist (Alterität). Ihre Antworten dokumentieren sie vor allem in eigenen, sinnhaften und an Fakten orientierten Erzählungen (Narrativität).
+In der Auseinandersetzung mit der Vergangenheit und den Geschichten darüber lernen die Schülerinnen und Schüler vor allem zu unterscheiden zwischen
+
+–	früher und heute als verschiedenen Zeitebenen, die sich z. B. in einem Geschichtsfries ordnen und bebildern lassen (zeitliche Orientierung),
+–	realer Vergangenheit, repräsentiert durch Quellen, und fiktiven, erfundenen Elementen, z. B. im Comic (Fakten und Fiktion),
+–	der eigenen Perspektive und der Perspektiven anderer in Gegenwart und Vergangenheit (es gibt immer mehrere und sich unterscheidende Perspektiven),
+–	Dauer (Was bleibt?) und Wandel (Was verändert sich?) in der Zeit.
+
+Die Lernenden erfahren, dass Gegenwart durch viele Wurzeln mit Vergangenheit zusam-menhängt und dass heutiges Handeln wiederum zukunftsbestimmend wirkt.
+			
+Zur technischen Perspektive (Technik – Arbeit)
+
+Schülerinnen und Schüler wachsen in einer technisierten Welt auf. Sie werden früh zu kompetenten Nutzerinnen und Nutzern von Technik und Technologien und sie sind gleichzeitig auch von den Folgewirkungen technologischer Entwicklungen betroffen. Maschinen, Fahrzeuge, Geräte, Spielzeuge und Computer begleiten zwar den Alltag der Lernenden, sie blei-ben jedoch zumeist Blackboxes im Hinblick auf interne Funktionsabläufe. Ebenso wird ihnen der Einfluss von Technik auf die Gestaltung der Umwelt kaum unmittelbar bewusst werden. 
+In der Auseinandersetzung mit ihrer technisierten Umwelt lernen die Schülerinnen und Schü-ler für sie überschaubare technische Funktions- und Handlungszusammenhänge kennen, erproben elementare Formen technischen Handelns und Gestaltens und erörtern gesellschaftlich bedeutsame technische Entwicklungen. 
+Dazu gehören auch die Denk-, Arbeits- und Handlungsbereiche
+
+–	Technik nutzen, explorieren und experimentieren, technische Lösungen vergleichen,
+–	mit einfachen Werkzeugen und Maschinen umgehen,
+–	Materialien erkunden und nutzen,
+–	technische Gegenstände demontieren, analysieren, nacherfinden, planen, konstruieren und bauen,
+–	Auswirkungen technischer Entwicklungen beispielhaft bewerten,
+–	Mediennutzungsmöglichkeiten (Kommunizieren, Spielen, Arbeiten, Gestalten und Programmieren) anwenden und untersuchen (Medienbildung),
+–	unterschiedliche Berufe, Arbeitsstätten, -abläufe und -bedingungen kennenlernen (Arbeitswelt).
+
+Die frühe technische Bildung eröffnet den Schülerinnen und Schülern spielerische und erprobende Zugänge zu technischem Handeln und kritischem Denken, macht sie mit technischen Erfindungen vertraut und lädt ein zur Erkundung ausgewählter Aspekte der Arbeitswelt.
+
+
+Die Grafik führt die obligatorischen Themenfelder auf, die nicht in der angegebenen (alphabetisch angelegten) Reihenfolge bearbeitet werden müssen. Es ist eine sinnvolle und passende Reihenfolge zu entwickeln. Die Grafik verdeutlicht zudem die Möglichkeit, eigene Themenfelder zu ergänzen.
+</vortext>
+<themainhalt>
+			<id>C-SU-3-1</id>
+			<title>Erde</title>			
+			<content>Das Themenfeld richtet den Blick der Lernenden auf die Erde im Sonnensystem, ihre Entwicklungsgeschichte, ihren Aufbau sowie auf unterschiedliche Lebensräume. Bezogen auf die Erdoberfläche betrachten sie Kontinente und Ozeane sowie verschiedene Lebensräume. Ein Überblick über unseren Kontinent und die Lage Deutschlands, das eigene Bundesland und die nähere Schul- und Wohnumgebung ordnen die eigenen Erfahrungen in einen größeren Zusammenhang ein.
+Für die Bearbeitung im Unterricht sind mehrere Wege denkbar, sowohl der vom Großen und Ganzen zum Nahen und Vertrauten als auch umgekehrt. In einem Projekt können auch viele Aspekte arbeitsteilig zum Thema werden.
+Ein Schwerpunkt der Unterrichtsarbeit liegt dabei auf dem Vertrautmachen mit dem Hier, dem Lebensort, der je nach Schulstandort enger oder auch weiter definiert werden kann. Dabei können auch Herkunftsländer der Schülerinnen und Schüler (ohne Zuschreibungen) einbezogen werden.
+Übergreifende Themen: Europabildung in der Schule, Demokratiebildung und Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen.</content>
+	<inhalt>
+		<id>C-SU-3-1-1</id>
+		<title>Thema: Wo befindet sich unsere Erde im All und wie ist sie aufgebaut?</title>
+		<inhalt>
+			<id>C-SU-3-1-1-1</id>
+			<title>Inhalte</title>
+			<content>–	unser Sonnensystem</content>
+			<content>–	Tag und Nacht</content>
+			<content>–	Kontinente und Ozeane (siehe Wasser)</content>
+			<content>–	Aufbau der Erde (Schichten, Boden)</content>
+			<content>–	Atmosphäre (Luft)</content>
+			<content>–	Wetter (siehe Wasser), Klima, Klimawandel</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-1-1-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Modellbau (z. B. Planetenmobile, Globus aus Gips) erproben</content>
+			<content>–	Versuch (z. B. mit Erdmodell und Lampe) zu Tag und Nacht durchführen</content>
+			<content>–	Bodenproben (z. B. unterschiedliche Bodenarten und Lebewesen im Boden) untersuchen</content>
+			<content>–	Komposthaufen anlegen und beobachten</content>
+			<content>–	Versuche zur Erde und zur Luft durchführen</content>
+			<content>–	zum Thema Wetter Messungen und Untersuchungen (z. B. Windgeschwindigkeit, Luftfeuchtigkeit, Temperaturen) durchführen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-1-2</id>
+			<title>Thema: Welche Lebensräume findet man auf der Erde?(Globale Lebensräume)</title>
+		<inhalt>
+			<id>C-SU-3-1-2-1</id>
+			<title>Inhalte</title>
+			<content>–	Wiesen, Wälder, Gewässer, Gebirge, Wüsten, Steppen</content>
+			<content>–	Flora und Fauna: Tiere und Pflanzen passen sich ihren Lebensräumen an (siehe Tiere)</content>
+			<content>–	Menschen passen sich ihren Lebensräumen an (siehe Wohnen)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-1-2-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Naturbeobachtungen (z. B. der Baum im Wechsel der Jahreszeiten) durchführen und dokumentieren</content>
+			<content>–	Steckbriefe/Plakate für Menschen, Tiere, Pflanzen in ihren Lebensräumen erstellen und mit einer Weltkarte verknüpfen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-1-3</id>
+			<title>Thema: Wo leben wir? (Europa – Deutschland – unser Bundesland: Berlin bzw. Brandenburg)</title>
+		<inhalt>
+			<id>C-SU-3-1-3-1</id>
+			<title>Inhalte</title>
+			<content>–	Kontinent Europa (z. B. Staaten, Sprachen)</content>
+			<content>–	Lage des eigenen Bundeslandes in Deutschland; Stadtbezirke bzw. Kreise</content>
+			<content>–	Besonderheiten des Bezirks/des Kreises von Wohn- und Schulort</content>
+			<content>–	Besonderheiten von Berlin-Mitte bzw. Potsdam</content>
+			<content>–	Besonderheiten des jeweils anderen Bundeslandes</content>
+			<content>–	Nahraum (Schule, Zuhause, Schulweg) (siehe Wohnen)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-1-3-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Ausstellung erarbeiten</content>
+			<content>–	internationalen Besuch einladen und befragen</content>
+			<content>–	Projektwoche zum Thema Europa durchführen</content>
+			<content>–	Deutschlandpuzzle bauen</content>
+			<content>–	Schulplan/Stadtplan zeichnen/ergänzen</content>
+			<content>–	Prospekt/Plakat zum Wohnort erstellen</content>
+			<content>–	Exkursion planen und durch-führen</content>
+			<content>–	Projekttag bei einem lokalen/regionalen Umwelt- bzw. Naturschutzverein durchführen</content>
+		</inhalt>
+		</inhalt>	
+		<inhalt>
+			<id>C-SU-3-1-4</id>
+			<title>Thema: Wie leben wir hier? (Politik und Verwaltung)</title>
+		<inhalt>
+			<id>C-SU-3-1-4-1</id>
+			<title>Inhalte</title>
+			<content>–	Kommune, Landkreis, Bezirk, Stadt, Landeshauptstadt</content>
+			<content>–	öffentliche Einrichtungen (z. B. Spielplatz, Bibliothek)</content>
+			<content>–	Wahlen, Interessen, Entscheidungsfindung</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-1-4-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Bildreihe zusammenstellen: Von der Wirklichkeit zur Karte</content>
+			<content>–	Erkundung/Interview durchführen</content>
+			<content>–	Kinderparlament besuchen</content>
+			<content>–	aktuelle Entscheidungsfindung verfolgen und ggf. daran partizipieren</content>
+		</inhalt>
+		</inhalt>	
+		<inhalt>
+			<id>C-SU-3-1-5</id>
+			<title>Thema: Wie ist es so geworden? (ältere Geschichte und jüngere Zeitgeschichte)</title>
+		<inhalt>
+			<id>C-SU-3-1-5-1</id>
+			<title>Inhalte</title>
+			<content>–	Erd- und Menschheitsgeschichte (siehe Zeit)</content>
+			<content>–	Gründungs- und Entwicklungs-geschichte (Berlin bzw. Bran-denburg)</content>
+			<content>–	zwei Staaten – eine geteilte Stadt</content>
+			<content>–	Friedliche Revolution und Geschichte seit 1989</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-1-5-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Geschichtsfries/Ausstellung erarbeiten</content>
+			<content>–	Museum/Gedenkstätte besuchen</content>
+			<content>–	Zeitzeugen einladen und befragen</content>
+			<content>–	Quellen (z. B. aus den ehemals zwei deutschen Staaten wie Geld, Bücher, Fotos) untersuchen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-1-6</id>
+			<title>Thema: Wie sieht es hier aus und was wächst? (Landschaft und Ökologie)</title>
+		<inhalt>
+			<id>C-SU-3-1-6-1</id>
+			<title>Inhalte</title>
+			<content>–	Pflanzen und Tiere (siehe Tier)</content>
+			<content>–	Landschaftsmerkmale und ihre Entstehung</content>
+			<content>–	Gestaltung und Nutzung durch den Menschen</content>
+			<content>–	Naturschutz und Umweltverhalten</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-1-6-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Exkursion durchführen</content>
+			<content>–	Schulgarten erkunden bzw. einrichten und pflegen</content>
+			<content>–	Fotobox zusammenstellen</content>
+			<content>–	Tierbehausung bauen</content>
+			<content>–	Gartenarbeitsschule besuchen</content>
+		</inhalt>
+		</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-SU-3-2</id>
+			<title>Kind</title>			
+			<content>In diesem Themenfeld begegnen die Lernenden der Vielfalt ihres gesellschaftlichen Umfeldes. Sie entwickeln ein Verständnis von Dazugehörigkeit und Gemeinschaft und sie erfahren wichtige Prinzipien, Regeln und Normen des Zusammenlebens in verschiedenen Kontexten (Familie, Gruppe, Klasse, Schule). Sie lernen Ursachen für Verschiedenheit und Ähnlichkeit kennen und benennen für sie wichtige Werte im Zusammenleben. 
+Die Schülerinnen und Schüler lernen, welche Rechte und auch Pflichten Kinder haben und sie erproben Instrumente der Teilhabe am Demokratisierungsprozess.
+Weiterhin richtet das Themenfeld Kind den Blick der Lernenden auf die eigene physische und psychische Entwicklung sowie auf genderbezogene Merkmale und Stigmata. 
+Immaterielle Werte (z. B. Verlässlichkeit und Zusammengehörigkeit) können erkannt und thematisiert und Prozesse der Prägung und der eigenen Mitgestaltung diskutiert werden.
+Übergreifende Themen: Demokratiebildung, Gesundheitsförderung, Gewaltprävention, Gleichstellung und Gleichberechtigung der Geschlechter (Gender Mainstreaming), Sexualerziehung/Bildung für sexuelle Selbstbestimmung, Bildung zur Akzeptanz von Vielfalt (Diversity) sowie Interkulturelle Bildung und Erziehung.</content>
+		<inhalt>
+			<id>C-SU-3-2-1</id>
+			<title>Thema: Wie leben Kinder? (Kinder als Teil der Familie und als Individuum)</title>
+		<inhalt>
+			<id>C-SU-3-2-1-1</id>
+			<title>Inhalte</title>
+			<content>–	Familie: Zusammensetzung (in homo- und heterosexuellen Lebensformen) und Herkunft (siehe Wohnen)</content>
+			<content>–	Familien- und Lebensgeschichte(n)</content>
+			<content>–	was für Familien wichtig ist (z. B. Werte, Kultur, Religion)</content>
+			<content>–	Aufgaben, Rechte und Pflichten in der Familie</content>
+			<content>–	Kindsein weltweit (z. B. Spielen, Schule)</content>
+			<content>–	alle Menschen sind verschieden, Kinder auch</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-2-1-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Rollenspiele durchführen</content>
+			<content>–	Interviews (z. B. mit den Großel-tern) führen</content>
+			<content>–	Quellen (z. B. Fotos, Zeugnisse) zur Familiengeschichte vorstellen</content>
+			<content>–	Steckbriefe zu Kindern weltweit erstellen und mit einer Weltkarte verknüpfen</content>
+			<content>–	szenische Spiele entwickeln</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-2-2</id>
+			<title>Thema: Wie funktioniert unser Körper?</title>
+		<inhalt>
+			<id>C-SU-3-2-2-1</id>
+			<title>Inhalte</title>
+			<content>–	wachsen, wohlfühlen, bewegen, essen und trinken (siehe Markt), pflegen, erholen und schützen</content>
+			<content>–	Körperteile und -funktionen</content>
+			<content>–	Sinne (Hören, Sehen, Riechen, Schmecken, Fühlen; wenn ein Sinn fehlt)</content>
+			<content>–	Gefühle wahr- und ernstnehmen</content>
+			<content>–	Entwicklung von Geschlechtsidentität und Sexualität unter Berücksichtigung der Vielfalt von Lebensentwürfen</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-2-2-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Modelle (z. B. Skelett, Modelle von Sinnesorganen) beschreiben</content>
+			<content>–	Versuche zu den Sinnen durch-führen</content>
+			<content>–	Sinnenatlas erstellen</content>
+			<content>–	Rollenspiele durchführen</content>
+			<content>–	Klassenwortschatz (z. B. Körper und Sexualität) erarbeiten</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-2-3</id>
+			<title>Thema: Was ist für unser Zusammenleben wichtig? (Beziehungen leben und gestalten)</title>
+		<inhalt>
+			<id>C-SU-3-2-3-1</id>
+			<title>Inhalte</title>
+			<content>–	Freundschaft (z. B. Kennzeichen, Erfahrungen, Wünsche)</content>
+			<content>–	Unternehmungen und Freizeit</content>
+			<content>–	Kinder können Pflichten und Verantwortung übernehmen, Entscheidungen treffen und mitgestalten</content>
+			<content>–	Regeln entwickeln, erproben und einhalten</content>
+			<content>–	Kinder brauchen andere (z. B. zum Spielen, Kommunizieren, Streiten, Sichvertragen, Finden von Kompromissen, Sichhelfen)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-2-3-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Kooperationsspiele erproben und auswerten</content>
+			<content>–	über Formen des Zusammenle-bens philosophieren</content>
+			<content>–	Spielzeug herstellen</content>
+			<content>–	Klassenregeln er- bzw. überarbeiten</content>
+			<content>–	Wandertag/Ausflug planen und gestalten</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-2-4</id>
+			<title>Thema: Welche Rechte haben Kinder? (Kinder als Teil der Gesellschaft)</title>
+		<inhalt>
+			<id>C-SU-3-2-4-1</id>
+			<title>Inhalte</title>
+			<content>–	Kinderrechte – früher und heute</content>
+			<content>–	Beachtung der Kinderrechte hier und anderswo (z. B. Wegbereiter und Organisationen)</content>
+			<content>–	Kinderrechte einfordern und um-setzen in Schule, Kommune und Land</content>
+			<content>–	Kinder werden beteiligt und beteiligen sich (z. B. Klassenrat, Kinderparlament, kommunale Ausschüsse)</content>
+			<content>–	Kinder dürfen und müssen auch „Nein“ sagen können (z. B. sexueller Missbrauch, Diskriminierung, Ausgrenzung)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-2-4-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Ausstellung erarbeiten und im Schulhaus präsentieren</content>
+			<content>–	Biografien (z. B. Kinder, Verfechterinnen und Verfechter für Kinderrechte) kennenlernen und mit einer Weltkarte verknüpfen</content>
+			<content>–	Zukunftswerkstatt durchführen</content>
+			<content>–	Klassenrat bilden und erproben</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-2-5</id>
+			<title>Thema: Womit kennen wir uns aus?</title>
+		<inhalt>
+			<id>C-SU-3-2-5-1</id>
+			<title>Inhalte</title>
+			<content>–	Schule</content>
+			<content>–	Straßenverkehr (siehe Rad)</content>
+			<content>–	Ort (siehe Wohnen)</content>
+			<content>–	Bibliothek</content>
+			<content>–	Computer und Internet</content>
+			<content>–	Werkzeuge</content>
+			<content>–	Hilfe holen (z. B. Beratungsstellen, Sorgentelefon)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-2-5-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Skizzen zeichnen/Pläne ergänzen</content>
+			<content>–	Erkundungen durchführen</content>
+			<content>–	Internetführerschein erwerben</content>
+			<content>–	Recherchen durchführen: Wie funktionieren Computer? (Handy, Roboter u. a.)</content>
+			<content>–	Werkzeugführerschein erwerben</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-2-6</id>
+			<title>Thema: Wie lebten Kinder früher? (z. B. in der Eltern- und Großelterngeneration)</title>
+		<inhalt>
+			<id>C-SU-3-2-6-1</id>
+			<title>Inhalte</title>
+			<content>–	Schule</content>
+			<content>–	Familie</content>
+			<content>–	Freundschaft</content>
+			<content>–	Spiel</content>
+			<content>–	Kommunikation</content>
+			<content>–	Konsum</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-2-6-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Interviews führen</content>
+			<content>–	eine Ausstellung gestalten</content>
+			<content>–	szenisches Spiel gestalten</content>
+			<content>–	Quellen untersuchen</content>
+			<content>–	alte Spiele recherchieren und er-proben</content>
+			<content>–	Museum/Ausstellung besuchen</content>
+		</inhalt>
+		</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-SU-3-3</id>
+			<title>Markt</title>			
+			<content>Mit dem Themenfeld wird unmittelbar an die Erfahrungen und das Vorwissen der Schülerinnen und Schüler angeknüpft. Kinder kaufen selbstständig Waren ein, erleben Einkaufssituationen mit ihren Familien im Einkaufscenter, im Supermarkt oder auch auf dem Wochenmarkt. Sie haben Erfahrungen im Umgang mit (Taschen-)Geld und sind Ziel vielfältiger Werbung. Sie können hier wichtigen Fragen, wie solchen nach Ursprüngen von Nahrungsmitteln und gesunder Ernährung, nachgehen und sich mit dem Wert von Waren und Dienstleistungen auseinandersetzen.
+Über ihre Lebenserfahrungen hinausgehende Fragen und Themen rund um das Themenfeld Markt, die technische, berufliche und ökonomische, soziale und ökologische Aspekte betreffen, konfrontieren die Lernenden mit größeren Zusammenhängen und erweitern ihren Erfahrungshorizont.
+Übergreifende Themen: Gesundheitsförderung, Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen, Verbraucherbildung sowie Mobilitätsbildung und Verkehrserziehung.</content>
+		<inhalt>
+			<id>C-SU-3-3-1</id>
+			<title>Thema: Einkaufen, aber wo und wie? (Kinder als Konsumenten)</title>
+		<inhalt>
+			<id>C-SU-3-3-1-1</id>
+			<title>Inhalte</title>
+			<content>–	Unterschiede/Gemeinsamkeiten von Wochenmarkt, Einzelhandelsladen, Kiosk, Bioladen, Supermarkt und Onlineshopping</content>
+			<content>–	Artikelsortiment im Supermarkt</content>
+			<content>–	was in unsere Einkaufstüte kommt; Einflüsse auf unser Kaufverhalten (z. B. Werbung, Freunde, Trends, Qualität, Preis)</content>
+			<content>–	Lebensmittelkennzeichnung und -verschwendung</content>
+			<content>–	unsere Wege zum Einkauf (z. B. Fußweg, Fahrrad)</content>
+			<content>–	Transport des Eingekauften (z. B. Plastiktüte, Stofftasche, Korb)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-3-1-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Erkundungen durchführen</content>
+			<content>–	Kartierung von Wegen (z. B. zu Einkaufsmöglichkeiten in der Umgebung) vornehmen</content>
+			<content>–	Werbung untersuchen</content>
+			<content>–	Einkaufswagen (nach eigenen Wünschen) zusammenstellen</content>
+			<content>–	Tagebuch (z. B. Welche Lebensmittel werfe ich fort?) führen</content>
+			<content>–	Tabelle zu unterschiedlichen Einkaufstüten mit Vor- und Nachteilen erstellen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-3-2</id>
+			<title>Thema: Was gehört alles zu einem Markt? (Aufbau und Technik)</title>
+		<inhalt>
+			<id>C-SU-3-3-2-1</id>
+			<title>Inhalte</title>
+			<content>–	Wochenmarkt: Marktstände, Abteilungen, Kasse, unterschiedliche Waagen</content>
+			<content>–	Supermarkt: Abteilungen, Anord-nung von Waren, Regale, digitale Waage, Kühlung und Gefriergut, Kassenband, elektronische Kasse und Scanner, Sonderangebote und Werbung</content>
+			<content>–	Hygiene</content>
+			<content>–	Verpackungen, Materialien, Rohstoffe</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-3-2-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Erkundung eines Wochenmarktes und/oder eines Supermarktes durchführen</content>
+			<content>–	Plan eines Einkaufscenters/Marktes/Supermarktes zeichnen</content>
+			<content>–	Lernspiel entwickeln</content>
+			<content>–	Werbung (z. B. Plakat, Jingle, Spot für ein Produkt) gestalten</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-3-3</id>
+			<title>Thema: Warum muss man bezahlen? (Zahlungsmittel und Werte)</title>
+		<inhalt>
+			<id>C-SU-3-3-3-1</id>
+			<title>Inhalte</title>
+			<content>–	vom Tauschen zum Bezahlen (Tauschwaren, Münzen, Scheine, bargeldloses Bezahlen)</content>
+			<content>–	Waren und Dienstleistungen haben einen Wert</content>
+			<content>–	Geld ausgeben und sparen: mit (Taschen-)Geld umgehen</content>
+			<content>–	was man kaufen und was man nicht kaufen kann</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-3-3-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	szenisches Spiel entwickeln</content>
+			<content>–	Einkaufszettel für ein Vorhaben (z. B. Fest, Frühstück) schreiben</content>
+			<content>–	Münzen und Scheine (verschiedener Währungen) untersuchen</content>
+			<content>–	über (un-)erfüllbare Wünsche philosophieren</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-3-4</id>
+			<title>Thema: Woher kom-men Obst und Gemüse?</title>
+		<inhalt>
+			<id>C-SU-3-3-4-1</id>
+			<title>Inhalte</title>
+			<content>–	Obst und Gemüse (Unterschei-dung, Sorten)</content>
+			<content>–	Ernte- und Saisonzeiten (regional, global)</content>
+			<content>–	Vermehrung (z. B. Samen, Knollen)</content>
+			<content>–	Wachstumsbedingungen (z. B. Schulgarten, Keimversuche)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-3-4-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Schulgarten/Beet einrichten</content>
+			<content>–	Keimversuche durchführen</content>
+			<content>–	Versuche zu den Bedingungen für Pflanzenwachstum ausdenken und durchführen</content>
+			<content>–	Herbarium anlegen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-3-5</id>
+			<title>Thema: Was liefern uns die Tiere?</title>
+		<inhalt>
+			<id>C-SU-3-3-5-1</id>
+			<title>Inhalte</title>
+			<content>–	Tiere und Tierprodukte (z. B. Wurst, Fleisch, Milchprodukte, Eier)</content>
+			<content>–	Formen von Tierhaltung (z. B. Rind oder Huhn) (siehe Tier)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-3-5-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Recherche und Mindmap: Was wird alles vom Rind wofür verwendet?</content>
+			<content>–	Tierhaltungsbetrieb besuchen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-3-6</id>
+			<title>Thema: Was ist gesunde Ernährung? Was schadet uns? (Gesundheit und Prophylaxe)</title>
+		<inhalt>
+			<id>C-SU-3-3-6-1</id>
+			<title>Inhalte</title>
+			<content>–	gesunde Ernährung</content>
+			<content>–	Genussmittel und Nahrungsmittel unterscheiden</content>
+			<content>–	Zahngesundheit (siehe Kind)</content>
+			<content>–	Suchtmittel im Supermarkt (z. B. Zucker, Alkohol, Nikotin)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-3-6-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	gemeinsam gesund frühstücken/Mittag essen/Brot backen (von der Planung bis zum Aufräumen)</content>
+			<content>–	Ernährungstagebuch führen</content>
+			<content>–	Ernährungspyramide bauen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-3-7</id>
+			<title>Thema: Seit wann gibt es Märkte?</title>
+		<inhalt>
+			<id>C-SU-3-3-7-1</id>
+			<title>Inhalte</title>
+			<content>–	Ein- und Verkauf auf dem zentra-len Platz im Mittelalter</content>
+			<content>–	mittelalterliche Marktordnungen</content>
+			<content>–	der Markt ist mehr als ein Verkaufsort (z. B. Kommunikation, Informationen …)</content>
+			<content>–	Formen des Haltbarmachens von Lebensmitteln früher und heute</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-3-7-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	mit dem Geschichtsfries arbeiten</content>
+			<content>–	Bild- und Sachquellen auswerten</content>
+			<content>–	szenisches Spiel erproben</content>
+			<content>–	Versuche zur Haltbarkeit von Lebensmitteln durchführen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-3-8</id>
+			<title>Thema: Wie kommen die Produkte auf und in den Markt? (Verarbeitung, Verpackung und Transport)</title>
+		<inhalt>
+			<id>C-SU-3-3-8-1</id>
+			<title>Inhalte</title>
+			<content>–	der Weg vom frischen Produkt bis in die Verpackung (z. B. Obst)</content>
+			<content>–	Transportwege und -kosten (nah und fern, Nachhaltigkeit)</content>
+			<content>–	Recherche und Verortung: Was kommt woher? (z. B. Schokolade)</content>
+			<content>–	globaler Markt (wirtschaftliche Verflechtungen am konkreten Beispiel) und fairer Handel</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-3-8-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Entwicklungstagebuch (z. B. für einen Apfel) anlegen</content>
+			<content>–	verschiedene Menschen (Berufe) zum Thema befragen</content>
+			<content>–	Produktaufkleber einer Weltkarte zuordnen: Welche unserer Waren kommen woher?</content>
+			<content>–	Projekt durchführen: Alles über Schokolade</content>
+		</inhalt>
+		</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-SU-3-4</id>
+			<title>Rad</title>			
+			<content>Kinder bewegen sich im Alltag täglich im Verkehrsgeschehen, sie erleben Verkehrssituationen aktiv und selbstständig oder mit Begleitung. In der Bearbeitung dieses Themenfeldes gewinnen sie Wissen über sicherheitsbewusstes Verhalten im Straßenverkehr, üben dies auch aktiv als Fußgängerin oder Fußgänger und Fahrradfahrerin oder Fahrradfahrer ein und reflektieren Auswirkungen ihres Verhaltens sowie das anderer Verkehrsteilnehmerinnen und Verkehrsteilnehmer.
+Anhand der als Fragen formulierten Themen bringen die Schülerinnen und Schüler ihre Erfahrungen aus Spiel und Alltag, z. B. mit beweglichen Teilen oder rollenden Elementen, ein. Sie erweitern ihr Verständnis über viele technische Zusammenhänge, die selbstverständlich erscheinen, sowie ihr Wissen darüber, vor allem durch Erprobung und Versuch.
+Sie gehen Fragen nach der Geschichte und der Entwicklung von menschlichen Fortbewegungsmitteln nach und untersuchen Beispiele in ihrem Kontext von Nutzen und (Aus-)Wirkung.
+Insgesamt gewinnen die Schülerinnen und Schüler für unsere durch Mobilität gekennzeichnete Gesellschaft notwendige Kompetenzen und Wissen für den Alltag und Gefahrensituationen.
+Übergreifende Themen: Mobilitätsbildung und Verkehrserziehung und Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen.</content>
+		<inhalt>
+			<id>C-SU-3-4-1</id>
+			<title>Thema: Was bewegt sich wie?</title>
+		<inhalt>
+			<id>C-SU-3-4-1-1</id>
+			<title>Inhalte</title>
+			<content>–	Bewegung, Energie, Gleichgewicht</content>
+			<content>–	Bewegung ohne Rollen (z. B. Ski, Schlittschuh, Laufen auf 2, 4, 6, 8 Beinen)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-4-1-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Versuche zu Bewegung und Gleichgewicht durchführen</content>
+			<content>–	Smartphone zur Geschwindigkeitsbestimmung bzw. Wegverfolgung erproben</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-4-2</id>
+			<title>Thema: Wie kam und kommt das Rad ins Rollen?</title>
+		<inhalt>
+			<id>C-SU-3-4-2-1</id>
+			<title>Inhalte</title>
+			<content>–	alles was rollt (mit und ohne Motor)</content>
+			<content>–	zur Geschichte des Rades (z. B. Kutsche/Ochsenkarren, Laufrad, Kettenantrieb, Kraftübertragung)</content>
+			<content>–	mein Fahrrad</content>
+			<content>–	das Fahrrad der Zukunft</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-4-2-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	technische Untersuchungen (von z. B. Luftpumpe, Fahrradklingel, Getriebeübersetzung) vornehmen</content>
+			<content>–	eigene Erfindungen zeichnen, planen, bauen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-4-3</id>
+			<title>Thema: Was ist im Straßenverkehr zu beachten? (Mit dem Fahrrad unterwegs)</title>
+		<inhalt>
+			<id>C-SU-3-4-3-1</id>
+			<title>Inhalte</title>
+			<content>–	das verkehrssichere Rad</content>
+			<content>–	auf der Straße (der richtige Weg, Verkehrszeichen, Fairness)</content>
+			<content>–	Vorfahrtsregeln</content>
+			<content>–	andere Verkehrsteilnehmerinnen und Verkehrsteilnehmer</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-4-3-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Jugendverkehrsschule besuchen</content>
+			<content>–	Parcours auf dem Schulhof aufbauen und erproben</content>
+			<content>–	Verkehrsbeobachtung durchführen</content>
+			<content>–	Fahrradwerkstatt besuchen</content>
+			<content>–	Übung: sich als Fußgänger sicher im Straßenverkehr bewegen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-4-4</id>
+			<title>Thema: Welche Verkehrsmittel und -wege gibt es?</title>
+		<inhalt>
+			<id>C-SU-3-4-4-1</id>
+			<title>Inhalte</title>
+			<content>–	vom Fahrrad zum Auto, zur Bahn, zum Flugzeug</content>
+			<content>–	unterwegs mit dem Öffentlichen Nahverkehr</content>
+			<content>–	Verkehrsmittelvergleich: Vorteile und Auswirkungen (für Mensch, Tier und Klima) unterschiedlicher Verkehrsmittel</content>
+			<content>–	Straßen-, Rad- und Wasserwege, Flugrouten</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-4-4-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Fahrzeuge/Fahrzeugmodelle herstellen und erproben</content>
+			<content>–	Tabelle zu Auswirkungen (Vorteile/Nachteile) unterschiedlicher Verkehrsmittel (für z. B. Menschen, Tiere, Pflanzen) anlegen</content>
+			<content>–	unterschiedliche Wege in Karten erkennen/einzeichnen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-4-5</id>
+			<title>Thema: Sehen und gesehen werden, wie geht das?</title>
+		<inhalt>
+			<id>C-SU-3-4-5-1</id>
+			<title>Inhalte</title>
+			<content>–	Reflexion und Kleidung (Licht)</content>
+			<content>–	Wahrnehmung und Geschwindigkeit</content>
+			<content>–	toter Winkel</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-4-5-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Versuche im Dunkeln mit unterschiedlich heller Kleidung und Reflektoren durchführen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-4-6</id>
+			<title>Thema: Was bringt die Lampe zum Leuchten?</title>
+		<inhalt>
+			<id>C-SU-3-4-6-1</id>
+			<title>Inhalte</title>
+			<content>–	Entwicklung der Fahrradlampe</content>
+			<content>–	Stromkreis</content>
+			<content>–	Spannungsquellen: Generator (Dynamo) und Speicher (Akku bzw. Batterie)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-4-6-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Versuche zum Stromkreis durchführen</content>
+			<content>–	Elektroquiz (z. B. Lernspiel zum Thema Fahrrad) bauen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-4-7</id>
+			<title>Thema: Warum will ich woanders hin?</title>
+		<inhalt>
+			<id>C-SU-3-4-7-1</id>
+			<title>Inhalte</title>
+			<content>–	Motivationen und Ziele von Ortswechseln (z. B. Schule, Freizeit, Beruf)</content>
+			<content>–	Reisen (z. B. Ziele, Formen des Reisens)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-4-7-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	über die Frage (Thema) philosophieren</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-4-8</id>
+			<title>Thema: Was haben Menschen noch so alles erfunden?</title>
+		<inhalt>
+			<id>C-SU-3-4-8-1</id>
+			<title>Inhalte</title>
+			<content>–	von Erfindungen (z. B. Faustkeil, Textilien, Metallverarbeitung, Schrift, Buchdruck, Linsenoptik, Uhr, Eisenbahn, Fotografie, Rundfunk, Penicillin, Computer, Weltraumrakete, Internet, Gentechnik)</content>
+			<content>–	von Erfinderinnen und Erfindern, Genies und Nobelpreisträgerinnen und Nobelpreisträgern (in Beispielen)</content>
+			<content>–	Spannungsquellen: Generator (Dynamo) und Speicher (Akku bzw. Batterie)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-4-8-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Projekt durchführen</content>
+			<content>–	Ausstellung erarbeiten</content>
+			<content>–	Vorträge erarbeiten und halten</content>
+		</inhalt>
+		</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-SU-3-5</id>
+			<title>Tier</title>			
+			<content>Kinder haben zu Tieren oft eine große Affinität und das Themenfeld bietet einen Rahmen, sich mit Tieren eingehend auseinanderzusetzen. Von der biologischen Kategorisierung von Tierarten über die Beschäftigung mit Lebensräumen von Tieren, heimischen Tieren und Haus- und Nutztieren bis hin zu ausgestorbenen Tieren erwerben die Lernenden Kompetenzen zum Thema anhand vielfältiger Inhalte. Dabei prägt neben den eigenen Erfahrungen mit Tieren eine durch Respekt gegenüber den Lebewesen gekennzeichnete Haltung den Unterricht.
+			Übergreifende Themen: Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen und Verbraucherbildung.</content>
+		<inhalt>
+			<id>C-SU-3-5-1</id>
+			<title>Thema: Was für Tiere gibt es? Wie kann man sie einteilen?</title>
+		<inhalt>
+			<id>C-SU-3-5-1-1</id>
+			<title>Inhalte</title>
+			<content>–	Tierarten</content>
+			<content>–	Tiere haben Fell oder Federn (aber auch z. B. Panzer oder Schuppen)</content>
+			<content>–	Tiere und ihre jeweiligen Lebens-räume (Luft, Wasser, auf und in der Erde)</content>
+			<content>–	Anpassung der Tiere anhand von Beispielen (siehe Erde)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-5-1-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Tiere nach eigenen Vorstellungen in sinnvolle Gruppen ordnen, sich dann mit anerkannten Kategori-sierungen befassen</content>
+			<content>–	Zoo/Tierpark/Wildpark besuchen</content>
+			<content>–	wildlebende Tiere in der Stadt/der Umgebung erkunden und Steckbriefe zu den Tieren und ihren Lebensbedingungen erstellen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-5-2</id>
+			<title>Thema: Welche Tiere leben bei uns?</title>
+		<inhalt>
+			<id>C-SU-3-5-2-1</id>
+			<title>Inhalte</title>
+			<content>–	Säugetiere, Vögel, Fische, Insekten unterscheiden</content>
+			<content>–	Säugetiere, Vögel, Fische, Insekten in der Region</content>
+			<content>–	Körperbau, Ernährung und Fortpflanzung ausgewählter Tiere</content>
+			<content>–	Lebens- und Umweltbedingungen für ausgewählte Tiere (im Wald, auf dem Land und in der Stadt)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-5-2-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Schulgelände/Schulumgebung (z. B. durch Kartierung und Dokumentation des Bestands) im Blick auf Tiere untersuchen</content>
+			<content>–	Vogelkasten/Insektenhotel bauen</content>
+			<content>–	Tiermodell bauen</content>
+			<content>–	Bienenvolk (z. B. Imker/Gartenarbeitsschule) besuchen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-5-3</id>
+			<title>Thema: Alle wollen ein Haustier?</title>
+		<inhalt>
+			<id>C-SU-3-5-3-1</id>
+			<title>Inhalte</title>
+			<content>–	typische und außergewöhnliche Haustiere</content>
+			<content>–	Funktion und Nutzen von Haustieren für den Menschen</content>
+			<content>–	Bedingungen artgerechter Haltung (z. B. Katzen, Hunde, Nager)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-5-3-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Tierbehausung bauen</content>
+			<content>–	Zoohandlung/Züchter/Tierheim besuchen</content>
+			<content>–	Liste für artgerechte Haltung bestimmter Tiere erstellen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-5-4</id>
+			<title>Thema: Welchen Nutzen haben Menschen von Tieren?</title>
+		<inhalt>
+			<id>C-SU-3-5-4-1</id>
+			<title>Inhalte</title>
+			<content>–	wesentliche Unterschiede zwischen Haus- und Nutztieren</content>
+			<content>–	wichtige Nutztiere in der Region</content>
+			<content>–	Tierhaltung (z. B. beim Huhn oder Rind)</content>
+			<content>–	Tierprodukte und die Bedeutung für den Menschen (siehe Markt)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-5-4-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	landwirtschaftlichen Betrieb besuchen</content>
+			<content>–	Tabelle zu Tierprodukten erstellen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-5-5</id>
+			<title>Thema: Wie war das mit den Dinosauriern?</title>
+		<inhalt>
+			<id>C-SU-3-5-5-1</id>
+			<title>Inhalte</title>
+			<content>–	zeitliche Einordnung und Lebensräume</content>
+			<content>–	Arten, Lebensweise und Ernährung</content>
+			<content>–	Aussterben</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-5-5-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Ausstellung erarbeiten</content>
+			<content>–	Dinosaurier-Lexikon/Lernspiel erarbeiten</content>
+			<content>–	mit dem Geschichtsfries arbeiten</content>
+		</inhalt>
+		</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-SU-3-6</id>
+			<title>Wasser</title>			
+			<content>Wasser stellt eine wichtige Grundlage allen Lebens dar. Den direkten Zusammenhang zwischen Wasser und Leben erleben und erforschen die Schülerinnen und Schüler in diesem Themenfeld in vielfältigen Bezügen. Eigenschaften, Vorkommen, Nutzen und Nutzung sowie das Wirken des Wassers werden thematisiert. Ausgangspunkte des Lernens sind z. B. lebensweltliche Erfahrungen, aber auch Beobachtungen oder die Konfrontation mit einer Problemstellung.
+Übergreifende Themen: Gesundheitsförderung, Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen sowie Verbraucherbildung.</content>
+		<inhalt>
+			<id>C-SU-3-6-1</id>
+			<title>Thema: Was und wie ist Wasser?</title>
+		<inhalt>
+			<id>C-SU-3-6-1-1</id>
+			<title>Inhalte</title>
+			<content>–	Eigenschaften des Wassers mit den Sinnen wahrnehmen und untersuchen: Geschmack (z. B. von Mineralwasser, Salzwasser und stillem Wasser); Farbe; Geruch (z. B. Leitungs-, Seifen- und Teichwasser); Bewegung (z. B. fließendes Wasser, Wirbel und Wellen); kaltes und warmes Wasser fühlen; Auftrieb und Widerstand von Wasser körperlich wahrnehmen; akustische Leitfähigkeit erkunden</content>
+			<content>–	Aggregatzustände (flüssig, gasförmig, fest)</content>
+			<content>–	Nachweis von Besonderheiten (z. B. Mineralstoffe, Kalk, Löslichkeit von Stoffen in Wasser)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-6-1-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Entdeckertagebuch führen</content>
+			<content>–	Wasser betrachten, untersuchen und erforschen (z. B. Versuche zum Verdunsten, Verdampfen, Gefrieren, zur Anomalie des Wassers durchführen)</content>
+			<content>–	Versuche (z. B. zur Löslichkeit) durchführen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-6-2</id>
+			<title>Thema: Wo kommt Wasser vor? Welche Gewässer gibt es? (lokal, regional, global)</title>
+		<inhalt>
+			<id>C-SU-3-6-2-1</id>
+			<title>Inhalte</title>
+			<content>–	Meere und Ozeane (siehe Erde)</content>
+			<content>–	Wasserkreislauf, Grundwasser</content>
+			<content>–	Wasser und Wetter (siehe Erde)</content>
+			<content>–	Seen und Teiche, Flüsse und Bäche, Moore</content>
+			<content>–	Zusammensetzung und Unterschiede von Gewässern</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-6-2-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Versuche (z. B. zum Wasser-kreislauf, zur Löslichkeit) durchführen</content>
+			<content>–	Wetterbeobachtungen und -messungen durchführen und protokollieren</content>
+			<content>–	Spuren in der Natur suchen: Wo gibt es Wasser? Woher kommt es?</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-6-3</id>
+			<title>Thema: Kein Leben, kein Alltag ohne Wasser?</title>
+		<inhalt>
+			<id>C-SU-3-6-3-1</id>
+			<title>Inhalte</title>
+			<content>–	alle Lebewesen brauchen Wasser und Wasser ist (fast) überall enthalten (z. B. Körper, Nahrung)</content>
+			<content>–	unser Leitungswasser: wo es herkommt und wohin es fließt, Reinigung und Schutz (z. B. Grundwasser, Brunnen, Wasserwerk, Klärwerk, Kanalisation)</content>
+			<content>–	Wassermangel und Wasserverschwendung (Beispiele und ihre Ursachen)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-6-3-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Wasserwerk besuchen</content>
+			<content>–	Versuche zur Reinigung von Wasser durchführen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-6-4</id>
+			<title>Thema: Wer lebt im und am Wasser? (Wasser als Lebensraum, z. B. Teich, See, Fluss)</title>
+		<inhalt>
+			<id>C-SU-3-6-4-1</id>
+			<title>Inhalte</title>
+			<content>–	Lebensraum Wasser: Pflanzen an und im Wasser (z. B. Arten, Ernährung, Wasseraufnahme und -abgabe)</content>
+			<content>–	Lebensraum Wasser: Tiere an und im Wasser (z. B. Arten: Vögel, Insekten, Fische; Ernährung, Atmung, Fortpflanzung, Gefahren) (siehe Tier)</content>
+			<content>–	Lebensgemeinschaft am und im Gewässer (Zusammenhänge, Abhängigkeiten)</content>
+			<content>–	Gewässer im Lauf der Jahreszeiten (siehe Zeit)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-6-4-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Gewässer im Nahraum erkunden</content>
+			<content>–	Schulteich anlegen/Verantwortung für den Schulteich übernehmen</content>
+			<content>–	Lernplakat zu einem beobachteten Gewässer gestalten</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-6-5</id>
+			<title>Thema: Was kann Wasser bewirken?</title>
+		<inhalt>
+			<id>C-SU-3-6-5-1</id>
+			<title>Inhalte</title>
+			<content>–	Wasser trägt (Schwimmen und Sinken, Auftrieb; Oberflächenspannung)</content>
+			<content>–	im Wasser steckt nutzbare Energie (vom Wasserrad zum Wasserkraftwerk)</content>
+			<content>–	Wasser verändert Landschaften (z. B. Küste, Flusslauf, Hochwasser, Verwitterung)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-6-5-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Versuche zu Dichte, Auftrieb und Verdrängung durchführen</content>
+			<content>–	Wasserrad bauen</content>
+			<content>–	Schiffe bauen und erproben</content>
+			<content>–	Projekt durchführen: Wie schützten und schützen Menschen sich vor Wasser?</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-6-6</id>
+			<title>Thema: Wie nutzen Menschen Wasser?</title>
+		<inhalt>
+			<id>C-SU-3-6-6-1</id>
+			<title>Inhalte</title>
+			<content>–	der Mensch baut Wasserwege (Kanäle)</content>
+			<content>–	Nutzung von Gewässern durch den Menschen und seine Verantwortung</content>
+			<content>–	Wassernutzung und -verbrauch (z. B. Haushalt, Erholungsraum, Produktion)</content>
+			<content>–	Wasser als Transportweg (Schiffe und Güter früher und heute)</content>
+			<content>–	die Geschichte der Wassertoilette</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-6-6-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Kanalsystem erkunden und im Sandkasten nachstellen</content>
+			<content>–	Protokoll führen und auswerten: Mein Wasserverbrauch</content>
+			<content>–	Flussbuch (z. B. Verlauf, Schiffe, Güter, Nutzung: früher und heute) anlegen</content>
+		</inhalt>
+		</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-SU-3-7</id>
+			<title>Wohnen</title>			
+			<content>Jedes Kind wohnt und kann seine Erfahrungen, seine Fragen, aber auch Wünsche und Träume in das Themenfeld einbringen. Es bietet viele konkrete und am Lebensraum orientierte Erkundungsräume für die Lernenden: In der Betrachtung von Vertrautem und Nahem und Fremden und teils Entferntem, von scheinbar Selbstverständlichem und Unbekanntem sowie in der Erkundung der Vergangenheit und damit der Wurzeln der Gegenwart. 
+Zu den strukturierenden Leitfragen des Themenfeldes können die Lernenden eigene Fragen ergänzen und bei der Suche nach Antworten insbesondere experimentell forschend und un-tersuchend tätig werden.
+Übergreifende Themen: Kulturelle Bildung, Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen sowie Mobilitätsbildung und Verkehrserziehung</content>
+		<inhalt>
+			<id>C-SU-3-7-1</id>
+			<title>Thema: Wie und wo wohnen und leben wir?</title>
+		<inhalt>
+			<id>C-SU-3-7-1-1</id>
+			<title>Inhalte</title>
+			<content>–	Zimmer, Wohnung, Wohnhaus, Kiez (siehe Kind)</content>
+			<content>–	Einrichtung, Zusammenleben, Bedürfnisse (siehe Kind)</content>
+			<content>–	was das Zuhause ausmacht</content>
+			<content>–	wenn Wohnen enges Zusammenleben mit anderen bedeutet (Privatsphäre, Absprachen, Regeln, Miteinander)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-7-1-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Modell (z. B. Wohnung aus Karton) bauen und Puppenhäuser einrichten</content>
+			<content>–	Kartenskizzen anlegen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-7-2</id>
+			<title>Thema: Wie wohnten Menschen früher?</title>
+		<inhalt>
+			<id>C-SU-3-7-2-1</id>
+			<title>Inhalte</title>
+			<content>–	Höhlennutzung, Zelt- und Hüttenbau in der Steinzeit (für Jäger und Sammler)</content>
+			<content>–	Bedeutung des Feuers (Wärme, Schutz, Nahrungszubereitung, Gefahr, Umgang) früher und heute</content>
+			<content>–	Haus- und Dorfbau und Sesshaftigkeit seit der Jungsteinzeit</content>
+			<content>-	vom Dorf zur Stadt</content>
+			<content>–	wie Königinnen, Könige, ihre Dienstkräfte, Handwerker u. a. wohnten (Status, Einkommen, Funktion von Gebäuden)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-7-2-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Museum/Schloss besuchen</content>
+			<content>–	Modelle (z. B. Häuser, Wohnun-gen, Hütten, Zelt, Jurte, Höhlen) bauen</content>
+			<content>–	mit dem Geschichtsfries arbeiten</content>
+			<content>–	Versuche zum Feuer (entzünden, Brennprobe, Löschmöglichkeiten) durchführen</content>
+			<content>–	Feuerwehr besuchen</content>
+			<content>–	Techniken der Vergangenheit (z. B. Töpfern mit der Spiralwulsttechnik) erproben</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-7-3</id>
+			<title>Thema: Wie baut man ein Haus?</title>
+		<inhalt>
+			<id>C-SU-3-7-3-1</id>
+			<title>Inhalte</title>
+			<content>–	Baustoffe (z. B. Holz, Beton)</content>
+			<content>–	kleine Häuser – Hochhäuser (z. B. Aussehen, Raumangebot, Bauweise, Stabilität)</content>
+			<content>–	Berufe rund um das Bauen und Wohnen</content>
+			<content>–	alternative Hausmodelle und das Haus der Zukunft</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-7-3-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	mit verschiedenen Materialien bauen und konstruieren</content>
+			<content>–	Modellhaus beleuchten</content>
+			<content>–	Vertreterinnen und Vertreter ver-schiedener Bauberufe befragen</content>
+			<content>–	Energiehaus als Modell bauen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-7-4</id>
+			<title>Thema: Wie wohnen andere Menschen bei uns und Menschen anderswo?</title>
+		<inhalt>
+			<id>C-SU-3-7-4-1</id>
+			<title>Inhalte</title>
+			<content>–	historische und gegenwärtige Wohnbeispiele und -projekte, (z. B. alte Menschen, Menschen mit Behinderungen und/oder Krankheit, Flüchtlinge, Mehrgenerationenhaus)</content>
+			<content>–	andere Lebensräume – andere Wohnformen (an Beispielen)</content>
+			<content>–	ein Dach über dem Kopf – keine Selbstverständlichkeit (z. B. Obdachlosigkeit, Flüchtlingslager und -heime)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-7-4-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Erkundungen durchführen</content>
+			<content>–	Menschen zum Thema Wohnen befragen</content>
+			<content>–	Klassenraum in eine Landschaft mit unterschiedlichen Wohnbeispielen (als Projekt/in Gruppenarbeit) verwandeln</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-7-5</id>
+			<title>Thema: Wer lebt hier wie? Wovon leben die Menschen? (Gesellschaft, Wirtschaft und Politik)</title>
+		<inhalt>
+			<id>C-SU-3-7-5-1</id>
+			<title>Inhalte</title>
+			<content>–	Bevölkerungsstruktur, Zusammenleben</content>
+			<content>–	Wohnen (siehe Kind)</content>
+			<content>–	Lernen und Betreuung</content>
+			<content>–	Produktion, Aus- und Einfuhr, Einkaufen, Arbeit, Berufe (siehe Markt)</content>
+			<content>–	politische Struktur (z. B.: Wer hat was zu sagen und zu bestimmen?) (siehe Kind)</content>
+			<content>–	besondere Chancen und Herausforderungen der Region</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-7-5-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Erkundung durchführen</content>
+			<content>–	Befragung durchführen</content>
+			<content>–	Fachleute einladen</content>
+			<content>–	Recherche in verschiedenen Medien durchführen</content>
+			<content>–	Lernplakate erstellen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-7-6</id>
+			<title>Thema: Was kann man hier unternehmen? (Sport, Freizeit, Kultur und Engagement)</title>
+		<inhalt>
+			<id>C-SU-3-7-6-1</id>
+			<title>Inhalte</title>
+			<content>–	Spielplätze, Sportstätten und -angebote</content>
+			<content>–	Freizeitstätten und -möglichkeiten</content>
+			<content>–	Kunst und Kultur</content>
+			<content>–	Engagement für Menschen, den Lebensort (z. B.: Wer macht was für wen?)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-7-6-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Kinderstadtplan erstellen</content>
+			<content>–	Plakat mit Angeboten der Umge-bung bestücken</content>
+			<content>–	Nutzerinnen und Nutzer, Anbiete-rinnen und Anbieter befragen</content>
+			<content>–	Möglichkeiten, sich als Kind für andere zu engagieren, zusammentragen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-7-7</id>
+			<title>Thema: Wie stellen wir uns die Zukunft vor?</title>
+		<inhalt>
+			<id>C-SU-3-7-7-1</id>
+			<title>Inhalte</title>
+			<content>–	Planungs- und Entwicklungsideen (z. B. für die eigene Schule, den Wohnort, die Verkehrsplanung, Freizeitangebote, Orte der Begegnung)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-7-7-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Zukunftswerkstatt durchführen</content>
+			<content>–	Zeichnungen und Modelle zu eigenen Ideen anfertigen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-7-8</id>
+			<title>Thema: Wie funktioniert ein Wohnhaus?</title>
+		<inhalt>
+			<id>C-SU-3-7-8-1</id>
+			<title>Inhalte</title>
+			<content>–	Versorgung des Hauses (z. B. mit Strom, Gas, Öl, Wasser)</content>
+			<content>–	technische Ausstattung (z. B. Bad und Toilette, Waschmaschine, Heizung) (siehe Wasser)</content>
+			<content>–	Mülltrennung und Entsorgung</content>
+			<content>–	Internet und Telefon</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-7-8-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Haustechnik an Modellen erkunden</content>
+			<content>–	Mülltrennungsanlage besuchen</content>
+		</inhalt>
+		</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-SU-3-8</id>
+			<title>Zeit</title>			
+			<content>Die Zeit ist ein Phänomen, das nicht sichtbar ist, aber durch Veränderungen im eigenen Leben wie in der Lebenswelt auch für Kinder nachvollziehbar wird. Das Themenfeld lädt ein, verschiedene Formen der Zeitmessung und -dokumentation kennenzulernen und damit Vorstellungen über die Zeit zu entwickeln. Obwohl Zeit im Ablauf nicht beeinflussbar ist, verläuft sie in der subjektiven Wahrnehmung unterschiedlich; die Einführung von Ritualen im Unterrichtsalltag führt zur aktiven Strukturierung von Zeit. 
+Bei der Wahrnehmung und Beobachtung von Abläufen und Zyklen können die Schülerinnen und Schüler in diesem Themenfeld ihren Fragen nach Geburt, Veränderung, Tod und Verlust nachgehen. Weiterhin können sie erforschen, wie wir an Wissen über die Vergangenheit gelangen.
+Insgesamt gewinnen die Lernenden mittels des Themenfeldes Orientierung in großen und kleinen Zeiträumen.
+Übergreifende Themen: Kulturelle Bildung und Sexualerziehung/Bildung für sexuelle Selbstbestimmung.</content>
+		<inhalt>
+		<id>C-SU-3-8-1</id>
+		<title>Thema: Wie funktioniert ein Wohnhaus?</title>
+		<inhalt>
+			<id>C-SU-3-8-1-1</id>
+			<title>Inhalte</title>
+			<content>–	Zeitspannen: Jahr (Jahreszeiten), Monat, Woche, Tag und Nacht</content>
+			<content>–	Kalender</content>
+			<content>–	Uhr</content>
+			<content>–	Wahrnehmung von Zeit</content>
+			<content>–	Jede/r verbringt seine Zeit</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-8-1-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Entstehung von Jahr (Jahreszeiten), Monat, Woche, Tag und Nacht anhand eines Modells von Erde (Globus) und Sonne (Lampe) erkunden</content>
+			<content>–	Klassen- und Geburtstagskalen-der führen</content>
+			<content>–	verschiedene Uhren bauen und damit Zeitspannen messen</content>
+			<content>–	Zeitfries mit Daten, Bildern und Begriffen versehen</content>
+			<content>–	Zeittagebuch führen</content>
+			<content>–	über Zeit philosophieren</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-8-2</id>
+			<title>Thema: Was kehrt immer wieder?</title>
+		<inhalt>
+			<id>C-SU-3-8-2-1</id>
+			<title>Inhalte</title>
+			<content>–	Tagesrituale, Tagesabläufe</content>
+			<content>–	Rituale in der Schule</content>
+			<content>–	Rituale zu Festen und Feiertagen</content>
+			<content>–	Jahreszeiten: Veränderungen in der Natur beobachten (siehe Wasser)</content>
+			<content>–	Wetterphänomene zu bestimmten Jahreszeiten</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-8-2-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Rituale verabreden und erproben</content>
+			<content>–	Feste/Feiertage in einem Kalender markieren und begehen</content>
+			<content>–	Rituale zu Festen und Feiertagen (früher und heute, hier und an-derswo) miteinander vergleichen</content>
+			<content>–	Jahreszeitenkalender führen</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-8-3</id>
+			<title>Thema: Was verändert sich mit der Zeit?</title>
+		<inhalt>
+			<id>C-SU-3-8-3-1</id>
+			<title>Inhalte</title>
+			<content>–	Lebenszyklus des Menschen (z. B. Schwangerschaft, Geburt, Tod)</content>
+			<content>–	Lebenszyklus eines Schmetter-lings oder anderen Tiers</content>
+			</inhalt>
+		<inhalt>
+			<id>C-SU-3-8-3-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Ausstellung (z. B. mit Familien-fotos) erarbeiten</content>
+			<content>–	Fotodokumentation anlegen</content>
+			<content>–	über Veränderung und Tod philo-sophieren</content>
+			<content>–	Terrarium beobachten</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-8-4</id>
+			<title>Thema: Woher bekommen wir Wissen über die Vergangenheit?</title>
+		<inhalt>
+			<id>C-SU-3-8-4-1</id>
+			<title>Inhalte</title>
+			<content>–	Quellen (Bild, Text, Sache) geben Auskunft</content>
+			<content>–	Darstellungen können Tatsachen und Erdachtes enthalten</content>
+			<content>–	Berufe, mit denen die Vergangenheit erforscht wird (Historikerinnen und Historiker, Archäologinnen und Archäologen)</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-8-4-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Ausstellung zu Quellen (Sache, Bild, Text) erarbeiten</content>
+			<content>–	verschiedene Darstellungen über Geschichte vergleichen (z. B. Sachbuch, Comic, Film)</content>
+		</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-8-5</id>
+			<title>Thema: Wie lebten die Menschen früher?</title>
+		<inhalt>
+			<id>C-SU-3-8-5-1</id>
+			<title>Inhalte</title>
+			<content>–	Wohnen</content>
+			<content>–	Ernährung</content>
+			<content>–	soziale Gruppen, Berufe</content>
+			<content>–	Kindheit</content>
+			<content>–	Unterschiede und Ähnlichkeiten im Vergleich zu heute</content>
+		</inhalt>
+		<inhalt>
+			<id>C-SU-3-8-5-2</id>
+			<title>Unterrichtsanregungen</title>
+			<content>–	Museum/Museumsdorf/Burg besuchen</content>
+			<content>–	Ausstellung erarbeiten</content>
+			<content>–	mit dem Geschichtsfries arbeiten</content>
+			<content>–	Techniken der Vergangenheit erproben</content>
+			<content>–	(Elektro-)Lernspiel/Quiz erstellen</content>
+		</inhalt>
+		</inhalt>
+		</themainhalt>								
+	</c3>
+	</fach>

@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fach xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns="http://bsbb.eu" 
+	xsi:schemaLocation="http://bsbb.eu fachtype.xsd">
+
+<id>C-SOWI</id>
+	<title>Sozialwissenschaft/Wirtschaftswissenschaft</title>
+	<c1>
+		<id>C-SOWI-1</id>
+		<title>Kompetenzentwicklung im Fach Sozialwissenschaften/Wirtschaftswissenschaft</title>
+		<subtext>
+			<id>C-SOWI-1-1</id>
+			<title>Ziele des Unterrichts</title>
+			<content>Das Wahlpflichtfach Sozialwissenschaften/Wirtschaftswissenschaft bietet Schülerinnen und Schülern die Möglichkeit, anknüpfend an den Unterricht der Fächer Politische Bildung und Ethik, sozialwissenschaftliche Kompetenzen zu erweitern und zu vertiefen. Es integriert die Teilgebiete Wirtschaft, Recht und Soziologie und bereitet die Schülerinnen und Schüler auf den Unterricht in den Fächern Sozialwissenschaften, Wirtschaftswissenschaft und Recht in der gymnasialen Oberstufe vor.
+Den Lernenden begegnet gesellschaftliche Komplexität in sozialen, rechtlichen und wirtschaftlichen Handlungszusammenhängen. Im Fach Sozialwissenschaften/Wirtschaftswissenschaft erschließen und analysieren die Schülerinnen und Schüler diese Zusammenhänge, die ihnen gegenüber sowohl vorgegeben als auch gestaltungsbedürftig erscheinen. Sie lernen, sich im gegenwärtigen gesellschaftlichen und wirtschaftlichen Geschehen zu orientieren, Perspektiven und Alternativen zu reflektieren, selbstständig und kriterienorientiert zu urteilen und eigene Handlungsmöglichkeiten abzuwägen. Damit fördert das Fach Sozialwissenschaften/Wirtschaftswissenschaft die eigene Identitätsfindung und versteht sich gleichermaßen als Grundlage für ein sozial verantwortliches Handeln sowie für die ökonomische, rechtliche und politische Mündigkeit der Lernenden.
+Durch die Verknüpfung ökonomischer, sozialer und rechtlicher Aspekte wird eine hohe Anforderung in Bezug auf  multiperspektivisches Betrachten und vernetztes Denken gestellt, d. h., gesellschaftliche Fragen und Probleme werden in ihren interdependenten Zusammenhängen erkannt und beurteilt. Der Unterricht befähigt die Lernenden hierzu, indem sie herausgefordert sind, sozialwissenschaftliche Methoden (z. B. Methoden der qualitativen und quantitativen Sozialforschung, wie Interviews und Umfragen oder das Umgehen mit Statistiken) zu erproben und anzuwenden sowie gesellschaftliche Fragen und Probleme mithilfe soziologischer und wirtschaftswissenschaftlicher Theorien und Modelle zu erschließen.
+Sozialwissenschaften/Wirtschaftswissenschaft bietet den Lernenden somit ein theoretisch fundiertes und anschlussfähiges Orientierungswissen sowie die Einführung in verschiedene Arbeitsweisen der gesellschaftswissenschaftlichen Fächer.
+
+
+Teilgebiete Wirtschaft, Recht und Soziologie
+Das Fach Sozialwissenschaften/Wirtschaftswissenschaft berücksichtigt schwerpunkmäßig Kompetenzen und die Auseinandersetzung mit Inhalten aus den Teilgebieten Wirtschaft, Recht und Soziologie. Die diesen Teilgebieten zugeordneten Themenfelder (vgl. Kapitel 3) zeichnen sich in ihrer Anordnung durch eine immanente Struktur aus, die der Lernprogression der Schülerinnen und Schüler Rechnung trägt, und führen auf die Anforderungen der gymnasialen Oberstufe hin. Es werden sowohl die jeweiligen wissenschaftlichen Besonderheiten dieser Teilgebiete als auch deren didaktische Integration berücksichtigt.
+Sozialwissenschaftliches Denken in seiner soziologischen Dimension ist unter anderem dadurch charakterisiert, dass moderne Gesellschaften in allen ihren Teilbereichen durch Men-schen gestaltet werden. In seiner ökonomischen Dimension ist das sozialwissenschaftliche Denken unter anderem durch das Knappheits- und Rationalitätsprinzip charakterisiert. In seiner rechtlichen Dimension basiert es auf den Prinzipien des demokratisch verfassten Rechtsstaates.
+Diese Denkweisen bieten in ihrer unterschiedlichen Zugriffsweise zahlreiche Anknüpfungspunkte für die Kooperation mit anderen Fächern und führen zu einer vertieften gesellschaftspolitischen Bildung.
+</content>
+		</subtext>
+		<subtext>
+			<id>C-SOWI-1-2</id>
+			<title>Fachbezogene Kompetenzen</title>
+			<content>Die Schülerinnen und Schüler erwerben im Fach Sozialwissenschaften/Wirtschaftswissenschaft grundlegende Handlungskompetenzen, die zur Entwicklung sozialer Verantwortung und ökonomischer, rechtlicher und politischer Mündigkeit beitragen. Die Handlungs-kompetenzen beruhen auf Kompetenzen des sozialwissenschaftlichen Analysierens und Urteilens und der Anwendung sozialwissenschaftlicher Methoden, die in der Auseinander-setzung mit den Teilgebieten des Faches erworben werden.</content>
+		<title>Sozialwissenschaftliche Handlungskompetenz</title>
+		<content>Sozialwissenschaftliche Handlungskompetenz zeigt sich in der Fähigkeit, erworbene Kompetenzen des Analysierens und Urteilens sowie der Anwendung sozialwissenschaftlicher Methoden in unterschiedlichen Handlungssituationen einsetzen zu können. Sie umfasst die Fähigkeit, Prozesse der soziologischen, ökonomischen und rechtlichen Meinungsbildung, Entscheidungsfindung und Umsetzung reflektiert zu beurteilen und entscheiden zu können, welche Optionen für das eigene Handeln bestehen. Dazu wenden die Lernenden u. a. diskursive und simulative Methoden der Handlungsorientierung an (z. B. einfache Szenarien, Entscheidungsspiele, Debatte) oder sie setzen kleinere Projekte um, in denen soziologische, rechtliche und wirtschaftswissenschaftliche Fragestellungen vernetzt betrachtet werden. Das ermöglicht den Schülerinnen und Schülern, Chancen der Einflussnahme auf die Gestaltung sozialer, wirtschaftlicher und rechtlicher Prozesse und Strukturen wahrzunehmen und zu 
+erproben.</content>
+		<title>Analysieren</title>
+		<content>Sozialwissenschaftliches Analysieren (z. B. im Teilgebiet Recht mithilfe der Subsumtion oder die Analyse volkswirtschaftlicher Indikatoren oder soziologischer Theorien) bedeutet, dass die Schülerinnen und Schüler gesellschaftliche, ökonomische und rechtliche Strukturen und Prozesse erschließen und ihre Kenntnisse anwenden. Indem gesellschaftliche Fragen und Probleme mithilfe sozialwissenschaftlicher Perspektiven, Erklärungsmuster, Modelle und Theorien erschlossen werden, bildet die Analysekompetenz zugleich die Grundlage der sozialwissenschaftlichen Urteilsbildung.</content>
+		<title>Methoden anwenden</title>
+		<content>Die Anwendung sozialwissenschaftlicher Methoden umfasst die fachspezifischen Fähigkeiten und Fertigkeiten, die neben überfachlichen methodischen Kompetenzen (Medienkompetenz, bildungssprachliche Handlungskompetenz) benötigt werden, um sich mit soziologischen, ökonomischen und rechtlichen Erscheinungen und Herausforderungen auseinandersetzen zu können. Sie ist ein wesentliches Element sozialwissenschaftlicher Wissenschaftspropädeutik. Methodenkompetenz zeigt sich durch die zunehmende Beherrschung von Verfahren der sozialwissenschaftlichen Informationsgewinnung und -auswertung (z. B. durch die Anwendung empirischer Methoden wie Interviews oder Umfragen oder die kritische Auswertung von Statistiken und Grafiken). Dazu erwerben die Schülerinnen und Schüler Kompetenzen der sozialwissenschaftlichen Begriffs-, Hypothesen- und Modellbildung, die zugleich Grundlage sozialwissenschaftlichen Analysierens sind.</content>
+		<title>Urteilen</title>
+		<content>Sozialwissenschaftliches Urteilen beinhaltet den Ansatz einer selbstständigen, begründeten und reflektierten Beurteilung und Bewertung soziologischer, ökonomischer und rechtlicher Prozesse und Strukturen. Urteilskompetenz schließt die Herausbildung eines fachlich begründeten eigenen Standpunkts ebenso ein wie ein verständigungsorientiertes und multiperspektivisches Abwägen der eigenen Position mit den Positionen anderer. 
+Im Unterricht werden verschiedene und kontroverse Urteile entwickelt und diskutiert, die die gesellschaftliche Interessenvielfalt widerspiegeln. Die Akzeptanz der Schülerinnen und Schüler für die legitime Meinungsvielfalt in einer Demokratie wird durch einen kontroversen, problemorientierten Unterricht gefördert.</content>
+		<title>Didaktische Prinzipien</title>
+		<content>Der Lern- und Lehrprozess wird grundsätzlich so organisiert, dass er problemlösendes Denken in den soziologischen, rechtlichen und wirtschaftlichen Dimensionen fördert sowie den Schülerinnen und Schülern selbsttätiges, planendes und eigenverantwortliches Lernen ermöglicht. Um eigenständig Analyse- und Urteilsaufgaben zu bewältigen, sollten die Lernenden möglichst in Projekten und an außerschulischen Lernorten tätig werden. Leitende didaktische Prinzipien des Faches Sozialwissenschaften/Wirtschaftswissenschaft sind daneben Prob-lemorientierung, kategoriales Lernen, Kontroversität, Exemplarität, Fallprinzip, Schüler-, Handlungs-, Wissenschafts- und Zukunftsorientierung.
+		
+		Hilfestellungen für die Planung des Unterrichts sind: 
+		­	Zur selbstständigen Analyse, Strukturierung und Reflexion brauchen die Schülerinnen und Schüler Kategorien. Identität, Institutionen, Verhandlung, Recht, Bedürfnis, Knappheit, Nutzen, Risiko, Wettbewerb sind zentrale Kategorien. Hieraus können Fragen des Unterrichts entwickelt werden, die mitunter nicht eindeutig zu beantworten sind. In einer zunehmenden Selbstständigkeit des Lernens verdichten sich diese Kategorien zu einer kognitiven Struktur.
+		­	Die Verbindung zwischen schulischem und außerschulischem Lernen fördert durch die reale Begegnung besonders eine Verknüpfung von Abstraktem und Konkretem, methodischem sowie sozialem Lernen. Von besonderer Bedeutung sind hierbei der Besuch der Gerichte, öffentlicher Einrichtungen im soziologischen Kontext sowie die Verbindung zu Verbänden und Unternehmen.
+		­	Der Unterricht besitzt vielfach exemplarischen Charakter; notwendiges Ordnungswissen wird in einem angemessenen Verhältnis zum Exempel gehalten. Mithilfe der Kriterien Betroffenheit und Bedeutsamkeit können geeignete Unterrichtsinhalte ermittelt werden. Der Lernprozess vernetzt die Mikroebene sozialer Erfahrung mit der abstrakten Makroebene von Institution, Sozialstruktur, System oder Prozess.
+		­	Darüber hinaus orientiert sich der Unterricht an einer von der Lehrerin bzw. vom Lehrer zu entwickelnden didaktischen Perspektive, die unter Berücksichtigung der Besonderheiten der Lerngruppe das Aktualitätsprinzip beachtet und den Dimensionen von Recht, Gesellschaft und Wirtschaft Rechnung trägt.</content>
+		</subtext>
+		</c1>
+		<c2>
+		<vorwort>
+		<id>C-SOWI-2-BE</id>
+		<title>Regelungen für das Land Berlin</title>
+		<content>
+Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler.
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungsvorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+
+Für Grundschulen und Grundstufen der Gemeinschaftsschulen sowie an weiterführenden Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Schulanfangsphase 	Niveaustufen A, B, in Teilen C
+Jahrgangsstufen	3 – 4	Niveaustufe C, in Teilen D
+Jahrgangsstufe	5	Niveaustufen C – D 
+Jahrgangsstufe	6	Niveaustufe D, in Teilen E
+
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufe 		3	Niveaustufe B, in Teilen C
+Jahrgangsstufen		4 – 6	Niveaustufe C
+Jahrgangsstufen 	7 – 8	Niveaustufe D
+Jahrgangsstufen 	9 – 10	Niveaustufen D – E
+
+Zur Vorbereitung auf den der Berufsbildungsreife gleichwertigen Abschluss werden in den Jahrgangsstufen 9 und 10 auch Angebote auf dem Niveau F unterbreitet.
+Je nach dem Grad der Lernbeeinträchtigung erreichen die Schülerinnen und Schüler die gesetzten Standards nicht im vollen Umfang bzw. nicht zum vorgegebenen Zeitpunkt. Dem trägt eine individuelle Ausrichtung des Unterrichtsangebots Rechnung.
+Für die Integrierte Sekundarschule gilt:
+grundlegendes Niveau:
+Jahrgangsstufen	7 – 8	Niveaustufen D – E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufe F, in Teilen G
+erweitertes Niveau: 
+Jahrgangsstufen	7 – 8 	Niveaustufe E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufen F – G
+
+
+Für das Gymnasium gilt:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+
+Die folgende Darstellung veranschaulicht die im Berliner Schulsystem in den Jahrgangsstufen 1 bis 10 möglichen Lerngeschwindigkeiten im Überblick und zeigt die Durchlässigkeit des Schulsystems. Sie bietet zudem eine Grundlage für eine systematische Schullaufbahnberatung. In der Darstellung ist auch erkennbar, welche Anforderungen Schülerinnen und Schüler erfüllen müssen, die die Voraussetzungen für den Erwerb der Berufsbildungsreife erst am Ende der Jahrgangsstufe 10 erreichen. Dieses Niveau können auch Schülerinnen und Schüler mit dem sonderpädagogischen Förderschwerpunkt Lernen erreichen, wenn sie den der Berufsbildungsreife gleichwerten Abschluss anstreben. 
+
+Der Unterricht im Wahlpflichtfach Sozialwissenschaften/Wirtschaftswissenschaft in den Jahrgangsstufen 9/10 wird dazu genutzt, dass die Schülerinnen und Schüler ihre bereits erworbenen Kompetenzen anwenden und vertiefen. Am Ende der Jahrgangsstufe 10 wird das entsprechende Übergangs- bzw. Abschlussniveau erreicht.</content>
+	</vorwort>
+	<subarea>
+		<area>
+			<id>SOWI-K1</id>
+ 	  	 <name>Analysieren</name>
+ 	  	 <competence>
+ 	  	  	 <id>SOWI-K1-1</id>
+ 	  	  	 <name>Gesellschaftliche Probleme identifizieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SOWI-K1-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWI-K1-1-EF-1</id>
+ 	  	  	  	  	 <content>eine Problemstellung aus der Perspektive von Betroffenen und Akteuren in Bezug auf Kategorien (z. B. Gerechtigkeit, Kosten, Interessen, Nutzen etc.) beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SOWI-K1-1-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWI-K1-1-GH-1</id>
+ 	  	  	  	  	 <content>eine Problemstellung in den Kontext sozialwissenschaftlicher Perspektiven einordnen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>SOWI-K1-2</id>
+ 	  	  	 <name>Gesellschaftliche Probleme sozialwissenschaftlich analysieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SOWI-K1-2-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWI-K1-2-EF-1</id>
+ 	  	  	  	  	 <content>Problemlagen, Entscheidungen und Kontroversen anhand von Kategorien und Kriterien auswerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SOWI-K1-2-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWI-K1-2-G-1</id>
+ 	  	  	  	  	 <content>Problemlagen, Entscheidungen und Kontroversen mit Hilfe sozialwissenschaftlicher Theorien, Konzepte und Modelle einordnen, vergleichen und auswerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SOWI-K1-2-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWI-K1-2-H-1</id>
+ 	  	  	  	  	 <content>Theorien, Konzepte und Modelle kritisch reflektieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>SOWI-K2</id>
+ 	  	 <name>Urteilen</name>
+ 	  	 <competence>
+ 	  	  	 <id>SOWI-K2-1</id>
+ 	  	  	 <name>Urteile entwickeln und begründen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SOWI-K2-1-EFG</id>
+ 	  	  	  	 <level>EFG</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWI-K2-1-EFG-1</id>
+ 	  	  	  	  	 <content>gesellschaftliche Probleme fachlich beurteilen und bewerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SOWI-K2-1-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWI-K2-1-H-1</id>
+ 	  	  	  	  	 <content>gesellschaftliche Probleme multiperspektivisch beurteilen und bewerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>SOWI-K2-2</id>
+ 	  	  	 <name>Entscheidungen und ihre Auswirkungen reflektieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SOWI-K2-2-EFG</id>
+ 	  	  	  	 <level>EFG</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWI-K2-2-EFG-1</id>
+ 	  	  	  	  	 <content>Konsequenzen persönlicher und gesellschaftlicher Entscheidungen fachlich begründet beurteilen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SOWI-K2-2-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWI-K2-2-H-1</id>
+ 	  	  	  	  	 <content>Konsequenzen persönlicher und gesellschaftlicher Entscheidungen fachlich begründen und multiperspektivisch beurteilen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>SOWI-K2-3</id>
+ 	  	  	 <name>Lösungen entwickeln</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SOWI-K2-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWI-K2-3-EF-1</id>
+ 	  	  	  	  	 <content>Thesen für politische Problemlösungen entwickeln und diskutieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SOWI-K2-3-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWI-K2-3-G-1</id>
+ 	  	  	  	  	 <content>eigene, an fachlichen Kriterien orientierte, Lösungsansätze entwickeln</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SOWI-K2-3-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWI-K2-3-H-1</id>
+ 	  	  	  	  	 <content>eigene, an fachlichen Kriterien orientierte Lösungsansätze entwickeln und reflektieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>SOWI-K3</id>
+ 	  	 <name>Methoden anwenden</name>
+ 	  	 <competence>
+ 	  	  	 <id>SOWI-K3-1</id>
+ 	  	  	 <name>Recherchieren und empirisch forschen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SOWI-K3-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWI-K3-1-EF-1</id>
+ 	  	  	  	  	 <content>vorgegebene empirische und simulative Methoden und Verfahren anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWI-K3-1-EF-2</id>
+ 	  	  	  	  	 <content>anhand vorgebender Kriterien und Verfahren zu einem sozialwissenschaftlichen Thema recherchieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SOWI-K3-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWI-K3-1-G-1</id>
+ 	  	  	  	  	 <content>Recherchen (Bibliothek, Internet) und Umfragen (Fragebogen, Interview) planvoll durchführen und die Ergebnisse anhand vorgegebener Kriterien auswerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SOWI-K3-1-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWI-K3-1-H-1</id>
+ 	  	  	  	  	 <content>empirische und simulative Methoden und Verfahren selbstständig anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	  </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>SOWi-K3-2</id>
+ 	  	  	 <name>Analyseverfahren anwenden und veranschaulichen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SOWi-K3-2-EFG</id>
+ 	  	  	  	 <level>EFG</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWi-K3-2-EFG-1</id>
+ 	  	  	  	  	 <content>sozialwissenschaftliche Sachverhalte grafisch darstellen (Diagramme, Kausalschemata)</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWi-K3-2-EFG-2</id>
+ 	  	  	  	  	 <content>rechtliche Sachverhalte mithilfe der Subsumtion angeleitet analysieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>SOWi-K3-2-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWi-K3-2-H-1</id>
+ 	  	  	  	  	 <content>sozialwissenschaftliche Sachverhalte grafisch darstellen (Diagramme, Kausalschemata)</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>SOWi-K3-2-H-2</id>
+ 	  	  	  	  	 <content>rechtliche Sachverhalte mit Hilfe der Subsumtion analysieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	  </stufe>
+ 	  	 </competence>
+		</area>
+	</subarea>
+	</c2>
+	<c3>
+		<id>C-SOWI-3</id>
+		<title>Themen und Inhalte</title>
+		<vortext>Die Themenfelder und Inhalte gelten für die Doppeljahrgangsstufe 9/10 und können auf verschiedenen Niveaustufen bearbeitet werden. Sie werden abhängig von der Entwicklung und den Kompetenzen der Lernenden im Unterricht erarbeitet und vertieft. Die Themenfelder und Inhalte bieten zahlreiche Möglichkeiten, Bezüge zu anderen Fächern und zu übergreifenden Themen herzustellen.
+Die Themenfelder und Inhalte bilden die Grundlage für differenzierte Aufgabenstellungen und eine Materialauswahl, die eine Herausforderung für das gesamte Leistungsspektrum einer Lerngruppe darstellt. Die Lernenden erhalten Gelegenheit, ihre Fähigkeiten und Fertig-keiten im Umgang mit den Themenfeldern und Inhalten allein und in der Zusammenarbeit mit anderen unter Beweis zu stellen. Sie erfahren dabei, in welchem Maße sie die gesetzten Standards erreichen bzw. was sie tun können, um ihre Kompetenzen zu vertiefen und zu erweitern.
+Die Themenfelder und Inhalte knüpfen an die Themenfelder und Inhalte des Unterrichts der Fächer Politische Bildung und Ethik ab der Jahrgangsstufe 7 an.
+Die Fachlehrkräfte und die Fachkonferenzen erhalten mit den Themenfeldern einen Rahmen sowie verbindliche Inhalte, die sie je nach Niveaustufe und Schulprofil bei der Planung von Unterricht und bei der Erstellung des schulinternen Curriculums berücksichtigen. Die Themen¬wahl und Abfolge der Inhalte erfolgt in Absprache mit den Lernenden. Dabei werden neben den vorgegebenen Kompetenzen und Inhalten vor allem die Interessen der Schülerinnen und Schüler, aktuelle gesellschaftliche Probleme, regionale Bezüge, das Schulpro-gramm, Gegebenheiten der Schule, Schulpartnerschaften, Wettbewerbe etc. berücksichtigt. Der Besuch regionaler außerschulischer Lernorte ist verbindlich und sollte in die Unterrichts-planung für jedes Themenfeld eingeplant werden.
+Die individuelle Vielfalt der Lernenden im Hinblick auf persönliche, soziokulturelle und ethnische Hintergründe sowie unterschiedliche Lebenswelten sind ein wichtiger Ausgangspunkt für die Planung des Unterrichts. Diese knüpft an die Realität der Schülerinnen und Schüler an, bezieht dabei im Besonderen die sprachlichen und kulturellen Erfahrungen von Lernenden ein. Damit fördert der Unterricht die Stärken unterschiedlicher Persönlichkeiten und nutzt diese für das individuelle Lernen ebenso wie für die Demokratiebildung in einer von Vielfalt geprägten Gesellschaft.
+Die gleichberechtigte Teilhabe am gesellschaftlichen Leben, unabhängig von ethnischer und kultureller Herkunft, sozialem und wirtschaftlichem Status, Geschlecht und sexueller Orien-tierung, Alter und Behinderung sowie Religion und Weltanschauung, bildet sowohl die Basis für die Unterrichtspraxis als auch einen zentralen Inhalt im Sinne des inklusiven Lernens.
+Pro Schulhalbjahr wird aus den sechs Themenfeldern ein Themenfeld ausgewählt.
+Die ausgewiesenen Themenfelder werden für Schülerinnen und Schüler, die wegen einer erheblichen und langandauernden Beeinträchtigung ihres Lern- und Leistungsverhaltens sonderpädagogische Förderung erhalten oder für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen festgestellt wurde, schülerbezogen berücksichtigt. Sie werden entsprechend der Lebensbedeutsamkeit für die Schülerinnen und Schüler ausgewählt.
+Die Themenfelder und Inhalte bieten darüber hinaus die Möglichkeit der Vernetzung und fachübergreifenden Kooperation mit allen Fächern bis hin zum Sachfachunterricht in einer Fremdsprache. In der Spalte Mögliche Konkretisierungen finden sich Anregungen zur Umsetzung der Inhalte.
+</vortext>
+<themainhalt>
+			<id>C-SOWI-3-1</id>
+			<title>Soziologie: Eigenes Leben – Identitätsfindung heute</title>			
+			<content>In diesem Themenfeld lernen Schülerinnen und Schüler, das Individuum und die Gesellschaft aus einer soziologischen Perspektive zu betrachten. Dabei können sie eigene biografische Erfahrungen und Hintergründe mithilfe soziologischer Kategorien und Theorien erschließen und diskutieren. Persönliche Lebensumstände in Familie und Schule werden auf der Grundlage der Reflexion von Rollen, der eigenen Sozialisation, von Peergroups, sozialen Milieus sowie des Einflusses von Medien analysiert. Die Schülerinnen und Schüler führen, von eigenen Fragen ausgehend, kleinere Untersuchungen zum sozialen Umfeld durch und sammeln erste Erfahrungen bei der Anwendung sozialwissenschaftlicher Verfahren der Daten- und Informationsgewinnung.
+Das Themenfeld weist besondere Bezüge zu den übergreifenden Themen Bildung zur Akzeptanz von Vielfalt (Diversity) und Gleichstellung und Gleichberechtigung der Geschlechter (Gender Mainstreaming) auf.</content>
+		<inhalt>
+			<id>C-SOWI-3-1-1</id>
+			<title>Inhalte: Individuum, Gruppe und Institution</title>
+			<inhalt>
+				<id>C-SOWI-3-1-1-1</id>
+				<title>Mögliche Konkretisierungen und Methoden</title>
+				<content>­	Sozialisation des Individuums in sozialen Gruppen und Institutionen</content>
+				<content>­	Wandel der Sozialisationsinstanzen</content>
+			</inhalt>
+			<inhalt>
+				<id>C-SOWI-3-1-1-2</id>
+				<title>Mögliche Konkretisierungen und Methoden</title>
+				<content>­	soziale Rolle: Rollentheorie (strukturfunktionalistische und interaktionistische Rollentheorie)</content>
+				<content>­	Rollenhandeln</content>
+				<content>­	Rollenkonflikte (Inter-/Intrarollenkonflikt)</content>
+				<content>­	Geschlechterrollen</content>
+				<content>­	Kontakt mit sozialen Einrichtungen</content>
+				</inhalt>
+			<inhalt>
+				<id>C-SOWI-3-1-1-3</id>
+				<title>Mögliche Konkretisierungen und Methoden</title>
+				<content>­	soziale Gruppen und Institutionen: Schule, Beruf, Freizeit</content>
+				<content>­	Merkmale und Arten von Gruppen</content>
+				<content>­	Gruppen und Aggression, Konformitätsdruck</content>
+			</inhalt>
+			<inhalt>
+				<id>C-SOWI-3-1-1-4</id>
+				<title>Mögliche Konkretisierungen und Methoden</title>
+				<content>-	Studien</content>
+				<content>­	Interviews und Befragungen</content>
+				<content>­	Soziometrie</content>
+				<content>­	Experimente zum Gruppenverhalten</content>
+			</inhalt>
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+			<id>C-SOWI-3-2</id>
+			<title>Soziologie: Familie im Umbruch</title>
+			<content>Schwerpunkt dieses Themenfeldes ist es, die Entwicklung von traditionellen Familienstrukturen zur heutigen Vielfalt an Familienformen nachzuzeichnen und den Ursachen dieses Wandels auf den Grund zu gehen. Die Schülerinnen und Schüler haben die Möglichkeit, die Konsequenzen des Wandels für die familiale Sozialisation zu beleuchten und die Folgen vielfältiger Lebensformen für die Gesellschaft herauszuarbeiten und zu bewerten. Dabei entwickeln sie aus den Gegebenheiten des eigenen sozialen Umfeldes (z. B. Konflikte, Probleme) Projektideen, um soziale Konfliktlagen in sozialwissenschaftlichen Datenerhe-bungs- und Auswertungsverfahren zu ermitteln und abzubilden.
+Das Themenfeld weist besondere Bezüge zu den übergreifenden Themen Bildung zur Akzeptanz von Vielfalt (Diversity), Gleichstellung und Gleichberechtigung der Geschlechter (Gender Mainstreaming) sowie Interkulturelle Bildung und Erziehung auf.</content>
+		<inhalt>
+			<id>C-SOWI-3-2-1</id>
+			<title>Inhalte: Wandel der Familie</title>
+			<inhalt>
+			 	<id>C-SOWI-3-2-1-1</id>
+				<title>Mögliche Konkretisierungen und Methoden</title>
+				<content>­	Formen der Familie in verschiedenen Kulturkreisen</content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SOWI-3-2-2</id>
+			<title>Inhalte: Familie – ein Begriff, viele Varianten</title>
+			<inhalt>	
+				<id>C-SOWI-3-2-2-1</id>
+				<title>Mögliche Konkretisierungen und Methoden</title>
+				<content>­	traditionelle Familie, Patchworkfamile, gleichgeschlecht¬liche Lebensgemeinschaft</content>
+				<content>­	Single, Kind, Partnerin/Partner, Eheleute</content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SOWI-3-2-3</id>
+			<title>Inhalte: Zusammenleben heute</title>	
+			<inhalt>	
+				<id>C-SOWI-3-2-3-1</id>
+				<title>Mögliche Konkretisierungen und Methoden</title>
+				<content>­	Funktionen der Familie</content>
+				<content>­	Konflikte in der Familie</content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+			<id>C-SOWI-3-2-4</id>
+			<title>Inhalte: Inhaltsübergreifende Anregungen</title>
+			<inhalt>
+			<id>C-SOWI-3-2-4-1</id>
+			<title>Mögliche Konkretisierungen und Methoden</title>
+			<content>­	Rollenklischees in Werbespots</content>
+			<content>­	Kontakt mit sozialen Einrichtungen</content>
+			<content>­	wissenschaftliche Untersuchungen</content>
+			</inhalt>
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-SOWI-3-3</id>
+			<title>Soziologie: Leben in der medialen Welt</title>
+			<content>In diesem Themenfeld setzen sich die Schülerinnen und Schüler mit den Botschaften und Wirkungsweisen der medialen Welt auseinander und werden angeregt, im Streben nach der Erfüllung ihrer Wünsche Schein und Wirklichkeit zu diskutieren. In Film und Fernsehen erleben die Jugendlichen Personen und Situationen als Vorbilder und Leitbilder, mit denen sie sich identifizieren, deren Realitätsgehalt aber im Hinblick auf das eigene Leben zu prüfen ist. Das praktische Gestalten eines Medienprodukts ermöglicht den Schülerinnen und Schülern, typische Merkmale von Medienformaten herauszuarbeiten und eigene Wertvorstellungen zu reflektieren.
+Im Themenfeld werden insbesondere Kompetenzen und Inhalte des Basiscurriculums Medienbildung aufgegriffen.</content>
+		<inhalt>
+		<id>C-SOWI-3-3-1</id>
+		<title>Inhalte: Medien als Sozialisationsinstanz</title>	
+			<inhalt>
+			<id>C-SOWI-3-3-1-1</id>
+			<title>Mögliche Konkretisierungen und Methoden</title>
+			<content>­	Einflüsse von Medienangeboten auf den Alltag und die Persönlichkeit</content>
+			<content>­	Internet – trotz Vernetzung zunehmender Identitätsverlust oder Aushandlung der Identität</content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+		<id>C-SOWI-3-3-2</id>
+		<title>Inhalte: Rolle und Aufgaben der Medien</title>	
+			<inhalt>	
+			<id>C-SOWI-3-3-2-1</id>
+			<title>Mögliche Konkretisierungen und Methoden</title>
+			<content>­	Information durch Medien – Zeitung, Fernsehen, Internet</content>
+			<content>­	Entstehung und Transformation von Nachrichten</content>
+			<content>­	Textarten in der Zeitung, im Internet</content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+		<id>C-SOWI-3-3-3</id>
+		<title>Inhalte: Wandel der Medien und der Gesellschaft</title>	
+			<inhalt>	
+			<id>C-SOWI-3-3-3-1</id>
+			<title>Mögliche Konkretisierungen und Methoden</title>
+			<content>­	Medienkonvergenz und -gebrauch</content>
+			<content>­	medial vermittelte und reale Welt</content>
+			<content>­	fiktionale und nichtfiktionale Medienformate</content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+		<id>C-SOWI-3-3-4</id>
+		<title>Inhalte: Inhaltsübergreifende Anregungen</title>	
+			<inhalt>	
+			<id>C-SOWI-3-3-4-1</id>
+			<title>Mögliche Konkretisierungen und Methoden</title>
+			<content>­	Analyse einer Kindernachrichtensendung</content>
+			<content>­	Gestaltung einer Nachrichtensendung</content>
+		</inhalt>
+		</inhalt>	
+		</themainhalt>
+		<themainhalt>
+			<id>C-SOWI-3-4</id>
+			<title>Ökonomie: Markt und Geld – Grundlagen der Volkswirtschaftslehre</title>
+			<content>In diesem Themenfeld lernen die Schülerinnen und Schüler den Markt, an dem unterschiedliche Interessen und Bedürfnisse aufeinandertreffen, in seiner zentralen Bedeutung kennen, erkennen den Einkauf als wirtschaftliches Handeln und begreifen ihre Verantwortung als Vertragspartnerinnen und -partner beim Kauf und als Teilnehmende am Marktgeschehen. Die Verflechtungen der verschiedenen Akteure im Marktgeschehen werden dabei mithilfe des Wirtschaftskreislaufs analysiert. In diesem Zusammenhang lernen die Schülerinnen und Schüler die Rolle und Funktion des Geldes kennen und können mittels einer Simulation ihre Kenntnisse praktisch durch begründete Entscheidungen anwenden.</content>
+		<inhalt>
+		<id>C-SOWI-3-4-1</id>
+		<title>Inhalte: Markt und Marktmechanismus</title>	
+			<inhalt>
+			<id>C-SOWI-3-4-1-1</id>
+			<title>Mögliche Konkretisierungen und Methoden</title>
+			<content>­	die Wirkungsweise des Marktes als Treffpunkt von Angebot und Nachfrage</content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+		<id>C-SOWI-3-4-2</id>
+		<title>Inhalte: Wirtschaftskreislauf</title>	
+			<inhalt>
+			<id>C-SOWI-3-4-2-1</id>
+			<title>Mögliche Konkretisierungen und Methoden</title>
+			<content>­	Preisbildung im Modell Preis-Mengen-Diagramm</content>
+			<content>­	Marktformen und Wettbewerb</content>
+			<content>­	Haushalte und Betriebe im einfachen Wirtschaftskreislauf</content>
+			<content>­	unbegrenzte Bedürfnisse – knappe Güter</content>
+			<content>­	wirtschaftliches Handeln und rationale Kaufentscheidungen</content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+		<id>C-SOWI-3-4-3</id>
+			<title>Inhalte: Geld/Zahlungsverkehr</title>	
+			<inhalt>
+			<id>C-SOWI-3-4-3-1</id>
+			<title>Mögliche Konkretisierungen und Methoden</title>
+			<content>­	Rolle und Funktion von Geld</content>
+			<content>­	Banken als Motor der Wirtschaft</content>
+			<content>­	Bankenspiel/Börsenspiel </content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+		<id>C-SOWI-3-4-4</id>
+			<title>Inhalte: Inhaltsübergreifende Anregungen</title>	
+			<inhalt>
+			<id>C-SOWI-3-4-4-1</id>
+			<title>Mögliche Konkretisierungen und Methoden</title>
+			<content>­	Analyse und Anfertigung von Diagrammen, Verlaufskurven</content>
+			<content>­	Einsatz des CAS-Rechners</content>
+			</inhalt>
+		</inhalt>
+	</themainhalt>
+	<themainhalt>	
+		<id>C-SOWI-3-5</id>
+		<title>Ökonomie: Jugendliche im Spannungsfeld eigener Möglichkeiten und wirtschaftlicher Interessen</title>
+		<content>In diesem Themenfeld werden die Schülerinnen und Schüler zu sicherem, selbstständigem, verantwortlichem wirtschaftlichen Handeln im Alltag angeregt. Ausgehend von Modellen der Rangordnung zu befriedigender Bedürfnisse, können sie den Einsatz verfügbarer finanzieller Mittel entsprechend kritisch abwägen. Am Beispiel von Produktlebenszyklen können die Schülerinnen und Schüler ihr Verhalten als Verbraucherinnen und Verbraucher analysieren und Konsumentscheidungen, auch im Sinne eines nachhaltigen und ressourcenschonenden Verhaltens, bewusster treffen.
+Das Themenfeld weist besondere Bezüge zu den übergreifenden Themen Verbraucherbildung und Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen auf.
+		</content>
+		<inhalt>
+		<id>C-SOWI-3-5-1</id>
+		<title>Inhalte: Kinder und Jugendliche als Wirtschaftsfaktor</title>	
+			<inhalt>
+			<id>C-SOWI-3-5-1-1</id>
+			<title>Mögliche Konkretisierungen und Methoden</title>
+			<content>­	Jugendliche als Verbraucherinnen und Verbraucher von heute und morgen</content>
+			<content>­	Einflüsse auf familiäre Kaufentscheidungen, Einflüsse auf Kaufentscheidungen durch Peergroups und Werbung</content>
+			<content>­	Werbung und Werbestrategien als Grundlagen des Wirtschaftens</content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+		<id>C-SOWI-3-5-2</id>
+		<title>Inhalte: Nachhaltiger Konsum</title>	
+			<inhalt>
+			<id>C-SOWI-3-5-2-1</id>
+			<title>Mögliche Konkretisierungen und Methoden</title>
+			<content>­	optimale Ressourcenallokation</content>
+			<content>­	Produktion, Einkommen und Konsum</content>
+			<content>­	Produktlebenszyklen und Obsoleszenz</content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+		<id>C-SOWI-3-5-3</id>
+		<title>Inhalte: Konsum und Recht</title>	
+			<inhalt>
+			<id>C-SOWI-3-5-3-1</id>
+			<title>Mögliche Konkretisierungen und Methoden</title>
+			<content>­	Taschengeld</content>
+			<content>­	Erstellen eines Haushaltsplanes versus Schuldenfalle</content>
+			<content>­	Verbraucherrechte (z. B. Datenschutz im Internet, Urheberrecht, Abo-Fallen, Handy-Verträge)</content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+		<id>C-SOWI-3-5-4</id>
+		<title>Inhalte: Inhaltsübergreifende Anregungen</title>	
+			<inhalt>
+			<id>C-SOWI-3-5-4-1</id>
+			<title>Mögliche Konkretisierungen und Methoden</title>
+			<content>­	Analyse und Anfertigung von Diagrammen, Verlaufskurven z. B. hinsichtlich des Konsums versus Taschengeld</content>
+			<content>­	Einsatz des CAS-Rechners</content>
+			</inhalt>
+		</inhalt>
+	</themainhalt>
+	<themainhalt>	
+		<id>C-SOWI-3-6</id>
+		<title>Recht: Gesetze gelten auch für Jugendliche</title>	
+			<content>In diesem Themenfeld setzen sich die Schülerinnen und Schüler mit der Notwendigkeit rechtlicher Regelungen und deren Bindung an grundlegende Werte auseinander. Mithilfe der Kenntnis von Rechtsnormen, der Strukturen des Rechtssystems und des positiven Rechts sowie der Beschäftigung mit exemplarischen Problemstellungen einzelner Rechtsgebiete können die Schülerinnen und Schüler die Komplexität rechtlicher Sachverhalte und Strukturen erschließen. Dabei lernen sie, Rechtsnormen auf aktuelle Lebenssituationen anzuwenden und die Rechtslage im Kontext zu beurteilen.
+Das Themenfeld weist besondere Bezüge zu dem übergreifenden Thema Demokratiebildung auf.</content>
+		<inhalt>
+		<id>C-SOWI-3-6-1</id>
+		<title>Inhalte: Recht und Rechtsordnung</title>	
+			<inhalt>	
+			<id>C-SOWI-3-6-1-1</id>
+			<title>Mögliche Konkretisierungen und Methoden</title>
+			<content>­	Recht, Sitte und Moral</content>
+			<content>­	Funktionen des Rechts</content>
+			<content>­	Öffentliches Recht und Privatrecht</content>
+			<content>­	Rechtsgebiete</content>
+			<content>­	Personen der Rechtspflege</content>
+			<content>­	Rechtsbeziehungen in der Familie</content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+		<id>C-SOWI-3-6-2</id>
+		<title>Inhalte: Rechtsprechung</title>	
+			<inhalt>
+			<id>C-SOWI-3-6-2-1</id>
+			<title>Mögliche Konkretisierungen und Methoden</title>
+			<content>­	Gerichtsbarkeiten und Gerichtsverfahren</content>
+			<content>­	ordentliche und besondere Gerichtsbarkeit</content>
+			<content>­	Zivilprozess/Strafprozess: Verfahrensgrundsätze und Ablauf</content>
+			<content>­	Rechtsnormen-Subsumtion</content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+		<id>C-SOWI-3-6-3</id>
+		<title>Inhalte: Jugend und Recht</title>	
+			<inhalt>
+			<id>C-SOWI-3-6-3-1</id>
+			<title>Mögliche Konkretisierungen und Methoden</title>
+			<content>­	Jugendschutzgesetze</content>
+			<content>­	Tauschbörse Schulhof</content>
+			<content>­	Raubkopien und Urheberrecht</content>
+			<content>­	Urheberrecht im Netz, individuelle Urheberschaft</content>
+			</inhalt>
+		</inhalt>
+		<inhalt>
+		<id>C-SOWI-3-6-4</id>
+			<title>Inhalte: Inhaltsübergreifende Anregungen</title>	
+			<inhalt>
+			<id>C-SOWI-3-6-4-1</id>
+			<title>Mögliche Konkretisierungen und Methoden</title>
+			<content>­	Besuch, z. B. einer Gerichtsverhandlung, einer Jugend-arrestanstalt oder Justizvollzugsanstalt</content>
+			</inhalt>
+		</inhalt>
+		</themainhalt>
+		</c3></fach>
