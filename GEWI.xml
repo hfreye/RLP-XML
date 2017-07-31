@@ -775,8 +775,9 @@ Der Unterricht im Fach Gesellschaftswissenschaften 5/6 beginnt in der Jahrgangss
 		</area>		
 		</c2>
 		<c3>
+			<id>C-GEWI-3</id>
 			<title>Themen und Inhalte</title>
-		<vortext>Die Themenfelder, Themen und Inhalte gelten für die Doppeljahrgangsstufe 5/6 und können auf verschiedenen Niveaustufen bearbeitet werden. Sie werden abhängig von der Entwicklung und den Kompetenzen der Lernenden im Unterricht erarbeitet und vertieft. 
+			<vortext>Die Themenfelder, Themen und Inhalte gelten für die Doppeljahrgangsstufe 5/6 und können auf verschiedenen Niveaustufen bearbeitet werden. Sie werden abhängig von der Entwicklung und den Kompetenzen der Lernenden im Unterricht erarbeitet und vertieft. 
 Die ausgewiesenen Themenfelder werden für Schülerinnen und Schüler, die wegen einer erheblichen und langandauernden Beeinträchtigung ihres Lern- und Leistungsverhaltens sonderpädagogische Förderung erhalten oder für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen  festgestellt wurde, schülerbezogen berücksichtigt. Sie werden entsprechend der Lebensbedeutsamkeit für die Schülerinnen und Schüler ausgewählt.
 Die Auswahl und der Aufbau der Themenfelder und Themen setzen die Ziele des integrativen Faches um. In Verknüpfungen zum vorausgegangenen Sachunterricht werden thematische Schwerpunkte aufgegriffen, die hier erweitert sowie durch neue Themen ergänzt werden. Zugleich werden mit Blick auf die sich anschließenden Fächer (Geografie, Geschichte und Politische Bildung) wichtige inhaltliche Grundlagen gelegt. Insgesamt bieten sich dadurch über die Jahrgangsstufen 1 bis 10 Chancen zu spiralcurricularem Arbeiten. 
 Leitend für die Konzeption der Themenfelder und Themen ist vor allem die Frage nach einer Bedeutsamkeit für die Gegenwart und Zukunft der Lernenden.
@@ -913,7 +914,7 @@ Wahlobligatorische Themenfelder (Mindestens eines ist pro Schuljahr auszuwählen
 				<inhalt>
 				<id>C-GEWI-3-1-4</id>
 				<title>Themen</title>
-				<content>Verbraucher-schutz</content>
+				<content>Verbraucherschutz</content>
 				<inhalt>
 					<id>C-GEWI-3-1-4-1</id>
 					<title>Inhalte</title>
@@ -1239,7 +1240,7 @@ Wahlobligatorische Themenfelder (Mindestens eines ist pro Schuljahr auszuwählen
 			<inhalt>
 				<id>C-GEWI-3-6-2</id>
 				<title>Themen</title>
-				<content>Demokratie und Mitbestimmung frü-her und heute</content>
+				<content>Demokratie und Mitbestimmung früher und heute</content>
 				<inhalt>
 					<id>C-GEWI-3-6-2-1</id>
 					<title>Inhalte</title>
@@ -1397,7 +1398,7 @@ Wahlobligatorische Themenfelder (Mindestens eines ist pro Schuljahr auszuwählen
 		</themainhalt>
 		<themainhalt>
 			<id>C-GEWI-3-9</id>
-			<title>3.9	Medien – immer ein Gewinn?</title>
+			<title>Medien – immer ein Gewinn?</title>
 			<content>
 			Jede Erfindung und Nutzung neuer Medien hat, von der Erfindung der Schrift angefangen, in der Menschheitsgeschichte deutliche Veränderungen auf vielen Ebenen bewirkt (z. B. in Gesellschaft, Kultur, Politik und Wirtschaft). Den Entwicklungsschritten und ihren Wirkungen wie auch den Veränderungen, die im Leben der Menschen jeweils zu beobachten waren und sind, wird mit diesem Themenfeld nachgegangen. Deutlich wird dabei in Vergangenheit und Gegenwart, dass Vorteile und Chancen wie auch Nachteile und Gefahren dazugehören, die kritisch einzuschätzen und abzuwägen sind. Der Umgang mit den modernen und sich ständig weiter verändernden Medien wird hier auch aus der Perspektive der Lernenden betrachtet, erprobt und ausgewertet.
 			Von den übergreifenden Themen finden Verbraucherbildung, Gewaltprävention, Kulturelle Bildung, Demokratiebildung sowie Gesundheitsförderung Beachtung.
@@ -1478,7 +1479,7 @@ Wahlobligatorische Themenfelder (Mindestens eines ist pro Schuljahr auszuwählen
 			<title>Vielfalt in der Gesellschaft – Herausforderung und/oder Chance?</title>
 			<content>
 			Ausgehend von der Heterogenität der Lerngruppe ermöglicht das Themenfeld die Auseinan-dersetzung mit der Heterogenität von Gesellschaft bzw. Gesellschaften in Vergangenheit und Gegenwart.
-			Von der Identifikation mit unterschiedlichen Gruppen über den Umgang mit Verschiedenheit und Vielfalt bieten die Themen Möglichkeiten, um sich mit sozialer Ungleichheit, Vorurteilen, Diskriminierung und Toleranz zu befassen. Dabei können für die jeweiligen Beispiele die Me-chanismen untersucht und infrage gestellt werden, die zu Definitionen von Anderssein bzw. Zugehörigkeit führen.
+			Von der Identifikation mit unterschiedlichen Gruppen über den Umgang mit Verschiedenheit und Vielfalt bieten die Themen Möglichkeiten, um sich mit sozialer Ungleichheit, Vorurteilen, Diskriminierung und Toleranz zu befassen. Dabei können für die jeweiligen Beispiele die Mechanismen untersucht und infrage gestellt werden, die zu Definitionen von Anderssein bzw. Zugehörigkeit führen.
 			Geeignet sind Lerngegenstände und Methoden, die Schülerinnen und Schüler mit ihren eigenen Einstellungen und Erfahrungen konfrontieren und zum Reflektieren anregen, ohne sie zu überwältigen.
 			Die übergreifenden Themen Demokratiebildung, Gewaltprävention, Gleichstellung und Gleichberechtigung der Geschlechter (Gender Mainstreaming), Interkulturelle Bildung und Umgang mit Vielfalt (Diversity) sowie Sexualerziehung/Bildung für sexuelle Selbstbestimmung werden in diesem Themenfeld besonders berücksichtigt.
 			</content>
