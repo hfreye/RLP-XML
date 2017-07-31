@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fach xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns="http://bsbb.eu" 
+	xsi:schemaLocation="http://bsbb.eu fachtype.xsd">
+
+	<id>C-MU</id>
+	<title>Musik</title>
+	<c1>
+		<id>C-MU-1</id>
+		<title>Kompetenzentwicklung im Fach Musik</title>
+		<subtext>
+			<id>C-MU-1-1</id>
+			<title>Ziele des Unterrichts</title>
+			<content>Musik ist ein wesentlicher Bestandteil aller Kulturen. Überall, wo es Menschen gibt, gibt es Musik. Selbst Musik zu machen, Musik wahrzunehmen und sie zu genießen sind unverzichtbare Grundbedürfnisse. Diesen Bedürfnissen einen sicheren Ort zu geben, sie zu stärken und zu entwickeln, ist die übergeordnete Aufgabe des Musikunterrichts in der Schule.
+					Musik stellt eine wichtige Bereicherung der persönlichen Erfahrungswelt dar. Sie trägt in besonderem Maße dazu bei, die Sinne zu schärfen. Im Umgang mit Musik lässt sich die Ein-heit von Denken, Fühlen und Handeln erleben. Die Wechselwirkung von sinnlicher Wahrnehmung, praktischem Tun und gedanklicher Durchdringung ist daher ein wesentliches Merkmal des Unterrichts. Die Entwicklung von Sensibilität und Einfühlungsvermögen, von Fantasie und Kreativität, von ästhetischer Urteilsfähigkeit und kultureller Identität im Spannungsfeld zwischen fremder und eigener, zwischen überlieferter und gegenwärtiger Musikkultur gehört zu den zentralen Anliegen des Faches. Musikunterricht weckt die Freude und das Interesse an Musik. Er ermöglicht Kindern und Jugendlichen, an künstlerischen Prozessen mitzuwirken und sich musikalisch auszudrücken. Sie werden ermutigt, zu experimentieren, sich auszuprobieren und die eigene Stimme zu finden.
+					Der Musikunterricht knüpft an unterschiedliche Fähigkeiten, Begabungen und praktische Erfahrungen an. Er ermöglicht vielfältige Zugänge und spricht verschiedene Sinne an. Musik ist eine wirkungsvolle Form der Kommunikation, die nicht allein vom instrumentalen Können abhängt, sondern bereits mit elementaren Ausdrucks- und Gestaltungsmitteln gelingen kann. Daher bietet Musikunterricht allen Schülerinnen und Schülern die Chance, ausgehend von individuell verschiedenen Voraussetzungen gemeinsam Musik zu machen und zu erfahren. Beim Musikmachen können sie sich ohne Worte mitteilen, sich auf verschiedenen Wegen erfolgreich in die Gemeinschaft einbringen und durch das Gelingen des Ganzen Bestätigung erfahren. Damit trägt Musikunterricht zum sozialen Miteinander und kooperativen Lernen bei.
+					Im Unterschied zu anderen musikalischen Lernangeboten erreicht der Musikunterricht in der Schule alle Kinder und Jugendlichen und gibt ihnen die Möglichkeit, an Musikkultur selbstbestimmt und aktiv teilzunehmen. Er bietet Orientierung innerhalb der musikalischen Vielfalt, die sie in ihrem Leben zunehmend medial vermittelt erfahren. Der Musikunterricht ermöglicht die Aneignung von fachlichem Grundlagenwissen und eröffnet Erfahrungsräume, in denen sich Schülerinnen und Schüler mit Musiken aus unterschiedlichen kulturellen, geschichtli-chen, stilistischen und gesellschaftlichen Zusammenhängen auseinandersetzen. Europäische Kunstmusik verschiedener Epochen bis in die Gegenwart, populäre Musik unterschiedlicher Genres und Musiken der Welt werden gleichermaßen in den Unterricht einbezogen. Damit trägt der Musikunterricht zur Gestaltung der eigenen kulturellen Identität bei und zielt auf eine Haltung der Offenheit, des Respekts und der Wertschätzung kultureller Vielfalt.
+			</content>
+			
+			<content>Musikunterricht findet in musikalisch ansprechenden Lernumgebungen statt, in denen die Schülerinnen und Schüler auf ein vielfältiges Angebot an Musikinstrumenten und Medien zurückgreifen können. In Arbeits- und Übephasen nutzen sie nach Bedarf unterschiedliche Räume, um sich ganz auf das eigene musikalische Tun konzentrieren zu können.
+					Musikunterricht ist erfahrungsorientiert. Durch Ausprobieren, Erkunden, Erfinden, Gestalten, Organisieren, Fantasieren und Reflektieren erweitern die Schülerinnen und Schüler zunehmend ihre Handlungsmöglichkeiten. Den Schwerpunkt bilden intensive musikpraktische Erfahrungen: Die Kinder und Jugendlichen erarbeiten und gestalten gemeinsam Musik und bringen diese zur Aufführung. Dabei wird ihnen der Wert der Zusammenarbeit und des Übens bewusst.
+					Musikunterricht ist nicht auf Schule als Lernort beschränkt, sondern bietet weitere Gelegen-heiten, Musik zu erleben und zu entdecken, z. B. durch Konzertbesuche und Kooperationen mit außerschulischen Projektpartnern und Kulturträgern. Mit dem Angebot von Ensembles, mit Aufführungen und Konzerten leistet das Fach Musik einen wesentlichen Beitrag zur Gestaltung des Schul- und Gesellschaftslebens.
+			</content>
+		</subtext>
+		<subtext>
+			<id>C-MU-1-2</id>
+			<title>Fachbezogene Kompetenzen</title>
+			<content>Musikunterricht bietet vielfältige Gelegenheiten zum individuellen und gemeinsamen musikalischen Handeln, zur Aneignung und Anwendung musikbezogenen Wissens sowie zur gedanklichen Auseinandersetzung mit Musik auf der Grundlage eigener Erfahrungen. Die Fülle der dabei zum Einsatz kommenden Umgangsweisen mit Musik lässt sich in drei Kompetenzbereiche gliedern:
+
+					­	Musik wahrnehmen und deuten,
+					­	Musik gestalten und aufführen,
+					­	Musik reflektieren und kontextualisieren.
+					
+					Verknüpfung der Kompetenzbereiche
+					Bei der Entwicklung und Durchführung von Unterrichtsvorhaben werden die Kompetenzbereiche so miteinander verknüpft, dass sich Wahrnehmungs-, Gestaltungs- und Reflexionsprozesse in lebensnahen Lernsituationen ergänzen. Erst im Wechselspiel von musikalischer Wahrnehmung, musikpraktischer Erfahrung und gedanklicher Auseinandersetzung bildet sich umfassende musikalische und musikbezogene Kompetenz.
+					
+					Wahrnehmen und deuten
+					Der Kompetenzerwerb im Musikunterricht zielt auf die Entwicklung und Differenzierung musikalischer Wahrnehmungs- und Erlebnisfähigkeit.
+					Musik ist an Zeit gebunden und schafft erfüllte Augenblicke. Um sich auf Musik einlassen zu können, braucht es Zeit. Beim Hören erfahren die Schülerinnen und Schüler, dass Musik nicht wie andere Dinge greifbar ist und uns mit ihrer Wirkung dennoch unmittelbar berühren kann. Damit trägt der Musikunterricht zur Empathiefähigkeit und zur emotionalen Entwicklung bei.
+					Im Musikunterricht bilden die Schülerinnen und Schüler ihren Hörsinn aus. Beim Musikhören entwickeln sie ihre Zuwendungs- und Aufnahmebereitschaft. Sie erfahren Klang und Stille, Raum und Zeit, Harmonie und Dissonanz und erfassen Musik in ihrer Komplexität. Sie entdecken, dass letztlich alles Klingende als Musik wahrgenommen werden kann. Sie üben unterschiedliche Formen des Hörens mit dem Ziel, Musik aufmerksam, zunehmend konzentriert und ausdauernd wahrzunehmen. Sie achten auf klangliche Merkmale, Gestalt und Aus-druck, Struktur und Bedeutung von Musik. Sie trainieren ihr musikalisches Gedächtnis und entwickeln die Fähigkeit, Höreindrücke zu strukturieren. Dabei nutzen sie grafische und traditionelle Notation als Orientierungshilfe, um musikalische Abläufe besser mitverfolgen und durchschauen zu können. Die Fähigkeit, Musik differenziert wahrzunehmen, ist Grundlage und Voraussetzung dafür, Musik bewusst zu gestalten.
+					Die Schülerinnen und Schüler denken über eigene Wahrnehmungsprozesse nach. Um sich mit anderen darüber auszutauschen, verwenden sie Sprache, Notationsformen, Bewegungen und Bilder. Die Schülerinnen und Schüler können ihre musikalischen Wahrnehmungen zunehmend präzise benennen und mit zuvor gemachten ähnlichen Wahrnehmungen verknüpfen. Auf diese Weise erweitern sie ihr Hörrepertoire und gewinnen zunehmend Orientierung in der Welt der Musik.
+					
+					Gestalten und aufführen
+					Der Kompetenzerwerb im Musikunterricht zielt auf die Entwicklung und Differenzierung musikalischer Gestaltungs- und Ausdrucksfähigkeit.
+					Eigene musikalische Aktivitäten haben im Unterricht einen zentralen Stellenwert. Beim Singen und Spielen von Instrumenten, beim Experimentieren mit Tönen, Klängen und Geräuschen, beim Sichbewegen und Tanzen zur Musik spüren die Schülerinnen und Schüler ihre Selbstwirksamkeit. Sie erleben Freude über gelingende Aufführungen und entwickeln Durchhaltevermögen und Selbstdisziplin, um gemeinsam gesetzte musikalische Ziele zu erreichen. Musikmachen stärkt die seelische Ausgeglichenheit. Es schult sensorisch-motorische Fähigkeiten, unterstützt das soziale Miteinander, fördert die Verantwortung des Einzelnen und die Verständigung in der Gruppe. Im Ensemble findet jede Schülerin und jeder Schüler ausgehend von den individuellen Voraussetzungen eine eigene musikalische Aufgabe, die zum Gelingen des Ganzen beiträgt.
+					Die Kinder und Jugendlichen nutzen ihre Stimme auf vielfältige Weise. Sie erkunden und spielen unterschiedliche Instrumente, um eigene Gestaltungsabsichten zu verwirklichen. Sie entwickeln rhythmische und intonatorische Fähigkeiten sowie Melodie- und Harmonievorstellungen. Dabei kann der Umgang mit Notation dazu beitragen, das eigene Musizieren zu erleichtern.
+					Die Kinder und Jugendlichen setzen ihren Körper ein, um Musik Ausdruck zu verleihen. Sie lernen, Bewegungsfolgen und Tänze in der Gruppe zunehmend koordiniert auszuführen. In der Auseinandersetzung mit verschiedenen Tänzen erweitern sie ihr Bewegungsrepertoire und erfahren, dass sich mit der Musik verschiedener Zeiten und Kulturen ein bestimmtes Körpergefühl verbindet.
+					Das eigene Erfinden von Musik bietet in besonderer Weise Gelegenheit, sich mit dem Selbst-geschaffenen zu identifizieren. Es entstehen Spielräume für Assoziationen, für Fantasie und Spontanität. Der Musikunterricht regt kreative Prozesse an, indem er zu eigenen Gestaltungsversuchen ermuntert und entsprechende Hilfestellungen anbietet. Beim Improvisieren erleben die Schülerinnen und Schüler die Entstehung von Musik im Moment: Sie erproben musikalische Handlungsmuster und reagieren spontan auf Impulse der anderen. Beim Komponieren lernen sie, ihre musikalischen Ideen in verschiedenen Formen festzuhalten: in grafischer Notation, in verbalen Spielanweisungen oder konventioneller Notenschrift.
+					Die Schülerinnen und Schüler denken über eigene musikalische Vorhaben nach, tauschen sich über künstlerische Prozesse und deren Ergebnisse aus. Sie können die eigenen musikpraktischen Fähigkeiten realistisch einschätzen, sich selbst konkrete Entwicklungsschritte vornehmen und künstlerische Prozesse allein und in der Gruppe planvoll gestalten. Sie lernen, beim Proben Anregungen aufzugreifen und umzusetzen. Darüber hinaus sind sie zunehmend in der Lage, eigene Qualitätsansprüche zu formulieren und musikpraktische Arbeitsergebnisse mit erkennbarer Gestaltungsabsicht zu präsentieren.
+					
+					Reflektieren und kontextualisieren
+					Der Kompetenzerwerb im Musikunterricht zielt auf die Entwicklung und Differenzierung musikbezogener Reflexions- und Urteilsfähigkeit.
+					Die Schülerinnen und Schüler können sich über Musik mit eigenen Worten und zunehmend auch fachsprachlich verständigen. Ausgehend von der eigenen Herkunft setzen sie sich mit unterschiedlicher Musik in Vergangenheit und Gegenwart auseinander. Sie erfahren, dass Musik historische, kulturelle und gesellschaftliche Zusammenhänge sowie individuelle Sichtweisen auf das Leben spiegelt, die sich in Klangeigenschaften, musikalischen Strukturen oder vertonten Texten ausdrücken. Sie erforschen die Wechselbeziehungen zwischen Musik und anderen Künsten und stellen Verbindungen zu anderen Fächern her.
+					Indem die Schülerinnen und Schüler mit einem möglichst großen Ausschnitt aus dem historisch und global ausdifferenzierten Musikangebot vertraut werden, entwickeln sie eine grund-legende Haltung von Offenheit und Respekt gegenüber kultureller Vielfalt. Sie nutzen ihre Erfahrungen, um unterschiedliche Musik und deren Aufführung zunehmend begründeter zu beurteilen, und finden eigene ästhetische Standpunkte.
+					Die Schülerinnen und Schüler denken über ihren eigenen Umgang mit Musik und Medien, über ihren Musikgeschmack und die sie prägenden Einflüsse nach. Dabei erfahren sie, dass musikalische Vorlieben und Werturteile veränderbar sind, und reflektieren vor diesem Hintergrund ihre musikalische Identität.
+			</content>
+		</subtext>
+	</c1>
+	<c2>
+	<vorwort>
+		<id>C-MU-2-BE</id>
+		<title>Regelungen für das Land Berlin</title>
+		<content>Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler.
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungs­vorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+Für Grundschulen und Grundstufen der Gemeinschaftsschulen sowie an weiterführenden Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Schulanfangsphase 	Niveaustufen A, B, in Teilen C
+Jahrgangsstufen	3 – 4	Niveaustufe C, in Teilen D
+Jahrgangsstufe	5	Niveaustufen C – D 
+Jahrgangsstufe	6	Niveaustufe D, in Teilen E
+
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufe 		3	Niveaustufe B, in Teilen C
+Jahrgangsstufen		4 – 6	Niveaustufe C
+Jahrgangsstufen 	7 – 8	Niveaustufe D
+Jahrgangsstufen 	9 – 10	Niveaustufen D – E
+
+Zur Vorbereitung auf den der Berufsbildungsreife gleichwertigen Abschluss werden in den Jahrgangsstufen 9 und 10 auch Angebote auf dem Niveau F unterbreitet.
+Je nach dem Grad der Lernbeeinträchtigung erreichen die Schülerinnen und Schüler die gesetzten Standards nicht im vollen Umfang bzw. nicht zum vorgegebenen Zeitpunkt. Dem trägt eine individuelle Ausrichtung des Unterrichtsangebots Rechnung.
+Für die Integrierte Sekundarschule gilt:
+grundlegendes Niveau:
+Jahrgangsstufen	7 – 8	Niveaustufen D – E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufe F, in Teilen G
+erweitertes Niveau: 
+Jahrgangsstufen	7 – 8 	Niveaustufe E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufen F – G
+
+
+Für das Gymnasium gilt:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+
+Die folgende Darstellung veranschaulicht die im Berliner Schulsystem in den Jahrgangs-stufen 1 bis 10 möglichen Lerngeschwindigkeiten im Überblick und zeigt die Durchlässigkeit des Schulsystems. Sie bietet zudem eine Grundlage für eine systematische Schullaufbahnberatung. In der Darstellung ist auch erkennbar, welche Anforderungen Schülerinnen und Schüler erfüllen müssen, die die Voraussetzungen für den Erwerb der Berufsbildungsreife erst am Ende der Jahrgangsstufe 10 erreichen. Dieses Niveau können auch Schülerinnen und Schüler mit dem sonderpädagogischen Förderschwerpunkt Lernen erreichen, wenn sie den der Berufsbildungsreife gleichwerten Abschluss anstreben. 
+
+Der Unterricht im Fach Musik orientiert sich an Doppeljahrgangsstufen und stellt sicher, dass am Ende einer Doppeljahrgangsstufe die jeweils vorgegebenen Niveaustufen für beide Jahrgangsstufen erreicht werden. Im schulinternen Curriculum wird festgelegt, wie am Ende der Jahrgangsstufe 10 das entsprechende Abschluss- bzw. Übergangsniveau erreicht wird. 
+Das Wahlpflichtfach, auch wenn es fachübergreifend angelegt ist, orientiert sich an den fachbezogenen Standards. Die Anforderungen für die jeweiligen Jahrgangsstufen werden im schulinternen Curriculum festgelegt.
+		</content>
+	</vorwort>
+	<vorwort>
+		<id>C-MU-2-BB</id>
+		<title>Regelungen für das Land Brandeburg</title>
+		<content>Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler. 
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungs­vorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+Grundschule 
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang der Grundschule Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden können.
+Für Grundschulen und für Primarstufen von Ober- und Gesamtschulen sowie 
+für weiterführende allgemeinbildende Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Jahrgangsstufen	1 – 2	Niveaustufen A und B
+Jahrgangsstufen	3 – 4	Niveaustufe C
+Jahrgangsstufen	5 – 6	Niveaustufe D 
+
+Förderschwerpunkt Lernen
+Die folgende tabellarische Darstellung beschreibt, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang zum Erwerb des Abschlusses der Schule mit dem sonderpädagogischen Förderschwerpunkt Lernen Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden können.
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen 
+werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufen	1 – 2	Niveaustufen A und B 
+Jahrgangsstufe	3	Niveaustufe B
+Jahrgangsstufen	4 – 6	Niveaustufe C
+Jahrgangsstufen	7 – 8	Niveaustufe D
+Jahrgangsstufen	9 – 10	Niveaustufen D und E
+
+Schülerinnen und Schüler, für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen festgestellt worden ist und die dem Bildungsgang Förderschule Lernen gemäß § 30 BbgSchulG zugeordnet sind, erhalten im Unterricht Lernangebote, die ein Erreichen der Niveaustufen A, B, C, D und E ermöglichen sollen. Hierbei sind die individuellen Lernvoraussetzungen der Schülerinnen und Schüler zu berücksichtigen.
+In diesem Bildungsgang wird mit der Niveaustufe E das gemeinsame Bildungsziel am Ende der Jahrgangsstufe 10 abgebildet.
+Zur Vorbereitung auf den der Berufsbildungsreife entsprechenden Abschluss wird in den Jahrgangsstufen 9 und 10 schülerbezogen auch auf dem Niveau F unterrichtet.
+Schulen der Sekundarstufe I
+Ausgehend vom grundlegenden, erweiterten und vertieften Anspruchsniveau unterscheidet sich der Unterricht in der Sekundarstufe I in der Art der Erschließung, der Vertiefung und dem Grad der Komplexität der zugrunde gelegten Themen und Inhalte. Bei der inneren Organisation in Klassen und Kursen ist dies zu berücksichtigen.
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel in den verschiedenen Bildungsgängen der Sekundarstufe I Niveaustufen durchlaufen bzw. erreichen. Der Unterricht enthält immer auch Angebote auf der jeweils höheren Niveaustufe.
+Am Unterricht in Fächern ohne äußere Fachleistungsdifferenzierung nehmen Schülerinnen und Schüler mit unterschiedlichen Lernvoraussetzungen teil. Die dem Unterricht zugrunde gelegte Niveaustufe ist daher so zu wählen, dass sie für alle Lernenden eine optimale Förderung ermöglicht.
+
+a) Oberschule
+In der EBR-Klasse des kooperativen Modells und im A-Kurs des integrativen Modells wird im Unterricht eine grundlegende Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufen D und E
+Jahrgangsstufe	8 	Niveaustufen E und F
+Jahrgangsstufe	9	Niveaustufe F
+Jahrgangsstufe	10	Niveaustufen F und G
+
+In der FOR-Klasse des kooperativen Modells sowie im B-Kurs des integrativen Modells wird im Unterricht eine erweiterte Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8 	Niveaustufen E und F
+Jahrgangsstufe	9	Niveaustufen F und G
+Jahrgangsstufe	10	Niveaustufe G
+
+In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass sowohl eine grundlegende als auch eine erweiterte Bildung vermittelt wird. Hierbei sind die für die Oberschule dargestellten Niveaustufen zugrunde zu legen.
+
+b) Gesamtschule
+Im G-Kurs der Gesamtschule wird zur Sicherung der Durchlässigkeit zum E-Kurs neben der grundlegenden Bildung auch die erweiterte Bildung vermittelt. Im E-Kurs der Gesamtschule wird zur Sicherung der Durchlässigkeit zum G-Kurs neben der vertieften Bildung auch die erweiterte Bildung vermittelt.
+In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass eine grundlegende, erweiterte und vertiefte Bildung vermittelt wird. Hierbei sind die für die Oberschule und das Gymnasium dargestellten Niveaustufen zugrunde zu legen.
+
+c) Gymnasium
+In den Klassen des Gymnasiums wird im Unterricht eine vertiefte Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+		
+Der Unterricht im Fach Musik orientiert sich an Doppeljahrgangsstufen und stellt sicher, dass am Ende einer Doppeljahrgangsstufe die jeweils vorgegebenen Niveaustufen für beide Jahrgangsstufen erreicht werden. Im schulinternen Curriculum wird festgelegt, wie am Ende der Jahrgangsstufe 10 das entsprechende Abschluss- bzw. Übergangsniveau erreicht wird. 
+Das Wahlpflichtfach, auch wenn es fachübergreifend angelegt ist, orientiert sich an den fachbezogenen Standards. Die Anforderungen für die jeweiligen Jahrgangsstufen werden im schulinternen Curriculum festgelegt.
+			</content>
+		</vorwort>	
+			<area>
+			 <id>MU-K1</id>
+ 	  	 <name>Wahrnehmen und deuten</name>
+ 	  	 <competence>
+ 	  	  	 <id>MU-K1-1</id>
+ 	  	  	 <name>Aufmerksam und ausdauernd zuhören</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-1-AB</id>
+ 	  	  	  	 <level>AB</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-1-AB-1</id>
+ 	  	  	  	  	 <content>eine angenehme Position zum Zuhören finden und Musik offen begegnen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-1-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-1-C-1</id>
+ 	  	  	  	  	 <content>ihre Aufmerksamkeit ganz auf die Musik ausrichten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-1-D-1</id>
+ 	  	  	  	  	 <content>ein Konzert oder eine Musiktheateraufführung besuchen und sich darauf einlassen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-1-EF-1</id>
+ 	  	  	  	  	 <content>sich selbstgewählte Hörziele setzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-1-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-1-GH-1</id>
+ 	  	  	  	  	 <content>beim Hören unbekannter Musik nach individuellen Zugängen suchen und darüber sprechen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>MU-K1-2</id>
+ 	  	  	 <name>Klangliche Merkmale unterscheiden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-2-AB</id>
+ 	  	  	  	 <level>AB</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-2-AB-1</id>
+ 	  	  	  	  	 <content>elementare klangliche Gegensätze erkennen und Tonhöhen unterscheiden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-2-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-2-C-1</id>
+ 	  	  	  	  	 <content>ausgewählte Instrumente am Klang erkennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-2-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-2-D-1</id>
+ 	  	  	  	  	 <content>Ensembleformen anhand des Klangeindrucks unterscheiden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-2-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-2-EF-1</id>
+ 	  	  	  	  	 <content>Musikstile anhand des Klangeindrucks unterscheiden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-2-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-2-GH-1</id>
+ 	  	  	  	  	 <content>Musikausschnitte hinsichtlich klanglicher, stilistischer und satztechnischer Merkmale beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>MU-K1-3</id>
+ 	  	  	 <name>Strukturen erkennen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-3-AB</id>
+ 	  	  	  	 <level>AB</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-3-AB-1</id>
+ 	  	  	  	  	 <content>einfache Rhythmen und Melodien erfassen, Wiederholungen erkennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-3-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-3-C-1</id>
+ 	  	  	  	  	 <content>mehrteilige musikalische Formen mitverfolgen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-3-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-3-D-1</id>
+ 	  	  	  	  	 <content>musikalische Spannungsverläufe mitverfolgen und prägnante Klangereignisse lokalisieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-3-EF-1</id>
+ 	  	  	  	  	 <content>Variations- und Entwicklungsprinzipien nachvollziehen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-3-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-3-GH-1</id>
+ 	  	  	  	  	 <content>Formtypen hörend unterscheiden, Entwicklungsverläufe unter Einbeziehung von Notentexten beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>MU-K1-4</id>
+ 	  	  	 <name>Musik sprachlich deuten</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-4-AB</id>
+ 	  	  	  	 <level>AB</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-4-AB-1</id>
+ 	  	  	  	  	 <content>den Stimmungsgehalt von Musik beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-4-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-4-C-1</id>
+ 	  	  	  	  	 <content>die Wirkung von Musikstücken vergleichen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-4-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-4-D-1</id>
+ 	  	  	  	  	 <content>musikalische Bezugnahmen auf Außermusikalisches beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-4-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-4-EF-1</id>
+ 	  	  	  	  	 <content>Zusammenhänge zwischen Text und Musik in Liedern und Songs erläutern</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-4-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-4-GH-1</id>
+ 	  	  	  	  	 <content>Bedeutungsgehalte von Musik verschiedener Gattungen und Genres erörtern</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>MU-K1-5</id>
+ 	  	  	 <name>Musik künstlerisch deuten</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-5-AB</id>
+ 	  	  	  	 <level>AB</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-5-AB-1</id>
+ 	  	  	  	  	 <content>die Stimmung von Musik beim Malen oder in Bewegungen aufgreifen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-5-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-5-C-1</id>
+ 	  	  	  	  	 <content>durch Musik ausgelöste Assoziationen in Bildern oder Bewegungen ausdrücken</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-5-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-5-D-1</id>
+ 	  	  	  	  	 <content>ein musikalisches Geschehen in einer Geschichte nacherzählen oder szenisch interpretieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-5-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-5-EF-1</id>
+ 	  	  	  	  	 <content>Melodien unter Bezugnahme auf den Ausdrucksgehalt der Musik textieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K1-5-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K1-5-GH-1</id>
+ 	  	  	  	  	 <content>Musik in selbstgewählte künstlerische Ausdrucksformen übertragen und ihr Vorgehen kommentieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>MU-K2</id>
+ 	  	 <name>Gestalten und aufführen</name>
+ 	  	 <competence>
+ 	  	  	 <id>MU-K2-1</id>
+ 	  	  	 <name>Singen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-1-AB</id>
+ 	  	  	  	 <level>AB</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-1-AB-1</id>
+ 	  	  	  	  	 <content>ihre Stimme in Liedern, Sprechversen und Klanggeschichten einsetzen und einfache Melodien nachsingen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-1-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-1-C-1</id>
+ 	  	  	  	  	 <content>ausgewählte Lieder und Kanons melodisch und rhythmisch sicher singen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-1-D-1</id>
+ 	  	  	  	  	 <content>auf ein vielfältiges Repertoire an Liedern, Songs und Kanons zurückgreifen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-1-EF-1</id>
+ 	  	  	  	  	 <content>verschiedene Register, Klang- und Ausdrucksmöglichkeiten ihrer Stimme gezielt einsetzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-1-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-1-GH-1</id>
+ 	  	  	  	  	 <content>in mehrstimmigen Arrangements die eigene Stimme halten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>MU-K2-2</id>
+ 	  	  	 <name>Instrumente spielen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-2-AB</id>
+ 	  	  	  	 <level>AB</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-2-AB-1</id>
+ 	  	  	  	  	 <content>auf verschiedenen Instrumenten Klänge erzeugen und einfache Rhytmen spielen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-2-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-2-C-1</id>
+ 	  	  	  	  	 <content>im Ensemble einfache Melodien und Begleitmuster spielen und das Tempo halten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-2-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-2-D-1</id>
+ 	  	  	  	  	 <content>an verschiedenen Instrumenten sicher agieren und Spielanweisungen umsetzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-2-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-2-EF-1</id>
+ 	  	  	  	  	 <content>Rhythmen, Melodien und Begleitmuster selbstständig einüben und sich in Formabläufen zurechtfinden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-2-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-2-GH-1</id>
+ 	  	  	  	  	 <content>im Ensemble stilistisch vielfältig Musik machen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>MU-K2-3</id>
+ 	  	  	 <name>Musik erfinden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-3-AB</id>
+ 	  	  	  	 <level>AB</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-3-AB-1</id>
+ 	  	  	  	  	 <content>mit Tönen, Klängen und Geräuschen experimentieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-3-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-3-C-1</id>
+ 	  	  	  	  	 <content>kurze Klangverläufe improvisieren und dabei auf die Impulse Anderer reagieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-3-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-3-D-1</id>
+ 	  	  	  	  	 <content>kurze Klangverläufe erfinden und mit eigenen Zeichen festhalten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-3-EF-1</id>
+ 	  	  	  	  	 <content>Texte vertonen, eigene Melodien entwickeln und notieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-3-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-3-GH-1</id>
+ 	  	  	  	  	 <content>musikalische Abläufe innerhalb spezifischer Vorgaben erfinden und notieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>MU-K2-4</id>
+ 	  	  	 <name>Proben und präsentieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-4-AB</id>
+ 	  	  	  	 <level>AB</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-4-AB-1</id>
+ 	  	  	  	  	 <content>sich in gemeinsamen Musiziersituationen an vereinbarte Regeln halten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-4-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-4-C-1</id>
+ 	  	  	  	  	 <content>unter Anleitung musizieren, Vorschläge aufgreifen und umsetzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-4-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-4-D-1</id>
+ 	  	  	  	  	 <content>beim Proben und Präsentieren von Musik Aufgaben verlässlich übernehmen und verantwortungsvoll zum Gelingen beitragen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-4-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-4-EF-1</id>
+ 	  	  	  	  	 <content>Musikstücke den eigenen Fähigkeiten entsprechend anpassen, in Gruppen einstudieren und präsentieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-4-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-4-GH-1</id>
+ 	  	  	  	  	 <content>selbstgewählte Musikstücke mit erkennbarer Gestaltungsabsicht präsentieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>MU-K2-5</id>
+ 	  	  	 <name>Sich bewegen und tanzen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-5-AB</id>
+ 	  	  	  	 <level>AB</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-5-AB-1</id>
+ 	  	  	  	  	 <content>sich frei zur Musik bewegen und einfache Bewegungen imitieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-5-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-5-C-1</id>
+ 	  	  	  	  	 <content>Bewegungen erfinden, kombinieren und auf die Musik abstimmen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-5-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-5-D-1</id>
+ 	  	  	  	  	 <content>verschiedene Tänze in der Gruppe aufführen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-5-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-5-EF-1</id>
+ 	  	  	  	  	 <content>Bewegungsfolgen aus Videos oder anderen Vorlagen selbstständig einstudieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K2-5-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K2-5-GH-1</id>
+ 	  	  	  	  	 <content>beim Tanzen zu verschiedenen Musiken auf ein vielfältiges Bewegungsrepertoire zurückgreifen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>MU-K3</id>
+ 	  	 <name>Reflektieren und kontextualisieren</name>
+ 	  	 <competence>
+ 	  	  	 <id>MU-K3-1</id>
+ 	  	  	 <name>Fachkenntnisse anwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-1-AB</id>
+ 	  	  	  	 <level>AB</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-1-AB-1</id>
+ 	  	  	  	  	 <content>sich über Musik mit eigenen Worten verständigen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-1-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-1-C-1</id>
+ 	  	  	  	  	 <content>einfache musikalische Fachwörter verwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-1-D-1</id>
+ 	  	  	  	  	 <content>sich im Notensystem grundlegend orientieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-1-EF-1</id>
+ 	  	  	  	  	 <content>Musik untersuchen, Gestaltungsprinzipien erkennen und verschiedene Parameter berücksichtigen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-1-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-1-GH-1</id>
+ 	  	  	  	  	 <content>typische Satzweisen, Formen und Gattungen erkennen und benennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>MU-K3-2</id>
+ 	  	  	 <name>Kulturelle Bezüge herstellen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-2-AB</id>
+ 	  	  	  	 <level>AB</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-2-AB-1</id>
+ 	  	  	  	  	 <content>schildern, wo ihnen Musik begegnet und welche Personen beteiligt sind</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-2-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-2-C-1</id>
+ 	  	  	  	  	 <content>verschiedene Aufführungsorte nennen und die Art der dort erklingenden Musik beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-2-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-2-D-1</id>
+ 	  	  	  	  	 <content>Wirkungsweisen und Verwendungszusammenhänge ausgewählter Musiken in Vergangenheit und Gegenwart vergleichen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-2-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-2-EF-1</id>
+ 	  	  	  	  	 <content>Entstehungszusammenhänge ausgewählter Musikstücke verschiedener Zeiten und Kulturen erläutern</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-2-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-2-GH-1</id>
+ 	  	  	  	  	 <content>Musikstücke bekannten Epochen und kulturellen Kontexten zuordnen und typische Merkmale benennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>MU-K3-3</id>
+ 	  	  	 <name>Musik beurteilen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-3-AB</id>
+ 	  	  	  	 <level>AB</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-3-AB-1</id>
+ 	  	  	  	  	 <content>sich wertschätzend über musikalische Leistungen äußern</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-3-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-3-C-1</id>
+ 	  	  	  	  	 <content>begründen, was ihnen an einem Musikstück gefällt und was sie verändern würden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-3-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-3-D-1</id>
+ 	  	  	  	  	 <content>in musikalischen Erarbeitungsprozessen konstruktive Vorschläge machen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-3-EF-1</id>
+ 	  	  	  	  	 <content>Qualitätsansprüche für eigene musikalische Aufführungen formulieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-3-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-3-GH-1</id>
+ 	  	  	  	  	 <content>Musikstücke und Aufführungen nach vorgegebenen Kriterien einschätzen und Werturteile differenziert begründen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>MU-K3-4</id>
+ 	  	  	 <name>Medien bewusst einsetzen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-4-AB</id>
+ 	  	  	  	 <level>AB</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-4-AB-1</id>
+ 	  	  	  	  	 <content>Musik von Tonträgern abspielen und dabei eine situationsangemessene, gesundheitsbewusste Lautstärke wählen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-4-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-4-C-1</id>
+ 	  	  	  	  	 <content>für verschiedene Anlässe geeignete Musik aus dem Medienangebot auswählen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-4-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-4-D-1</id>
+ 	  	  	  	  	 <content>beim Herunter- und Hochladen von Musik und Videos die Grundlagen des Urheber- und Persönlichkeitsrechts berücksichtigen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-4-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-4-EF-1</id>
+ 	  	  	  	  	 <content>digitale Medien beim Aufnehmen, Bearbeiten bzw. Produzieren von Musik gezielt einsetzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-4-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-4-GH-1</id>
+ 	  	  	  	  	 <content>Möglichkeiten und Manipulationen medial vermittelter bzw. produzierter Musik kritisch reflektieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>MU-K3-5</id>
+ 	  	  	 <name>Musikalische Identität reflektieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-5-AB</id>
+ 	  	  	  	 <level>AB</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-5-AB-1</id>
+ 	  	  	  	  	 <content>beschreiben, in welchen Lebenssituationen Musik für sie eine Rolle spielt</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-5-C</id>
+ 	  	  	  	 <level>C</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-5-C-1</id>
+ 	  	  	  	  	 <content>den Umgang mit Musik im Familien- und Freundeskreis untersuchen und Einflüsse auf die eigene Person beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-5-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-5-D-1</id>
+ 	  	  	  	  	 <content>die Entwicklung eigener musikalischer Vorlieben und Abneigungen nachvollziehen und erläutern</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-5-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-5-EF-1</id>
+ 	  	  	  	  	 <content>Musiken und musikalische Aktivitäten für die eigene Lebensgestaltung bewusst auswählen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>MU-K3-5-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>MU-K3-5-GH-1</id>
+ 	  	  	  	  	 <content>individuelle Interessen vertiefen, musikalische Lernanliegen formulieren und Strategien für deren Umsetzung entwickeln</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+		</c2>
+		<c3>
+			<id>C-MU-3</id>
+		<title>Themen und Inhalte</title>
+			<content>Die Themen und Inhalte des Musikunterrichts lassen sich in fünf Themenfeldern darstellen:
+					­	Grundlagen der Musik,
+					­	Form und Gestaltung,
+					­	Gattungen und Genres,
+					­	Wirkung und Funktion,
+					­	Musik im kulturellen Kontext.
+					Diese Themenfelder gelten für alle Jahrgangsstufen und kehren auf verschiedenen Niveaustufen wieder. Sie gliedern sich jeweils in drei verbindliche Themen, denen mögliche Inhalte zugeordnet sind. Ausgewiesen werden vor allem solche Inhalte, anhand derer die Kompetenzen und Standards im Fach Musik entwickelt werden können. Die ausgewählten Inhalte bilden die Grundlage für differenzierte Aufgabenstellungen und eine Materialauswahl, die eine Herausforderung für das gesamte Leistungsspektrum einer Lerngruppe darstellt. Sie können auf höherem Niveau später erneut aufgegriffen werden. Die Konkretisierung von Inhalten und deren Zuordnung zu Jahrgangsstufen ist Aufgabe des schulinternen Curriculums.
+					Die ausgewiesenen Themenfelder werden für Schülerinnen und Schüler, die wegen einer erheblichen und langandauernden Beeinträchtigung ihres Lern- und Leistungsverhaltens sonderpädagogische Förderung erhalten oder für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen  festgestellt wurde, schülerbezogen berücksichtigt. Sie werden entsprechend der Lebensbedeutsamkeit für die Schülerinnen und Schüler ausgewählt.
+					
+					Entwicklung von Unterrichtsvorhaben
+					Unterrichtsvorhaben werden so gestaltet, dass sie verschiedene Themenfelder, Themen und Inhalte miteinander verknüpfen. Sie stellen Bezüge zu anderen Fächern und zu übergreifenden Themen und Fragen her. Vielfältige Zugangsweisen und Handlungsformen innerhalb ei-nes Unterrichtsvorhabens ermöglichen es den Schülerinnen und Schülern, ihre Fähigkeiten in mehreren Kompetenzbereichen gleichzeitig weiterzuentwickeln. Die Unterrichtsvorhaben knüpfen nach Möglichkeit an die Lebensrealität der Schülerinnen und Schüler an, berücksichtigen unterschiedliche Lernausgangslagen und beziehen dabei die verschiedenen kulturellen Vorerfahrungen der Lernenden ein. Sie regen die Auseinandersetzung mit vielfältigen musikalischen Erscheinungsformen, Stilen, Genres, Epochen und Kulturen an. 
+					Die gleichberechtigte Teilhabe am gesellschaftlichen Leben, unabhängig von ethnischer und kultureller Herkunft, sozialem und wirtschaftlichem Status, Geschlecht und sexueller Orientierung, Alter und Behinderung sowie Religion und Weltanschauung, bildet sowohl die Basis für die Unterrichtspraxis als auch einen zentralen Inhalt im Sinne des inklusiven Lernens. 
+					Rückmeldungen sind ein notwendiger Bestandteil von Lernprozessen, damit die Schülerinnen und Schüler klare Vorstellungen vom eigenen Lernfortschritt und dem aktuellen Leis-tungsstand erhalten. Rückmeldungen zeigen darüber hinaus Entwicklungsmöglichkeiten auf und geben den Schülerinnen und Schülern Anregungen und Impulse, um Verantwortung für das eigene Lernen zu übernehmen. Lernerfolge im Fach Musik stellen sich oftmals nicht auf direktem Weg ein, sondern sind an Möglichkeiten des Suchens und Experimentierens sowie an Phasen des kontinuierlichen Übens gebunden. Erfolgversprechende Lernwege schließen deshalb das Risiko von Fehlern und das zeitweilige Misslingen von Experimenten und kreativen Lösungsansätzen ein.
+					Kontinuierliche Dokumentationsformen erleichtern es den Schülerinnen und Schülern, den eigenen Lernweg nachzuvollziehen und zu reflektieren. Dazu gehören Portfolios, Arbeits- und Lerntagebücher, in denen Beobachtungen, Zwischen- und Endergebnisse gesammelt und als Entwicklungsprozesse dokumentiert werden.
+					Für Schülerinnen und Schüler sind musikalische und musikbezogene Lernerfolge erkennbar 
+					­	an der Vielfalt ihrer musikalischen Wahrnehmungs- und Ausdrucksmöglichkeiten,
+					­	an der Sicherheit im Gebrauch der eigenen Stimme und im Umgang mit Instrumenten,
+					­	an der Klarheit eigener Vorstellungen in musikalischen Gestaltungsprozessen,
+					­	am Grad der Selbstständigkeit in musikalischen Erarbeitungsphasen,
+					­	an der Sicherheit im Umgang mit Fachwissen, Fachsprache und musikalischen Zeichen,
+					­	an der Vertrautheit mit den spezifischen Umgangs- und Arbeitsweisen des Faches.
+					Es ist ein wesentlicher Bestandteil des Musikunterrichts, Ergebnisse musikalischer Arbeitsphasen einem Publikum vorzustellen. Zur Berücksichtigung des Prozesscharakters musikalischen Lernens werden zu den verschiedenen Formen der Präsentation aber auch Arbeitsdokumentationen hinzugezogen. Die musikalische Leistungsdarstellung muss nicht zwingend eine Bewertung nach sich ziehen.
+					Für die Bewertung darf nur das vorausgesetzt werden, was im Unterricht zuvor gelernt werden konnte. Im Musikunterricht werden mündliche, schriftliche und musikpraktische Leistun-gen bewertet, deren anteilige Gewichtung die Fachkonferenz festlegt.
+					Musikpraktische Leistungen zeigen sich
+					­	in der Vielfalt vokaler, instrumentaler und gestalterischer Fähigkeiten,
+					­	im Einfallsreichtum und in der Experimentierfreude beim Erfinden von Musik,
+					­	in rhythmischer und intonatorischer Sicherheit und Genauigkeit,
+					­	in der sachgerechten Handhabung von Musikinstrumenten,
+					­	in der aktiven und beständigen Teilnahme an Übe- und Gestaltungsprozessen,
+					­	in der Teamfähigkeit während musikalischer Erarbeitungsprozesse,
+					­	im aufmerksamen und bewussten musikalischen Zusammenspiel,
+					­	in der Intensität des musikalischen Ausdrucks,
+					­	in der Differenziertheit musikalischer Präsentationen,
+					­	in der Fähigkeit zur Reflexion eigener Gestaltungen und Präsentationen.
+					Außerhalb der Schule erworbene musikalische Fähigkeiten können in die Bewertung eingehen, wenn sie den Unterricht bereichern. Um den Schülerinnen und Schülern zu ermöglichen, sich auf ungewohnte Herausforderungen einzulassen, Grenzen zu überschreiten und neue Wege zu erproben, gibt es im Musikunterricht immer wieder auch Freiräume, die ohne Bewertung bleiben.
+			</content>
+			<themainhalt>
+				<id>C-MU-3-1</id>
+				<title>Grundlagen der Musik</title>
+				<inhalt>
+					<id>C-MU-3-1-1</id>
+					<title>Verbindliche Themen</title>
+					<content>Klangmaterial und Wahrnehmung</content>
+					<inhalt>
+						<id>C-MU-3-1-1-1</id>
+						<title>Mögliche Inhalte</title>
+						<inhalt>
+							<id>C-MU-3-1-1-1-1</id>
+							<title>Jahrgangsstufen 1 – 4:</title>
+							<content>­	Experimente mit Tönen, Klängen und Geräuschen, Lärm und Stille</content>
+							<content>­	Wahrnehmungsübungen und Rhythmusspiele</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-1-1-1-2</id>
+							<title>Jahrgangsstufen 5 – 6:</title>
+							<content>­	Halb- und Ganztonschritt, Aufbau von Tonleitern</content>
+							<content>­	Übungen zur Klangfarbenunterscheidung</content>
+							<content>­	Musikhören und Gesundheit</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-1-1-1-3</id>
+							<title>Jahrgangsstufen 7 – 10:</title>
+							<content>­	akustische Grundlagen der Musik</content>
+							<content>­	Intervalle</content>
+							<content>­	Tonartenbestimmung</content>
+							<content>­	Dur- und Moll-Dreiklänge</content>
+							<content>­	Funktionen der einfachen Kadenz</content>
+						</inhalt>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-MU-3-1-2</id>
+					<title>Verbindliche Themen</title>
+					<content>Klangerzeugung und Instrumente</content>
+					<inhalt>
+						<id>C-MU-3-1-2-1</id>
+						<title>Mögliche Inhalte</title>
+						<inhalt>
+							<id>C-MU-3-1-2-1-1</id>
+							<title>Jahrgangsstufen 1 – 4:</title>
+							<content>­	Stimme und Körper als Klangerzeuger</content>
+							<content>­	verschiedene Klangerzeugungsprinzipien</content>
+							<content>­	Selbstbau einfacher Klangerzeuger</content>
+							<content>­	grundlegende Spielweisen von Instrumenten</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-1-2-1-2</id>
+							<title>Jahrgangsstufen 5 – 6:</title>
+							<content>­	Orchesterinstrumente, Instrumentengruppen</content>
+							<content>­	Band-Instrumente</content>
+							<content>­	Instrumente der Welt</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-1-2-1-3</id>
+							<title>Jahrgangsstufen 7 – 10:</title>
+							<content>­	verschiedene Ensembleformen</content>
+							<content>­	experimentelle Klangmöglichkeiten der Stimme</content>
+							<content>­	verschiedene Stimmregister und Stimmlagen</content>
+							<content>­	Computer als Aufnahme- und Bearbeitungswerkzeug</content>
+							<content>­	Tontechnik für Proben und Aufführungen</content>
+						</inhalt>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-MU-3-1-3</id>
+					<title>Verbindliche Themen</title>
+					<content>Notation</content>
+					<inhalt>
+						<id>C-MU-3-1-3-1</id>
+						<title>Mögliche Inhalte</title>
+						<inhalt>
+							<id>C-MU-3-1-3-1-1</id>
+							<title>Jahrgangsstufen 1 – 4:</title>
+							<content>­	Darstellung von Tönen, Klängen und Geräuschen mit einfachen grafischen Zeichen</content>
+							<content>­	Notenwerte, Pausenzeichen und Taktarten</content>
+							<content>­	Notation von Tonhöhen im Violinschlüssel</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-1-3-1-2</id>
+							<title>Jahrgangsstufen 5 – 6:</title>
+							<content>­	grafische Notation musikalischer Verläufe</content>
+							<content>­	Notation von Tonhöhen mit Vorzeichen</content>
+							<content>­	Vortragsangaben und Dynamikbezeichnungen</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-1-3-1-3</id>
+							<title>Jahrgangsstufen 7 – 10:</title>
+							<content>­	musikalische Grafik</content>
+							<content>­	Notation von Tonhöhen im Violin- und Bassschlüssel</content>
+							<content>­	Transposition von Melodien für die eigene Stimmlage</content>
+							<content>­	Darstellung musikalischer Parameter im Notentext</content>
+							<content>­	Aufbau von Partituren</content>
+						</inhalt>
+					</inhalt>
+				</inhalt>
+			</themainhalt>
+			<themainhalt>
+				<id>C-MU-3-2</id>
+				<title>Form und Gestaltung</title>
+				<inhalt>
+					<id>C-MU-3-2-1</id>
+					<title>Verbindliche Themen</title>
+					<content>Gestaltungsprinzipien</content>
+					<inhalt>
+						<id>C-MU-3-2-1-1</id>
+						<title>Mögliche Inhalte</title>
+						<inhalt>
+							<id>C-MU-3-2-1-1-1</id>
+							<title>Jahrgangsstufen 1 – 4:</title>
+							<content>­	Frage-Antwort-Spiele</content>
+							<content>­	Gestaltung kurzer Klangverläufe</content>
+							<content>­	Wiederholung und Kontrast als musikalische Prinzipien</content>
+							<content>­	rhythmische und melodische Variationsmöglichkeiten</content>
+							<content>­	musikalische Interaktions- und Improvisationsspiele</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU3-2-1-1-2</id>
+							<title>Jahrgangsstufen 5 – 6:</title>
+							<content>­	musikalische Gruppenimprovisation</content>
+							<content>­	Komponieren mit Rhythmusbausteinen</content>
+							<content>­	Solo und Tutti</content>
+							<content>­	experimentelle Gestaltungsmöglichkeiten</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-2-1-1-3</id>
+							<title>Jahrgangsstufen 7 – 10:</title>
+							<content>­	Motivverarbeitung, Motiventwicklung</content>
+							<content>­	Thema und Variationen</content>
+							<content>­	Rhythmusimprovisation, Melodieimprovisation</content>
+							<content>­	Komponieren mit Melodiebausteinen und Dreiklängen</content>
+							<content>­	Original und Bearbeitung, Coverversion, Remix</content>
+							<content>­	digitale Klangbearbeitung und -verfremdung</content>
+							<content>­	Liedkomposition, Songwriting</content>
+						</inhalt>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-MU-3-2-2</id>
+					<title>Verbindliche Themen</title>
+					<content>Satzweisen</content>
+					<inhalt>
+						<id>C-MU-3-2-2-1</id>
+						<title>Mögliche Inhalte</title>
+						<inhalt>
+							<id>C-MU-3-2-2-1-1</id>
+							<title>Jahrgangsstufen 1 – 4:</title>
+							<content>­	rhythmische Begleitungen zu Liedern und Instrumentalstücken</content>
+							<content>­	Ostinato und Bordun</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-2-2-1-2</id>
+							<title>Jahrgangsstufen 5 – 6:</title>
+							<content>­	Zweistimmigkeit</content>
+							<content>­	Imitation</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-2-2-1-3</id>
+							<title>Jahrgangsstufen 7 – 10:</title>
+							<content>­	Homophonie, Polyphonie</content>
+							<content>­	verschiedene Begleitmodelle</content>
+							<content>­	Anfertigen einfacher Arrangements</content>
+						</inhalt>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-MU-3-2-3</id>
+					<title>Verbindliche Themen</title>
+					<content>Formtypen</content>
+					<inhalt>
+						<id>C-MU-3-2-3-1</id>
+						<title>Mögliche Inhalte</title>
+						<inhalt>
+							<id>C-MU-3-2-3-1-1</id>
+							<title>Jahrgangsstufen 1 – 4:</title>
+							<content>­	einfache Liedform mit Strophe und Refrain</content>
+							<content>­	Vor-, Nach- und Zwischenspiel</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-2-3-1-2</id>
+							<title>Jahrgangsstufen 5 – 6:</title>
+							<content>­	ABA-Form, Rondo</content>
+							<content>­	Kanon</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-2-3-1-3</id>
+							<title>Jahrgangsstufen 7 – 10:</title>
+							<content>­	komplexe Songformen</content>
+							<content>­	Suite</content>
+							<content>­	Variationszyklus</content>
+							<content>­	Invention, Fuge</content>
+							<content>­	Sonatenhauptsatzform</content>
+						</inhalt>
+					</inhalt>
+				</inhalt>
+			</themainhalt>
+			<themainhalt>
+				<id>C-MU-3-3</id>
+				<title>Gattungen und Genres</title>
+				<inhalt>
+					<id>C-MU-3-3-1</id>
+					<title>Verbindliche Themen</title>
+					<content>Vokalmusik</content>
+					<inhalt>
+						<id>C-MU-3-3-1-1</id>
+						<title>Mögliche Inhalte</title>
+						<inhalt>
+							<id>C-MU-3-3-1-1-1</id>
+							<title>Jahrgangsstufen 1 – 4:</title>
+							<content>­	Lieder zu verschiedenen Anlässen, Jahreszeiten und Alltagsthemen</content>
+							<content>­	Lieder verschiedener Kulturen</content>
+							<content>­	rhythmische Sprechverse</content>
+							<content></content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-3-1-1-2</id>
+							<title>Jahrgangsstufen 5 – 6:</title>
+							<content>­	Lieder und Songs in verschiedenen Sprachen</content>
+							<content>­	einfache zweistimmige Chorsätze</content>
+							<content>­	Sprechstücke</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-3-1-1-3</id>
+							<title>Jahrgangsstufen 7 – 10:</title>
+							<content>­	Lieder und Songs verschiedener Stile und Genres</content>
+							<content>­	Volks- und Kunstlied, Rezitativ, Arie</content>
+							<content>­	Stile der Rock- und Popmusik</content>
+							<content>­	mehrstimmige Vokalsätze und -arrangements</content>
+						</inhalt>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-MU-3-3-2</id>
+					<title>Verbindliche Themen</title>
+					<content>Instrumentalmusik</content>
+					<inhalt>
+						<id>C-MU-3-3-2-1</id>
+						<title>Mögliche Inhalte</title>
+						<inhalt>
+							<id>C-MU-3-3-2-1-1</id>
+							<title>Jahrgangsstufen 1 – 4:</title>
+							<content>­	Liedbegleitungen und Spielsätze</content>
+							<content>­	Rhythmusstücke</content>
+							<content>­	ausgewählte Orchestermusik</content>
+							<content>­	ausgewählte Werke der Programmmusik</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-3-2-1-2</id>
+							<title>Jahrgangsstufen 5 – 6:</title>
+							<content>­	Orchestermusik</content>
+							<content>­	Kammermusik</content>
+							<content>­	längere Werke der Programmmusik</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-3-2-1-3</id>
+							<title>Jahrgangsstufen 7 – 10:</title>
+							<content>­	Concerto grosso, Solokonzert</content>
+							<content>­	Ouvertüre</content>
+							<content>­	Sinfonie, Sinfonische Dichtung</content>
+							<content>­	Merkmale und Stile des Jazz</content>
+						</inhalt>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-MU-3-3-3</id>
+					<title>Verbindliche Themen</title>
+					<content>Musiktheater</content>
+					<inhalt>
+						<id>C-MU-3-3-3-1</id>
+						<title>Mögliche Inhalte</title>
+						<inhalt>
+							<id>C-MU-3-2-3-1-1</id>
+							<title>Jahrgangsstufen 1 – 4:</title>
+							<content>­	Gestaltung von Klanggeschichten mit Geräuschen, Instrumenten und szenischem Spiel</content>
+							<content>­	Kindermusical, Kinderoper</content>
+							<content>­	Ausschnitte aus Musiktheaterstücken</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-3-3-1-2</id>
+							<title>Jahrgangsstufen 5 – 6:</title>
+							<content>­	ausgewählte Ballettmusiken</content>
+							<content>­	ausgewählte Opern</content>
+							<content>­	ausgewählte Musicals</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-3-3-1-3</id>
+							<title>Jahrgangsstufen 7 – 10:</title>
+							<content>­	Oper als Gattung</content>
+							<content>­	Musical als Gattung</content>
+							<content>­	experimentelles Musiktheater, Performance</content>
+						</inhalt>
+					</inhalt>
+				</inhalt>
+			</themainhalt>
+			<themainhalt>
+				<id>C-MU-3-4</id>
+				<title>Wirkung und Funktion</title>
+				<inhalt>
+					<id>C-MU-3-4-1</id>
+					<title>Verbindliche Themen</title>
+					<content>Ausdruck und Wirkung</content>
+					<inhalt>
+						<id>C-MU-3-4-1-1</id>
+						<title>Mögliche Inhalte</title>
+						<inhalt>
+							<id>C-MU-3-4-1-1-1</id>
+							<title>Jahrgangsstufen 1 – 4:</title>
+							<content>­	Musik als Anregung zum Gestalten von Bildern und Erfin-den von Geschichten</content>
+							<content>­	Musik als Träger verschiedener Stimmungen</content>
+							<content>­	Beschreibung musikalischer Wirkungen</content>
+							<content>­	Lautmalerei und Geräuschimitation</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-4-1-1-2</id>
+							<title>Jahrgangsstufen 5 – 6:</title>
+							<content>­	Zusammenhänge von Text und Musik in Liedern und Songs</content>
+							<content>­	Instrumentalmusik und außermusikalisches Programm</content>
+							<content>­	szenische Interpretation von Musik</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-4-1-1-3</id>
+							<title>Jahrgangsstufen 7 – 10:</title>
+							<content>­	musikalische Signale, Tonsymbolik, Tonmalerei</content>
+							<content>­	Wort-Ton-Verhältnis in Vokalstücken</content>
+							<content>­	Musik nach Bildern, Musik und bildende Kunst</content>
+						</inhalt>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-MU-3-4-2</id>
+					<title>Verbindliche Themen</title>
+					<content>Hörweisen und Musikgeschmack</content>
+					<inhalt>
+						<id>C-MU-3-4-2-1</id>
+						<title>Mögliche Inhalte</title>
+						<inhalt>
+							<id>C-MU-3-4-2-1-1</id>
+							<title>Jahrgangsstufen 1 – 4:</title>
+							<content>­	Formen des Musikhörens</content>
+							<content>­	Einfluss von Familie und Freunden</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-4-2-1-2</id>
+							<title>Jahrgangsstufen 5 – 6:</title>
+							<content>­	musikalische Vorlieben innerhalb der Lerngruppe</content>
+							<content>­	musikalische Idole und Vorbilder</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-4-2-1-3</id>
+							<title>Jahrgangsstufen 7 – 10:</title>
+							<content>­	kulturelles Umfeld und Medien als Einflussfaktoren</content>
+							<content>­	Kriterien eigener Musikauswahl</content>
+						</inhalt>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-MU-3-4-3</id>
+					<title>Verbindliche Themen</title>
+					<content>Funktionale Musik</content>
+					<inhalt>
+						<id>C-MU-3-4-3-1</id>
+						<title>Mögliche Inhalte</title>
+						<inhalt>
+							<id>C-MU-3-4-3-1-1</id>
+							<title>Jahrgangsstufen 1 – 4:</title>
+							<content>­	Geräusche und Signale der akustischen Umwelt</content>
+							<content>­	Musik bei Ritualen, Feiern und religiösen Festen</content>
+							<content>­	freie Bewegungen zur Musik, Bewegungsspiele</content>
+							<content>­	Gruppentänze</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-4-3-1-2</id>
+							<title>Jahrgangsstufen 5 – 6:</title>
+							<content>­	Hymnen</content>
+							<content>­	Musik in der Werbung</content>
+							<content>­	ausgewählte historische Tänze</content>
+							<content>­	Poptanz und Choreografie</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-4-3-1-3</id>
+							<title>Jahrgangsstufen 7 – 10:</title>
+							<content>­	Filmmusik, Videoclips</content>
+							<content>­	Musik als Industriezweig</content>
+							<content>­	Unterhaltungsmusik, Schlager</content>
+							<content>­	politische Musik</content>
+							<content>­	religiöse Musik</content>
+							<content>­	ausgewählte Gesellschaftstänze</content>
+						</inhalt>
+					</inhalt>
+				</inhalt>
+			</themainhalt>
+			<themainhalt>
+				<id>C-MU-3-5</id>
+				<title>Musik im kulturellen Kontext</title>
+				<inhalt>
+					<id>C-MU-3-5-1</id>
+					<title>Verbindliche Themen</title>
+					<content>Musik im Wandel der Zeit</content>
+					<inhalt>
+						<id>C-MU-3-5-1-1</id>
+						<title>Mögliche Inhalte</title>
+						<inhalt>
+							<id>C-MU-3-5-1-1-1</id>
+							<title>Jahrgangsstufen 1 – 4:</title>
+							<content>­	Musik früher und heute</content>
+							<content>­	Komponistinnen und Komponisten sowie Musikerinnen und Musiker aus Vergangenheit und Gegenwart</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-5-1-1-2</id>
+							<title>Jahrgangsstufen 5 – 6:</title>
+							<content>­	Musik zu verschiedenen Anlässen in Vergangenheit und Gegenwart</content>
+							<content>­	ausgewählte Epochen der Musikgeschichte</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-5-1-1-3</id>
+							<title>Jahrgangsstufen 7 – 10:</title>
+							<content>­	Epochenüberblick</content>
+							<content>­	Entwicklung ausgewählter Instrumente</content>
+							<content>­	Entwicklung ausgewählter Gattungen</content>
+							<content>­	Entwicklung ausgewählter Genres</content>
+						</inhalt>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-MU-3-5-2</id>
+					<title>Verbindliche Themen</title>
+					<content>Musik und Gesellschaft</content>
+					<inhalt>
+						<id>C-Thea-3-5-2-1</id>
+						<title>Mögliche Inhalte</title>
+						<inhalt>
+							<id>C-MU-3-5-2-1-1</id>
+							<title>Jahrgangsstufen 1 – 4:</title>
+							<content>­	Musizier- und Höranlässe</content>
+							<content>­	Rollen und Aufgaben bei der Entstehung und Aufführung von Musik</content>
+							<content>­	Aufführungs- und Hörorte</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-5-2-1-2</id>
+							<title>Jahrgangsstufen 5 – 6:</title>
+							<content>­	Konzert, Bandauftritt, Casting-Show und andere musikalische Veranstaltungsformen</content>
+							<content>­	Musik im Internet</content>
+							<content>­	Grundlagen des Urheber- und Persönlichkeitsrechts</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-5-2-1-3</id>
+							<title>Jahrgangsstufen 7 – 10:</title>
+							<content>­	aktuelle Musikberufe und Tätigkeitsfelder</content>
+							<content>­	Musikberufe und Geschlechterstereotype</content>
+							<content>­	Musikszenen, Jugendkulturen</content>
+							<content>­	Musik und Herrschaft, Musik als Protest</content>
+							<content>­	Musikkritik</content>
+						</inhalt>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-MU-3-5-3</id>
+					<title>Verbindliche Themen</title>
+					<content>Musiken der Welt</content>
+					<inhalt>
+						<id>C-MU-3-5-3-1</id>
+						<title>Mögliche Inhalte</title>
+						<inhalt>
+							<id>C-MU-3-5-3-1-1</id>
+							<title>Jahrgangsstufen 1 – 4:</title>
+							<content>­	Lieder ausgewählter Länder und Regionen</content>
+							<content>­	Tänze verschiedener Kulturen</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-5-3-1-2</id>
+							<title>Jahrgangsstufen 5 – 6:</title>
+							<content>­	Musiken ausgewählter Länder und Regionen</content>
+							<content>­	Musizier- und Höranlässe in verschiedenen Kulturen</content>
+							<content>­	Instrumente der Welt</content>
+						</inhalt>
+						<inhalt>
+							<id>C-MU-3-5-3-1-3</id>
+							<title>Jahrgangsstufen 7 – 10:</title>
+							<content>­	Musik und Globalisierung</content>
+							<content>­	Weltmusik, Ethno-Pop</content>
+							<content>­	Musiken der Welt im Überblick</content>
+						</inhalt>
+					</inhalt>
+				</inhalt>
+			</themainhalt>	
+			<themainhalt>
+					<id>C-MU-3-6</id>
+					<title>Wahlpflichtfach</title>
+					<content>Der Wahlpflichtunterricht stellt ein Angebot dar, das über den Regelunterricht hinausgeht und ihn thematisch erweitert. Er dient der Vertiefung von Fachinhalten und schafft die Möglichkeit, Fachliches und Überfachliches zu verbinden.
+							Im schulinternen Curriculum wird sichergestellt, dass thematische Dopplungen mit dem Regelunterricht und Vorgriffe auf Inhalte des Unterrichts in der gymnasialen Oberstufe vermieden werden.
+							Grundlage für den Unterricht im Wahlpflichtfach sind die fachlichen Kompetenzbereiche. Werden weitere Fächer hinzugezogen, gilt dies für die Kompetenzbereiche aller beteiligten Fächer.
+					</content>
+			</themainhalt>
+		</c3>
+	</fach>									

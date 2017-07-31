@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fach xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns="http://bsbb.eu" 
+	xsi:schemaLocation="http://bsbb.eu fachtype.xsd">
+	<id>C-Thea</id>
+	<title>Theater</title>
+	<c1>
+		<id>C-Thea-1</id>
+		<title>Kompetenzentwicklung im Fach Theater</title>
+		<subtext>
+			<id>C-Thea-1-1</id>
+			<title>Ziele des Unterrichts</title>
+			<content>Theaterspielen ist zugleich künstlerische wie auch soziale Praxis. Für das Schulfach Theater eröffnet dies die Chance, dass sich Kinder und Jugendliche spielerisch, forschend und gestaltend mit eigenen Haltungen, anderen Mitspielerinnen und Mitspielern, dem sozialen Umfeld wie auch mit Kunst, Musik, Literatur, Geschichte und anderem mehr auseinandersetzen können.
+					Ziel ist immer eine Präsentation vor Publikum, welches aus der Schulöffentlichkeit oder einem in den Sozialraum hinein erweiterten Publikum bestehen kann. Werkstattaufführungen sind ebenso denkbar wie größere Formen, wie sie insbesondere in Kooperation mit einem Theater realisiert werden können.
+					Aussage und Bedeutung einer Präsentation entstehen erst im Prozess der Erarbeitung. Somit kann auch bei der Wahl von fremden Themen und Stoffen an den Interessen und Anliegen der Beteiligten angeknüpft werden. So werden Begegnungen mit bisher unbekannten Lebenserfahrungen, fremden kulturellen Lebensformen und Haltungen ermöglicht und gleichzeitig Bezüge zur eigenen Lebenswelt und zum je individuellen Selbst der Schülerinnen und Schüler hergestellt.
+					In der Entscheidung für eine Ausgangsfrage, einen Stoff, ein Thema und für verwendete Materialien und Spielformen ist Theater auf das Zusammenspiel einer Gruppe angewiesen. Voraussetzung für das Gelingen ist es, dass Vorschläge und Lösungen ausgehandelt werden.
+					Künstlerische Verfahren wie Improvisation, Recherche, Interpretation oder Strukturierung von Material ermöglichen den Kindern und Jugendlichen eine an der Kunstform Theater orientierte Gestaltung.
+					Da Schülerinnen und Schüler umfassend beteiligt werden und sie die Ergebnisse ihrer Arbeit in der Regel einem Publikum präsentieren, geht es hier um etwas. Die Wahl der theatralen Präsentationsform wie szenisches Spiel, Theaterinstallation, künstlerische Intervention oder filmische Gestaltung entscheidet darüber, wie die Kinder und Jugendlichen miteinander und mit einem Publikum in Kommunikation treten.
+					In einem komplexen Erarbeitungsprozess erproben und erlernen sie nicht zuletzt Demokra-tiefähigkeit. Sie üben sich beispielsweise in einem genauen sprachlichen Ausdruck, befragen Haltungen, Handlungsmuster und gesellschaftliche Strukturen und erschließen sich im besten Fall neue Wege des Umgangs mit sich selbst, anderen Menschen und mit Situationen. Sie können lernen, Pluralität von Individuen und Gruppen zu respektieren. Das theatrale Handeln vermittelt zudem Toleranz gegenüber punktuellem Scheitern als Bestandteil eines Wissens um die grundsätzliche Gestaltbarkeit von Welt.
+			</content>
+		</subtext>
+		<subtext>
+			<id>C-Thea-1-2</id>
+			<title>Fachbezogene Kompetenzen</title>
+			<content>Im Zentrum des Faches Theater steht die theaterästhetische Handlungskompetenz der Schülerinnen und Schüler, die in den sich wechselseitig bedingenden Kompetenzbereichen Wahrnehmen, Gestalten, Reflektieren und Teilhaben entwickelt wird. Die Kompetenzbereiche werden sowohl im Hinblick auf theaterästhetisches Gestalten als auch auf sozialkompetentes Handeln beschrieben.</content>
+			<inhalt>
+				<id>C-Thea-1-2-1</id>
+				<title>Wahrnehmen</title>
+				<content>- theaterästhetisches Gestalten</content>
+				<content>- sozialkompetentes Handeln</content>
+			</inhalt>
+			<inhalt>			 
+				<id>C-Thea-1-2-2</id>		
+				<title>Gestalten</title>	- 
+				<content>- theaterästhetisches Gestalten</content>		
+				<content>- sozialkompetentes Handeln</content>		
+			</inhalt>			
+			<inhalt>			 
+				<id>C-Thea-1-2-3</id>		
+				<title>Reflektieren</title>	- 
+				<content>- theaterästhetisches Gestalten</content>		
+				<content>- sozialkompetentes Handeln</content>		
+			</inhalt>
+			<inhalt>			 
+				<id>C-Thea-1-2-4</id>		
+				<title>Teilhaben</title> 
+				<content>- theaterästhetisches Gestalten</content>		
+				<content>- sozialkompetentes Handeln</content>		
+			</inhalt>
+		</subtext>
+	</c1>
+	<c2>
+		<vorwort>
+		<id>C-Thea-2-BE</id>
+		<title>Regelungen für das Land Berlin</title>
+		<content>Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler.
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungsvorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+Für Grundschulen und Grundstufen der Gemeinschaftsschulen sowie an 
+weiterführenden Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Schulanfangsphase 	Niveaustufen A, B, in Teilen C
+Jahrgangsstufen	3 – 4	Niveaustufe C, in Teilen D
+Jahrgangsstufe	5	Niveaustufen C – D 
+Jahrgangsstufe	6	Niveaustufe D, in Teilen E
+
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen 
+werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufe 		3	Niveaustufe B, in Teilen C
+Jahrgangsstufen		4 – 6	Niveaustufe C
+Jahrgangsstufen 	7 – 8	Niveaustufe D
+Jahrgangsstufen 	9 – 10	Niveaustufen D – E
+
+Zur Vorbereitung auf den der Berufsbildungsreife gleichwertigen Abschluss werden in den Jahrgangsstufen 9 und 10 auch Angebote auf dem Niveau F unterbreitet.
+Je nach dem Grad der Lernbeeinträchtigung erreichen die Schülerinnen und Schüler die gesetzten Standards nicht im vollen Umfang bzw. nicht zum vorgegebenen Zeitpunkt. Dem trägt eine individuelle Ausrichtung des Unterrichtsangebots Rechnung.
+Für die Integrierte Sekundarschule gilt:
+grundlegendes Niveau:
+Jahrgangsstufen	7 – 8	Niveaustufen D – E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufe F, in Teilen G
+erweitertes Niveau: 
+Jahrgangsstufen	7 – 8 	Niveaustufe E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufen F – G
+
+
+Für das Gymnasium gilt:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+
+Die folgende Darstellung veranschaulicht die im Berliner Schulsystem in den Jahrgangs-stufen 1 bis 10 möglichen Lerngeschwindigkeiten im Überblick und zeigt die Durchlässigkeit des Schulsystems. Sie bietet zudem eine Grundlage für eine systematische Schullaufbahnberatung. In der Darstellung ist auch erkennbar, welche Anforderungen Schülerinnen und Schüler erfüllen müssen, die die Voraussetzungen für den Erwerb der Berufsbildungsreife erst am Ende der Jahrgangsstufe 10 erreichen. Dieses Niveau können auch Schülerinnen und Schüler mit dem sonderpädagogischen Förderschwerpunkt Lernen erreichen, wenn sie den der Berufsbildungsreife gleichwerten Abschluss anstreben. 
+
+Der Unterricht im Wahlpflichtfach Theater beginnt in den Jahrgangsstufen 7 bis 10. Es werden Standards auf den Niveaustufen D bis H ausgewiesen. Im Unterricht nutzen die Schülerinnen und Schüler ihre bereits erworbenen Kompetenzen und vertiefen diese. Das Fach weist in spezifischer Weise Anknüpfungen an alle Fächer des Fächerkanons auf, besonders aber an die Fächer Kunst, Musik sowie Deutsch und Sport in den Jahrgangsstufen 5 und 6. Dies und die Projekt- und Handlungsorientiertheit dieses künstlerischen Faches ermöglichen und verlangen in besonderem Maße individualisierten Unterricht. Die Ausgestaltung der ersten Niveaustufe D berücksichtigt diese Rahmenbedingungen ebenso wie die besonders prozesshaft angelegten weiteren Niveaustufen E/F und G/H.
+Am Ende der Jahrgangsstufe 10 wird das entsprechende Übergangs- bzw. Abschlussniveau erreicht.
+</content>
+	</vorwort>				
+	<vorwort>
+		<id>C-DE-2-BB</id>
+		<title>Regelungen für das Land Brandeburg</title>
+		<content>
+Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler. 
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungs­vorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+Grundschule 
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang der Grundschule Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden können.
+Für Grundschulen und für Primarstufen von Ober- und Gesamtschulen sowie 
+für weiterführende allgemeinbildende Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Jahrgangsstufen	1 – 2	Niveaustufen A und B
+Jahrgangsstufen	3 – 4	Niveaustufe C
+Jahrgangsstufen	5 – 6	Niveaustufe D 
+
+Förderschwerpunkt Lernen
+Die folgende tabellarische Darstellung beschreibt, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang zum Erwerb des Abschlusses der Schule mit dem sonderpädagogischen Förderschwerpunkt Lernen Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden können.
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen 
+werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufen	1 – 2	Niveaustufen A und B 
+Jahrgangsstufe	3	Niveaustufe B
+Jahrgangsstufen	4 – 6	Niveaustufe C
+Jahrgangsstufen	7 – 8	Niveaustufe D
+Jahrgangsstufen	9 – 10	Niveaustufen D und E
+
+Schülerinnen und Schüler, für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen festgestellt worden ist und die dem Bildungsgang Förderschule Lernen gemäß § 30 BbgSchulG zugeordnet sind, erhalten im Unterricht Lernangebote, die ein Erreichen der Niveaustufen A, B, C, D und E ermöglichen sollen. Hierbei sind die individuellen Lernvoraussetzungen der Schülerinnen und Schüler zu berücksichtigen.
+In diesem Bildungsgang wird mit der Niveaustufe E das gemeinsame Bildungsziel am Ende der Jahrgangsstufe 10 abgebildet.
+Zur Vorbereitung auf den der Berufsbildungsreife entsprechenden Abschluss wird in den Jahrgangsstufen 9 und 10 schülerbezogen auch auf dem Niveau F unterrichtet.
+Schulen der Sekundarstufe I
+Ausgehend vom grundlegenden, erweiterten und vertieften Anspruchsniveau unterscheidet sich der Unterricht in der Sekundarstufe I in der Art der Erschließung, der Vertiefung und dem Grad der Komplexität der zugrunde gelegten Themen und Inhalte. Bei der inneren Organisation in Klassen und Kursen ist dies zu berücksichtigen.
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel in den verschiedenen Bildungsgängen der Sekundarstufe I Niveaustufen durchlaufen bzw. erreichen. Der Unterricht enthält immer auch Angebote auf der jeweils höheren Niveaustufe.
+Am Unterricht in Fächern ohne äußere Fachleistungsdifferenzierung nehmen Schülerinnen und Schüler mit unterschiedlichen Lernvoraussetzungen teil. Die dem Unterricht zugrunde gelegte Niveaustufe ist daher so zu wählen, dass sie für alle Lernenden eine optimale Förderung ermöglicht.
+
+a) Oberschule
+In der EBR-Klasse des kooperativen Modells und im A-Kurs des integrativen Modells wird im Unterricht eine grundlegende Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufen D und E
+Jahrgangsstufe	8 	Niveaustufen E und F
+Jahrgangsstufe	9	Niveaustufe F
+Jahrgangsstufe	10	Niveaustufen F und G
+
+In der FOR-Klasse des kooperativen Modells sowie im B-Kurs des integrativen Modells wird im Unterricht eine erweiterte Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8 	Niveaustufen E und F
+Jahrgangsstufe	9	Niveaustufen F und G
+Jahrgangsstufe	10	Niveaustufe G
+
+In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass sowohl eine grundlegende als auch eine erweiterte Bildung vermittelt wird. Hierbei sind die für die Oberschule dargestellten Niveaustufen zugrunde zu legen.
+
+b) Gesamtschule
+Im G-Kurs der Gesamtschule wird zur Sicherung der Durchlässigkeit zum E-Kurs neben der grundlegenden Bildung auch die erweiterte Bildung vermittelt. Im E-Kurs der Gesamtschule wird zur Sicherung der Durchlässigkeit zum G-Kurs neben der vertieften Bildung auch die erweiterte Bildung vermittelt.
+In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass eine grundlegende, erweiterte und vertiefte Bildung vermittelt wird. Hierbei sind die für die Oberschule und das Gymnasium dargestellten Niveaustufen zugrunde zu legen.
+
+c) Gymnasium
+In den Klassen des Gymnasiums wird im Unterricht eine vertiefte Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+
+Der Unterricht im Wahlpflichtfach Theater beginnt in den Jahrgangsstufen 7 bis 10. Es werden Standards auf den Niveaustufen D bis H ausgewiesen. Im Unterricht nutzen die Schülerinnen und Schüler ihre bereits erworbenen Kompetenzen und vertiefen diese. Das Fach weist in spezifischer Weise Anknüpfungen an alle Fächer des Fächerkanons auf, besonders aber an die Fächer Kunst, Musik sowie Deutsch und Sport in den Jahrgangsstufen 5 und 6. Dies und die Projekt- und Handlungsorientiertheit dieses künstlerischen Faches ermöglichen und verlangen in besonderem Maße individualisierten Unterricht. Die Ausgestaltung der ersten Niveaustufe D berücksichtigt diese Rahmenbedingungen ebenso wie die besonders prozesshaft angelegten weiteren Niveaustufen E/F und G/H.
+Am Ende der Jahrgangsstufe 10 wird das entsprechende Übergangs- bzw. Abschlussniveau erreicht.</content>
+	</vorwort>
+	<area>
+ 	<id>Thea-K1</id>
+ 	  	 <name>Wahrnehmen</name>
+ 	  	 <competence>
+ 	  	  	 <id>Thea-K1-1</id>
+ 	  	  	 <name>Den eigenen Körper als theatrales Medium einsetzen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K1-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-1-D-1</id>
+ 	  	  	  	  	 <content>grundlegende Bewegungsformen beachten und allein und in der Gruppe einsetzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-1-D-2</id>
+ 	  	  	  	  	 <content>einfache bewegungsrhythmische Gestaltungs- und Improvisationsaufgaben lösen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K1-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-1-EF-1</id>
+ 	  	  	  	  	 <content>mit möglicher Unterstützung Bewegung als Körpersprache für ihre Spiel- und Bühnenpräsenz nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-1-EF-2</id>
+ 	  	  	  	  	 <content>den Körper als Gestaltungsmaterial der Akteurinnen und Akteure wahrnehmen und nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K1-1-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-1-GH-1</id>
+ 	  	  	  	  	 <content>zunehmend selbstständig Bewegung und Körpersprache für Bühnenpräsenz, Situations- und Figurendarstellung nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-1-GH-2</id>
+ 	  	  	  	  	 <content>zunehmend selbstständiger den Körper als Gestaltungsmaterial ästhetisch erforschen und nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Thea-K1-2</id>
+ 	  	  	 <name>Stimme und Sprechen theatral nutzen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K1-2-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-2-D-1</id>
+ 	  	  	  	  	 <content>beim Erzählen, Kommunizieren und szenischen Spielen sprachliche, sprecherische sowie nichtsprachliche Mittel nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K1-2-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-2-EF-1</id>
+ 	  	  	  	  	 <content>grundlegende Körpertechniken für den Einsatz der Stimme erproben und nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-2-EF-2</id>
+ 	  	  	  	  	 <content>mit Unterstützung Stimme und Sprechen mit dem Körper verbinden und Formen verbalen und nonverbalen Gestaltens umsetzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K1-2-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-2-GH-1</id>
+ 	  	  	  	  	 <content>ihre stimmlichen Möglichkeiten zunehmend wirkungsbewusst anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-2-GH-2</id>
+ 	  	  	  	  	 <content>mit möglicher Unterstützung Texte auf der Bühne mit erweitertem Sprechrepertoire und Stimmausdruck gestalten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Thea-K1-3</id>
+ 	  	  	 <name>Grundlagen der Inszenierung und Dramaturgie erfassen und berücksichtigen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K1-3-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-3-D-1</id>
+ 	  	  	  	  	 <content>den ‚roten Faden‘ eines erzählenden oder dramatischen Textes erfassen, spielerisch-improvisierend wiedergeben und darstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K1-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-3-EF-1</id>
+ 	  	  	  	  	 <content>mit Unterstützung die Grundstruktur eines szenischen Textes oder einer theatralen Handlung erkennen und beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-3-EF-2</id>
+ 	  	  	  	  	 <content>mit Unterstützung grundlegende Rechercheformen, theatrale Gestaltungsmittel und Kompositionsmethoden für die Entwicklung einer Inszenierungsidee nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K1-3-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-3-GH-1</id>
+ 	  	  	  	  	 <content>mit möglicher Unterstützung Handlungsbögen szenisch realisieren und dramaturgische Anfangsideen für offene theatrale Formen entwerfen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-3-GH-2</id>
+ 	  	  	  	  	 <content>grundlegende theatrale Arbeits- und Gestaltungsmittel und -methoden zunehmend selbstständig wirkungserprobend für eine Inszenierungsidee anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Thea-K1-4</id>
+ 	  	  	 <name>Die Möglichkeiten von Raum und Bühnenformen beachten und anwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K1-4-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-4-D-1</id>
+ 	  	  	  	  	 <content>die Gestaltung eines Bühnenraums sowie seiner Elemente Bühne, Rampe und Zuschauerraum beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K1-4-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-4-EF-1</id>
+ 	  	  	  	  	 <content>mit Unterstützung unterschiedliche Bühnenformen benennen, beschreiben und für ihre Spielvorhaben wirkungserprobend anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-4-EF-2</id>
+ 	  	  	  	  	 <content>verschiedene Präsentationsorte an ihrem Schulstandort erprobend nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K1-4-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-4-GH-1</id>
+ 	  	  	  	  	 <content>die theatralen Möglichkeiten von Raum und Bühnenformen zunehmend wirkungsbewusst für eine Inszenierungsidee beachten</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-4-GH-2</id>
+ 	  	  	  	  	 <content>die Möglichkeiten verschiedener Präsentationsorte und Bühnenformen zunehmend wirkungsbewusst beurteilen und umsetzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Thea-K1-5</id>
+ 	  	  	 <name>Mediale Möglichkeiten im szenischen Gestalten verwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K1-5-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-5-D-1</id>
+ 	  	  	  	  	 <content>vielfältige Medien aus ihrer alltäglichen Erfahrungswelt nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K1-5-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-5-EF-1</id>
+ 	  	  	  	  	 <content>mit möglicher Unterstützung den funktionalen Einsatz von Präsentations- und Kommunikationsmedien für ein aktuelles Projekt planen und im Gestaltungsprozess erproben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K1-5-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K1-5-GH-1</id>
+ 	  	  	  	  	 <content>mediale Möglichkeiten im Planungs-, Arbeits- und Inszenierungsprozess zunehmend selbstständig und wirkungserprobend realisieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>Thea-K2</id>
+ 	  	 <name>Gestalten</name>
+ 	  	 <competence>
+ 	  	  	 <id>Thea-K2-1</id>
+ 	  	  	 <name>Ästhetische Gestaltungskategorien und theatrale Mittel erforschen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K2-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-1-D-1</id>
+ 	  	  	  	  	 <content>individuelle ästhetische Erfahrungen und Gestaltungsinteressen formulieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K2-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-1-EF-1</id>
+ 	  	  	  	  	 <content>mit Unterstützung grundlegende theaterästhetische Mittel, Techniken und Methoden wirkungserprobend einsetzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-1-EF-2</id>
+ 	  	  	  	  	 <content>die Wirkungsqualität theatraler Gestaltungsmittel beobachten und mit eigenen Worten beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K2-1-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-1-GH-1</id>
+ 	  	  	  	  	 <content>zunehmend selbstständig die Stimmigkeit gewählter theatraler Mittel und Methoden erfassen und beurteilen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-1-GH-2</id>
+ 	  	  	  	  	 <content>mit einem Überblick über die theatralen Mittel und Methoden zunehmend wirkungsbewusst gestalten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Thea-K2-2</id>
+ 	  	  	 <name>Formen und Möglichkeiten künstlerischen Arbeitens erproben</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K2-2-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-2-D-1</id>
+ 	  	  	  	  	 <content>mit möglicher Unterstützung szenisches Material zu einem Thema suchen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-2-D-2</id>
+ 	  	  	  	  	 <content>unter Anleitung zu einem Thema spielerisch improvisieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K2-2-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-2-EF-1</id>
+ 	  	  	  	  	 <content>unterstützt in einem Forschungs- und Findungsprozess Ideen und szenisches Material für ihr Theaterprojekt entwickeln</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-2-EF-2</id>
+ 	  	  	  	  	 <content>mit Unterstützung Improvisations- und Montageformen zur Ideenfindung und -entwicklung nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K2-2-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-2-GH-1</id>
+ 	  	  	  	  	 <content>mit zunehmender Eigenständigkeit komplexeres Gestaltungsmaterial für ihr Theaterprojekt entwickeln</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-2-GH-2</id>
+ 	  	  	  	  	 <content>mit Unterstützung die Technik der Improvisation sowie verschiedener Montageformen für die szenische Weiterentwicklung nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Thea-K2-3</id>
+ 	  	  	 <name>Projektorientiert arbeiten und planen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K2-3-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-3-D-1</id>
+ 	  	  	  	  	 <content>mit strukturierenden Hilfen zu einem Thema gemeinsam über einen konkreten Zeitraum arbeiten und die Ergebnisse in einem vorgegebenen Rahmen präsentieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K2-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-3-EF-1</id>
+ 	  	  	  	  	 <content>mit Unterstützung Projektthemen entwickeln und formulieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-3-EF-2</id>
+ 	  	  	  	  	 <content>Projekte mitplanen und durchführen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-3-EF-3</id>
+ 	  	  	  	  	 <content>mit strukturierenden Hilfen sich eigenes Gestaltungshandeln und eigene Bearbeitungswege erschließen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K2-3-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-3-GH-1</id>
+ 	  	  	  	  	 <content>Projektthemen zunehmend selbstständig entwickeln und formulieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-3-GH-2</id>
+ 	  	  	  	  	 <content>selbstständig Projektbereiche in Teams planen und umsetzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K2-3-GH-3</id>
+ 	  	  	  	  	 <content>zunehmend selbstständig ein Konzept für ihr Gestaltungshandeln und ihre Bearbeitungswege entwickeln und umsetzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>Thea-K3</id>
+ 	  	 <name>Reflektieren</name>
+ 	  	 <competence>
+ 	  	  	 <id>Thea-K3-1</id>
+ 	  	  	 <name>Menschen, Räume und Objekte wahrnehmen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K3-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-1-D-1</id>
+ 	  	  	  	  	 <content>ihre Umgebung aufmerksam und mit allen Sinnen wahrnehmen und erkunden</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-1-D-2</id>
+ 	  	  	  	  	 <content>neue Zugangsweisen zu sich selbst und ihrer Umwelt entwickeln</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K3-1-EFGH</id>
+ 	  	  	  	 <level>EFGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-1-EFGH-1</id>
+ 	  	  	  	  	 <content>ihre durch Wahrnehmungstechniken gesteigerte Aufmerksamkeit für den szenischen Forschungs-und Findungsprozess und das Arbeiten in der Gruppe nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Thea-K3-2</id>
+ 	  	  	 <name>Empathie entwickeln</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K3-2-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-2-D-1</id>
+ 	  	  	  	  	 <content>das Handeln und die vermuteten Motive literarischer Figuren beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-2-D-2</id>
+ 	  	  	  	  	 <content>in szenischen Übungen und Aufgaben Handlungsmöglichkeiten gestalten</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-2-D-3</id>
+ 	  	  	  	  	 <content>den anderen im Miteinander grundlegende eigene Bedürfnisse vermitteln und die ihrer Mitschülerinnen und Mitschüler wahrnehmen und erfragen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K3-2-EFGH</id>
+ 	  	  	  	 <level>EFGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-2-EFGH-1</id>
+ 	  	  	  	  	 <content>im Spannungsfeld von Eigenem und Fremdem Figuren mit möglicher Unterstützung zunehmend differenzierter wahrnehmen, beschreiben und gestalten</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-2-EFGH-2</id>
+ 	  	  	  	  	 <content>die Bedürfnisse und Emotionen ihrer Mitspielerinnen und Mitschüler wahrnehmen, wertschätzend beschreiben und darauf im Gruppenprozess zugewandt reagieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Thea-K3-3</id>
+ 	  	  	 <name>Über Gestaltungs-und Gruppenhandeln reflektieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K3-3-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-3-D-1</id>
+ 	  	  	  	  	 <content>mit Unterstützung eigene Eindrücke reflektierend beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K3-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-3-EF-1</id>
+ 	  	  	  	  	 <content>mit strukturierenden Hilfen ihr szenisches Handeln ästhetisch reflektieren und beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-3-EF-2</id>
+ 	  	  	  	  	 <content>mit Unterstützung Feedbackverfahren realisieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-3-EF-3</id>
+ 	  	  	  	  	 <content>wesentliche fachspezifische Begriffe sachgerecht anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K3-3-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-3-GH-1</id>
+ 	  	  	  	  	 <content>beginnend selbstständig ihr szenisches Handeln ästhetisch reflektieren und beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-3-GH-2</id>
+ 	  	  	  	  	 <content>zunehmend selbstorganisiert Feedbackverfahren realisieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-3-GH-3</id>
+ 	  	  	  	  	 <content>mit Unterstützung Alltags-und Bildungssprache zunehmend funktional und reflektiert verwenden und für die Beschreibung und Weiterentwicklung des Gestaltungsprozesses zunehmend bewusst anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Thea-K3-4</id>
+ 	  	  	 <name>Im künstlerischen Prozess und im Gruppenprozess kommunizieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K3-4-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-4-D-1</id>
+ 	  	  	  	  	 <content>vielfältige Gesprächsformen wie z. B. Rund-, Partner-, Streitgespräche und Diskussionen nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K3-4-EFGH</id>
+ 	  	  	  	 <level>EFGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-4-EFGH-1</id>
+ 	  	  	  	  	 <content>ihre kommunikativen Fähigkeiten im Sinne einer aktiven Mitgestaltung des Unterrichts anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-4-EFGH-2</id>
+ 	  	  	  	  	 <content>auf der symbolischen Kommunikationsebene der Künste ein Publikum ansprechen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K3-4-EFGH-3</id>
+ 	  	  	  	  	 <content>ihre Interessen und Ideen im Gruppenprozess adressatenorientiert formulieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>Thea-K4</id>
+ 	  	 <name>Teilhaben</name>
+ 	  	 <competence>
+ 	  	  	 <id>Thea-K4-1</id>
+ 	  	  	 <name>Gesellschaftliche Zusammenhänge theatral erforschen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K4-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K4-1-D-1</id>
+ 	  	  	  	  	 <content>mit möglicher Unterstützung der Lehrkraft einfache Darstellungs-und Aufführungsformen nutzen, um Elemente ihrer Erfahrungswelt darstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K4-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K4-1-EF-1</id>
+ 	  	  	  	  	 <content>mit strukturierenden Hilfen selbstständig recherchierte Phänomene des Lebens gestaltend darstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K4-1-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K4-1-GH-1</id>
+ 	  	  	  	  	 <content>zunehmend selbstständig ihre Fragen zu gesellschaftlichen Phänomenen künstlerisch erforschend und gestaltend darstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Thea-K4-2</id>
+ 	  	  	 <name>Formen (inter-)kultureller Teilhabe nutzen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K4-2-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K4-2-D-1</id>
+ 	  	  	  	  	 <content>Theater- und Kulturangebote erfassen und ihre Eindrücke beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K4-2-D-2</id>
+ 	  	  	  	  	 <content>eigene Ergebnisse künstlerischer Gestaltung vor Publikum aus der Schulöffentlichkeit darstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K4-2-EFGH</id>
+ 	  	  	  	 <level>EFGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K4-2-EFGH-1</id>
+ 	  	  	  	  	 <content>im sozialen und kulturellen Miteinander mit möglicher Unterstützung Regeln und Werte erfassen und realisieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K4-2-EFGH-2</id>
+ 	  	  	  	  	 <content>Formen regionaler kultureller Produktion und Rezeption offen wahrnehmen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K4-2-EFGH-3</id>
+ 	  	  	  	  	 <content>Ergebnisse des eigenen Projektgestaltungsprozesses vor Schulöffentlichkeit und in den Sozialraum hinein erweitertem Publikum präsentieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Thea-K4-3</id>
+ 	  	  	 <name>Sozial und spielerisch im Sinne eines Ensembles interagieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K4-3-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K4-3-D-1</id>
+ 	  	  	  	  	 <content>im gemeinsamen Lern- und Arbeitsprozess einer Gruppe Verantwortung für Teilaufgaben übernehmen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K4-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K4-3-EF-1</id>
+ 	  	  	  	  	 <content>mit Unterstützung unterschiedliche Spieltemperamente und Voraussetzungen der Gruppenmitglieder produktiv für die Arbeit in Teams nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Thea-K4-3-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K4-3-GH-1</id>
+ 	  	  	  	  	 <content>das Aushandeln von Fragen und Problemen im Gestaltungs- und Gruppenprozess zunehmend selbstständig realisieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Thea-K4-3-GH-2</id>
+ 	  	  	  	  	 <content>zunehmend eigenständig produktiv in einem Ensemble agieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	  </stufe>
+ 	  	 </competence>
+ 	  	</area>
+ 	 </c2>
+ 	 <c3>
+ 	 	<id>C-Thea-3</id>
+ 	 	<title>Themen und Inhalte</title>
+		<vortext>Im Folgenden werden Themenfelder und Inhalte für den strukturierten, projektorientierten Forschungs-, Findungs- und Erarbeitungsprozess im Theaterunterricht dargestellt. Die vorliegende Gestaltung berücksichtigt Theater als Wahlpflichtfach und die möglichen Organisationsformen für seine Umsetzung.
+Fachkonferenz und Fachlehrkräfte können mit dem Fachteil Theater – entsprechend dem Schulprofil und der schulspezifischen Organisation des Wahlpflichtfachs – den Unterricht und die Rolle des Faches im schulinternen Curriculum planen und gestalten.
+Bei der Planung und Konkretisierung werden neben den vorgegebenen Kompetenzen und Inhalten die Interessen der Schülerinnen und Schüler, das Schulprogramm, Gegebenheiten der Schule, Kooperationen mit Theatern, Schulpartnerschaften, Wettbewerbe etc. einbezogen. 
+Die ausgewiesenen Themenfelder werden für Schülerinnen und Schüler, die wegen einer erheblichen und langandauernden Beeinträchtigung ihres Lern- und Leistungsverhaltens sonderpädagogische Förderung erhalten oder für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen  festgestellt wurde, schülerbezogen berücksichtigt. Sie werden entsprechend der Lebensbedeutsamkeit für die Schülerinnen und Schüler ausgewählt.
+Theaterunterricht ist Projektunterricht. Projektorientiert werden die unterschiedlichen Kompetenzen und Erfahrungen der Schülerinnen und Schüler als produktive Gestaltungsgrundlage genutzt. Die Unterschiedlichkeit der Voraussetzungen im Fach Theater – auch im Zusam-menhang mit der Belegung als Wahlpflichtfach und dem künstlerischen Fachprofil – ermög-licht und verlangt die Vielfalt des Lernens: Die emotionale, soziale und biologische Reife jeder/jedes Lernenden soll berücksichtigt werden, jede Gruppenkonstellation muss für sich betrachtet werden.
+Projekte werden aktuell und gruppenspezifisch entwickelt, beziehen zeitnah Ideen der Gruppe in die Arbeit ein ebenso wie aktuelle Angebote aus der Region, den Medien, von Kooperationspartnern etc. Dabei sollen mindestens einmal pro Schuljahr kulturelle Angebote der Region wie Theateraufführungen, Lesungen, Ausstellungen etc. als künstlerische Inspirati-onsquelle genutzt werden. Der Projektunterricht gliedert sich in die sich teilweise überlap-penden Phasen der Initiative und ersten Recherche, der Recherchevertiefung und Information, Planung und Produktion, Endproduktion und Präsentation sowie der Postproduktion. 
+Die Organisation und Planung des Theaterunterrichts und die Wahl der Spiel- und Gestaltungsaufgaben ermöglichen einen selbstbewussten Umgang mit Körperlichkeit und sexueller Identität und sensibilisieren die Kinder und Jugendlichen für unterschiedliche Geschlechterrollen und Lebensweisen. Gruppenspezifische, individuelle und offene Aufgabenstellungen tragen dazu bei, dass alle ihre Themen einbringen, gestalten und reflektieren können.
+Die Planung einer Unterrichtseinheit im Theaterunterricht orientiert sich an den Bestandteilen Warmup, Gestaltungs- und Spielformen, Präsentation, Feedback/Reflexion, Abschluss. Die häufig im Werkstattformat vermittelten Zugänge zu künstlerischen Theaterformen – wie dra-matisches und postdramatisches Theater, Performance, Tanz, Theater und neue Medien, Theater und Musik etc. – bilden für die Schülerinnen und Schüler eine wichtige Grundlage ihrer Gestaltungsprozesse.
+Für die konkrete unterrichtliche Planungsarbeit der Theaterlehrkraft sind die nachfolgenden Inhalte Themenfeldern zugeordnet, die den vier fachspezifischen Kompetenzbereichen mit ihren jeweiligen Kompetenzen in den vorangegangenen Kapiteln entsprechen. 
+		</vortext>
+			<themainhalt>
+			<id>C-Thea-3-1</id>
+			<title>Wahrnehmen</title>
+			<inhalt>
+				<id>C-Thea-3-1-1</id>
+				<title>Themenfeld</title>
+				<content>Körper</content>
+				<inhalt>
+					<id>C-Thea-3-1-1-1</id>
+					<title>Inhalte</title>
+					<content>­	Sensibilisierung, Bewegungsrepertoire, Herausgehen aus der Körperachse, Gangarten, Geschwindigkeiten</content>
+					<content>­	neutraler Stand und Gang, Vergrößerung und Verkleinerung</content>
+					<content>­	Aussagemöglichkeiten von Mimik, Gestik und Haltung</content>
+					<content>­	Körperspannung, Bühnenpräsenz, Freeze, Fokus, Bewegen in drei Ebenen</content>
+				</inhalt>
+			</inhalt>	
+			<inhalt>
+				<id>C-Thea-3-1-2</id>
+				<title>Themenfeld</title>
+				<content>Stimme/Sprache</content>
+				<inhalt>
+					<id>C-Thea-3-1-2-1</id>
+					<title>Inhalte</title>
+					<content>­	chorisches und rhythmisches Sprechen, Klangteppich, Betonung, Sprachmodulation, Lautstärken, Atemtechniken</content>
+					<content>­	Spiel mit Sprache: Alltags-, Bühnen-, Phantasiesprache</content>		
+				</inhalt>
+			</inhalt>
+			<inhalt>
+				<id>C-Thea-3-1-3</id>
+				<title>Themenfeld</title>
+				<content>Dramaturgie/Inszenierung</content>
+				<inhalt>
+					<id>C-Thea-3-1-3-1</id>
+					<title>Inhalte</title>
+					<content>­	zentrales Thema, Inszenierungsidee, Aufbau (inhaltlich, rhythmisch, visuell-atmosphärisch/szenische Übergänge), Theaterformen, z. B. antikes Theater, Figurentheater, Tanz-/Bewegungstheater, Schwarzlichttheater, Forschen-des Theater, site specific theatre)</content>
+				</inhalt>
+			</inhalt>
+			<inhalt>
+				<id>C-Thea-3-1-4</id>
+				<title>Themenfeld</title>
+				<content>Bühnenformen, Raum</content>
+				<inhalt>
+					<id>C-Thea-3-1-4-1</id>
+					<title>Inhalte</title>
+					<content>­	Bewegen im Raum, Raumlauf, Erschließung des Raums in allen Ebenen, Bühnengänge, Auftritte und Abgänge, Stellungen, Tableaus</content>
+					<content>­	Bühneninstallationen, Umgang mit Requisiten und Ausstattungsstücken</content>
+					<content>­	Bühnenformen, Bühnenraum, Rampe, vierte Wand, geschlossene und offene Räume, Spielen im öffentlichen Raum</content>
+				</inhalt>
+			</inhalt>
+			<inhalt>
+				<id>C-Thea-3-1-5</id>
+				<title>Themenfeld</title>
+				<content>Medien</content>
+				<inhalt>
+					<id>C-Thea-3-1-5-1</id>
+					<title>Inhalte</title>
+					<content>­	Nutzen verschiedener Informationsquellen zur Recherche</content>
+					<content>­	Verbindung medialer und theatraler Gestaltungsmittel (Film- und Videoinstallationen, Töne und Musik, Musikinstrumente, Objekte, Plastiken, Rauminstallationen, Licht-und Computertechnik)</content>
+				</inhalt>
+			</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-Thea-3-2</id>
+			<title>Gestalten</title>
+			<inhalt>
+				<id>C-Thea-3-2-1</id>
+				<title>Themenfeld</title>
+				<content>ästhetische Gestaltungskategorien/theatrale Mittel</content>
+				<inhalt>
+					<id>C-Thea-3-2-1-1</id>
+					<title>Inhalte</title>
+					<content>­	Entstehung von Bildern auf der Bühne, Bildwirkung, visueller Aufbau</content>
+					<content>­	Handlungsbögen, dramaturgischer Vorgang</content>
+					<content>­	Kompositionsmethoden: Wiederholung, Steigerung, Umkehrung, Kontrastierung</content>
+					<content>­	theatrale Mittel im aktuellen Projekt (Körper, Sprache und Text, Figur, Raum, Kostüm, Licht, Ton und Bühnenbild)</content>
+				</inhalt>
+			</inhalt>	
+			<inhalt>
+				<id>C-Thea-3-2-2</id>
+				<title>Themenfeld</title>
+				<content>künstlerisches Arbeiten</content>
+				<inhalt>
+					<id>C-Thea-3-2-2-1</id>
+					<title>Inhalte</title>
+					<content>­	Material- und Themenfindung: autobiografisch, forschend, erzählend, recherchierend</content>
+					<content>­	Montage, Verdichtung, Verfremdung</content>
+					<content>­	Improvisationsformen, Forschungsfragen, Zufall als Teil des künstlerischen Prozesses</content>		
+				</inhalt>
+			</inhalt>
+			<inhalt>
+				<id>C-Thea-3-2-3</id>
+				<title>Themenfeld</title>
+				<content>projektorientiertes Arbeiten</content>
+				<inhalt>
+					<id>C-Thea-3-2-3-1</id>
+					<title>Inhalte</title>
+					<content>­	Handlungsfelder der Projektarbeit im Proben- und Gestaltungsprozess (z. B. Probenplanung, Öffentlichkeitsarbeit, Ausstattung, Requisiten, Kostüm, Maske, Medieneinsatz, Aufführungsplanung)</content>
+					<content>­	Organisation und Gestaltung der Arbeit in Teams</content>
+					<content>­	Präsentationsformen vor ausgewähltem und öffentlichem Publikum</content>
+					<content>­	Projektabschlussgestaltung</content>
+				</inhalt>
+			</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-Thea-3-3</id>
+			<title>Reflektieren</title>
+			<inhalt>
+				<id>C-Thea-3-3-1</id>
+				<title>Themenfeld</title>
+				<content>Wahrnehmung</content>
+				<inhalt>
+					<id>C-Thea-3-3-1-1</id>
+					<title>Inhalte</title>
+					<content>­	Selbst- und Fremdwahrnehmung, Gruppen- und Partnerwahrnehmung</content>
+					<content>­	peripherer Blick, räumliche Wahrnehmung, Einsatz aller Sinne</content>
+				</inhalt>
+			</inhalt>	
+			<inhalt>
+				<id>C-Thea-3-3-2</id>
+				<title>Themenfeld</title>
+				<content>Empathie</content>
+				<inhalt>
+					<id>C-Thea-3-3-2-1</id>
+					<title>Inhalte</title>
+					<content>­	Ensembleübungen</content>
+					<content>­	Vertrauens- und Sensibilisierungsübungen</content>
+					<content>­	Mittel und Formen der Figurengestaltung (z. B. Improvisation,  Standbilder, Rollenbiografie, Rollenvervielfachung)</content>
+					<content>­	Status als Mittel der Wahrnehmung und Gestaltung</content>		
+				</inhalt>
+			</inhalt>
+			<inhalt>
+				<id>C-Thea-3-3-3</id>
+				<title>Themenfeld</title>
+				<content>Reflexion</content>
+				<inhalt>
+					<id>C-Thea-3-3-3-1</id>
+					<title>Inhalte</title>
+					<content>­	Feedback, Feedbackformen, Feedbackregeln</content>
+					<content>­	Formen der Nachbesprechung, Verbindung von Rückschau, Zielreflexion und gegenseitiger Anerkennung</content>
+				</inhalt>
+			</inhalt>
+			<inhalt>
+				<id>C-Thea-3-3-4</id>
+				<title>Themenfeld</title>
+				<content>Kommunikation</content>
+				<inhalt>
+					<id>C-Thea-3-3-4-1</id>
+					<title>Inhalte</title>
+					<content>­	Formen und Bedeutung nonverbaler Kommunikation</content>
+					<content>­	Formen verbaler Kommunikation, Kommunikation in der Gruppe, Rahmenbedingungen zwischenmenschlicher Kommunikation</content>
+				</inhalt>
+			</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-Thea-3-4</id>
+			<title>Teilhaben</title>
+			<inhalt>
+				<id>C-Thea-3-4-1</id>
+				<title>Themenfeld</title>
+				<content>Gesellschaft</content>
+				<inhalt>
+					<id>C-Thea-3-4-1-1</id>
+					<title>Inhalte</title>
+					<content>­	gesellschaftliche, kulturelle, individuelle Werte und Normen als Gegenstand des Projekt- und Gruppenprozesses</content>
+					<content>­	projektorientierte Formen des Dialogs mit sich selbst, der Alltagswelt, den Künsten (z. B. Beobachtungs- und Improvisationsaufgaben)</content>
+				</inhalt>
+			</inhalt>	
+			<inhalt>
+				<id>C-Thea-3-4-2</id>
+				<title>Themenfeld</title>
+				<content>interkulturelle Teilhabe</content>
+				<inhalt>
+					<id>C-Thea-3-4-2-1</id>
+					<title>Inhalte</title>
+					<content>­	Beispiele der regionalen Theater- und Kulturlandschaft (z. B. staatliche Theaterhäuser, freie Theaterszene, Schultheater, Freilufttheater, zeitgenössische Darstellungsformen des Theaters wie Performancetheater  bzw. Theaterformen wie Musiktheater, Sprechtheater, Tanztheater)</content>
+					<content>­	Kulturangebote wie Ausstellungen, Projekte von Theater- und Kultureinrichtungen</content>
+					<content>­	Rolle des Publikums, kulturelle Verhaltensnormen</content>
+					<content>­	unterschiedliche kulturelle Traditionen (z. B. als Rahmenbedingung oder Gegenstand des Gruppen- und Gestaltungsprozesses)</content>		
+				</inhalt>
+			</inhalt>
+			<inhalt>
+				<id>C-Thea-3-4-3</id>
+				<title>Themenfeld</title>
+				<content>Gruppe, Ensemble</content>
+				<inhalt>
+					<id>C-Thea-3-4-3-1</id>
+					<title>Inhalte</title>
+					<content>­	Regeln und Formen der Theater- und Gruppenarbeit</content>
+					<content>­	Rituale: Begrüßung, Warm-up, Präsentationen, Feedback, Abschluss</content>
+				</inhalt>
+			</inhalt>
+		</themainhalt>
+ 	 </c3>
+ 	 </fach>

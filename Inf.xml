@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fach xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns="http://bsbb.eu" 
+	xsi:schemaLocation="http://bsbb.eu fachtype.xsd">
+
+	<id>C-Inf</id>
+	<title>Informatik</title>
+	<c1>
+		<id>C-Inf-1</id>
+		<title>Kompetenzentwicklung im Fach Informatik</title>
+		<subtext>
+			<id>C-Inf-1-1</id>
+			<title>Ziele des Unterrichts</title>
+			<content>
+			Informatikunterricht und Allgemeinbildung
+			Informatische Bildung gehört zu den Grundbausteinen der Allgemeinbildung und ist das Ergebnis von Lernprozessen, in denen Grundlagen, Methoden, Anwendungen, Arbeitsweisen und die gesellschaftliche Bedeutung von Informatiksystemen erschlossen werden. 
+			Die Gesellschaft ist in hohem Maße von komplexen Informations- und Kommunikations-systemen durchdrungen, die vielfältige Möglichkeiten eröffnen. Der kompetente Umgang mit Informatiksystemen ist somit zu einer Grundlage für die verantwortungsvolle Teilnahme am gesellschaftlichen Leben geworden. Eine vorrangige Aufgabe der Schule besteht darin, auf ein Leben und Arbeiten in einer derart geprägten Gesellschaft vorzubereiten. Die Schülerin-nen und Schüler benötigen informatische Kompetenzen, die deutlich über die alleinige Nutzung von Standardsoftware hinausgehen.
+			Das Fach Informatik unterstützt ein selbstbestimmtes Leben in unserer Gesellschaft. Im Informatikunterricht entwickeln die Schülerinnen und Schüler fachliche und überfachliche Kompetenzen, mit deren Hilfe sie Wechselwirkungen zwischen Informatiksystemen, Mensch und Gesellschaft fundiert beurteilen können. In der aktiven Auseinandersetzung mit informatischen Inhalten erlernen sie fachtypische Denk- und Arbeitsweisen und erwerben Kenntnisse über die grundlegenden Wirkprinzipien von Informatiksystemen. Damit werden sie zum reflektierten und verantwortungsbewussten Umgang mit Informatiksystemen befähigt und erwerben die notwendigen Kompetenzen zum Beurteilen und Bewerten der Chancen und Risiken dieser Systeme.
+			
+			Grundsatz der Chancengleichheit und Differenzierung im Unterricht
+			Es ist eine Aufgabe der schulischen Bildung, der sogenannten digitalen Spaltung unserer Gesellschaft in diejenigen, die Informations- und Kommunikationstechniken zielorientiert nutzen, und jene, welche die dafür nötigen Kompetenzen nicht besitzen, entgegenzuwirken. Aufgrund der unterschiedlichen Lernvoraussetzungen und des unterschiedlichen Lernverhaltens ist eine innere Differenzierung für den Kompetenzerwerb unverzichtbar. Dabei müssen Aspekte wie Motivation, Vorwissen, Leistungsfähigkeit, Sprachkompetenz, sozialer, kultureller und ökonomischer Hintergrund für einen erfolgreichen Unterricht berücksichtigt werden. Gerade auch für Schülerinnen und Schüler mit Behinderungen kann der kompetente Einsatz digitaler Hilfsmittel Grundlage für einen erfolgreichen Lernprozess auch in anderen Bereichen sein. 
+			
+			Informatikunterricht und Medienbildung
+			Informatikunterricht und Medienbildung sind zwei sich ergänzende Aufgaben schulischer Bildung und Erziehung. Der spezifische Beitrag der Informatik zur Medienbildung liegt deshalb in der Bereitstellung grundlegender informatischer Methoden und Sichtweisen, die ein Verständnis computerbasierter Medien erst ermöglicht und somit einen zielgerichteten und verantwortungsvollen Einsatz unterstützt.
+			
+			Fachspezifische Besonderheiten 
+			Informatiksysteme sowie Methoden des informatischen Denkens und Arbeitens haben inzwischen den Alltag und alle Gebiete von Wissenschaft, Wirtschaft und Technik durchdrungen. Diese Interdisziplinarität kommt auch im fächerübergreifenden und fächerverbindenden Charakter des Informatikunterrichts zum Ausdruck.
+			Der Computer hat als Werkzeug in allen Fächern Einzug gehalten. Aber nur im Informatikunterricht ist er auch Gegenstand hinsichtlich Aufbau, Funktionsweise und Programmierung.
+			Nur hier modellieren und implementieren die Lernenden eigene Software und können sich so einen Zugang zu den von ihnen benutzten Programmen und Algorithmen eröffnen.
+			Informatische Projekte sind ein wesentlicher Bestandteil der Softwaretechnik. Der Projektbe-griff ist in der Informatik fachspezifisch verankert. Im Unterricht sind Projekte deshalb nicht nur Methode, sondern auch Unterrichtsgegenstand. Sie vermitteln unter anderem Verfahren zur Problemlösung, Komplexitätsbewältigung, Organisation von Teamarbeit und Umgang mit Fehlern. 
+			</content>
+		</subtext>
+		<subtext>
+			<id>C-Inf-1-2</id>
+			<title>Fachbezogene Kompetenzen</title>
+			<content>Die fachbezogenen Kompetenzen lassen sich im Hinblick auf den Unterricht wie folgt gliedern:
+			
+			Schülerinnen und Schüler erleben Informatik vor allen in den Wechselwirkungen von sozialen und technischen Aspekten. Diese Wechselwirkungen bilden den lebensweltlichen Zugang zu den übrigen informatischen Kompetenzen, welche ihrerseits wiederum mit der Kompetenz Wechselwirkungen zwischen Informatiksystemen, Mensch und Gesellschaft beurteilen verflochten sind. Daraus ergibt sich die zentrale Position im Kompetenzmodell. 
+			
+			Wechselwirkungen zwischen Informatiksystemen, Mensch und Gesellschaft beurteilen
+			
+			Anwendungen erfassen und Auswirkungen abschätzen
+			Die Schülerinnen und Schüler erläutern beispielhaft, wie Informatiksysteme den Alltag und die Berufswelt durchdringen und verändern. Dabei diskutieren sie Vor- und Nachteile des Einsatzes von Informatiksystemen.
+			
+			Die Schülerinnen und Schüler beurteilen und bewerten die Chancen und Risiken der aktuellen Entwicklungen für eine demokratische Gesellschaft.
+			
+			Mit Information umgehen
+			
+			Information in Form von Daten darstellen und verarbeiten
+			Die Schülerinnen und Schüler beschreiben den Zusammenhang von Information und Daten und benennen verschiedene Darstellungsformen für Daten. Ihnen ist bewusst, dass der Mensch einerseits Information durch Daten repräsentiert und andererseits durch Interpretation der Daten für den Menschen Information entsteht.
+			Die Schülerinnen und Schüler nutzen zielgerichtet digitale Datenbestände und Hilfesysteme zur Informationsbeschaffung.
+			Informatiksysteme verstehen
+
+			Wirkprinzipien kennen und anwenden
+			Die Schülerinnen und Schüler benennen wesentliche Bestandteile eines Informatiksystems und beschreiben deren Funktionalität. 
+			Die Schülerinnen und Schüler wenden Informatiksysteme zielgerichtet an.
+
+			Informatisches Modellieren
+			
+			Modelle erstellen und bewerten
+			Die Schülerinnen und Schüler erfahren informatisches Modellieren als Inhalt und als Methode des Informatikunterrichts.
+			Die Schülerinnen und Schüler nutzen informatische Modelle zur Problemanalyse und Lösungskonstruktion. Ein informatisches Modell ist ein vereinfachtes Abbild und Vorlage für eine mögliche Realisierung. Beim Überführen einer Problemsituation in ein Modell kennen sie die Bedeutung von Abstraktion, Reduktion und Formalisierung als Teilschritte des Model-lierens. Sie können Modelle mit geeigneten Werkzeugen implementieren und ihre Ergebnisse reflektieren.
+
+			Problemlösen
+
+			Probleme erfassen und mit Informatiksystemen lösen
+			Die Schülerinnen und Schüler untersuchen Sachverhalte und Vorgänge unter informatischen Gesichtspunkten. 
+			Sie zerlegen Probleme in einzelne unabhängige Teilprobleme.
+			Die Schülerinnen und Schüler entwerfen und implementieren Algorithmen unter Verwendung der algorithmischen Grundstrukturen.
+
+			Kommunizieren und Kooperieren
+
+			Teamarbeit organisieren und koordinieren
+			Die Schülerinnen und Schüler stellen informatische Sachverhalte strukturiert dar. Dabei wenden sie die Fachsprache sachgerecht an. Bei der gemeinsamen Arbeit an Unterrichtsprojekten erfahren sie, dass ihr verantwortungsbewusstes Handeln eine notwendige Voraussetzung für den Erfolg des Teams darstellt. 
+			Die Schülerinnen und Schüler nutzen Informatiksysteme zur Kooperation.
+			</content>
+		</subtext>
+	</c1>
+	<c2>
+	<vorwort>
+		<id>C-Inf-2-BE</id>
+		<title>Regelungen für das Land Berlin</title>
+		<content>Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler.
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungs­vorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+Für Grundschulen und Grundstufen der Gemeinschaftsschulen sowie an weiterführenden Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Schulanfangsphase 	Niveaustufen A, B, in Teilen C
+Jahrgangsstufen	3 – 4	Niveaustufe C, in Teilen D
+Jahrgangsstufe	5	Niveaustufen C – D 
+Jahrgangsstufe	6	Niveaustufe D, in Teilen E
+
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufe 		3	Niveaustufe B, in Teilen C
+Jahrgangsstufen		4 – 6	Niveaustufe C
+Jahrgangsstufen 	7 – 8	Niveaustufe D
+Jahrgangsstufen 	9 – 10	Niveaustufen D – E
+
+Zur Vorbereitung auf den der Berufsbildungsreife gleichwertigen Abschluss werden in den Jahrgangsstufen 9 und 10 auch Angebote auf dem Niveau F unterbreitet.
+Je nach dem Grad der Lernbeeinträchtigung erreichen die Schülerinnen und Schüler die 
+gesetzten Standards nicht im vollen Umfang bzw. nicht zum vorgegebenen Zeitpunkt. Dem trägt eine individuelle Ausrichtung des Unterrichtsangebots Rechnung.
+Für die Integrierte Sekundarschule gilt:
+grundlegendes Niveau:
+Jahrgangsstufen	7 – 8	Niveaustufen D – E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufe F, in Teilen G
+erweitertes Niveau: 
+Jahrgangsstufen	7 – 8 	Niveaustufe E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufen F – G
+
+
+Für das Gymnasium gilt:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+
+Die folgende Darstellung veranschaulicht die im Berliner Schulsystem in den Jahrgangsstufen 1 bis 10 möglichen Lerngeschwindigkeiten im Überblick und zeigt die Durchlässigkeit des Schulsystems. Sie bietet zudem eine Grundlage für eine systematische Schullaufbahnberatung. In der Darstellung ist auch erkennbar, welche Anforderungen Schülerinnen und Schüler erfüllen müssen, die die Voraussetzungen für den Erwerb der Berufsbildungsreife erst am Ende der Jahrgangsstufe 10 erreichen. Dieses Niveau können auch Schülerinnen und Schüler mit dem sonderpädagogischen Förderschwerpunkt Lernen erreichen, wenn sie den der Berufsbildungsreife gleichwerten Abschluss anstreben. 
+	</content>
+	</vorwort>
+	<vorwort>
+		<id>C-Inf-2-BB</id>
+		<title>Regelungen für das Land Brandeburg</title>
+		<content>
+Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler. 
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungs­vorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+Grundschule 
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang der Grundschule Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden können.
+Für Grundschulen und für Primarstufen von Ober- und Gesamtschulen sowie 
+für weiterführende allgemeinbildende Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Jahrgangsstufen	1 – 2	Niveaustufen A und B
+Jahrgangsstufen	3 – 4	Niveaustufe C
+Jahrgangsstufen	5 – 6	Niveaustufe D 
+
+Förderschwerpunkt Lernen
+Die folgende tabellarische Darstellung beschreibt, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang zum Erwerb des Abschlusses der Schule mit dem sonderpädagogischen Förderschwerpunkt Lernen Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden können.
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen 
+werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufen	1 – 2	Niveaustufen A und B 
+Jahrgangsstufe	3	Niveaustufe B
+Jahrgangsstufen	4 – 6	Niveaustufe C
+Jahrgangsstufen	7 – 8	Niveaustufe D
+Jahrgangsstufen	9 – 10	Niveaustufen D und E
+
+Schülerinnen und Schüler, für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen festgestellt worden ist und die dem Bildungsgang Förderschule Lernen gemäß § 30 BbgSchulG zugeordnet sind, erhalten im Unterricht Lernangebote, die ein Erreichen der Niveaustufen A, B, C, D und E ermöglichen sollen. Hierbei sind die individuellen Lernvoraussetzungen der Schülerinnen und Schüler zu berücksichtigen.
+In diesem Bildungsgang wird mit der Niveaustufe E das gemeinsame Bildungsziel am Ende der Jahrgangsstufe 10 abgebildet.
+Zur Vorbereitung auf den der Berufsbildungsreife entsprechenden Abschluss wird in den Jahrgangsstufen 9 und 10 schülerbezogen auch auf dem Niveau F unterrichtet.
+Schulen der Sekundarstufe I
+Ausgehend vom grundlegenden, erweiterten und vertieften Anspruchsniveau unterscheidet sich der Unterricht in der Sekundarstufe I in der Art der Erschließung, der Vertiefung und dem Grad der Komplexität der zugrunde gelegten Themen und Inhalte. Bei der inneren Organisation in Klassen und Kursen ist dies zu berücksichtigen.
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel in den verschiedenen Bildungsgängen der Sekundarstufe I Niveaustufen durchlaufen bzw. erreichen. Der Unterricht enthält immer auch Angebote auf der jeweils höheren Niveaustufe.
+Am Unterricht in Fächern ohne äußere Fachleistungsdifferenzierung nehmen Schülerinnen und Schüler mit unterschiedlichen Lernvoraussetzungen teil. Die dem Unterricht zugrunde gelegte Niveaustufe ist daher so zu wählen, dass sie für alle Lernenden eine optimale Förderung ermöglicht.
+
+a) Oberschule
+In der EBR-Klasse des kooperativen Modells und im A-Kurs des integrativen Modells wird im Unterricht eine grundlegende Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufen D und E
+Jahrgangsstufe	8 	Niveaustufen E und F
+Jahrgangsstufe	9	Niveaustufe F
+Jahrgangsstufe	10	Niveaustufen F und G
+
+In der FOR-Klasse des kooperativen Modells sowie im B-Kurs des integrativen Modells wird im Unterricht eine erweiterte Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8 	Niveaustufen E und F
+Jahrgangsstufe	9	Niveaustufen F und G
+Jahrgangsstufe	10	Niveaustufe G
+
+In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass sowohl eine grundlegende als auch eine erweiterte Bildung vermittelt wird. Hierbei sind die für die Oberschule dargestellten Niveaustufen zugrunde zu legen.
+
+b) Gesamtschule
+Im G-Kurs der Gesamtschule wird zur Sicherung der Durchlässigkeit zum E-Kurs neben der grundlegenden Bildung auch die erweiterte Bildung vermittelt. Im E-Kurs der Gesamtschule wird zur Sicherung der Durchlässigkeit zum G-Kurs neben der vertieften Bildung auch die erweiterte Bildung vermittelt.
+In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass eine grundlegende, erweiterte und vertiefte Bildung vermittelt wird. Hierbei sind die für die Oberschule und das Gymnasium dargestellten Niveaustufen zugrunde zu legen.
+
+c) Gymnasium
+In den Klassen des Gymnasiums wird im Unterricht eine vertiefte Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+		</content>
+	</vorwort>
+		<area>
+		 <id>Inf-K1</id>
+ 	  	 <name>Wechselwirkungen zwischen Informatiksystemen, Mensch und Gesellschaft beurteilen - Anwendungen erfassen und Auswirkungen abschätzen</name>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K1-1</id>
+ 	  	  	 <name>Urheberrechte beachten</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K1-1-DEF</id>
+ 	  	  	  	 <level>DEF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K1-1-DEF-1</id>
+ 	  	  	  	  	 <content>grundlegende Aspekte des Urheberrechts nennen und beachten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K1-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K1-1-G-1</id>
+ 	  	  	  	  	 <content>Beispiele für rechtlich geschützte und freie Inhalte beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K1-1-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K1-1-H-1</id>
+ 	  	  	  	  	 <content>Stellung zu Verstößen gegen das Urheberrecht nehmen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K1-2</id>
+ 	  	  	 <name>Probleme des Persönlichkeits- und Datenschutzes analysieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K1-2-DEF</id>
+ 	  	  	  	 <level>DEF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K1-2-DEF-1</id>
+ 	  	  	  	  	 <content>schützenswerte Daten angeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K1-2-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K1-2-G-1</id>
+ 	  	  	  	  	 <content>Maßnahmen zum Datenschutz beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K1-2-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K1-2-H-1</id>
+ 	  	  	  	  	 <content>Probleme des Datenschutzes erläutern und bewerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K1-3</id>
+ 	  	  	 <name>Probleme der Datensicherheit analysieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K1-3-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K1-3-DE-1</id>
+ 	  	  	  	  	 <content>die Notwendigkeit der Datensicherheit beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K1-3-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K1-3-F-1</id>
+ 	  	  	  	  	 <content>zwischen Datenschutz und Datensicherheit unterscheiden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K1-3-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K1-3-G-1</id>
+ 	  	  	  	  	 <content>Maßnahmen zur Datensicherheit beschreiben und diese begründen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K1-3-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K1-3-H-1</id>
+ 	  	  	  	  	 <content>Probleme der Datensicherheit erläutern</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K1-4</id>
+ 	  	  	 <name>Historische und aktuelle Entwicklungen der Informatik beurteilen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K1-4-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K1-4-DE-1</id>
+ 	  	  	  	  	 <content>den Einsatz von Informatiksystemen im Alltag beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K1-4-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K1-4-F-1</id>
+ 	  	  	  	  	 <content>wichtige Meilensteine der technischen Entwicklung wiedergeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K1-4-F-2</id>
+ 	  	  	  	  	 <content>Persönlichkeiten und deren Ideen, die die Informatik geprägt haben, benennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K1-4-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K1-4-G-1</id>
+ 	  	  	  	  	 <content>beispielhaft erläutern, wie Informatiksysteme den Alltag und die Berufswelt verändert haben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K1-4-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K1-4-H-1</id>
+ 	  	  	  	  	 <content>aktuelle Entwicklungen bewerten, aus ihnen mögliche Trends ableiten und Auswirkungen in der Zukunft beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K1-4-H-2</id>
+ 	  	  	  	  	 <content>die Chancen und Risiken der modernen Entwicklungen für eine demokratische Gesellschaft bewerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>Inf-K2</id>
+ 	  	 <name>Mit Informationen umgehen – Information in Form von Daten darstellen und verarbeiten</name>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K2-1</id>
+ 	  	  	 <name>Information, Nachricht, Daten unterscheiden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K2-1-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K2-1-F-1</id>
+ 	  	  	  	  	 <content>die Unterschiede zwischen Information, Nachricht und Daten beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K2-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K2-1-G-1</id>
+ 	  	  	  	  	 <content>geeignete Darstellungsformen von Nachrichten auswählen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K2-1-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K2-1-H-1</id>
+ 	  	  	  	  	 <content>unterschiedliche Interpretationen von Nachrichten diskutieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K2-2</id>
+ 	  	  	 <name>mit Information in Form von Daten umgehen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K2-2-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K2-2-F-1</id>
+ 	  	  	  	  	 <content>die Datentypen für Text, Zahl und Wahrheitswert unterscheiden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K2-2-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K2-2-G-1</id>
+ 	  	  	  	  	 <content>verschiedene Datentypen in unterschiedlichen Zusammenhängen sachgerecht verwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K2-2-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K2-2-H-1</id>
+ 	  	  	  	  	 <content>die unterschiedliche Bedeutung der Operatoren für die einzelnen Datentypen erläutern</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K2-3</id>
+ 	  	  	 <name>Daten codieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K2-3-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K2-3-F-1</id>
+ 	  	  	  	  	 <content>Beispiele für Codierungen von Daten beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K2-3-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K2-3-G-1</id>
+ 	  	  	  	  	 <content>das Verfahren der Codierung beschreiben und die besondere Bedeutung der binären Codierung begründen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K2-3-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K2-3-H-1</id>
+ 	  	  	  	  	 <content>Codierungsverfahren anwenden und selbst entwerfen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K2-4</id>
+ 	  	  	 <name>Informationssysteme nutzen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K2-4-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K2-4-DE-1</id>
+ 	  	  	  	  	 <content>- mit Medien zur Informationsbeschaffung, auch Hilfesystemen, interagieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K2-4-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K2-4-F-1</id>
+ 	  	  	  	  	 <content>die Suche in Informationssystemen gezielt eingrenzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K2-4-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K2-4-G-1</id>
+ 	  	  	  	  	 <content>Informationen in Bezug auf Glaubwürdigkeit, Zuverlässigkeit etc. beurteilen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K2-4-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K2-4-H-1</id>
+ 	  	  	  	  	 <content>Auswirkungen von Informationssystemen auf Gesellschaft und Lebenswelt kritisch bewerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>Inf-K3</id>
+ 	  	 <name>Informatiksysteme verstehen – Wirkprinzipien kennen und anwenden</name>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K3-1</id>
+ 	  	  	 <name>Informatiksysteme beschreiben</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K3-1-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K3-1-DE-1</id>
+ 	  	  	  	  	 <content>die Bestandteile eines Informatiksystems nennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K3-1-FGH</id>
+ 	  	  	  	 <level>FGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K3-1-FGH-1</id>
+ 	  	  	  	  	 <content>alltägliche Informatiksysteme (z. B. Datenbank, Handy, Navigationssystem etc.) beschreiben und typische Bestandteile zuordnen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K3-2</id>
+ 	  	  	 <name>technische Grundlagen erläutern und anwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K3-2-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K3-2-DE-1</id>
+ 	  	  	  	  	 <content>das Zusammenwirken von Hardware, Software und Netzwerk anhand technischerAlltagsgegenstände erläutern</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K3-2-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K3-2-F-1</id>
+ 	  	  	  	  	 <content>das Zusammenwirken von Hardware, Software und Netzwerk anhand technischer Alltagsgegenstände erläutern</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K3-2-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K3-2-GH-1</id>
+ 	  	  	  	  	 <content>ein einfaches Informatiksystem entwerfen, modifizieren bzw. realisieren, z. B.: Verkehrsampelmodell, Robotermodelle</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>Inf-K4</id>
+ 	  	 <name>Informatisches Modellieren – Modelle erstellen und bewerten</name>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K4-1</id>
+ 	  	  	 <name>Informatische Modelle analysieren und bilden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K4-1-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K4-1-F-1</id>
+ 	  	  	  	  	 <content>informatische Modelle als reduzierte Abbildung der realen Welt beschreiben und beurteilen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K4-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K4-1-G-1</id>
+ 	  	  	  	  	 <content>ein Modell selbst erstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K4-1-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K4-1-H-1</id>
+ 	  	  	  	  	 <content>beurteilen, ob das selbst erstellte Modell problemadäquat ist</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K4-2</id>
+ 	  	  	 <name>Grundlegende Konzepte der objektorientierten Modellierung anwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K4-2-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K4-2-G-1</id>
+ 	  	  	  	  	 <content>einer Klasse Eigenschaften zuordnen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K4-2-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K4-2-H-1</id>
+ 	  	  	  	  	 <content>den Zusammenhang zwischen Klassen und Objekten beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K4-3</id>
+ 	  	  	 <name>Relationale Modellbildung anwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K4-3-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K4-3-F-1</id>
+ 	  	  	  	  	 <content>Daten in einer vorgegebenen Tabelle bearbeiten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K4-3-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K4-3-G-1</id>
+ 	  	  	  	  	 <content>eine Datenbank benutzen und den tabellarischen Aufbau nachvollziehen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K4-3-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K4-3-H-1</id>
+ 	  	  	  	  	 <content>den Aufbau einer einfachen Datenbank planen und diese implementieren (ohne Einsatz von SQL)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>Inf-K5</id>
+ 	  	 <name>Problemlösen – Probleme erfassen und mit Informatiksystemen lösen</name>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K5-1</id>
+ 	  	  	 <name>Geeignete Standardsoftware auswählen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K5-1-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K5-1-DE-1</id>
+ 	  	  	  	  	 <content>Standardsoftware zum Erzeugen von Produkten anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K5-1-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K5-1-F-1</id>
+ 	  	  	  	  	 <content>zweckbestimmt Standardsoftware zur Problemlösung auswählen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K5-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K5-1-G-1</id>
+ 	  	  	  	  	 <content>relevante Objekte und deren Attribute bei Standardsoftware nennen und verwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K5-1-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K5-1-H-1</id>
+ 	  	  	  	  	 <content>Dokumente unter Zusammenwirkung verschiedener Standardsoftware erstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K5-2</id>
+ 	  	  	 <name>Algorithmische Abläufe beschreiben</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K5-2-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K5-2-F-1</id>
+ 	  	  	  	  	 <content>eine Definition für den Begriff Algorithmus wiedergeben und Beispiele für algorithmische Abläufe aus dem Alltag nennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K5-2-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K5-2-G-1</id>
+ 	  	  	  	  	 <content>verbal und formalisiert dargestellte algorithmische Abläufe simulieren (Schreibtischtest)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K5-2-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K5-2-H-1</id>
+ 	  	  	  	  	 <content>eine formale Struktur in eine verbale Formulierung überführen und umgekehrt</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K5-3</id>
+ 	  	  	 <name>Abläufe mit Algorithmen modellieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K5-3-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K5-3-F-1</id>
+ 	  	  	  	  	 <content>die algorithmischen Grundstrukturen Sequenz, Verzweigung und Wiederholung problemadäquat anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K5-3-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K5-3-G-1</id>
+ 	  	  	  	  	 <content>die algorithmischen Grundstrukturen in Kombination zielgerichtet anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K5-3-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K5-3-H-1</id>
+ 	  	  	  	  	 <content>Probleme in einzelne unabhängige Teilprobleme zerlegen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K5-4</id>
+ 	  	  	 <name>Programme entwerfen und realisieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K5-4-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K5-4-F-1</id>
+ 	  	  	  	  	 <content>eine Programmierumgebung verwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K5-4-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K5-4-G-1</id>
+ 	  	  	  	  	 <content>formale Darstellungen von Algorithmen implementieren, auch unter Verwendung von Variablen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K5-4-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K5-4-H-1</id>
+ 	  	  	  	  	 <content>Algorithmen entwerfen, implementieren und beurteilen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>Inf-K6</id>
+ 	  	 <name>Kommunizieren und Kooperieren – Teamarbeit organisieren und koordinieren</name>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K6-1</id>
+ 	  	  	 <name>Fachsprache angemessen verwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K6-1-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K6-1-DE-1</id>
+ 	  	  	  	  	 <content>grundlegende informatische Begriffe verwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K6-1-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K6-1-F-1</id>
+ 	  	  	  	  	 <content>informatische Begriffe sachgerecht anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K6-1-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K6-1-GH-1</id>
+ 	  	  	  	  	 <content>in Präsentationen und Dokumentationen einen umfangreichen Fachwortschatz nachweisen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K6-2</id>
+ 	  	  	 <name>Netzwerke zur Kommunikation nutzen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K6-2-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K6-2-DE-1</id>
+ 	  	  	  	  	 <content>Daten im lokalen Netzwerk austauschen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K6-2-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K6-2-F-1</id>
+ 	  	  	  	  	 <content>ausgewählte Beispiele für synchrone und asynchrone Kommunikation und deren Verwendung beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K6-2-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K6-2-G-1</id>
+ 	  	  	  	  	 <content>problemadäquat Kommunikationswege verwenden und die jeweiligen Vor- und Nachteile benennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K6-2-G-2</id>
+ 	  	  	  	  	 <content>die Netiquette beachten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K6-2-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K6-2-H-1</id>
+ 	  	  	  	  	 <content>adressaten-gerechte Inhalte auf einer elektronischen Plattform erstellen - auch im Team</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K6-3</id>
+ 	  	  	 <name>Arbeitsergebnisse dokumentieren und präsentieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K6-3-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K6-3-DE-1</id>
+ 	  	  	  	  	 <content>Arbeitsergebnisse unter Verwendung von Textverarbeitung oder Präsentationssoftware beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K6-3-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K6-3-F-1</id>
+ 	  	  	  	  	 <content>weitergehende Funktionen der Textverarbeitung/Präsentationssoftware verwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K6-3-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K6-3-G-1</id>
+ 	  	  	  	  	 <content>adressatengerecht mit Softwareunterstützung präsentieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K6-3-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K6-3-H-1</id>
+ 	  	  	  	  	 <content>Präsentationen beurteilen und bewerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Inf-K6-4</id>
+ 	  	  	 <name>Teamarbeit selbstständig organisieren und koordinieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K6-4-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K6-4-DE-1</id>
+ 	  	  	  	  	 <content>Vorgaben der Lehrkraft zur Arbeit im Team umsetzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K6-4-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K6-4-F-1</id>
+ 	  	  	  	  	 <content>in Bezug auf die eigene (Teil-) Aufgabe verantwortlich handeln</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Inf-K6-4-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Inf-K6-4-GH-1</id>
+ 	  	  	  	  	 <content>in Bezug auf die gesamte Teamaufgabe verantwortlich handeln</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+		</area>	
+ 	</c2>
+	<c3>
+	<id>C-Inf-3</id>
+		<title>Themen und Inhalte</title>
+		<vortext>
+			In diesem Kapitel werden die Themenfelder und Inhalte für den in unterschiedlichen Organi-sationsformen angebotenen Informatikunterricht dargestellt. Der Informationstechnische Grundkurs (ITG) in Berlin ist mit eingeschlossen.
+Die einzelnen Fachlehrkräfte und die Fachkonferenzen erhalten einen thematischen Rahmen sowie verbindliche Inhalte, die sie je nach Niveaustufe und Schulprofil bei der Planung von Unterricht und bei der Erstellung des schulinternen Curriculums berücksichtigen. Bei der Planung und Konkretisierung werden neben den vorgegebenen Kompetenzen und Inhalten die Interessen der Schülerinnen und Schüler, das Schulprogramm, Gegebenheiten der Schule, Wettbewerbe etc. einbezogen. 
+Die Themenfelder und Inhalte können auf verschiedenen Niveaustufen bearbeitet werden. Sie werden abhängig von der Entwicklung und den Kompetenzen der Lernenden im Unter-richt erarbeitet und vertieft. Die Themenfelder und Inhalte bieten zahlreiche Möglichkeiten, Bezüge zu anderen Fächern und zu übergreifenden Themen herzustellen. Auf unterschiedli-chen Niveaus können einzelne Aspekte erneut aufgegriffen und vertieft werden. 
+Die Themenfelder und Inhalte bilden die Grundlage für differenzierte Aufgabenstellungen und eine Materialauswahl, die eine Herausforderung für das gesamte Leistungsspektrum einer Lerngruppe darstellt. Die Lernenden erhalten Gelegenheit, ihre Fähigkeiten und Fertigkeiten allein und in der Zusammenarbeit mit anderen unter Beweis zu stellen. Sie erfahren dabei, in welchem Maße sie die gesetzten Standards erreichen bzw. was sie tun können, um ihre Kompetenzen zu vertiefen und zu erweitern.
+Die ausgewiesenen Themenfelder werden für Schülerinnen und Schüler, die wegen einer erheblichen und langandauernden Beeinträchtigung ihres Lern- und Leistungsverhaltens sonderpädagogische Förderung erhalten oder für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen  festgestellt wurde, schülerbezogen berücksichtigt. Sie werden entsprechend der Lebensbedeutsamkeit für die Schülerinnen und Schüler ausgewählt.
+Die Heterogenität der Lernenden im Hinblick auf persönliche, soziokulturelle und ethnische Hintergründe sowie unterschiedliche Lebensformen sind wichtige Ausgangspunkte für die Planung des Unterrichts. Diese knüpft an die Realität der Schülerinnen und Schüler an, bezieht dabei im Besonderen die kulturellen Erfahrungen von Lernenden ein. Damit fördert der Unterricht die Stärken unterschiedlicher Persönlichkeiten und nutzt diese für das individuelle Lernen. 
+Die dargestellten Themenfelder und Inhalte greifen die Lebenswirklichkeit der Lernenden auf. Die erworbenen Kompetenzen helfen den Schülerinnen und Schülern bei ihrer Berufswahl und sind Voraussetzungen für ein erfolgreiches Lernen in der gymnasialen Oberstufe.
+Für eine gezielte Förderung der Schülerinnen und Schüler, die die gymnasiale Oberstufe besuchen wollen, sollten im schulinternen Curriculum Hinweise für mögliche Vertiefungen bzw. Erweiterungen unter Berücksichtigung der Eingangsvoraussetzungen des Rahmenlehrplans für die gymnasiale Oberstufe im Fach Informatik aufgeführt werden.
+
+Informationstechnischer Grundkurs (ITG)
+Im Land Berlin werden die Kompetenzen der Niveaustufen D und E im Informationstechni-schen Grundkurs (ITG) erworben. Diese sind durch die drei Themenfelder Standardsoftware (3.1), Informatiksysteme (3.2) und Leben in und mit vernetzten Systemen (3.3) abgedeckt. Dabei hat das Themenfeld Standardsoftware Priorität. 
+Im Land Brandenburg werden die Kompetenzen der Niveaustufen D und E durch schulinterne Schwerpunktsetzung erreicht. Dazu treffen die Schulen konkrete Festlegungen.
+
+Wahlthemenfelder
+Entsprechend der zur Verfügung stehenden Unterrichtszeit soll aus den fünf Wahlthemenfeldern mindestens ein Themenfeld ausgewählt werden. Im Land Berlin ist das Wahlthemenfeld Datenbanken obligatorisch.
+		</vortext>
+	<themainhalt>
+		<id>C-Inf-3-1</id>
+		<title>Standardsoftware</title>
+		<content>Intention des Themenfeldes
+				Grundlegende Fertigkeiten im Umgang mit sogenannter Standardsoftware (Büroanwendungen) bilden die Ausgangsbasis für viele Arbeitsprozesse in Schule und Beruf. Dazu gehört insbesondere der Umgang mit einem Textverarbeitungssystem und Software für die interak-tive Präsentation mit dem Ziel, ein anschlussfähiges Grundniveau sicherzustellen.</content>
+		<inhalt>
+			<id>C-Inf-3-1-1</id>
+			<title>Inhalte</title>
+			<content>­	Umgang mit Textverarbeitungssoftware</content>
+			<content>­	Umgang mit mindestens einer weiteren Software (Präsentation, Tabellenkalkulation oder Grafikbearbeitung)</content>
+			<content>­	Umgang mit einem Browser</content>
+			<content>­	Nutzung von Hilfesystemen</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-1-2</id>
+			<title>Mögliche Kontexte</title>
+			<content>­	Berufe und Arbeitswelt</content>
+			<content>­	Präsentationen</content>
+			<content>­	Bewerbungen</content>
+			<content>­	normgerechte Briefe</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-1-3</id>
+			<title>Beispiele für Differenzierungsmöglichkeiten</title>
+			<content>­	Erstellen eines eigenen Dokumentes unter Einsatz verschiedener Formatierungen</content>
+			<content>­	Erstellen und Vorstellen einer eigenen Präsentation</content>
+			<content>­	Arbeiten mit Format- und Dokumentvorlagen</content>
+		</inhalt>	
+	</themainhalt>
+	<themainhalt>
+		<id>C-Inf-3-2</id>
+		<title>Informatiksysteme</title>
+		<content>Intention des Themenfeldes
+				Für die Teilhabe am gesellschaftlichen Leben ist ein grundlegendes Verständnis über den Aufbau und die technische Wirkungsweise von Informatiksystemen notwendig.</content>
+		<inhalt>
+			<id>C-Inf-3-2-1</id>
+			<title>Inhalte</title>
+			<content>­	Aufbau und Eigenschaften eines Informa-tiksystems</content>
+			<content>­	grundlegende Fertigkeiten im Bedienen von Hard- und Software</content>
+			<content>­	strukturierte Speicherung von Dateien</content>
+			<content>­	Grundprinzipien der Datensicherheit</content>
+			<content>­	EVA-Prinzip (Eingabe-Verarbeitung-Ausgabe)</content>
+			<content>­	Netzwerkkommunikation</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-2-2</id>
+			<title>Mögliche Kontexte</title>
+			<content>­	Smartphones, Tablets, PC</content>
+			<content>­	Betriebssysteme</content>
+			<content>­	grafische Benutzeroberflächen</content>
+			<content>­	Anschluss externer Hardware</content>
+			<content>­	Physical Computing</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-2-3</id>
+			<title>Beispiele für Differenzierungsmöglichkeiten</title>
+			<content>­	Beschreibung unterschiedlicher Beispielsysteme nach dem Grad der Komplexität</content>
+			<content>­	Realisierung eines eigenen Physical-Computing-Projekts (z. B. Arduino)</content>
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-Inf-3-3</id>
+		<title>3.3	Leben in und mit vernetzten Systemen</title>
+		<content>Intention des Themenfeldes
+				Viele Handlungen des Alltags verlagern sich immer weiter in vernetzte Systeme. Auch das Internet der Dinge, die Vernetzung mobiler Endgeräte und von Gebäuden, der Einsatz von Intranets und des Internets in der Arbeitswelt verändern den Alltag. Hierdurch entstehen neue Möglichkeiten, aber auch zusätzliche Risiken.
+				Die gezielte und systematische Beschaffung und Bewertung von Informationen aus Inter-netquellen und klassischen Medien ermöglicht es, sich begründet einen eigenen Standpunkt auf der Grundlage verschiedener Sichtweisen zu bilden.</content>
+		<inhalt>
+			<id>C-Inf-3-3-1</id>
+			<title>Inhalte</title>
+			<content>­	gezielte und geplante Beschaffung von Informationen aus verschiedenen Medien</content>
+			<content>­	sachgerechte Nutzung von Suchmaschinen</content>
+			<content>­	Prüfung der Glaubwürdigkeit der gefundenen Information</content>
+			<content>­	Datenaustausch im Netzwerk</content>
+			<content>­	Datenschutz</content>
+			<content>­	Beachtung der Netiquette bei der digitalen Kommunikation</content>
+			<content>­	rechtliche Grundlagen</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-3-2</id>
+			<title>Mögliche Kontexte</title>
+			<content>­	Online-Lexika (z. B. Wikipedia)</content>
+			<content>­	Vergleich verschiedener Suchmaschinen</content>
+			<content>­	Plagiate</content>
+			<content>­	Schutz der Persönlichkeit</content>
+			<content>­	Cybermobbing</content>
+			<content>­	illegale Kopien</content>
+			<content>­	Überwachung</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-3-3</id>
+			<title>Beispiele für Differenzierungsmöglichkeiten</title>
+			<content>­	erweiterte Möglichkeiten der Suche nutzen, z. B. Verwendung von logischen Operatoren</content>
+			<content>­	Arbeitsweise von Suchmaschinen nachvollziehen</content>
+			<content>­	Gestalten von Internetseiten; Verwendung von Stylesheets</content>
+			<content>­	rechtliche Fallbeispiele diskutieren</content>
+			<content>­	aktuelle Probleme des Datenschutzes diskutieren</content>
+			<content>­	Gefahren bei der Nutzung von E-Mails (z. B. gefälschte Absenderadressen, Phishing, Schadprogramme, Spam)</content>
+		</inhalt>
+	</themainhalt>	
+	<themainhalt>
+		<id>C-Inf-3-4</id>
+		<title>Information und Daten</title>
+		<content>Intention des Themenfeldes
+				Zur Übertragung oder Verarbeitung von Nachrichten bildet der Mensch Information in Daten ab. Für ein umfassendes informatisches Verständnis ist es wichtig, diese informatischen Begriffe korrekt und differenziert verwenden zu können.</content>
+		<inhalt>
+			<id>C-Inf-3-4-1</id>
+			<title>Inhalte</title>
+			<content>­	Daten, Information, Nachricht</content>
+			<content>­	Modell der Informationsübermittlung (Sender-Empfänger-Modell)</content>
+			<content>­	Codierung</content>
+			<content>­	Datensicherheit</content>
+			<content>­	Zahlensysteme</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-4-2</id>
+			<title>Mögliche Kontexte</title>
+			<content>­	ASCII, ANSI, Unicode</content>
+			<content>­	Konvertieren in andere Zahlensysteme</content>
+			<content>­	Rechnen mit Dualzahlen</content>
+			<content>­	Strichcode</content>
+			<content>­	QR-Code</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-4-3</id>
+			<title>Beispiele für Differenzierungsmöglichkeiten</title>
+			<content>­	Addition und Subtraktion in unterschiedlichen Zahlensystemen</content>
+			<content>­	Erstellung eines eigenen Codierungsformates</content>
+		</inhalt>
+	</themainhalt>	
+	<themainhalt>
+		<id>C-Inf-3-5</id>
+		<title>Algorithmisches Problemlösen</title>
+		<content>Intention des Themenfeldes
+				Methoden zum systematischen Problemlösen fördern die Handlungsfähigkeit der Schülerinnen und Schüler in der Informationsgesellschaft. Deshalb ist es eine entscheidende Aufgabe des Informatikunterrichts, das informatische Grundwissen zu Algorithmen sowie zugehörige Arbeitsmethoden bereitzustellen. Die Schülerinnen und Schüler sollen den Gesamtprozess des Problemlösens von der Problemstellung über ein formalisiertes Modell, das Aufstellen eines Algorithmus bis hin zur Implementierung an Beispielen kennenlernen und anwenden können.</content>
+		<inhalt>
+			<id>C-Inf-3-5-1</id>
+			<title>Inhalte</title>
+			<content>­	Eigenschaften und Darstellung von Algorithmen</content>
+			<content>­	Modellierung einfacher Abläufe durch Algorithmen</content>
+			<content>­	algorithmische Grundstrukturen</content>
+			<content>­	Analysieren, Modifizieren und Implemen-tieren von Algorithmen</content>
+			<content>­	Variablenkonzept und Prozeduren</content>
+			<content>­	Grundlagen der Objektorientierung: Beschreiben von Objekten anhand ihrer Eigenschaften und Methoden</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-5-2</id>
+			<title>Mögliche Kontexte</title>
+			<content>­	Roboter, z. B. LEGO Mindstorms</content>
+			<content>­	Miniwelten z. B. Karol, KARA</content>
+			<content>­	(visuelle) Programmiersprachen</content>
+			<content>­	Codierung</content>
+			<content>­	Zeichenkettenbearbeitung, z. B. als Voraussetzung für die Implementierung von Verschlüsselungsverfahren</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-5-3</id>
+			<title>Beispiele für Differenzierungsmöglichkeiten</title>
+			<content>­	Nachvollziehen von Algorithmen</content>
+			<content>­	Erstellung eigener Algorithmen mit grafischen Hilfsmitteln</content>
+			<content>­	Programmierung eigener Algorithmen</content>
+		</inhalt>
+	</themainhalt>	
+	<themainhalt>
+		<id>C-Inf-3-6</id>
+		<title>Geschichte der Informatik (Wahlthemenfeld)</title>
+		<content>Intention des Themenfeldes
+				Die Anfänge der Informatik beruhen auf dem Bedürfnis des Menschen, sich von der monoto-nen Rechenarbeit zu entlasten. Verschiedene Hilfsmittel sollten diese Aufgaben übernehmen und die Fehlerquote minimieren. Die Entwicklung der Informationstechnik wird von der Leistung einzelner Personen und dem wissenschaftlichen und technischen Fortschritt getragen.</content>
+		<inhalt>
+			<id>C-Inf-3-6-1</id>
+			<title>Inhalte</title>
+			<content>­	Lebensläufe und Leistungen bedeutender Persönlichkeiten</content>
+			<content>­	technische Entwicklung der Informations-übertragung nachvollziehen</content>
+			<content>­	Veränderung von Berufsfeldern</content>
+			<content>­	aktuelle und mögliche Entwicklungen der Informationstechnik</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-6-2</id>
+			<title>Mögliche Kontexte</title>
+			<content>­	SCHICKARD, PASCAL, LEIBNIZ, BABBAGE, ZUSE, TURING, VON NEUMANN u. a.</content>
+			<content>­	Signalverarbeitung, z. B. Telegrafie</content>
+			<content>­	Rechenhilfsmittel untersuchen</content>
+			<content>­	Verschlüsselung</content>
+			<content>­	Rechnergeneration und mooresches Gesetz</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-6-3</id>
+			<title>Beispiele für Differenzierungsmöglichkeiten</title>
+			<content>­	detaillierte Darlegung und Wertung verschiedener Leistungen</content>
+			<content>­	Einsatz von Rechentechnik im Berufsalltag</content>
+			<content>­	Beurteilungen von historischen und neueren Entwicklungen</content>
+		</inhalt>
+	</themainhalt>	
+	<themainhalt>
+		<id>C-Inf-3-7</id>
+		<title>Datenbanken (Wahlthemenfeld)</title>
+		<content>Intention des Themenfeldes
+				Der Zugriff auf große Mengen strukturierter Daten zu jeder Zeit und von fast jedem Ort aus ist eine Selbstverständlichkeit geworden. Das Verständnis der zugrunde liegenden Technologien ermöglicht eine effiziente Nutzung und eine Beurteilung der Ergebnisse.</content>
+		<inhalt>
+			<id>C-Inf-3-7-1</id>
+			<title>Inhalte</title>
+			<content>­	lebensweltliche Datensammlungen nennen und beschreiben</content>
+			<content>­	Attribute mit Name, Typ und Wert sowie Datensätze unterscheiden</content>
+			<content>­	Datensätze suchen, einfügen, löschen oder verändern</content>
+			<content>­	Datenbanken mit Standardsoftware als Tabellen planen und realisieren</content>
+			<content>­	verknüpfte Tabellen entwerfen und einsetzen</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-7-2</id>
+			<title>Mögliche Kontexte</title>
+			<content>­	Mediendatenbanken</content>
+			<content>­	Datenschutz</content>
+			<content>­	rechtlicher Rahmen von personenbezogenen Daten</content>
+			<content>­	wissenschaftliche Literaturrecherche</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-7-3</id>
+			<title>Beispiele für Differenzierungsmöglichkeiten</title>
+			<content>­	Benutzung, Ergänzung, Modifikation und Modellierung auf verschiedenen Abstraktionsniveaus</content>
+		</inhalt>
+	</themainhalt>	
+	<themainhalt>
+		<id>C-Inf-3-8</id>
+		<title>Projektmanagement (Wahlthemenfeld)</title>
+		<content>Intention des Themenfeldes
+				Projekte, insbesondere Softwareprojekte, sind integraler Bestandteil der Informatik. Dazu existieren fachtypische Verfahren und Abläufe, um ein Projekt von der Planung bis zur Realisierung zu steuern.
+				Genauso wie die Projektarbeit gehört die Teamarbeit zur Umsetzung informatischer Projekte.</content>
+		<inhalt>
+			<id>C-Inf-3-8-1</id>
+			<title>Inhalte</title>
+			<content>­	Planung und Durchführung eines Projekts (Hard- und/oder Software)</content>
+			<content>­	Arbeiten und Kooperieren im Team</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-8-2</id>
+			<title>Mögliche Kontexte</title>
+			<content>­	Analyse bestehender Projektabläufe</content>
+			<content>­	Softwareentwicklung im Team</content>
+			<content>­	Entwicklung eines autonomen Roboters</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-8-3</id>
+			<title>Beispiele für Differenzierungsmöglichkeiten</title>
+			<content>­	Arbeiten in einem Team an einem Projekt</content>
+			<content>­	Erfassung der Arbeitsschritte eines Projekts und ihrer Abhängigkeiten</content>
+			<content>­	Erstellung eines Projektplanes</content>
+			<content>­	Reflektieren über das verwendete Vorgehensmodell</content>
+		</inhalt>
+	</themainhalt>	
+	<themainhalt>
+		<id>C-Inf-3-9</id>
+		<title>Physical Computing (Wahlthemenfeld)</title>
+		<content>Intention des Themenfeldes
+				Im Alltag werden wir ständig von Computern begleitet, deren Algorithmen unsere physische Welt beeinflussen. Durch Sensoren und Aktoren erscheinen Geräte mit eingebetteten Mikrocontrollern intelligent und erobern beständig neue Einsatzgebiete.
+				Möglichkeiten und Grenzen dieser elektronischen Systeme sowie die Veränderungen der Lebenswelt durch deren Einsatz sollen hier untersucht und nach Möglichkeit praktisch erprobt werden.</content>
+		<inhalt>
+			<id>C-Inf-3-9-1</id>
+			<title>Inhalte</title>
+			<content>­	eingebettete Systeme charakterisieren</content>
+			<content>­	Verarbeitung elektrischer Größen</content>
+			<content>­	Verwendung von Mikrocontrollern als Informatiksystem</content>
+			<content>­	Aufbau einfacher elektronischer Schaltungen</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-9-2</id>
+			<title>Mögliche Kontexte</title>
+			<content>­	Gestaltung von Lichteffekten</content>
+			<content>­	Ampelsteuerung</content>
+			<content>­	ABS und ESP im Auto</content>
+			<content>­	Robotik</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-9-3</id>
+			<title>Beispiele für Differenzierungsmöglichkeiten</title>
+			<content>­	Nachbau, Analyse oder Modifikation einer Schaltung als Ansichtsexemplar oder als abstrak-ter Schaltplan</content>
+			<content>­	Aufbau geeigneter Roboter mit fertigen Bausätzen</content>
+		</inhalt>
+	</themainhalt>	
+	<themainhalt>
+		<id>C-Inf-3-10</id>
+		<title>Digitale Bilder und Visualisierung (Wahlthemenfeld)</title>
+		<content>Intention des Themenfeldes
+				Schülerinnen und Schülern begegnen täglich digitalen Bildern und Grafiken, also Darstellungen, die digital gespeichert, mit Software bearbeitet oder auch von Software erzeugt worden sind.
+				In diesem Themenfeld erwerben sie grundlegende Kompetenzen im Umgang mit digitalen Grafiken und Bildern.
+				Gleichzeitig erfahren sie, welche Eindrücke Bilder hinterlassen können und wie manipulierte Bilder die Wahrnehmungen verändern.
+				Das Themenfeld soll zu einer kritischen Betrachtung und einer reflektierten Verwendung von digitalen Bildern beitragen.</content>
+		<inhalt>
+			<id>C-Inf-3-10-1</id>
+			<title>Inhalte</title>
+			<content>­	Bedeutung und Anwendung von digitalen Bildern</content>
+			<content>­	Digitalisierung von Bildern</content>
+			<content>­	Raster- und Vektorgrafik</content>
+			<content>­	Farbmodelle</content>
+			<content>­	Bildbearbeitung</content>
+			<content>­	Manipulation von Bildern und Filmen</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-10-2</id>
+			<title>Mögliche Kontexte</title>
+			<content>­	die Macht der Bilder in der Werbung</content>
+			<content>­	Bildmanipulationen und Fälschungen</content>
+			<content>­	digitale Visualisierung geografischer Daten</content>
+			<content>­	Turtle-Grafik</content>
+			<content>­	Erzeugung von Figuren und Animationen mit Scratch</content>
+		</inhalt>
+		<inhalt>
+			<id>C-Inf-3-10-3</id>
+			<title>Beispiele für Differenzierungsmöglichkeiten</title>
+			<content>­	Softwaregenerierte Grafiken und Bilder</content>
+			<content>­	Rekursive Algorithmen zur Erstellung von Grafiken</content>
+		</inhalt>
+	</themainhalt>		
+	</c3>	
+</fach>	
+			
+			
