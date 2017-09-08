@@ -1,0 +1,2464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fach xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns="http://bsbb.eu" 
+	xsi:schemaLocation="http://bsbb.eu fachtype.xsd">
+
+	<id>C-Ph</id>
+	<title>Physik</title>
+	<c1>
+		<id>C-Ph-1</id>
+		<title>1	Kompetenzentwicklung im Fach Psychologie</title>
+		<subtext>
+			<id>C-Ph-1-1</id>
+			<title>Ziele des Unterrichts</title>
+			<content>Naturwissenschaftliche Bildung als wesentlicher Bestandteil von Allgemeinbildung ist notwendige Voraussetzung für eine aktive Gestaltung von technischen, gesellschaftlichen und sozialen Entwicklungen. Naturwissenschaftliche Strategien und Kompetenzen sind die entscheidenden Grundlagen der modernen Wertschöpfung und stellen somit die Basis für viele hochqualifizierte Berufsfelder der Gegenwart und der Zukunft dar.
+					Der Physikunterricht in den Jahrgangsstufen 7 bis 10 leistet im Rahmen der naturwissen-schaftlichen Bildung folgende Beiträge:
+					–	Die Schülerinnen und Schüler nehmen die Natur unter physikalischen Aspekten wahr. Sie beschreiben und erklären physikalische Phänomene, kommunizieren über physikalische Sachverhalte und sind in der Lage, auf der Grundlage von physikalischem Wissen persönlich, sachbezogen und kritikoffen Stellung zu beziehen.
+					–	Die Schülerinnen und Schüler erkennen die Physik als theoriegeleitete Erfahrungswissen-schaft. Dabei besitzen auch das Formalisieren und das Mathematisieren physikalischer Sachverhalte einen wachsenden Stellenwert. Hierdurch wird die Entwicklung abstrakten und funktionalen Denkens gefördert.
+					–	Die Schülerinnen und Schüler wenden physikalische Methoden an, die auch in lebensweltlichen Zusammenhängen von Bedeutung sind, wie z. B. das Aufstellen und das Prüfen von Hypothesen und das Experimentieren.
+					–	Die Schülerinnen und Schüler erwerben grundlegende Kenntnisse und Fähigkeiten, die ihnen das Verstehen und Beherrschen physikalisch-technischer Geräte und Systeme in der Alltagswelt ermöglichen bzw. erleichtern.
+					Zudem leistet der Physikunterricht als Teil der naturwissenschaftlichen Bildung einen wichtigen Beitrag zur Entwicklung der Mündigkeit der Bürgerinnen und Bürger, z. B. bei Technik-Folgen-Abschätzungen, bei Richtungsentscheidungen über grundlegende Fragen zur technischen Nutzung physikalischer Erkenntnisse und über den Einsatz von Ressourcen für die physikalische und technische Forschung.
+					Lernprozesse finden in situativen Sinn- und Sachzusammenhängen statt. Dabei sollen Kontexte aufgegriffen werden, die an die Alltagserfahrungen der Lernenden anknüpfen und die für Schülerinnen und Schüler gleichermaßen interessant sind.
+					Die digitalen Medien stellen eine Komponente der für den Unterricht verfügbaren Medien dar. Bei der Planung des Unterrichts werden diejenigen Medien ausgewählt, mit denen in bestimmten Unterrichtssituationen die jeweiligen Lernziele am besten erreicht werden können. Der Computer wird vorzugsweise dann eingesetzt, wenn ein Mehrwert gegenüber dem Einsatz anderer Medien offensichtlich zu erwarten ist.
+					Die Schülerinnen und Schüler erfahren die Vorteile des Hilfsmittels Computer für die Bearbeitung physikalischer Fragestellungen. Bei den Schülerinnen und Schülern sind allgemeine Kompetenzen, die auch in anderen Fächern eine Rolle spielen, aufzugreifen und weiter zu entwickeln, z. B. physikalisches Wissen mithilfe geeigneter Softwarewerkzeuge zu präsentieren sowie zielgerichtet Informationen mithilfe von Internetdiensten zu beschaffen. Daneben bietet der Physikunterricht weitere Möglichkeiten der Entwicklung spezieller Fähigkeiten und Fertigkeiten, wie das Erfassen von Messdaten mithilfe von Messinterfaces, das Auswerten von Messdaten mit Tabellenkalkulationssoftware und das Arbeiten mit Computersimulationen zur Veranschaulichung von Phänomenen und Zusammenhängen.
+			</content>
+		</subtext>
+		<subtext>
+			<id>C-Ph-1-2</id>
+			<title>Fachbezogene Kompetenzen</title>
+			<content>Das Lernen der Schülerinnen und Schüler im Fach Physik knüpft an die im Fach Natur-wissenschaften 5/6 erworbenen Kompetenzen an.
+					Naturwissenschaftliches Arbeiten erfolgt unabhängig von der speziellen Fachrichtung nach den gleichen grundlegenden Prinzipien. Daher weisen die im Fach Physik und die in den anderen naturwissenschaftlichen Fächern zu erwerbenden Kompetenzen große Gemeinsamkeiten auf.
+					Um diese Gemeinsamkeiten zu verdeutlichen und Anhaltspunkte für fachübergreifendes und fächerverbindendes Arbeiten aufzuzeigen, sind nachfolgend die Kompetenzen für die naturwissenschaftlichen Fächer gemeinsam beschrieben.
+					
+					Mit Fachwissen umgehen
+					Die Schülerinnen und Schüler erwerben Kompetenzen in der Auseinandersetzung mit fachlichen Fragestellungen und Inhalten. Dabei erfordern die Breite der Naturwissenschaften, ihr Wissensstand und ihre Dynamik eine Reduktion auf wesentliche naturwissenschaftliche Inhalte und ein exemplarisches Vorgehen.
+					Bei der Kompetenzentwicklung im Physikunterricht spielen die Basiskonzepte Materie, Wechselwirkung, System und Energie eine wichtige Rolle.
+					Basiskonzepte sind grundlegende Leitideen, mit denen die Inhalte des Faches strukturiert werden können. Sie ermöglichen den Schülerinnen und Schülern, neu erworbenes mit be-kanntem Wissen zu verknüpfen und einzuordnen und unterstützen so die Systematisierung des eigenen Wissens. Dabei erheben die genannten Basiskonzepte nicht den Anspruch, das Fachwissen vollständig abzubilden. In der Abbildung sind wichtige Aspekte der vier Basiskonzepte aufgeführt.
+					
+					Basiskonzepte der Physik
+					
+					ENERGIE   			–	Umwandeln, Transportieren und Speichern von Energie
+										–	Energieerhaltung
+									
+					SYSTEM				–	Struktur von Systemen
+										–	Veränderung von Systemen
+										–	Wechselwirkung zwischen System und Umgebung
+									
+									
+					MATERIE				–	Eigenschaften von Materie
+										–	Modelle von ihrer Struktur
+									
+									
+					WECHSELWIRKUNGEN	–	Ursache und Wirkung
+										–	Vorhersage physikalischer Vorgänge
+										–	Feldkonzept
+									
+					Ihre systematisierende Funktion können Basiskonzepte erst dann entfalten, wenn zuvor im Unterricht in lebensnahen und problemorientierten Kontexten die mögliche Anwendung des Wissens gelernt wurde. Das bedeutet, dass situiertes und systematisches Lernen gleichermaßen eine wesentliche Voraussetzung für den Erwerb intelligenten und flexiblen Wissens darstellen.
+					Mithilfe des erworbenen Grundwissens verfolgen und bewerten die Schülerinnen und Schüler naturwissenschaftliche Problemfelder in gesellschaftlichen Zusammenhängen und Diskussionen. Dieses Grundwissen ist außerdem Basis für eine Vertiefung naturwissen-schaftlicher Bildung in weiterführenden Bildungsgängen.
+									
+					Erkenntnisse gewinnen
+					Die Naturwissenschaften nutzen als grundlegende wissenschaftsmethodische Verfahren die Beobachtung, den Vergleich, das Experiment sowie die Modellbildung. Die Schülerinnen und Schüler beobachten und beschreiben Phänomene, formulieren Fragestellungen und stellen Hypothesen auf. Sie planen ihr Vorgehen und erschließen sachgerechte Informationen mithilfe entsprechender Untersuchungs- sowie Recherchemethoden. Sie wenden dabei fach-spezifische und allgemeine naturwissenschaftliche Arbeitstechniken an: Zurückführen auf und Einordnen in bereits Bekanntes, Systematisieren, Vergleichen, Aufstellen von Hypothe-sen, Experimentieren. Die Lernenden werten gewonnene Daten bzw. Ergebnisse aus, überprüfen Hypothesen und beantworten die Fragestellungen.
+					Modelle und Modellbildung kommen im naturwissenschaftlichen Erkenntnisprozess besonders dann zur Anwendung, wenn komplexe Phänomene bearbeitet oder veranschaulicht werden müssen. Die Lernenden verwenden ein Modell als eine idealisierte oder generalisierte Darstellung eines existierenden oder gedachten Objekts, Systems oder Prozesses. Die Auswahl eines geeigneten Modells unter Beachtung der Fragestellung und das kritische Reflektieren des Modells sind bedeutsamer Teil der naturwissenschaftlichen Erkenntnisgewinnung.
+					
+					Kommunizieren
+					Die Fähigkeit zu adressatengerechter und sachbezogener Kommunikation unter Einbezie-hung geeigneter Medien ist ein wesentlicher Bestandteil naturwissenschaftlicher Grundbildung. Dazu ist eine sachgemäße Verknüpfung von Alltags- und Fachsprache erforderlich.
+					In ihrer Lebenswelt begegnen den Schülerinnen und Schülern Phänomene, die sie sich und anderen aufgrund ihrer Kenntnisse in den Fächern Physik, Biologie und Chemie unter Nutzung der Fachsprache erklären können. In der anzustrebenden Auseinandersetzung erkennen sie die Zusammenhänge, suchen Informationen und werten diese aus. Dazu ist es notwendig, dass sie die entsprechende Fachsprache verstehen, korrekt anwenden und ggf. in die Alltagssprache umsetzen.
+					Die Schülerinnen und Schüler stellen ihre Position fachbezogen dar, durchdenken sie, finden Argumente oder revidieren ggf. ihre Auffassung aufgrund der vorgetragenen Einwände.
+									
+					Bewerten
+					Naturwissenschaftliches Denken und Arbeiten tragen wesentlich zum Verständnis und zur Bewertung naturwissenschaftlicher, technischer und gesellschaftlicher Entscheidungen bei. Sie sind Teil einer zukunftsorientierten Allgemeinbildung.
+					Die gezielte Auswahl von Kontexten ermöglicht es den Lernenden, naturwissenschaftliche Kenntnisse auf neue Fragestellungen zu übertragen, Probleme in realen Situationen zu erfassen, Interessenkonflikte auszumachen, mögliche Lösungen zu erwägen und deren Konsequenzen zu diskutieren. Bei der Betrachtung gesellschaftsrelevanter Themen aus unterschiedlichen Perspektiven erkennen die Schülerinnen und Schüler, dass Problemlösungen von Wertentscheidungen abhängig sind. Sie prüfen Argumente auf ihren sachlichen und ideologischen Anteil und treffen Entscheidungen sachgerecht, selbstbestimmt und verantwortungsbewusst.
+					Sie differenzieren nach biologisch, chemisch und physikalisch belegten, hypothetischen oder nicht naturwissenschaftlichen Aussagen in Texten und Darstellungen und kennen die Grenzen der naturwissenschaftlichen Sichtweise.
+					
+					Weitere Hinweise zu den Kompetenzbereichen
+					Für den Kompetenzbereich Mit Fachwissen umgehen sind im Kapitel 2.1 für die jeweiligen naturwissenschaftlichen Fächer fachspezifische Standards formuliert. Die Standards orientieren sich an den Basiskonzepten des jeweiligen Faches, ohne diese jedoch vollständig abzu-bilden.
+					Für die Kompetenzbereiche Erkenntnisse gewinnen (Kapitel 2.2), Kommunizieren (Kapitel 2.3) und Bewerten (Kapitel 2.4) sind gemeinsame Standards für die Fächer Naturwissen-schaften 7 – 10 und Biologie, Chemie, Physik in ihrer Progression angegeben.
+					Die Standards des Kompetenzbereiches Erkenntnisse gewinnen beschreiben die Fähigkeiten der Schülerinnen und Schüler, aus Beobachtungen oder Modellen Daten zu gewinnen, daraus Schlussfolgerungen zu ziehen und dabei auch die Grenzen der Aussagefähigkeit zu erfassen. Die Kompetenzentwicklung zeigt sich im Grad der Selbstständigkeit bei der Aneignung naturwissenschaftlicher Erkenntnismethoden.
+					Bei den Standards des Kompetenzbereiches Kommunizieren wurden neben den KMK-Standards für den Mittleren Schulabschluss der Fächer Biologie, Chemie und Physik auch die Standards des Basiscurriculums Sprachbildung berücksichtigt.
+					Die drei Teilbereiche des Kompetenzbereiches Bewerten werden auf der Grundlage der KMK-Bildungsstandards für den Mittleren Schulabschluss und unter Berücksichtigung des Basiscurriculums Medienbildung fachübergreifend dargestellt. Das Wissen über nachhaltige Entwicklung bildet das Fundament für den Erwerb der Kompetenzen der drei Teilbereiche beim Bewertungsprozess.
+			</content>
+		</subtext>
+	</c1>
+	<c2>
+		<vorwort>
+		<id>C-Ph-2-BE</id>
+		<title>Regelungen für das Land Berlin</title>
+		<content>Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler.
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungsvorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+Für Grundschulen und Grundstufen der Gemeinschaftsschulen sowie an 
+weiterführenden Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Schulanfangsphase 	Niveaustufen A, B, in Teilen C
+Jahrgangsstufen	3 – 4	Niveaustufe C, in Teilen D
+Jahrgangsstufe	5	Niveaustufen C – D 
+Jahrgangsstufe	6	Niveaustufe D, in Teilen E
+
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen 
+werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufe 		3	Niveaustufe B, in Teilen C
+Jahrgangsstufen		4 – 6	Niveaustufe C
+Jahrgangsstufen 	7 – 8	Niveaustufe D
+Jahrgangsstufen 	9 – 10	Niveaustufen D – E
+
+Zur Vorbereitung auf den der Berufsbildungsreife gleichwertigen Abschluss werden in den Jahrgangsstufen 9 und 10 auch Angebote auf dem Niveau F unterbreitet.
+Je nach dem Grad der Lernbeeinträchtigung erreichen die Schülerinnen und Schüler die gesetzten Standards nicht im vollen Umfang bzw. nicht zum vorgegebenen Zeitpunkt. Dem trägt eine individuelle Ausrichtung des Unterrichtsangebots Rechnung.
+Für die Integrierte Sekundarschule gilt:
+grundlegendes Niveau:
+Jahrgangsstufen	7 – 8	Niveaustufen D – E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufe F, in Teilen G
+erweitertes Niveau: 
+Jahrgangsstufen	7 – 8 	Niveaustufe E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufen F – G
+
+
+Für das Gymnasium gilt:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+
+Die folgende Darstellung veranschaulicht die im Berliner Schulsystem in den Jahrgangsstufen 1 bis 10 möglichen Lerngeschwindigkeiten im Überblick und zeigt die Durchlässigkeit des Schulsystems. Sie bietet zudem eine Grundlage für eine systematische Schullaufbahnberatung. In der Darstellung ist auch erkennbar, welche Anforderungen Schülerinnen und Schüler erfüllen müssen, die die Voraussetzungen für den Erwerb der Berufsbildungsreife erst am Ende der Jahrgangsstufe 10 erreichen. Dieses Niveau können auch Schülerinnen und Schüler mit dem sonderpädagogischen Förderschwerpunkt Lernen erreichen, wenn sie den der Berufsbildungsreife gleichwerten Abschluss anstreben. 
+
+Für den Unterricht im Fach Physik werden Standards auf den Niveaustufen D bis H ausge-wiesen. Schülerinnen und Schüler haben in der Schule bereits vielfältige Vorerfahrungen gewonnen, die sie im Unterricht in neu einsetzenden Fächern nutzen können. Am Ende der Jahrgangsstufe 10 wird das entsprechende Übergangs- bzw. Abschlussniveau erreicht.
+Epochal erteilter Unterricht orientiert sich an Doppeljahrgangsstufen und stellt sicher, dass am Ende einer Doppeljahrgangsstufe die jeweils vorgegebenen Niveaustufen für beide Jahrgangsstufen erreicht werden. Im schulinternen Curriculum wird festgelegt, wie am Ende der Jahrgangsstufe 10 das entsprechende Abschluss- bzw. Übergangsniveau erreicht wird.</content>
+</vorwort>		
+	<vorwort>
+		<id>C-Ph-2-BB</id>
+		<title>Regelungen für das Land Brandeburg</title>
+		<content>					
+Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler. 
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungs­vorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+Grundschule 
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang der Grundschule Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden können.
+Für Grundschulen und für Primarstufen von Ober- und Gesamtschulen sowie für weiterführende allgemeinbildende Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Jahrgangsstufen	1 – 2	Niveaustufen A und B
+Jahrgangsstufen	3 – 4	Niveaustufe C
+Jahrgangsstufen	5 – 6	Niveaustufe D 
+
+Förderschwerpunkt Lernen
+Die folgende tabellarische Darstellung beschreibt, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang zum Erwerb des Abschlusses der Schule mit dem sonderpädagogischen Förderschwerpunkt Lernen Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden können.
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen 
+werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufen	1 – 2	Niveaustufen A und B 
+Jahrgangsstufe	3	Niveaustufe B
+Jahrgangsstufen	4 – 6	Niveaustufe C
+Jahrgangsstufen	7 – 8	Niveaustufe D
+Jahrgangsstufen	9 – 10	Niveaustufen D und E
+
+Schülerinnen und Schüler, für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen festgestellt worden ist und die dem Bildungsgang Förderschule Lernen gemäß § 30 BbgSchulG zugeordnet sind, erhalten im Unterricht Lernangebote, die ein Erreichen der Niveaustufen A, B, C, D und E ermöglichen sollen. Hierbei sind die individuellen Lernvoraussetzungen der Schülerinnen und Schüler zu berücksichtigen.
+In diesem Bildungsgang wird mit der Niveaustufe E das gemeinsame Bildungsziel am Ende der Jahrgangsstufe 10 abgebildet.
+Zur Vorbereitung auf den der Berufsbildungsreife entsprechenden Abschluss wird in den Jahrgangsstufen 9 und 10 schülerbezogen auch auf dem Niveau F unterrichtet.
+Schulen der Sekundarstufe I
+Ausgehend vom grundlegenden, erweiterten und vertieften Anspruchsniveau unterscheidet sich der Unterricht in der Sekundarstufe I in der Art der Erschließung, der Vertiefung und dem Grad der Komplexität der zugrunde gelegten Themen und Inhalte. Bei der inneren Organisation in Klassen und Kursen ist dies zu berücksichtigen.
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel in den verschiedenen Bildungsgängen der Sekundarstufe I Niveaustufen durchlaufen bzw. erreichen. Der Unterricht enthält immer auch Angebote auf der jeweils höheren Niveaustufe.
+Am Unterricht in Fächern ohne äußere Fachleistungsdifferenzierung nehmen Schülerinnen und Schüler mit unterschiedlichen Lernvoraussetzungen teil. Die dem Unterricht zugrunde gelegte Niveaustufe ist daher so zu wählen, dass sie für alle Lernenden eine optimale Förderung ermöglicht.
+
+a) Oberschule
+In der EBR-Klasse des kooperativen Modells und im A-Kurs des integrativen Modells wird im Unterricht eine grundlegende Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufen D und E
+Jahrgangsstufe	8 	Niveaustufen E und F
+Jahrgangsstufe	9	Niveaustufe F
+Jahrgangsstufe	10	Niveaustufen F und G
+
+In der FOR-Klasse des kooperativen Modells sowie im B-Kurs des integrativen Modells wird im Unterricht eine erweiterte Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8 	Niveaustufen E und F
+Jahrgangsstufe	9	Niveaustufen F und G
+Jahrgangsstufe	10	Niveaustufe G
+
+In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass sowohl eine grundlegende als auch eine erweiterte Bildung vermittelt wird. Hierbei sind die für die Oberschule dargestellten Niveaustufen zugrunde zu legen.
+
+b) Gesamtschule
+Im G-Kurs der Gesamtschule wird zur Sicherung der Durchlässigkeit zum E-Kurs neben der grundlegenden Bildung auch die erweiterte Bildung vermittelt. Im E-Kurs der Gesamtschule wird zur Sicherung der Durchlässigkeit zum G-Kurs neben der vertieften Bildung auch die erweiterte Bildung vermittelt.
+In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass eine grundlegende, erweiterte und vertiefte Bildung vermittelt wird. Hierbei sind die für die Oberschule und das Gymnasium dargestellten Niveaustufen zugrunde zu legen.
+
+c) Gymnasium
+In den Klassen des Gymnasiums wird im Unterricht eine vertiefte Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+
+Für den Unterricht im Fach Physik werden Standards auf den Niveaustufen D bis H ausge-wiesen. Schülerinnen und Schüler haben in der Schule bereits vielfältige Vorerfahrungen gewonnen, die sie im Unterricht in neu einsetzenden Fächern nutzen können. Am Ende der Jahrgangsstufe 10 wird das entsprechende Übergangs- bzw. Abschlussniveau erreicht.
+Epochal erteilter Unterricht orientiert sich an Doppeljahrgangsstufen und stellt sicher, dass am Ende einer Doppeljahrgangsstufe die jeweils vorgegebenen Niveaustufen für beide Jahrgangsstufen erreicht werden. Im schulinternen Curriculum wird festgelegt, wie am Ende der Jahrgangsstufe 10 das entsprechende Abschluss- bzw. Übergangsniveau erreicht wird.
+</content>
+	</vorwort>
+	<area>
+	 <id>Ph-K1</id>
+ 	  	 <name>Mit Fachwissen umgehen</name>
+ 	  	 <subarea>
+ 	  	  	 <id>Ph-K1-1</id>
+ 	  	  	 <name>Struktur der Materie</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K1-1-1</id>
+ 	  	  	  	 <name>Eigenschaften von Stoffen und Körpern</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-1-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-1-1-D-1</id>
+ 	  	  	  	  	  	 <content>Eigenschaften von Körpern und Stoffen beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-1-1-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-1-1-E-1</id>
+ 	  	  	  	  	  	 <content>Eigenschaften und Veränderungen von Stoffen und Körpern mithilfe von physikalischen Größen beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-1-1-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-1-1-F-1</id>
+ 	  	  	  	  	  	 <content>Unterschiede zwischen Isotopen erklären</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-1-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-1-1-GH-1</id>
+ 	  	  	  	  	  	 <content>Wechselwirkungen zwischen radioaktiver Strahlung und Materie beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K1-1-2</id>
+ 	  	  	  	 <name>Teilchenvorstellungen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-1-2-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-1-2-D-1</id>
+ 	  	  	  	  	  	 <content>Phänomene des Alltags mithilfe einfacher Teilchenvorstellungen beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-1-2-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-1-2-E-1</id>
+ 	  	  	  	  	  	 <content>Aggregatszustandsänderungen, die Größen Temperatur und elektrischer Widerstand mithilfe einfacher Teilchenvorstellungen erklären</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-1-2-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-1-2-F-1</id>
+ 	  	  	  	  	  	 <content>ein Kern-Hülle-Modell des Atoms erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-1-2-G</id>
+ 	  	  	  	  	 <level>G</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-1-2-G-1</id>
+ 	  	  	  	  	  	 <content>die Ausbreitung von mechanischen Wellen im Teilchenmodell erklären</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-1-2-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-1-2-H-1</id>
+ 	  	  	  	  	  	 <content>Möglichkeiten und Grenzen von Teilchenmodellen erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>Ph-K1-2</id>
+ 	  	  	 <name>System</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K1-2-1</id>
+ 	  	  	  	 <name>Systembegriff</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-2-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-2-1-D-1</id>
+ 	  	  	  	  	  	 <content>Komponenten technischer Geräte und anderer Objekte beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-2-1-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-2-1-E-1</id>
+ 	  	  	  	  	  	 <content>Systeme (thermische, mechanische, optische) und ihre Komponenten beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-2-1-E-2</id>
+ 	  	  	  	  	  	 <content>stabile und instabile Systeme identifizieren und beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-2-1-FG</id>
+ 	  	  	  	  	 <level>FG</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-2-1-FG-1</id>
+ 	  	  	  	  	  	 <content>Komponenten von Systemen identifizieren und ihr Zusammenwirken beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-2-1-FG-2</id>
+ 	  	  	  	  	  	 <content>stabile und instabile Systeme erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-2-1-FG-3</id>
+ 	  	  	  	  	  	 <content>Komponenten technischer Systeme identifizieren und ihr Zusammenwirken unter Verwendung physikalischer Prinzipien erklären</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-2-1-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-2-1-H-1</id>
+ 	  	  	  	  	  	 <content>die Bahngeschwindigkeit gleichförmiger Kreisbewegungen berechnen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K1-2-2</id>
+ 	  	  	  	 <name>Entwicklung von Systemen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-2-2-DE</id>
+ 	  	  	  	  	 <level>DE</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-2-2-DE-1</id>
+ 	  	  	  	  	  	 <content>Veränderungen in Systemen (z. B. durch Ströme) beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-2-2-FG</id>
+ 	  	  	  	  	 <level>FG</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-2-2-FG-1</id>
+ 	  	  	  	  	  	 <content>gestörte Gleichgewichte als Ursache von Strömen und Schwingungen erklären (z. B. den elektrischen Stromfluss als Folge von Ladungsunterschieden, Temperaturausgleich unterschiedlich temperierter Körper)</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-2-2-FG-2</id>
+ 	  	  	  	  	  	 <content>die Entwicklung von Systemen und ihre Veränderungen (thermische, mechanische, optische und radioaktive) qualitativ beschreiben und erklären</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-2-2-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-2-2-H-1</id>
+ 	  	  	  	  	  	 <content>die Entwicklung von Systemen qualitativ und in Ansätzen quantitativ beschreiben und erklären</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>Ph-K1-3</id>
+ 	  	  	 <name>Wechselwirkung</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K1-3-1</id>
+ 	  	  	  	 <name>Kräfte in der Mechanik</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-3-1-DE</id>
+ 	  	  	  	  	 <level>DE</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-3-1-DE-1</id>
+ 	  	  	  	  	  	 <content>Verformungen und Bewegungsänderungen als Wirkungen von Kräften erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-3-1-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-3-1-F-1</id>
+ 	  	  	  	  	  	 <content>die NEWTONschen Gesetze der Mechanik angeben und exemplarisch anwenden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-3-1-F-2</id>
+ 	  	  	  	  	  	 <content>Radialkräfte als Ursache von gleichförmigen Kreisbewegungen identifizieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-3-1-G</id>
+ 	  	  	  	  	 <level>G</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-3-1-G-1</id>
+ 	  	  	  	  	  	 <content>den Einfluss von Reibungskräften erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-3-1-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-3-1-H-1</id>
+ 	  	  	  	  	  	 <content>die Ursachen mechanischer Schwingungen mithilfe von Rückstellkraft und Trägheit erklären</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K1-3-2</id>
+ 	  	  	  	 <name>Elektrische und magnetische Felder</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-3-2-DE</id>
+ 	  	  	  	  	 <level>DE</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-3-2-DE-1</id>
+ 	  	  	  	  	  	 <content>Kraftwirkungen zwischen elektrischen Ladungen erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-3-2-DE-2</id>
+ 	  	  	  	  	  	 <content>Kräfte zwischen Magneten beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-3-2-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-3-2-F-1</id>
+ 	  	  	  	  	  	 <content>elektrische und magnetische Felder mithilfe von Feldlinien veranschaulichen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-3-2-F-2</id>
+ 	  	  	  	  	  	 <content>Kräfte auf stromdurchflossene Leiter erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-3-2-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-3-2-GH-1</id>
+ 	  	  	  	  	  	 <content>das Entstehen einer Induktionsspannung qualitativ erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K1-3-3</id>
+ 	  	  	  	 <name>Wechselwirkungen in der Optik/Strahlung</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-3-3-DE</id>
+ 	  	  	  	  	 <level>DE</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-3-3-DE-1</id>
+ 	  	  	  	  	  	 <content>Wärmequellen benennen und beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-3-3-DE-2</id>
+ 	  	  	  	  	  	 <content>Eigenschaften und Wirkungen der Wärmestrahlung beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-3-3-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-3-3-F-1</id>
+ 	  	  	  	  	  	 <content>Strahlungsquellen identifizieren und beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-3-3-F-2</id>
+ 	  	  	  	  	  	 <content>Eigenschaften und Wirkungen von Licht und radioaktiver Strahlung beschreiben und erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-3-3-G</id>
+ 	  	  	  	  	 <level>G</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-3-3-G-1</id>
+ 	  	  	  	  	  	 <content>das Reflexionsgesetz und das Brechungsgesetz erläutern und anwenden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-3-3-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-3-3-H-1</id>
+ 	  	  	  	  	  	 <content>Totalreflexion im Strahlenmodell erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>Ph-K1-4</id>
+ 	  	  	 <name>Energie</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K1-4-1</id>
+ 	  	  	  	 <name>Energieumwandlungen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-4-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-4-1-D-1</id>
+ 	  	  	  	  	  	 <content>die Umwandlung von Energieformen in Natur und Technik beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-4-1-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-4-1-E-1</id>
+ 	  	  	  	  	  	 <content>Energieumwandlungen bei physikalischen Vorgängen verbal und mithilfe von Energieflussschemen beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-4-1-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-4-1-F-1</id>
+ 	  	  	  	  	  	 <content>den Zusammenhang zwischen mechanischer Energie und Arbeit erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-4-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-4-1-GH-1</id>
+ 	  	  	  	  	  	 <content>kinetische und potenzielle Energien in natürlichen und technischen Prozessen identifizieren und berechnen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K1-4-2</id>
+ 	  	  	  	 <name>Energieerhaltung</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-4-2-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-4-2-E-1</id>
+ 	  	  	  	  	  	 <content>den Energieerhaltungssatz wiedergeben und exemplarisch anwenden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-4-2-FG</id>
+ 	  	  	  	  	 <level>FG</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-4-2-FG-1</id>
+ 	  	  	  	  	  	 <content>mithilfe von Energieansätzen in geübten Zusammenhängen physikalische Größen ermitteln</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-4-2-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-4-2-H-1</id>
+ 	  	  	  	  	  	 <content>mithilfe von Energieansätzen Probleme lösen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K1-4-3</id>
+ 	  	  	  	 <name>Bereitstellung und Nutzung von Energie</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-4-3-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-4-3-D-1</id>
+ 	  	  	  	  	  	 <content>verschiedene Möglichkeiten der Energiegewinnung und des Energiesparens beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-4-3-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-4-3-E-1</id>
+ 	  	  	  	  	  	 <content>verschiedene Möglichkeiten der Energiegewinnung und des Energiesparens beschreiben zwischen regenerativen und erschöpfbaren Energiequellen unterscheiden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-4-3-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-4-3-F-1</id>
+ 	  	  	  	  	  	 <content>verschiedene Möglichkeiten der Energiegewinnung vergleichen und bewerten</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K1-4-3-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K1-4-3-GH-1</id>
+ 	  	  	  	  	  	 <content>Wirkungsgrade bei Energieumwandlungen berechnen und bewerten</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>Ph-K2</id>
+ 	  	 <name>Erkenntnisse gewinnen</name>
+ 	  	 <subarea>
+ 	  	  	 <id>Ph-K2-1</id>
+ 	  	  	 <name>Beobachten, Vergleichen und Ordnen</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K2-1-1</id>
+ 	  	  	  	 <name>Beobachten</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-1-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-1-1-D-1</id>
+ 	  	  	  	  	  	 <content>zwischen Beobachtung und Deutung unterscheiden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-1-1-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-1-1-EF-1</id>
+ 	  	  	  	  	  	 <content>aufgabenbezogen Beobachtungskriterien festlegen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-1-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-1-1-GH-1</id>
+ 	  	  	  	  	  	 <content>Deutungen aus Beobachtungen auf einen neuen Sachverhalt anwenden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K2-1-2</id>
+ 	  	  	  	 <name>Vergleichen und Ordnen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-1-2-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-1-2-D-1</id>
+ 	  	  	  	  	  	 <content>mit vorgegebenen Kriterien beschreibend Sachverhalte/Objekte ordnen und vergleichen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-1-2-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-1-2-EF-1</id>
+ 	  	  	  	  	  	 <content>mit geeigneten Kriterien ordnen und vergleichen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-1-2-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-1-2-GH-1</id>
+ 	  	  	  	  	  	 <content>nach einem übergeordneten Vergleichskriterium ordnen und vergleichen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>Ph-K2-2</id>
+ 	  	  	 <name>Naturwissenschaftliche Untersuchungen durchführen</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K2-2-1</id>
+ 	  	  	  	 <name>Fragestellung</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-2-1-DE</id>
+ 	  	  	  	  	 <level>DE</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-2-1-DE-1</id>
+ 	  	  	  	  	  	 <content>naturwissenschaftliche Fragen formulieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-2-1-FG</id>
+ 	  	  	  	  	 <level>FG</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-2-1-FG-1</id>
+ 	  	  	  	  	  	 <content>naturwissenschaftliche Fragen unter Einbeziehung ihres Fachwissens formulieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-2-1-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-2-1-H-1</id>
+ 	  	  	  	  	  	 <content>ein theoretisches Konzept zur Bearbeitung einer naturwissenschaftlichen Fragestellung heranziehen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K2-2-2</id>
+ 	  	  	  	 <name>Hypothesenbildung</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-2-2-DE</id>
+ 	  	  	  	  	 <level>DE</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-2-2-DE-1</id>
+ 	  	  	  	  	  	 <content>Hypothesen aufstellen, die auf naturwissenschaftlichen Fragestellungen basieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-2-2-FGH</id>
+ 	  	  	  	  	 <level>FGH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-2-2-FGH-1</id>
+ 	  	  	  	  	  	 <content>aufgestellte Hypothesen bestätigen oder nach Widerlegung weitere Hypothesen entwickeln</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K2-2-3</id>
+ 	  	  	  	 <name>Planung und Durchführung</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-2-3-DE</id>
+ 	  	  	  	  	 <level>DE</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-2-3-DE-1</id>
+ 	  	  	  	  	  	 <content>Experimente zur Überprüfung von Hypothesen nach Vorgaben planen und durchführen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-2-3-FG</id>
+ 	  	  	  	  	 <level>FG</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-2-3-FG-1</id>
+ 	  	  	  	  	  	 <content>Experimente mit Kontrolle planen und durchführen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-2-3-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-2-3-H-1</id>
+ 	  	  	  	  	  	 <content>den Untersuchungsplan und die praktische Umsetzung beurteilen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K2-2-4</id>
+ 	  	  	  	 <name>Auswertung und Reflexion</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-2-4-DE</id>
+ 	  	  	  	  	 <level>DE</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-2-4-DE-1</id>
+ 	  	  	  	  	  	 <content>das Untersuchungsergebnis unter Rückbezug auf die Hypothese beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-2-4-FG</id>
+ 	  	  	  	  	 <level>FG</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-2-4-FG-1</id>
+ 	  	  	  	  	  	 <content>Untersuchungsergebnisse (auch erwartungswidrige) interpretieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-2-4-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-2-4-H-1</id>
+ 	  	  	  	  	  	 <content>Daten, Trends und Beziehungen interpretieren, diese erklären und weiterführende Schlussfolgerungen ableiten</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>Ph-K2-3</id>
+ 	  	  	 <name>Mit Modellen umgehen</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K2.3-1</id>
+ 	  	  	  	 <name>Nutzen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2.3-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2.3-1-D-1</id>
+ 	  	  	  	  	  	 <content>mit Modellen naturwissenschaftliche Sachverhalte beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2.3-1-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2.3-1-EF-1</id>
+ 	  	  	  	  	  	 <content>mit Modellen naturwissenschaftliche Zusammenhänge erklären</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2.3-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2.3-1-GH-1</id>
+ 	  	  	  	  	  	 <content>mit Modellen naturwissenschaftliche Sachverhalte vorhersagen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K2-3-2</id>
+ 	  	  	  	 <name>Testen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-3-2-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-3-2-D-1</id>
+ 	  	  	  	  	  	 <content>Modelle bezüglich ihrer Einsatzmöglichkeiten prüfen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-3-2-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-3-2-EF-1</id>
+ 	  	  	  	  	  	 <content>Modelle mit dem naturwissenschaftlichen Sachverhalt vergleichen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-3-2-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-3-2-GH-1</id>
+ 	  	  	  	  	  	 <content>mithilfe von Modellen Hypothesen ableiten</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K2-3-3</id>
+ 	  	  	  	 <name>Ändern</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-3-3-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-3-3-D-1</id>
+ 	  	  	  	  	  	 <content>Modelle bezüglich ihrer Eignung prüfen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-3-3-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-3-3-EF-1</id>
+ 	  	  	  	  	  	 <content>Modelle aufgrund neuer Erkenntnisse über bzw. fehlender Passung zum naturwissenschaftlichen Sachverhalt ändern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-3-3-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-3-3-GH-1</id>
+ 	  	  	  	  	  	 <content>Modelle ändern, wenn die aus ihnen abgeleiteten Hypothesen widerlegt sind</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>Ph-K2-4</id>
+ 	  	  	 <name>Elemente der Mathematik anwenden</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K2-4-1</id>
+ 	  	  	  	 <name>Mit naturwissenschaftlichen  Größen umgehen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-4-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-4-1-D-1</id>
+ 	  	  	  	  	  	 <content>Einheitenvorsätze für Längen-, Flächen-, Volumen-, und Masseangaben (Milli, Kilo u.a.) verwenden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-4-1-D-2</id>
+ 	  	  	  	  	  	 <content>Zusammenhänge zwischen zwei Größen mit Aussagen der Form „Je …, desto …“ beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-4-1-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-4-1-E-1</id>
+ 	  	  	  	  	  	 <content>Einheitenvorsätze (z. B. Mega, Kilo, Milli) verwenden und Größenangaben umrechnen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-4-1-E-2</id>
+ 	  	  	  	  	  	 <content>Zusammenhänge zweier Größen auf Proportionalität prüfen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-4-1-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-4-1-F-1</id>
+ 	  	  	  	  	  	 <content>gemessene und berechnete Größen mit sinnvoller Genauigkeit angeben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-4-1-G</id>
+ 	  	  	  	  	 <level>G</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-4-1-G-1</id>
+ 	  	  	  	  	  	 <content>Einheitenvorsätze in Potenzschreibweise nutzen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-4-1-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-4-1-H-1</id>
+ 	  	  	  	  	  	 <content>Zusammenhänge zwischen Größen unter Verwendung von Gleichungen und Diagrammen erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K2-4-2</id>
+ 	  	  	  	 <name>Messwerte erfassen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-4-2-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-4-2-D-1</id>
+ 	  	  	  	  	  	 <content>vorgegebene Messgrößen von Messgeräten ablesen und protokollieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-4-2-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-4-2-E-1</id>
+ 	  	  	  	  	  	 <content>Messgrößen ermitteln und Fehlerquellen von Messungen angeben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-4-2-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-4-2-F-1</id>
+ 	  	  	  	  	  	 <content>den Einfluss von Messfehlern erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-4-2-G</id>
+ 	  	  	  	  	 <level>G</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-4-2-G-1</id>
+ 	  	  	  	  	  	 <content>Mittelwerte einer Messreihe berechnen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-4-2-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-4-2-H-1</id>
+ 	  	  	  	  	  	 <content>grobe, zufällige und systematische Fehler unterscheiden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K2-4-3</id>
+ 	  	  	  	 <name>Mathematische Verfahren anwenden</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-4-3-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-4-3-D-1</id>
+ 	  	  	  	  	  	 <content>Grundrechenarten der Mathematik auf naturwissenschaftliche Sachverhalte anwenden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-4-3-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-4-3-E-1</id>
+ 	  	  	  	  	  	 <content>Verhältnisgleichungen umformen und Größen berechnen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-4-3-FG</id>
+ 	  	  	  	  	 <level>FG</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-4-3-FG-1</id>
+ 	  	  	  	  	  	 <content>vorgegebene Verfahren der Mathematik beim Umgang mit Gleichungen, chemische Formeln, Reaktionsgleichungen, Diagrammen und Tabellen anwenden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K2-4-3-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K2-4-3-H-1</id>
+ 	  	  	  	  	  	 <content>mathematische Verfahren bei der Auswertung von gemessenen oder recherchierten Daten begründet auswählen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>Ph-K3</id>
+ 	  	 <name>Kommunizieren</name>
+ 	  	 <subarea>
+ 	  	  	 <id>Ph-K3-1</id>
+ 	  	  	 <name>Informationen erschließen – Textrezeption</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K3-1-1</id>
+ 	  	  	  	 <name>Recherchieren</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-1-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-1-1-D-1</id>
+ 	  	  	  	  	  	 <content>Informationen aus einem Text aufgabengeleitet entnehmen und wiedergeben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-1-1-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-1-1-EF-1</id>
+ 	  	  	  	  	  	 <content>themenbezogen zu einem naturwissenschaftlichen Sachverhalt in verschiedenen Quellen recherchieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-1-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-1-1-GH-1</id>
+ 	  	  	  	  	  	 <content>die Seriosität und fachliche Relevanz von Informationen in verschiedenen Medien bewerten/hinterfragen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K3-1-2</id>
+ 	  	  	  	 <name>Informationen aus grafischen Darstellungen entnehmen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-1-2-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-1-2-D-1</id>
+ 	  	  	  	  	  	 <content>grafische Darstellungen beschreiben und aus ihnen Daten entnehmen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-1-2-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-1-2-E-1</id>
+ 	  	  	  	  	  	 <content>Diagramme mit zwei Variablen beschreiben und aus ihnen Daten entnehmen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-1-2-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-1-2-F-1</id>
+ 	  	  	  	  	  	 <content>aus Diagrammen Trends ableiten</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-1-2-G</id>
+ 	  	  	  	  	 <level>G</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-1-2-G-1</id>
+ 	  	  	  	  	  	 <content>grafische Darstellungen erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-1-2-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-1-2-H-1</id>
+ 	  	  	  	  	  	 <content>die Aussagekraft von Darstellungen bewerten und hinterfragen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>Ph-K3-2</id>
+ 	  	  	 <name>Informationen weitergeben – Textproduktion</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K3-2-1</id>
+ 	  	  	  	 <name>Darstellungsformen wechseln</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-2-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-2-1-D-1</id>
+ 	  	  	  	  	  	 <content>Daten strukturieren und in Tabellen, Schaubildern und Diagrammen nach Vorgabe darstellen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-2-1-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-2-1-E-1</id>
+ 	  	  	  	  	  	 <content>aus einer Versuchsanleitung eine Versuchsskizze entwickeln</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-2-1-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-2-1-F-1</id>
+ 	  	  	  	  	  	 <content>grafische Darstellungen zu Sachverhalten entwerfen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-2-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-2-1-GH-1</id>
+ 	  	  	  	  	  	 <content>kontinuierliche Texte in Fachsprache umwandeln (z. B. Größengleichungen, chemische Formeln, Reaktionsgleichungen)</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K3-2-2</id>
+ 	  	  	  	 <name>Texte zu Sachverhalten produzieren</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-2-2-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-2-2-D-1</id>
+ 	  	  	  	  	  	 <content>naturwissenschaftliche Sachverhalte unter Verwendung der Alltagssprache unter Einbeziehung von Fachbegriffen beschreiben</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-2-2-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-2-2-EF-1</id>
+ 	  	  	  	  	  	 <content>naturwissenschaftliche Sachverhalte mit geeigneten bildlichen, sprachlichen, symbolischen oder mathematischen Darstellungsformen veranschaulichen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-2-2-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-2-2-GH-1</id>
+ 	  	  	  	  	  	 <content>naturwissenschaftliche Sachverhalte adressaten- und sachgerecht in verschiedenen Darstellungsformen erklären</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K3-2-3</id>
+ 	  	  	  	 <name>Dokumentieren</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-2-3-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-2-3-D-1</id>
+ 	  	  	  	  	  	 <content>Untersuchungen nach Vorgaben protokollieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-2-3-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-2-3-EF-1</id>
+ 	  	  	  	  	  	 <content>Untersuchungen selbstständig protokollieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-2-3-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-2-3-GH-1</id>
+ 	  	  	  	  	  	 <content>anhand des Protokolls den Versuch erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K3-2-4</id>
+ 	  	  	  	 <name>Präsentieren</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-2-4-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-2-4-D-1</id>
+ 	  	  	  	  	  	 <content>mithilfe von Stichworten, Anschauungsmaterialien und Medien Ergebnisse präsentieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-2-4-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-2-4-EF-1</id>
+ 	  	  	  	  	  	 <content>sach-, situations- und adressatenbezogen Untersuchungsmethoden und Ergebnisse präsentieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-2-4-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-2-4-GH-1</id>
+ 	  	  	  	  	  	 <content>Medien für eine Präsentation kriterienorientiert auswählen und die Auswahl reflektieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>Ph-K3-3</id>
+ 	  	  	 <name>Argumentieren – Interaktion</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K3-3-1</id>
+ 	  	  	  	 <name>Schlüssige Begründungen von Aussagen formulieren</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-3-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-3-1-D-1</id>
+ 	  	  	  	  	  	 <content>Aussagen und Behauptungen mit Beispielen, einfachen Fakten oder Daten begründen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-3-1-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-3-1-E-1</id>
+ 	  	  	  	  	  	 <content>zu einer Aussage eine passende Begründung formulieren, in der die stützenden Daten oder Fakten erläutert werden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-3-1-FG</id>
+ 	  	  	  	  	 <level>FG</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-3-1-FG-1</id>
+ 	  	  	  	  	  	 <content>Hypothesen fachgerecht und folgerichtig mit Daten, Fakten oder Analogien begründen bzw. widerlegen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-3-1-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-3-1-H-1</id>
+ 	  	  	  	  	  	 <content>Widersprüche in einer Argumentation erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>Ph-K3-4</id>
+ 	  	  	 <name>Über (Fach)sprache nachdenken – Sprachbewusstheit</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K3-4-1</id>
+ 	  	  	  	 <name>Sprache im Fachunterricht thematisieren</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-4-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-4-1-D-1</id>
+ 	  	  	  	  	  	 <content>mehrdeutige Wörter voneinander unterscheiden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-4-1-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-4-1-E-1</id>
+ 	  	  	  	  	  	 <content>die Bedeutung wesentlicher Fachbegriffe von ihrer Wortherkunft aus erklären</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-4-1-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-4-1-F-1</id>
+ 	  	  	  	  	  	 <content>Fachbegriffe vernetzt darstellen (z. B. Begriffsnetze, Ober- und Unterbegriffe)</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-4-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-4-1-GH-1</id>
+ 	  	  	  	  	  	 <content>naturwissenschaftliche Sachverhalte fachsprachlich präzisieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K3-4-2</id>
+ 	  	  	  	 <name>Alltags- und Fachsprache bewusst verwenden</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-4-2-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-4-2-D-1</id>
+ 	  	  	  	  	  	 <content>zwischen alltags- und fachsprachlicher Beschreibung von Sachverhalten unterscheiden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-4-2-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-4-2-EF-1</id>
+ 	  	  	  	  	  	 <content>die Bedeutung einzelner Fachbegriffe erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K3-4-2-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K3-4-2-GH-1</id>
+ 	  	  	  	  	  	 <content>Zusammenhänge zwischen naturwissenschaftlichen Sachverhalten und Alltagserscheinungen herstellen und dabei bewusst Fachsprache in Alltagssprache übersetzen und umgekehrt</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>Ph-K4</id>
+ 	  	 <name>Bewerten</name>
+ 	  	 <subarea>
+ 	  	  	 <id>Ph-K4-1</id>
+ 	  	  	 <name>Handlungsoptionen diskutieren und auswählen</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K4-1-1</id>
+ 	  	  	  	 <name>Bewertungskriterien</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-1-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-1-1-D-1</id>
+ 	  	  	  	  	  	 <content>alltagsbezogene Bewertungskriterien festlegen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-1-1-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-1-1-E-1</id>
+ 	  	  	  	  	  	 <content>vorgegebene Bewertungskriterien anwenden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-1-1-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-1-1-F-1</id>
+ 	  	  	  	  	  	 <content>in einem Entscheidungsprozess relevante Bewertungskriterien anwenden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-1-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-1-1-GH-1</id>
+ 	  	  	  	  	  	 <content>die Relevanz von Bewertungskriterien für Handlungsoptionen erläutern</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K4-1-1</id>
+ 	  	  	  	 <name>Handlungsoptionen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-1-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-1-1-D-1</id>
+ 	  	  	  	  	  	 <content>Handlungsoptionen kriteriengeleitet vergleichen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-1-1-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-1-1-EF-1</id>
+ 	  	  	  	  	  	 <content>in einer Entscheidungssituation zwischen mehreren Handlungsoptionen begründet auswählen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-1-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-1-1-GH-1</id>
+ 	  	  	  	  	  	 <content>unter Berücksichtigung verschiedener Perspektiven Kompromisse entwickeln</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>Ph-K4-2</id>
+ 	  	  	 <name>Handlungen reflektieren</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K4-2-1</id>
+ 	  	  	  	 <name>Schlussfolgerungen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-2-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-2-1-D-1</id>
+ 	  	  	  	  	  	 <content>Schlussfolgerungen auf der Grundlage naturwissenschaftlichen Alltagswissens ziehen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-2-1-EF</id>
+ 	  	  	  	  	 <level>EF</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-2-1-EF-1</id>
+ 	  	  	  	  	  	 <content>Schlussfolgerungen mit Verweis auf Daten oder auf der Grundlage von naturwissenschaftlichen Informationen ziehen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-2-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-2-1-GH-1</id>
+ 	  	  	  	  	  	 <content>Möglichkeiten und Folgen ihres Handelns beurteilen und Konsequenzen daraus ableiten</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	  	 <subarea>
+ 	  	  	 <id>Ph-K4-3</id>
+ 	  	  	 <name>Werte und Normen reflektieren</name>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K4-3-1</id>
+ 	  	  	  	 <name>Werte und Normen</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-3-1-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-3-1-D-1</id>
+ 	  	  	  	  	  	 <content>Wertvorstellungen von Meinungen, Aussagen oder Emotionen unterscheiden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-3-1-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-3-1-E-1</id>
+ 	  	  	  	  	  	 <content>das eigene Handeln in Bezug auf ihre Wertvorstellungen reflektieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-3-1-F</id>
+ 	  	  	  	  	 <level>F</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-3-1-F-1</id>
+ 	  	  	  	  	  	 <content>zwischen Werten und Normen unterscheiden</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-3-1-GH</id>
+ 	  	  	  	  	 <level>GH</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-3-1-GH-1</id>
+ 	  	  	  	  	  	 <content>eigene Wertevorstellungen in Bezug auf Werte anderer und Normen der Gesellschaft reflektieren</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	  	 <competence>
+ 	  	  	  	 <id>Ph-K4-3-2</id>
+ 	  	  	  	 <name>Sicherheits- und Verhaltensregeln</name>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-3-2-D</id>
+ 	  	  	  	  	 <level>D</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-3-2-D-1</id>
+ 	  	  	  	  	  	 <content>Sicherheits- und Verhaltensregeln des naturwissenschaftlichen Unterrichts einhalten</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-3-2-E</id>
+ 	  	  	  	  	 <level>E</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-3-2-E-1</id>
+ 	  	  	  	  	  	 <content>Sicherheits- und Verhaltensregeln aus dem schulischen Kontext auf das eigene Lebensumfeld übertragen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-3-2-FG</id>
+ 	  	  	  	  	 <level>FG</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-3-2-FG-1</id>
+ 	  	  	  	  	  	 <content>untersuchungsspezifische Sicherheitsaspekte situationsadäquat begründet auswählen und beachten</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	  	 <stufe>
+ 	  	  	  	  	 <id>Ph-K4-3-2-H</id>
+ 	  	  	  	  	 <level>H</level>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	  	 <id>Ph-K4-3-2-H-1</id>
+ 	  	  	  	  	  	 <content>Sicherheitsrisiken einschätzen und neue Sicherheitsmaßnahmen ableiten</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	 </stufe>
+ 	  	  	 </competence>
+ 	  	 </subarea>
+ 	 </area>
+	</c2>
+	<c3>
+		<id>C-Ph-3</id>
+		<title>Themen und Inhalte</title>
+		<vortext>
+			<content>In diesem Kapitel sind die Themenfelder und Inhalte für die Doppeljahrgangsstufen 7/8 und 9/10 dargestellt. Die in den Themenfeldern aufgeführten Inhalte sind in der jeweiligen Doppeljahrgangsstufe verbindlich. Abhängig von den Stundenvolumina der naturwissenschaftlichen Fächer an den Schulen können die in der Übersicht gekennzeichneten Themenfelder der Doppeljahrgangsstufe 7/8 oder 9/10 zugeordnet werden. Sie werden abhängig von der Entwicklung und den Kompetenzen der Lernenden im Unterricht erarbeitet und vertieft. Die Themenfelder und Inhalte bieten zahlreiche Möglichkeiten, Bezüge zu anderen Fächern und zu übergreifenden Themen herzustellen. Auf unterschiedlichen Niveaus können einzelne Aspekte erneut aufgegriffen und vertieft werden. Die Themenfelder sind didaktisch verbun-den und ergeben eine sinnvolle und begründete Reihenfolge, die jedoch nicht starr ist und an Lerngruppen und schulartspezifische Bedingungen angepasst werden kann. Zu jedem Themenfeld sind wichtige Bezüge zu den Basiskonzepten dargestellt.
+					Um die gleichberechtigte Teilhabe am gesellschaftlichen Leben, unabhängig von ethnischer und kultureller Herkunft, sozialem und wirtschaftlichem Status, Geschlecht und sexueller Orientierung, Alter und Behinderung sowie Religion und Weltanschauung zu ermöglichen, ist es erforderlich, diese individuelle Vielfalt der Lernenden bei der Planung des Unterrichts zu berücksichtigen. Damit fördert der Unterricht die Stärken unterschiedlicher Persönlichkeiten und ermöglicht inklusives Lernen.
+					Die ausgewiesenen Themenfelder werden für Schülerinnen und Schüler, die wegen einer erheblichen und langandauernden Beeinträchtigung ihres Lern- und Leistungsverhaltens sonderpädagogische Förderung erhalten oder für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen  festgestellt wurde, schülerbezogen berücksichtigt. Sie werden entsprechend der Lebensbedeutsamkeit für die Schülerinnen und Schüler ausgewählt.
+					Die Themenfelder und Inhalte bilden die Grundlage für differenzierte Aufgabenstellungen und eine Materialauswahl, die eine Herausforderung für das gesamte Leistungsspektrum einer Lerngruppe darstellt. Die Lernenden erhalten Gelegenheit, ihre Fähigkeiten und Fertigkeiten im Umgang mit den Themenfeldern und Inhalten allein und in der Zusammenarbeit mit anderen unter Beweis zu stellen. Sie erfahren dabei, in welchem Maße sie die gesetzten Standards erreichen bzw. was sie tun können, um ihre Kompetenzen zu vertiefen und zu erweitern. Die Themenfelder und Inhalte knüpfen vor allem an die Themen und Inhalte für das Fach Naturwissenschaften 5/6 an.
+					Die Kontexte enthalten Anregungen, die die Fachkonferenzen oder Fachlehrkräfte je nach Schulart bzw. -profil nach eigenem Ermessen bei der Planung von Unterricht berücksichtigen können. Dazu ist es erforderlich, dass die Lehrkräfte auf der Grundlage eines schulinternen Curriculums ein eigenes Unterrichtskonzept entwickeln. Dabei sind neben den vorgegebenen Kompetenzen und Inhalten die Interessen der Schülerinnen und Schüler, das Schulprogramm, besondere Gegebenheiten der Schule sowie aktuelle Anlässe zu berücksichtigen. Hierfür ist die Kooperation der Lehrkräfte in Fachkonferenzen oder überschulischen Arbeitskreisen notwendig.
+					Die Schülerinnen und Schüler erfahren im Unterricht und an außerschulischen Lernorten etwas über Strukturen, Prozesse und Zusammenhänge in Natur und Technik. Damit sie dieses Wissen einschätzen, bewerten und sinnvoll in das eigene Weltbild einfügen können, ist es von entscheidender Bedeutung, dass sie auch erfahren, wie diese Erkenntnisse gewonnen werden. Dazu lernen sie die naturwissenschaftlichen Arbeitsweisen kennen, zu denen sowohl die charakteristischen Denkmethoden, mit denen man in den Naturwissenschaften zu Erkenntnissen gelangt, als auch die charakteristischen Arbeitsmethoden der Fachgebiete Physik, Chemie und Biologie zählen.
+					Der experimentellen Methode kommt auf Grund ihrer exponierten Stellung in den naturwissenschaftlichen Fächern eine tragende Rolle zu. Aus diesem Grund werden für jedes Themenfeld verbindliche Experimente und Untersuchungen angegeben. Diese können entsprechend der experimentellen Ausstattung der Schule variiert werden, sofern die mit dem Experiment bzw. der Untersuchung verbundenen Intentionen gewahrt bleiben.
+					Die in den Tabellen angegebenen Fachbegriffe beschränken sich auf wichtige, unverzichtbare Begriffe des Faches. 
+					Der Rahmenlehrplan enthält in den Teilen C für die naturwissenschaftlichen Fächer in allen Themenfeldern Beispiele für Differenzierungsmöglichkeiten, die den Lehrkräften helfen, das für ihre Lerngruppe und für einzelne Schülerinnen und Schüler passende Leistungsniveau anzubieten. Differenzierungsmöglichkeiten beziehen sich auf:
+					–	die Komplexität von Sachverhalten und Kontexten,
+					–	die Tiefe, mit der die Inhalte behandelt werden,
+					–	das Abstraktionsniveau,
+					–	die experimentellen Zugänge, z. B. mit Bezug auf den Grad der Selbstständigkeit,
+					–	die unterschiedlichen Bearbeitungsweisen, z. B. bei der Textrezeption und Neustrukturie-rung von Sachverhalten, beim Erkunden oder Recherchieren,
+					–	unterschiedliche Verarbeitungsweisen, z. B. Aufgaben lösen, Textproduktion, Anwenden und Memorieren von Wissen,
+					–	exemplarisches oder fachsystematisches Lernen.
+					Im Rahmen der Kontingentstundentafel obliegt es jeder Schule, Profilstunden für den Wahlpflichtbereich der Fächer Chemie, Biologie, Physik oder das Wahlpflichtfach Naturwissenschaften anzubieten. Die Themen und Inhalte für ein naturwissenschaftliches Wahlpflichtfach werden von der Fachkonferenz der Schule festgelegt.	
+					
+					Übersicht über die Themenfelder
+						Doppeljahrgangsstufe 7/8
+							3.1		Thermisches Verhalten von Körpern
+							3.2		Wechselwirkung und Kraft
+							3.3		Mechanische Energie und Arbeit
+							3.4		Thermische Energie und Wärme
+						  	3.5		Elektrischer Strom und elektrische Ladung
+							3.6		Elektrische Stromstärke, Spannung, Widerstand und Leistung
+						Doppeljahrgangsstufe 9/10
+							3.7		Gleichförmige und beschleunigte Bewegungen
+							3.8		Kraft und Beschleunigung
+							3.9		Magnetfelder und elektromagnetische Induktion
+							3.10	Radioaktivität und Kernphysik
+							3.11	Energieumwandlungen in Natur und Technik
+							3.12	Mechanische Schwingungen und Wellen
+							3.13	Optische Geräte
+			</content>
+		</vortext>				
+		<themainhalt>
+			<id>C-Ph-3-1</id>
+			<title>Thermisches Verhalten von Körpern</title>
+			<content>Das Vorgehen im Physikunterricht soll von Beginn an so angelegt sein, dass die jungen Menschen durch den Physikunterricht eingeladen, ermutigt und inspiriert werden, sich die Welt aus physikalischer Sicht zu erschließen.
+					Dieser Zugang zur Physik soll exemplarisch anhand von ausgewählten, interessanten Phänomenen und Experimenten der Thermodynamik erfolgen. Wichtige Tätigkeiten, die die Lernenden bereits im Themenfeld Von den Sinnen zum Messen im Fach Naturwissenschaften 5/6 kennengelernt haben, werden aufgegriffen und vertieft, insbesondere das Beobachten und Beschreiben physikalischer Phänomene sowie das Erklären dieser Phänomene unter Einbeziehung einfacher Denkmodelle. Außerdem soll in diesem Themenfeld der Umgang mit physikalischen Größen geübt und vertieft werden.
+					In diesem Themenfeld erfahren die Lernenden, dass für die Erklärung thermodynamischer Phänomene Teilchenvorstellungen erforderlich sind. Hierbei muss darauf geachtet werden, dass bei mündlichen und schriftlichen Beschreibungen und Erklärungen sorgfältig zwischen Modell und Realität unterschieden wird.
+					Die Einführung der physikalischen Größe Dichte kann eingebunden werden, indem beispielsweise die Ausdehnung von Luft bei Temperaturerhöhung untersucht wird.
+			</content>
+				<inhalt>
+					<id>C-Ph-3-1-1</id>
+					<title>Inhalte</title>
+					<content>–	Themenbereiche der Physik</content>
+					<content>–	Längenänderung fester Körper bei Temperaturänderung (qualitativ)</content>
+					<content>–	Volumenänderung von Flüssigkeiten und Gasen bei Temperaturänderung (qualitativ)</content>
+					<content>–	Zusammenhang zwischen Masse und Volumen eines Körpers</content>
+					<content>–	Dichte als physikalische Größe</content>
+					<content>–	Zusammenhang zwischen Druck und Temperatur eines Gases bei konstantem Volumen</content>
+					<content>–	Deutung des Drucks in Gasen mithilfe einfacher Teilchenvorstellungen</content>
+					<content>–	Beschreibung der Aggregatzustände im Teilchenmodell</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-1-2</id>
+					<title>Experimente/Untersuchungen</title>
+					<content>–	Ausdehnung fester Körper, z. B. Metallrohr oder -draht bei Temperaturerhöhung</content>
+					<content>–	Ausdehnung von Flüssigkeiten in Abhängigkeit von der Temperaturänderung und vom Stoff</content>
+					<content>–	experimentelle Bestimmung der Dichte</content>
+					<content>–	Messung des Luftdrucks</content>
+				</inhalt>			
+				<inhalt>
+					<id>C-Ph-3-1-3</id>
+					<title>Bezüge zu den Basiskonzepten</title>
+					<inhalt>
+						<id>C-Ph-3-1-3-1</id>
+						<title>Materie</title>
+						<content>Das thermische Verhalten von Körpern ist stoffabhängig.</content>
+						<content>Bei der Erklärung thermodynamischer Phänomene werden Teilchenvorstellungen verwendet.</content>
+						<content>Stoffe können in Abhängigkeit von der Temperatur unterschiedliche Aggregatzustände besitzen.</content>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-1-4</id>
+					<title>Mögliche Kontexte</title>
+					<content>–	Gefahren durch Längenänderungen an Bauwerken und wie man sie beseitigt</content>
+					<content>–	Feuermelder und Sprinkleranlage für den Brandschutz</content>
+					<content>–	Mit dem Heißluftballon hoch hinaus</content>
+					<content>–	Wettererscheinungen beobachten und beschreiben</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-1-5</id>
+					<title>Fachbegriffe</title>
+					<content>–	Temperatur</content>
+					<content>–	Temperaturdifferenz</content>
+					<content>–	Celsius- und Kelvinskala</content>
+					<content>–	Teilchenmodell</content>
+					<content>–	Bimetallstreifen</content>
+					<content>–	Dichte</content>
+					<content>–	Luftdruck</content>
+					<content>–	Brownsche Bewegung</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-1-6</id>
+					<title>Beispiele für Differenzierungsmöglichkeiten</title>
+					<content>–	Berechnung von Längenänderungen bei Temperaturänderungen</content>
+					<content>–	unterschiedliche Tiefe der Deutung von Vorgängen mit dem Teilchenmodell</content>
+					<content>–	Selbstständigkeit bei der Formulierung von Vermutungen</content>
+					<content>–	Gestaltung und Umfang der experimentellen Aufgaben und der Experimentieranleitungen</content>
+				</inhalt>
+		</themainhalt>	
+		<themainhalt>
+			<id>C-Ph-3-2</id>
+			<title>Wechselwirkung und Kraft</title>
+			<content>Der Kraftbegriff wird ausgehend von Wechselwirkungen zwischen Körpern in Alltagssituationen eingeführt. Dabei werden verschiedene Arten unterschieden: plastische und elastische Verformung sowie Änderung von Richtung und Geschwindigkeit von Bewegungen. 
+					Im Unterricht sollte verdeutlicht werden, dass bei der Behandlung von Kräften zur Vereinfachung häufig Idealisierungen vorgenommen werden, z. B. indem Reibung vernachlässigt wird.
+					Da die Begriffe Energie und Arbeit erst später eingeführt werden, ist darauf zu achten, dass bei der Erläuterung von Wechselwirkungen zwischen Körpern die Bedeutungen der Begriffe Kraft, Energie und Arbeit nicht vermischt werden.
+			</content>
+				<inhalt>
+					<id>C-Ph-3-2-1</id>
+					<title>Inhalte</title>
+					<content>–	Kraft als physikalische Größe</content>
+					<content>–	Modell Kraftpfeil</content>
+					<content>–	Kraft als Wechselwirkung zweier Körper bei Form- und Bewegungsänderungen von Körpern</content>
+					<content>–	Gewichtskraft (qualitativ und quantitativ)</content>
+					<content>–	hookesches Gesetz</content>
+					<content>–	Kraftmessung</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-2-2</id>
+					<title>Experimente/Untersuchungen</title>
+					<content>–	Zusammenhang zwischen Kraft und Längenänderung einer Schraubenfeder</content>
+					<content>–	Messen von Kräften mithilfe von Federkraftmesser oder Kraftsensor</content>
+				</inhalt>			
+				<inhalt>
+					<id>C-Ph-3-2-3</id>
+					<title>Bezüge zu den Basiskonzepten</title>
+					<inhalt>
+						<id>C-Ph-3-2-3-1</id>
+						<title>Wechselwirkung</title>
+						<content>Beschreibung von Wechselwirkungen zwischen zwei Körpern mithilfe der Größe Kraft</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-2-3-2</id>
+						<title>Materie</title>
+						<content>Unterschied zwischen Masse und Gewichtskraft</content>
+						<content>Eigenschaften von Stoffen wie Verformbarkeit und Elastizität</content>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-2-4</id>
+					<title>Mögliche Kontexte</title>
+					<content>–	Kräfte treiben Fahrzeuge an, z. B. beim Fahrradfahren</content>
+					<content>–	Kräfte im Sport, z. B. Wechselwirkungen beim Fußball, Gewichtheben, Stabhochsprung und Bungee-Springen</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-2-5</id>
+					<title>Fachbegriffe</title>
+					<content>–	plastische und elastische Verformung</content>
+					<content>–	Wechselwirkung</content>
+					<content>–	Kraft</content>
+					<content>–	Kräftegleichgewicht</content>
+					<content>–	Masse</content>
+					<content>–	Gewichtskraft</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-2-6</id>
+					<title>Beispiele für Differenzierungsmöglichkeiten</title>
+					<content>–	Auswertung der Experimente und Beschreibung des Zusammenhangs zwischen Kraft und Längenänderung auf verschiedenen Niveaustufen (qualitativ, Beschreibung durch Diagramme, Beschreibung mithilfe der Größe Federkonstante)</content>
+					<content>–	Untersuchung des Zusammenhangs zwischen Kraft und Längenänderung eines Gummibands</content>
+				</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-Ph-3-3</id>
+			<title>Mechanische Energie und Arbeit</title>
+			<content>In diesem Themenfeld wird der Begriff Energie und sein Zusammenhang zur mechanischen Arbeit eingeführt. Am Beispiel der potenziellen Energie werden erstmals Energiebeträge berechnet. Die anderen Energieformen werden qualitativ behandelt, wobei nichtmechanische Energieformen einbezogen werden, ohne diese hier weiter zu vertiefen. Besonders wichtig ist die sorgfältige Unterscheidung der Begriffe Arbeit, Energie und Leistung. Bei der Beschreibung von Energieumwandlungen wird der Systembegriff eingeführt und angewendet.
+			</content>
+				<inhalt>
+					<id>C-Ph-3-3-1</id>
+					<title>Inhalte</title>
+					<content>–	Energiebegriff, Energieformen (qualitativ), potenzielle Energie (quantitativ)</content>
+					<content>–	mechanische Arbeit</content>
+					<content>–	Arten der mechanischen Arbeit</content>
+					<content>–	Goldene Regel der Mechanik</content>
+					<content>–	Zusammenhänge zwischen Arbeit, Energie und Leistung</content>
+					<content>–	Energieerhaltungssatz</content>
+					<content>–	Energiebetrachtungen in einfachen Systemen unter Einbeziehung von Energieschemen</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-3-2</id>
+					<title>Experimente/Untersuchungen</title>
+					<content>–	Untersuchungen zur Goldenen Regel der Mechanik</content>
+					<content>–	experimentelle Bestimmungen von mechanischer Arbeit und mechanischer Leistung</content>
+				</inhalt>			
+				<inhalt>
+					<id>C-Ph-3-3-3</id>
+					<title>Bezüge zu den Basiskonzepten</title>
+					<inhalt>
+						<id>C-Ph-3-3-3-1</id>
+						<title>Energie</title>
+						<content>Energie ist eine Erhaltungsgröße.</content>
+						<content>Änderung von Energie durch Arbeit</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-3-3-2</id>
+						<title>System</title>
+						<content>Betrachtung abgeschlossener Systeme bei der Beschreibung von Energieumwandlungen</content>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-3-4</id>
+					<title>Mögliche Kontexte</title>
+					<content>–	Rampen für Rollstuhlfahrer und andere kraftumformende Einrichtungen im Alltag</content>
+					<content>–	Energieumwandlungen in Kraftwerken, z. B. in einem Pumpspeicherwerk</content>
+					<content>–	Möglichkeiten des Energiesparens</content>
+					<content>–	Crashtests</content>
+					<content>–	Mensch als Energiewandler, z. B. beim Sport</content>
+					<content>–	Hebel am menschlichen Körper</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-3-5</id>
+					<title>Fachbegriffe</title>
+					<content>–	mechanische Arbeit</content>
+					<content>–	Hubarbeit</content>
+					<content>–	kinetische und potenzielle Energie</content>
+					<content>–	chemische Energie</content>
+					<content>–	thermische Energie</content>
+					<content>–	Strahlungsenergie</content>
+					<content>–	mechanische Leistung</content>
+					<content>–	abgeschlossenes System</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-3-6</id>
+					<title>Beispiele für Differenzierungsmöglichkeiten</title>
+					<content>–	Formulierung und Anwendung der Goldenen Regel auf verschiedenen Niveaustufen (qualitativ, Antiproportionalität von Kraft und Weg)</content>
+					<content>–	Anwendung der Goldenen Regel der Mechanik auf verschiedene kraftumformende Einrichtungen</content>
+					<content>–	Wirkungsgradbetrachtungen</content>
+				</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-Ph-3-4</id>
+			<title>Thermische Energie und Wärme</title>
+			<content>Bei der Einführung der Begriffe thermische Energie und Wärme ist ein Bezug zu den Begriffen aus Themenfeld 3.3 herzustellen.
+					In den alltagsnahen Vorstellungen der Schülerinnen und Schüler wird Wärme oft als etwas Stoffliches aufgefasst. Am Beispiel der Wärmestrahlung wird gezeigt, dass die Übertragung von Wärme nicht an einen Stoff gebunden ist. Da die Behandlung der Übertragung von Wärme vielfältige Anknüpfungspunkte mit der Erfahrungswelt der Schülerinnen und Schüler bietet, können die Gemeinsamkeiten und Unterschiede der drei Übertragungsarten Wärmeleitung, Wärmeströmung und Wärmestrahlung durch praxisnahe Untersuchungen erarbeitet und herausgestellt werden.
+			</content>
+				<inhalt>
+					<id>C-Ph-3-4-1</id>
+					<title>Inhalte</title>
+					<content>–	Zusammenhang zwischen thermischer Energie und Wärme</content>
+					<content>–	Temperaturausgleich unterschiedlich temperierter Körper</content>
+					<content>–	Schmelzwärme, Verdampfungswärme, Verdunstungskälte</content>
+					<content>–	Aggregatzustandsänderungen und ihre Deutung mithilfe von einfachen Teilchenvorstellungen</content>
+					<content>–	Wärmeleitung, Wärmeströmung, Wärme-strahlung</content>
+					<content>–	Wärmeleitung im Teilchenmodell</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-4-2</id>
+					<title>Experimente/Untersuchungen</title>
+					<content>–	Untersuchung des Temperaturverlaufs bei der Wärmeübertragung zwischen zwei Wassermengen mit unterschiedlicher Anfangstemperatur</content>
+					<content>–	Untersuchung der Wärmeübertragung durch verschiedene Stoffe</content>
+				</inhalt>			
+				<inhalt>
+					<id>C-Ph-3-4-3</id>
+					<title>Bezüge zu den Basiskonzepten</title>
+					<inhalt>
+						<id>C-Ph-3-4-3-1</id>
+						<title>Materie</title>
+						<content>Es gibt gute und schlechte Wärmeleiter. Wärmeleitung lässt sich im Teilchenmodell beschreiben.</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-4-3-2</id>
+						<title>System</title>
+						<content>Die Beschreibung der Wärmeaufnahme und -abgabe von Körpern erfordert die Betrachtung von Systemen. Vereinfachend werden häufig abgeschlossene System betrachtet.</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-4-3-3</id>
+						<title>Energie</title>
+						<content>Bei thermodynamischen Vorgängen bleibt die Energie erhalten. Als Prozessgröße beschreibt Wärme den Vorgang der Übertragung von Energie.</content>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-4-4</id>
+					<title>Mögliche Kontexte</title>
+					<content>–	Einfluss von Meeresströmungen auf das Klima</content>
+					<content>–	Entstehung von Land- und Seewind</content>
+					<content>–	Wärmehaushalt von Tieren (Eisbär, Fennek)</content>
+					<content>–	Wärmeversorgung in der Schule und Bewertung von eigenem Nutzerverhalten</content>
+					<content>–	Nullenergiehaus – ein Energiesparhaus der Zukunft?</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-4-5</id>
+					<title>Fachbegriffe</title>
+					<content>–	thermische Energie</content>
+					<content>–	Wärme</content>
+					<content>–	Schmelzen, Erstarren, Sieden, Verdampfen, Kondensieren, Verdunsten, Schmelztemperatur, Siedetemperatur</content>
+					<content>–	Wärmeleitung</content>
+					<content>–	Bimetallstreifen</content>
+					<content>–	Wärmeströmung</content>
+					<content>–	Wärmestrahlung</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-4-6</id>
+					<title>Beispiele für Differenzierungsmöglichkeiten</title>
+					<content>–	unterschiedliche Tiefe der Deutung der Phänomene mit dem Teilchenmodell</content>
+					<content>–	Beschreibung und Erklärung von Wärmeübertragungen in unterschiedlich komplexen Sachverhalten (Heizung in einem Raum, Heizungsanlage eines Hauses, Energieströme in einem Energiesparhaus)</content>
+				</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-Ph-3-5</id>
+			<title>3.5	Elektrischer Strom und elektrische Ladung</title>
+			<content>Die Schülerinnen und Schüler lernen Beispiele für elektrische Stromkreise und Quellen elektrischer Energie kennen, wobei die physikalischen Größen Stromstärke und Spannung hier noch nicht thematisiert werden. Mithilfe einfacher Stromkreise werden die Wirkungen des elektrischen Stroms eingeführt.
+					Die Einführung des Modells der elektrischen Feldlinien ermöglicht die Erklärung von Wechselwirkungen zwischen elektrisch geladenen Körpern und damit die Entwicklung eines Modells für den elektrischen Leitungsvorgang in Metallen.
+					Für die Erklärung elektrischer Leitungsvorgänge in Stromkreisen können geeignete Analogien herangezogen werden, z. B. das Wasserkreislaufmodell.
+			</content>
+				<inhalt>
+					<id>C-Ph-3-5-1</id>
+					<title>Inhalte</title>
+					<content>–	einfacher Stromkreis als Reihenschaltung einer elektrischen Energiequelle, eines Schalters und eines Energiewandlers</content>
+					<content>–	Anziehung und Abstoßung zwischen elektrisch geladenen Körpern</content>
+					<content>–	Modell elektrische Feldlinie</content>
+					<content>–	Modell für elektrische Leitungsvorgänge in Metallen</content>
+					<content>–	elektrische Energiequellen</content>
+					<content>–	elektrischer Strom als bewegte elektrische Ladung</content>
+					<content>–	Wirkungen des elektrischen Stroms</content>
+					<content>–	Darstellung von einfachen elektrischen Stromkreisen mithilfe von Schaltsymbolen</content>
+					<content>–	Reihen- und Parallelschaltung</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-5-2</id>
+					<title>Experimente/Untersuchungen</title>
+					<content>–	Veranschaulichung der Wirkungen des elektrischen Stroms</content>
+					<content>–	Ladungsnachweis mithilfe eines Elektroskops</content>
+					<content>–	Aufbau einfacher Stromkreise</content>
+				</inhalt>			
+				<inhalt>
+					<id>C-Ph-3-5-3</id>
+					<title>Bezüge zu den Basiskonzepten</title>
+					<inhalt>
+						<id>C-Ph-3-5-3-1</id>
+						<title>Materie</title>
+						<content>Existenz und Ursachen elektrischer Felder</content>
+						<content>elektrischer Strom als Bewegung von Ladungsträgern</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-5-3-2</id>
+						<title>Wechselwirkung</title>
+						<content>Kräfte in elektrischen Feldern</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-5-3-3</id>
+						<title>Energie</title>
+						<content>Quellen und Umwandlung elektrischer Energie</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-5-3-4</id>
+						<title>System</title>
+						<content>elektrischer Stromkreis als System</content>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-5-4</id>
+					<title>Mögliche Kontexte</title>
+					<content>–	Wirkungen des elektrischen Stroms in Haushaltsgeräten, z. B. Funktionsweise von Wasserkocher und Türklingel</content>
+					<content>–	UND-ODER-Schaltung in der Praxis, z. B. für Sicherheitsmaßnahmen bei elektri-schen Geräten</content>
+					<content>–	Elektrostatische Aufladungen im Alltag</content>
+					<content>–	Gewitter</content>
+					<content>–	Vom Froschschenkelversuch Galvanis zur modernen Batterie</content>
+					<content>–	Spannungsquellen für unterwegs, z. B. Batterien, Solarzellen, Handgeneratoren</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-5-5</id>
+					<title>Fachbegriffe</title>
+					<content>–	elektrische Ladung</content>
+					<content>–	Elektron</content>
+					<content>–	elektrisches Feld</content>
+					<content>–	elektrische Feldlinie</content>
+					<content>–	elektrischer Strom</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-5-6</id>
+					<title>Beispiele für Differenzierungsmöglichkeiten</title>
+					<content>–	Komplexität der zu untersuchenden Stromkreise</content>
+					<content>–	Arbeit mit dem Feldlinienmodell auf verschiedenen Niveaustufen</content>
+				</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-Ph-3-6</id>
+			<title>Elektrische Stromstärke, Spannung, Widerstand und Leistung</title>
+			<content>Mit Einführung der physikalischen Größe elektrische Stromstärke wird die Vorstellung vom Kreislauf der Elektronen vertieft und quantitativ beschrieben. Mit der Einführung der physikalischen Größe elektrische Spannung als Antrieb des elektrischen Stroms werden die Quellen elektrischer Energie aus dem Themenfeld 3.5 aufgegriffen und vertieft. Die anschauliche Erklärung der physikalischen Größe Spannung kann mithilfe von Analogiebetrachtungen zum Wasserkreislaufmodell erfolgen.
+					Bei der Verwendung von Messgeräten ist besonders auf eine korrekte Nutzung und den sorgsamen Umgang zu achten.
+					Aus dem experimentell zu erfassenden Zusammenhang zwischen Stromstärke und Spannung wird die physikalische Größe elektrischer Widerstand entwickelt, die für den Fall einer proportionalen Abhängigkeit von Stromstärke und Spannung durch das ohmsche Gesetz beschrieben wird.
+					Der elektrische Widerstand als Energiewandler in einem Stromkreis führt zur Betrachtung von elektrischer Energie und elektrischer Leistung.
+			</content>
+				<inhalt>
+					<id>C-Ph-3-6-1</id>
+					<title>Inhalte</title>
+					<content>–	Stromstärke als physikalische Größe</content>
+					<content>–	Spannung als physikalische Größe und Antrieb des elektrischen Stroms</content>
+					<content>–	ohmsches Gesetz</content>
+					<content>–	elektrischer Widerstand als physikalische Größe und elektrisches Bauelement</content>
+					<content>–	elektrischer Widerstand in Abhängigkeit von der Temperatur</content>
+					<content>–	Stromstärke und Spannung in Reihen- und Parallelschaltung</content>
+					<content>–	Widerstandsgesetz</content>
+					<content>–	elektrische Leistung und Energie als phy-sikalische Größen</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-6-2</id>
+					<title>Experimente/Untersuchungen</title>
+					<content>–	Spannungsmessungen an verschiedenen Spannungsquellen</content>
+					<content>–	Stromstärkemessungen in verschiedenen Geräten</content>
+					<content>–	Aufnahme eines Stromstärke-Spannung-Zusammenhangs eines Bauelements</content>
+					<content>–	Bestimmung der elektrischen Leistung eines Gerätes</content>
+				</inhalt>			
+				<inhalt>
+					<id>C-Ph-3-6-3</id>
+					<title>Bezüge zu den Basiskonzepten</title>
+					<inhalt>
+						<id>C-Ph-3-6-3-1</id>
+						<title>Materie</title>
+						<content>Ströme in Materie können durch Widerstände in ihrer Stärke beeinflusst werden. Der Widerstand ist abhängig vom Material.</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-6-3-2</id>
+						<title>Materie</title>
+						<content>Stromkreise als Systeme</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-6-3-3</id>
+						<title>Materie</title>
+						<content>Energieströme in Stromkreisen</content>
+						<content>Elektrische Leistung und elektrische Energie lassen sich indirekt mithilfe der physikalischen Größen Stromstärke, Spannung bzw. Zeit bestimmen.</content>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-6-4</id>
+					<title>Mögliche Kontexte</title>
+					<content>–	Widerstände als Sensoren</content>
+					<content>–	Vorwiderstände für Leuchtdioden</content>
+					<content>–	Technische Widerstände und ihre Miniatu-risierung in Computer- und Kommunikati-onstechnik</content>
+					<content>–	Entwicklung elektrischer Lichtquellen, z. B. Glühlampe, Energiesparlampe, LED</content>
+					<content>–	Gefahren des elektrischen Stroms</content>
+					<content>–	Kabelbrände bei Überlast</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-6-5</id>
+					<title>Fachbegriffe</title>
+					<content>–	elektrische Stromstärke</content>
+					<content>–	elektrische Spannung</content>
+					<content>–	elektrischer Widerstand</content>
+					<content>–	spezifischer elektrischer Widerstand</content>
+					<content>–	elektrische Leistung</content>
+					<content>–	elektrische Energie</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-6-6</id>
+					<title>Beispiele für Differenzierungsmöglichkeiten</title>
+					<content>–	Selbstständigkeit bei der Planung, Durchführung und Auswertung von Versuchen</content>
+					<content>–	Anforderungen bei der Bearbeitung mathematisch-physikalischer Aufgaben</content>
+					<content>–	Reihenschaltung von Solarzellen</content>
+					<content>–	Untersuchung von Reihen- und Parallelschaltungen</content>
+					<content>–	Spannungsteilerschaltung</content>
+				</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-Ph-3-7</id>
+			<title>Gleichförmige und beschleunigte Bewegungen</title>
+			<content>Ausgehend von Alltagserfahrungen zur Relativität von Bewegungen werden diese beschrieben und verglichen. Im Themenfeld ist ein Verständnis dafür zu entwickeln, dass gleichförmige und gleichmäßig beschleunigte Bewegungen modellhafte Vereinfachungen von meist deutlich komplizierteren Bewegungsabläufen darstellen. Bewegungen im Alltag bieten vielfältige Anknüpfungspunkte für experimentelle sowie mathematisch-physikalische Untersuchungen. Problemstellungen zur Bestimmung von Brems- und Anhaltewegen bieten Bezüge zur Verkehrserziehung.</content>
+				<inhalt>
+					<id>C-Ph-3-7-1</id>
+					<title>Inhalte</title>
+					<content>–	Bewegung, Bewegungsarten und Bezugssystem</content>
+					<content>–	Unterscheidung von Momentan- und Durchschnittsgeschwindigkeit</content>
+					<content>–	Beschreibung von Bewegungen mithilfe der Größen Geschwindigkeit und Beschleunigung</content>
+					<content>–	Bewegungsgesetze der gleichförmigen und der gleichmäßig beschleunigten Bewegung und zugehörige Diagramme</content>
+					<content>–	Deutung von Bewegungen mithilfe von s(t)- und v(t)-Diagrammen</content>
+					<content>–	freier Fall, Bestimmung der Fallbeschleunigung</content>
+					<content>–	waagerechter Wurf als zusammengesetzte Bewegung (qualitativ)</content>
+					<content>–	zufällige und systematische Fehler</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-7-2</id>
+					<title>Experimente/Untersuchungen</title>
+					<content>–	Untersuchung der Abhängigkeit s(t) für gleichförmige Bewegungen, z. B. mithilfe der Luftkissenbahn, einer aufsteigenden Luftblase oder einer Modelleisenbahn auf geradliniger Strecke</content>
+					<content>–	Untersuchung der Abhängigkeit s(t) für gleichmäßig beschleunigte Bewegungen, z. B. mithilfe der Luftkissenbahn oder Bewegungssensoren</content>
+					<content>–	Untersuchung von Fallbewegungen</content>
+				</inhalt>			
+				<inhalt>
+					<id>C-Ph-3-7-3</id>
+					<title>Bezüge zu den Basiskonzepten</title>
+					<inhalt>
+						<id>C-Ph-3-7-3-1</id>
+						<title>System</title>
+						<content>Die Beschreibung von Bewegungen ist abhängig von einem gewählten Bezugssystem.</content>
+						<content>Zuordnung realer Bewegungen zu Bewegungsarten</content>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-7-4</id>
+					<title>Mögliche Kontexte</title>
+					<content>–	Sicherheit im Straßenverkehr, z. B. Si-cherheitsabstände, Überholvorgänge, Bremswege, Geschwindigkeitskontrollen</content>
+					<content>–	Bewegungen einer S-Bahn</content>
+					<content>–	Bewegungen eines Flugzeugs, z. B. Start, Flug, Geschwindigkeitsmessung</content>
+					<content>–	Abbremswege, z. B. in der Raumfahrt, in der Schifffahrt</content>
+					<content>–	Eine Welt ohne Reibung</content>
+					<content>–	Fahrtenschreiber</content>
+					<content>–	Galilei kontra Aristoteles</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-7-5</id>
+					<title>Fachbegriffe</title>
+					<content>–	Bezugssystem</content>
+					<content>–	gleichförmig geradlinige Bewegung</content>
+					<content>–	Momentangeschwindigkeit, Durchschnittsgeschwindigkeit</content>
+					<content>–	Beschleunigung</content>
+					<content>–	Reaktionszeit, Reaktionsweg</content>
+					<content>–	Brems- und Anhalteweg</content>
+					<content>–	Fallbeschleunigung</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-7-6</id>
+					<title>Beispiele für Differenzierungsmöglichkeiten</title>
+					<content>–	Komplexität der betrachteten Bewegungen, z. B. Anfahren einer S-Bahn, vollständige Fahrt einer S-Bahn zwischen zwei Stationen</content>
+					<content>–	Ausmaß der zu treffenden Vereinfachungen, z. B. Berücksichtigung Anfangsbedingungen, ungleichmäßige Beschleunigungen</content>
+					<content>–	Grad der Mathematisierung, z. B. Vorzeichen von Geschwindigkeit und Beschleunigung</content>
+					<content>–	Komplexität der auszuwertenden Diagramme</content>
+					<content>–	Einflüsse von Fehlern bei Experimenten erkennen und bewerten</content>
+				</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-Ph-3-8</id>
+			<title>Kraft und Beschleunigung</title>
+			<content>Die geschichtliche Entwicklung der Ansichten bedeutender Philosophen und Naturwissenschaftler zur Ursache von Bewegungen führen zu dem heute gültigen Kraftbegriff und den Axiomen von Newton. Diese sind nicht nur als Grundpfeiler der Dynamik anzusehen, sondern lassen sich vielfältig praxisnah an Alltagserfahrungen anknüpfen. Bei Problemlösungen durch Anwendungen des Grundgesetzes der Mechanik ist auf die Bedeutung der Kraft als die Resultierende aller wirkenden Kräfte und die Bedeutung der Masse als die gesamte beschleunigte Masse hinzuweisen.
+					Desweiteren soll die Wechselwirkung von Körpern infolge von Reibung auf der Grundlage verschiedener Versuche erörtert werden. Beim Problemlösen wird die unterschiedliche Bedeutung von Wechselwirkung und Kräftegleichgewicht vertieft und mathematisch weitergeführt.
+			</content>
+				<inhalt>
+					<id>C-Ph-3-8-1</id>
+					<title>Inhalte</title>
+					<content>–	Trägheitsgesetz</content>
+					<content>–	Wechselwirkungsgesetz</content>
+					<content>–	Grundgesetz der Dynamik</content>
+					<content>–	Zerlegen und Addieren von Kräften bei einfachen Beispielen</content>
+					<content>–	Problemlösen unter Verwendung des newtonschen Grundgesetzes</content>
+					<content>–	Haftreibung, Gleitreibung und Rollreibung (qualitativ)</content>
+					<content>–	Radialkraft als Ursache einer Kreisbewe-gung (qualitativ)</content>
+					<content>–	Luftwiderstandskraft</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-8-2</id>
+					<title>Experimente/Untersuchungen</title>
+					<content>–	Versuche zur Trägheit</content>
+					<content>–	Versuche zur Reibung</content>
+					<content>–	quantitative Untersuchungen zum Grundgesetz der Dynamik, z. B. mithilfe der Luftkissenbahn, Beschleunigungs- oder Kraftsensoren</content>
+				</inhalt>			
+				<inhalt>
+					<id>C-Ph-3-8-3</id>
+					<title>Bezüge zu den Basiskonzepten</title>
+					<inhalt>
+						<id>C-Ph-3-8-3-1</id>
+						<title>Materie</title>
+						<content>Form und Oberflächenbeschaffenheit haben einen Einfluss auf die Luft-widerstandskraft eines bewegten Körpers.</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-8-3-1</id>
+						<title>Wechselwirkung</title>
+						<content>Mit den drei newtonschen Gesetzen können Bewegungsabläufe erklärt und vorausgesagt werden.</content>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-8-4</id>
+					<title>Mögliche Kontexte</title>
+					<content>–	Analyse von Crashtests und Sicherungsvorkehrungen in Fahrzeugen</content>
+					<content>–	Kräfte an Fahrzeugen, z. B. Fahrrad, Vergleich verschiedener PKW und LKW, Maßnahmen zur Reduzierung des cW-Wertes</content>
+					<content>–	Fahrt in einem Fahrstuhl, Seifenkistenrennen</content>
+					<content>–	Bewegung eines Fallschirmspringers</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-8-5</id>
+					<title>Fachbegriffe</title>
+					<content>–	Trägheit</content>
+					<content>–	Wechselwirkung</content>
+					<content>–	Reibungskraft</content>
+					<content>–	resultierende Kraft, Kräftezerlegung</content>
+					<content>–	Kreisbewegung</content>
+					<content>–	Radialkraft</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-8-6</id>
+					<title>Beispiele für Differenzierungsmöglichkeiten</title>
+					<content>–	Hangabtriebskraft und Normalkraft, Untersuchungen zur Zerlegung von Kräften an der geneigten Ebene, z. B. Bestimmung von Reibungskoeffizienten</content>
+				</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-Ph-3-9</id>
+			<title>Magnetfelder und elektromagnetische Induktion</title>
+			<content>Aus dem Themenfeld 3.5 ist den Schülerinnen und Schülern bekannt, dass eine Wirkung des elektrischen Stroms der Magnetismus ist.
+					Es werden die Eigenschaften von Elektromagneten und Dauermagneten verglichen. Zur Erklärung des Dauermagnetismus wird das Modell Elementarmagnet eingeführt, der Elektromagnetismus wird als Eigenschaft des elektrischen Stroms erklärt. Das Feldlinienmodell ermöglicht die Erklärung der Wechselwirkung.
+					Das Verständnis der Wechselwirkung von stromdurchflossenen Leitern und Magnetfeldern und elektromagnetischer Induktion ermöglicht die Erklärung wichtiger elektrischer Geräte, wie z. B. Elektromotor und Generator sowie Mikrofon und Lautsprecher.
+			</content>
+				<inhalt>
+					<id>C-Ph-3-9-1</id>
+					<title>Inhalte</title>
+					<content>–	Dauer- und Elektromagnete</content>
+					<content>–	Modell Elementarmagnet</content>
+					<content>–	Modell der magnetischen Feldlinien</content>
+					<content>–	Vergleich elektrisches und magnetisches Feld</content>
+					<content>–	Kräfte auf stromführende Leiter im Magnetfeld</content>
+					<content>–	Aufbau und Funktionsweise Elektromotor</content>
+					<content>–	Induktionsgesetz (qualitativ)</content>
+					<content>–	Erzeugung einer Wechselspannung mit einem Generator</content>
+					<content>–	Aufbau, Funktion und Spannungsübersetzung eines unbelasteten Transformators</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-9-2</id>
+					<title>Experimente/Untersuchungen</title>
+					<content>–	Kräfte auf stromführende Leiter</content>
+					<content>–	Nachweis von Induktionsspannungen</content>
+					<content>–	Spannungsübersetzung am Transformator</content>
+				</inhalt>			
+				<inhalt>
+					<id>C-Ph-3-9-3</id>
+					<title>Bezüge zu den Basiskonzepten</title>
+					<inhalt>
+						<id>C-Ph-3-9-3-1</id>
+						<title>Materie</title>
+						<content>Ein Eisenkern verstärkt das Magnetfeld im Innern einer stromdurchflossenen Spule.</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-9-3-2</id>
+						<title>Wechselwirkung</title>
+						<content>Erklärung der Entstehung von Spannungen durch die Wechselwirkung von Magnetfeld und Induktionsspule</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-9-3-3</id>
+						<title>System</title>
+						<content>Betrachtung komplexer technischer Geräte, wie z. B. Motor und Genera-tor</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-9-3-4</id>
+						<title>Energie</title>
+						<content>Induktion als Energieumwandlung und Energieübertragung</content>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-9-4</id>
+					<title>Mögliche Kontexte</title>
+					<content>–	Magnetfeld der Erde</content>
+					<content>–	Windkraftwerk als Generator</content>
+					<content>–	Nutzbremse bei Elektro- oder Hybridfahrzeugen: Elektromotor, Generator</content>
+					<content>–	Schall erfassen und erzeugen mit Mikro-fon bzw. Lautsprecher</content>
+					<content>–	Informationsspeicher Festplatte</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-9-5</id>
+					<title>Fachbegriffe</title>
+					<content>–	Magnetfeld</content>
+					<content>–	Elektromotor</content>
+					<content>–	elektromagnetische Induktion</content>
+					<content>–	Induktionsspannung</content>
+					<content>–	Wechselspannung</content>
+					<content>–	Generator</content>
+					<content>–	Transformator</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-9-6</id>
+					<title>Beispiele für Differenzierungsmöglichkeiten</title>
+					<content>–	Einbeziehung verschiedener Anwendungen von magnetischen Feldern in der Technik, z. B. magnetische Speicher, magnetisches Rühren, magnetische Sensoren</content>
+					<content>–	Die Beschreibung bzw. Erklärung der Induktionsvorgänge ist auf verschiedenen Niveau-stufen möglich.</content>
+					<content>–	Wirbelströme</content>
+				</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-Ph-3-10</id>
+			<title>Radioaktivität und Kernphysik</title>
+			<content>Das Ziel dieses Themenfeldes ist es, dass die Lernenden das Phänomen der Radioaktivität kennenlernen. Technische und medizinische Anwendungen der Kernphysik sind besonders für die Entwicklung von Beurteilungskompetenz geeignet.
+					In diesem Themenfeld erwerben die Lernenden grundlegendes Wissen über den Aufbau der Materie. Dazu wird das aus dem Chemieunterricht bekannte Kern-Hülle-Modell aufgegriffen. Veränderungen im Atomkern führen zur Aussendung ionisierender Strahlung. Diese Vorgänge werden mittels statistischer Gesetzmäßigkeiten beschrieben.
+			</content>
+				<inhalt>
+					<id>C-Ph-3-10-1</id>
+					<title>Inhalte</title>
+					<content>–	Arten der natürlichen radioaktiven Strahlung</content>
+					<content>–	Absorptionsvermögen (qualitativ)</content>
+					<content>–	Ionisierungsvermögen</content>
+					<content>–	radioaktive Strahlung aus dem Atomkern</content>
+					<content>–	Aktivität als physikalische Größe</content>
+					<content>–	Halbwertszeit</content>
+					<content>–	radioaktive Strahlung in unserer Umwelt</content>
+					<content>–	biologische Wirkungen radioaktiver Strahlung (qualitativ)</content>
+					<content>–	Kernspaltung</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-10-2</id>
+					<title>Experimente/Untersuchungen</title>
+					<content>–	Nachweis natürlicher radioaktiver Strahlung</content>
+					<content>–	Realexperiment oder Modellexperiment zum radioaktiven Zerfall, z. B. Bier-schaumversuch, Computersimulation</content>
+				</inhalt>			
+				<inhalt>
+					<id>C-Ph-3-10-3</id>
+					<title>Bezüge zu den Basiskonzepten</title>
+					<inhalt>
+						<id>C-Ph-3-10-3-1</id>
+						<title>Materie</title>
+						<content>Aufbau der Materie aus Elektronen, Protonen und Neutronen</content>
+						<content>Strahlung als Materie</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-10-3-2</id>
+						<title>Wechselwirkung</title>
+						<content>Wirkungen radioaktiver Strahlung</content>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-10-4</id>
+					<title>Mögliche Kontexte</title>
+					<content>–	Natürliche Radioaktivität</content>
+					<content>–	Anwendungen radioaktiver Strahlung in der Medizin</content>
+					<content>–	Kernkraftwerke als Beitrag zum Klimaschutz?</content>
+					<content>–	Kernwaffen – Verantwortung der Wissenschaft</content>
+					<content>–	Endlagerung von radioaktivem Müll als gesellschaftliche Herausforderung</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-10-5</id>
+					<title>Fachbegriffe</title>
+					<content>–	Radioaktivität</content>
+					<content>–	stabiler und instabiler Atomkern</content>
+					<content>–	Isotop</content>
+					<content>–	Alpha-, Betta-, Gamma-Strahlung</content>
+					<content>–	ionisierende Strahlung</content>
+					<content>–	Kernzerfall</content>
+					<content>–	Halbwertszeit</content>
+					<content>–	Kernspaltung</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-10-6</id>
+					<title>Beispiele für Differenzierungsmöglichkeiten</title>
+					<content>–	unterschiedliche Tiefe der Beschreibung des radioaktiven Zerfalls, z. B. Wortgleichungen, Zerfallsgleichungen, Zerfallsreihen</content>
+					<content>–	Kernfusion</content>
+				</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-Ph-3-11</id>
+			<title>Energieumwandlungen in Natur und Technik</title>
+			<content>In diesem Themenfeld greifen die Schülerinnen und Schüler Wissen aus den Themenfeldern 3.3, 3.4 und 3.6 auf und vertiefen ihre Erkenntnisse durch quantitative Betrachtungen, z. B. bei der Berechnung von Energieumwandlungen und Wirkungsgraden.
+					Das Themenfeld bietet vielfältige Möglichkeiten, komplexere Fragestellungen aufzugreifen und Wissen aus unterschiedlichen Themenfeldern miteinander zu verknüpfen, auch über das Fach Physik hinaus.
+			</content>
+				<inhalt>
+					<id>C-Ph-3-11-1</id>
+					<title>Inhalte</title>
+					<content>–	Energieumwandlungen und Energieübertragungen</content>
+					<content>–	Berechnung von potenziellen und kinetischen Energien</content>
+					<content>–	thermische Leistung einer Wärmequelle</content>
+					<content>–	Berechnung von Wärmen, spezifische Wärmekapazität</content>
+					<content>–	Wirkungsgrad und Energieflussschemen bei Energieumwandlungen</content>
+					<content>–	Problemlösungen durch quantitative Energiebetrachtungen</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-11-2</id>
+					<title>Experimente/Untersuchungen</title>
+					<content>–	Abhängigkeiten der Wärme von der Tem-peraturänderung, der Masse und vom Stoff</content>
+					<content>–	Bestimmung des Wirkungsgrades von Energieumwandlungen, z. B. bei der Warmwasserbereitung mithilfe eines Wasserkochers</content>
+				</inhalt>			
+				<inhalt>
+					<id>C-Ph-3-11-3</id>
+					<title>Bezüge zu den Basiskonzepten</title>
+					<inhalt>
+						<id>C-Ph-3-11-3-1</id>
+						<title>Energie</title>
+						<content>Energieübertragungen und Energieumwandlungen sind wesentlich für alle natürlichen und technischen Vorgänge.</content>
+						<content>Für die Nutzung von Energie sind die Herkunft der Energie, der Wirkungs-grad der Energieumwandlung und die Auswirkungen zu beachten.</content>
+						<content>Quantitative Betrachtungen zur Energie sind eine wesentliche Vorausset-zung für den sorgsamen Umgang und den sinnvollen Einsatz von Energie.</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-11-3-2</id>
+						<title>System</title>
+						<content>Die Betrachtungen von Energieübertragungen und -umwandlungen erfordern die Festlegung von klar bestimmten Systemen.</content>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-11-4</id>
+					<title>Mögliche Kontexte</title>
+					<content>–	Sicherung einer nachhaltigen Energieversorgung in der Zukunft</content>
+					<content>–	Energetische Betrachtungen zur Wirkung einer Abrissbirne</content>
+					<content>–	Energie aus der Sonne</content>
+					<content>–	Wärmekraftwerke und ihr Einfluss auf den Klimawandel</content>
+					<content>–	Sonnen-, Wind-, Wasser- und Wärme-kraftwerke im Vergleich</content>
+					<content>–	Energiesparen im Haushalt</content>
+					<content>–	Speicherung von Energie, z. B. in einem Pumpspeicherwerk</content>
+					<content>–	Energieumwandlungen im menschlichen Körper</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-11-5</id>
+					<title>Fachbegriffe</title>
+					<content>–	potenzielle Energie</content>
+					<content>–	kinetische Energie</content>
+					<content>–	thermische Leistung</content>
+					<content>–	Wärme als physikalische Größe</content>
+					<content>–	spezifische Wärmekapazität</content>
+					<content>–	Wirkungsgrad</content>
+					<content>–	offene und geschlossene Systeme</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-11-6</id>
+					<title>Beispiele für Differenzierungsmöglichkeiten</title>
+					<content>–	Umfang und Komplexität der quantitativen Energiebetrachtungen</content>
+					<content>–	globale Erwärmung und Energiegewinnung</content>
+					<content>–	Übertragung von elektrischer Energie in Stromverbundnetzen</content>
+					<content>–	Bestimmung der Solarkonstante</content>
+				</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-Ph-3-12</id>
+			<title>Mechanische Schwingungen und Wellen</title>
+			<content>Mechanische Schwingungen werden als Bewegungsform dargestellt. Ihr periodischer Verlauf lässt sich durch Kopplungskräfte des schwingungsfähigen Systems erklären. Insbesondere die Kenngrößen der mechanischen Schwingung sollen vielseitig experimentell untersucht werden. Die Gleichungen für die Periodendauer von Fadenpendel und Federschwinger ermöglichen quantitative Vergleiche mit eigenen Messergebnissen.
+					Aufbauend auf das Alltagsphänomen Wasserwelle lassen sich die Kenngrößen mechanischer Wellen sowie die Phänomene Reflexion, Brechung, Beugung und Überlagerung praxisorientiert veranschaulichen.
+			</content>
+				<inhalt>
+					<id>C-Ph-3-12-1</id>
+					<title>Inhalte</title>
+					<content>–	Kenngrößen einer harmonischen Schwingung</content>
+					<content>–	Darstellung harmonischer Schwingungen in Diagrammen</content>
+					<content>–	Dämpfung von Schwingungen</content>
+					<content>–	Energieumwandlungen bei einem Faden-pendel oder einem Federschwinger</content>
+					<content>–	Resonanz</content>
+					<content>–	Kenngrößen mechanischer Wellen</content>
+					<content>–	Darstellung mechanischer Wellen in Dia-grammen</content>
+					<content>–	Reflexion und Brechung</content>
+					<content>–	Beugung und Interferenz mechanischer Wellen</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-12-2</id>
+					<title>Experimente/Untersuchungen</title>
+					<content>–	Untersuchung der Abhängigkeiten der Periodendauer eines Fadenpendels oder eines Federschwingers</content>
+					<content>–	Untersuchung gedämpfter Schwingungen</content>
+					<content>–	Untersuchung des Phänomens der Resonanz</content>
+					<content>–	Untersuchung der Eigenschaften von Wellen, z. B. Wasserwellen oder Schallwellen</content>
+					<content>–	Bestimmung der Ausbreitungsgeschwindigkeit einer Welle</content>
+				</inhalt>			
+				<inhalt>
+					<id>C-Ph-3-12-3</id>
+					<title>Bezüge zu den Basiskonzepten</title>
+					<inhalt>
+						<id>C-Ph-3-12-3-1</id>
+						<title>System</title>
+						<content>Eine mechanische Schwingung entsteht durch eine Störung an einem schwingungsfähigen System.</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-12-3-2</id>
+						<title>Materie</title>
+						<content>Die Ausbreitung einer mechanischen Welle wird mit Kopplungskräften zwischen den Teilchen der Materie erklärt. Die Ausbreitungsgeschwindigkeit hängt von Eigenschaften der Materie ab. Form und Material von Federn haben einen Einfluss auf die Periodendauer von Federschwingern.</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-12-3-3</id>
+						<title>Energie</title>
+						<content>Schwingungen lassen sich durch periodische Energieumwandlungen beschreiben.</content>
+						<content>Eine Welle überträgt Energie ohne Materie zu transportieren.</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-12-3-4</id>
+						<title>Wechselwirkung</title>
+						<content>Die Ruhelage ist nicht Ausdruck einer Wechselwirkung, sondern eines Gleichgewichts von Kräften.</content>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-12-4</id>
+					<title>Mögliche Kontexte</title>
+					<content>–	Stoßdämpfer beim Auto</content>
+					<content>–	Auswirkungen von Resonanzeffekten, z. B. der Zusammensturz der Tacoma Narrows Bridge</content>
+					<content>–	Erdbebenwellen, Tsunami, z. B. mögliche Vorwarnzeiten, erdbebensicheres Bauen</content>
+					<content>–	Musikinstrumente, z. B. Schallerzeugung, Schallausbreitung, Frequenzanalyse, Akustik von Räumen</content>
+					<content>–	Brechung von Meereswellen am Strand</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-12-5</id>
+					<title>Fachbegriffe</title>
+					<content>–	Amplitude, Elongation, Frequenz, Periodendauer</content>
+					<content>–	Ruhelage</content>
+					<content>–	Resonanz</content>
+					<content>–	Längswelle, Querwelle</content>
+					<content>–	Wellenlänge</content>
+					<content>–	Ausbreitungsgeschwindigkeit</content>
+					<content>–	Reflexion und Brechung</content>
+					<content>–	Beugung</content>
+					<content>–	Interferenz</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-12-6</id>
+					<title>Beispiele für Differenzierungsmöglichkeiten</title>
+					<content>–	Rückstellkräfte bei einem Federschwinger und einem Fadenpendel</content>
+					<content>–	Gleichung zur Berechnung der Periodendauer</content>
+					<content>–	qualitative oder quantitative Beschreibung zur Beugung und Überlagerung von Wellen</content>
+				</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-Ph-3-13</id>
+			<title>Optische Geräte</title>
+			<content>Das Phänomen Licht lässt sich mit unterschiedlichen Methoden untersuchen und durch verschiedene Modelle erklären. In diesem Themenfeld wird an das Wissen über das Modell Lichtstrahl aus Naturwissenschaften 5/6 angeknüpft. Dabei wird es auf verschiedene optische Alltagsphänomene und auf das Verständnis der Funktion optischer Geräte angewandt.
+			</content>
+				<inhalt>
+					<id>C-Ph-3-13-1</id>
+					<title>Inhalte</title>
+					<content>–	Modell Lichtstrahl</content>
+					<content>–	Lichtgeschwindigkeit</content>
+					<content>–	Strahlengang in ausgewählten optischen Geräten</content>
+					<content>–	Reflexions- und Brechungsgesetz</content>
+					<content>–	Totalreflexion</content>
+					<content>–	Bildentstehung bei einer Sammellinse</content>
+					<content>–	Abbildungsmaßstab und Linsengleichung</content>
+					<content>–	Brechung einfarbigen Lichts am Prisma</content>
+					<content>–	Zerlegung weißen Lichts am Prisma, Spektrum des Lichts</content>
+					<content>–	farbige Bilder durch Addition der Grundfarben Rot, Grün, Blau, z. B. beim Bildschirm oder Fotoapparat</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-13-2</id>
+					<title>Experimente/Untersuchungen</title>
+					<content>–	quantitative Untersuchung von Reflexion und Brechung des Lichts</content>
+					<content>–	Untersuchungen zur Linsengleichung</content>
+					<content>–	Farbzerlegung an einem Prisma</content>
+				</inhalt>			
+				<inhalt>
+					<id>C-Ph-3-13-3</id>
+					<title>Bezüge zu den Basiskonzepten</title>
+					<inhalt>
+						<id>C-Ph-3-13-3-1</id>
+						<title>Materie</title>
+						<content>Reflexion und Brechung des Lichts hängen von der Oberflächenbeschaffenheit und dem Material des Körpers ab.</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-13-3-2</id>
+						<title>Wechselwirkung</title>
+						<content>Wechselwirkung des Lichts mit den Hindernissen als Ursache für Reflexion, Brechung</content>
+					</inhalt>
+					<inhalt>
+						<id>C-Ph-3-13-3-3</id>
+						<title>System</title>
+						<content>Lichtquelle, Hindernis und Nachweisgerät (Schirm o. Ä.) als zu betrachtende Gesamtheit</content>
+					</inhalt>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-13-4</id>
+					<title>Mögliche Kontexte</title>
+					<content>–	Optische Linsen gegen Weit- und Kurz-sichtigkeit</content>
+					<content>–	Phänomene in der Natur, z. B. Regenbogen, Luftspiegelungen, z. B. Fata Morgana</content>
+					<content>–	Lichtleiter in der Technik</content>
+					<content>–	Bildentstehung in einem Fotoapparat</content>
+					<content>–	Sichtfeld eines Tauchers</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-13-5</id>
+					<title>Fachbegriffe</title>
+					<content>–	Reflexion</content>
+					<content>–	Brechung</content>
+					<content>–	Totalreflexion</content>
+					<content>–	reelle und virtuelle Bilder</content>
+					<content>–	Brennpunkt</content>
+					<content>–	Brenn-, Gegenstands- und Bildweite</content>
+					<content>–	konkav, konvex</content>
+					<content>–	Spektralfarben</content>
+				</inhalt>
+				<inhalt>
+					<id>C-Ph-3-13-6</id>
+					<title>Beispiele für Differenzierungsmöglichkeiten</title>
+					<content>–	Brechungsgesetz in verschiedenen Niveaustufen (qualitativ, Diagramm, Gleichung)</content>
+					<content>–	Bildentstehung in weiteren optischen Instrumenten, z. B. im Kepler-Fernrohr und im Mikroskop</content>
+					<content>–	Beugung und Interferenz von Licht (Deutung mit dem Wellenmodell)</content>
+				</inhalt>
+		</themainhalt>
+		<themainhalt>
+			<id>C-Ph-3-14</id>
+			<title>3.14	Wahlpflichtfach</title>
+			<content>Der Wahlpflichtunterricht stellt ein Angebot dar, das über den Regelunterricht hinausgeht und ihn thematisch erweitert. Er dient der Vertiefung von Fachinhalten und schafft die Möglichkeit, Fachliches und Überfachliches zu verbinden.
+					Im schulinternen Curriculum wird sichergestellt, dass thematische Dopplungen mit dem Regelunterricht und Vorgriffe auf Inhalte des Unterrichts in der gymnasialen Oberstufe vermieden werden.
+					Grundlage für den Unterricht im Wahlpflichtfach sind die fachlichen Kompetenzbereiche. Werden weitere Fächer hinzugezogen, gilt dies für die Kompetenzbereiche aller beteiligten Fächer.
+					In den Fächern Biologie, Chemie und Physik kann im Wahlpflichtfach auf Themenfelder aus dem Fachteil Naturwissenschaften 7 – 10 zurückgegriffen werden.
+			</content>
+		</themainhalt>		
+	</c3>	
+	</fach>			

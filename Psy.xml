@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fach xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns="http://bsbb.eu" 
+	xsi:schemaLocation="http://bsbb.eu fachtype.xsd">
+
+	<id>C-Psy</id>
+	<title>Psychologie</title>
+	<c1>
+		<id>C-Psy-1</id>
+		<title>1	Kompetenzentwicklung im Fach Psychologie</title>
+		<subtext>
+			<id>C-Psy-1-1</id>
+			<title>Ziele des Unterrichts</title>
+			<content>Die Beschäftigung mit psychologischen Erkenntnissen bedarf der Auseinander¬setzung mit dem eigenen Verhalten und Erleben sowie dem anderer Menschen.
+					Psychologische Fähigkeiten und Fertigkeiten sind heute und in Zukunft unerlässlich: in der Wirtschaft, in der Medizin, überall, wo Menschen ausgebildet werden, nicht zuletzt aber in der Familie und in den persönlichen Beziehungen.
+					Die Möglichkeiten, menschliches Verhalten und Erleben psychologisch zu betrachten, sind vielfältig. Dies erfahren die Schülerinnen und Schüler zum einen durch das Eingebundensein der Wissenschaft Psychologie in gesamtgesellschaftliche und historische Kontexte; zum anderen nehmen die Schülerinnen und Schüler die Psychologie als eine facettenreiche Wissenschaft wahr, deren Theorien und wissenschaftliche Methoden sich durch die Auswahl und Interpretation von Alltagsphänomenen unterscheiden.
+					Das Unterrichtsfach Psychologie hält die Schülerinnen und Schüler an, den Menschen, sein Erleben und sein Verhalten aus verschiedenen Perspektiven wahrzunehmen und darüber zu kommunizieren.
+					Diese verschiedenen Perspektiven werden fachsprachlich zu Paradigmen zusammengefasst und bilden die Grundlage des Umgangs mit psychologischem Wissen.
+					Durch den paradigmatischen Zugang zu psychologischen Erkenntnissen entwickeln die Schülerinnen und Schüler die Fähigkeit, unbefangen mit bislang ungewohnten Sichtweisen (auch auf das Geschlecht bezogen) in der Auffassung vom Menschen umzugehen. Dies fördert Toleranz und die Bereitschaft, Unvertrautes und Fremdes kennen und schätzen zu lernen.
+					Da die Schülerinnen und Schüler alltagspsychologische Erfahrungen in den Unterricht mitbringen, ist es ein Ziel des Faches, diesen Erfahrungen psychologische Theorien und Methoden gegenüberzustellen. Alltagspsychologie soll kritisch hinterfragt und zu den Ergebnissen der wissenschaftlichen Psychologie in Beziehung gesetzt werden.
+					Ein weiteres Ziel des Faches ist die Überwindung der im Fächerkanon eher scharfen Trennung zwischen Natur- und Geisteswissenschaften. Bei der Bearbeitung psychischer Phänomene kommen sowohl naturwissenschaftliche als auch geisteswissenschaftliche Arbeitsweisen zur Geltung.
+					Dieser psychologische Zugriff auf die Welt bietet besondere Möglichkeiten, indem an vorhandene kognitive und praktische Kompetenzen der Lernenden in neuen Lernkontexten angeknüpft wird.
+					Der Gegenstand des Faches Psychologie trägt in besonderer Weise zur Persönlichkeitsentwicklung bei, indem Prozesse der Selbst- und Fremdreflexion auf der Grundlage psychologischen Wissens unterstützt werden.
+			</content>
+		</subtext>
+		<subtext>
+			<id>C-Psy-1-2</id>
+			<title>Fachbezogene Kompetenzen</title>
+			<content>Das Kompetenzmodell für das Fach Psychologie besteht aus mehreren Kompetenzbereichen. Der Erwerb der zugehörigen Kompetenzen wird ebenso auf der kognitiv-analytischen Ebene wie auf der praktischen Verhaltensebene gefördert.
+					Fundament aller Kompetenzen ist die Auseinandersetzung mit fachlichen Inhalten. Psychologisch relevante Inhalte entstammen aus Natur und Gesellschaft und können aus einer individuellen und/oder gruppendynamischen Perspektive betrachtet werden.
+					Aus dem wirkungsvollen Zusammenspiel aller genannten Kompetenzbereiche ergibt sich die Fähigkeit, menschliches Erleben und Verhalten psychologisch zu reflektieren.
+					
+					Fachwissen aufbereiten
+					Die Vielfalt und Interpretationsbreite psychologischer Theorien ermöglichen eine Fülle an Themen und Alltagsbezügen für den Unterricht, deren psychologische Relevanz nicht immer leicht durchschaubar ist.
+					Die Schülerinnen und Schüler verwenden deshalb Paradigmen als zentrale, erkenntnisleitende Prinzipien, um konkrete Phänomene des menschlichen Verhaltens und Erlebens, theoretische Aspekte, Begriffe und Methoden zu erfassen und zu nutzen.
+					Sie erkennen die Zusammenhänge und Unterschiede zwischen Alltagspsychologie und wissenschaftlicher Psychologie und bedienen sich naturwissenschaftlicher und gesellschaftswissenschaftlicher Herangehensweisen.
+					
+					Erkenntnisse gewinnen
+					Der Anfangsunterricht im Fach Psychologie setzt an Alltagsphänomenen an.
+					Die Schülerinnen und Schüler beobachten und beschreiben diese Phänomene und erschließen sachgerechte Informationen mithilfe geeigneter Materialien (Experimentalergebnisse, Fachtexte, literarische Texte, Fallbeschreibungen, Grafiken, Statistiken etc.). Sie stellen Hypothesen auf, verwenden psychologische Modelle und formulieren Erklärungsansätze.
+					Die Schülerinnen und Schüler vollziehen zunächst psychologische Erkenntnismethoden nach und erlangen so zunehmend die Fähigkeit, diese Methoden in einfacher Weise selbst zu nutzen.
+						
+					Kommunizieren
+					Die Verständigung über menschliches Verhalten und Erleben (Selbst- und Fremdperspektive) beschreibt das zentrale Geschehen im Psychologieunterricht. Dabei bleibt die Privatsphäre der Lernenden stets gewahrt.
+					Die Schülerinnen und Schüler erkennen die Notwendigkeit der Präzisierung ihrer Alltagssprache.
+					Ausgehend von vorwiegend mündlichen Interaktionen erwerben sie mehr und mehr fachsprachliche Kompetenzen auch im schriftlichen Bereich, sodass sie Fachinhalte in zunehmendem Maße sachlich korrekt und adressatengerecht austauschen können. Zur Darstellung und Mitteilung psychologischer Erkenntnisse verwenden die Lernenden zunehmend sicher passgenaue Präsentationsformen.
+					
+					Bewerten
+					Hauptaugenmerk des Bewertens im Anfangsunterricht ist die Formulierung einfacher wissensbasierter Sachurteile.
+					Die Schülerinnen und Schüler erkennen, dass sich gleichende psychische Phänomene verschieden betrachtet und interpretiert werden können. Um psychologische Interpretationen qualitativ einzuschätzen, wählen sie aus vorgegebenen Kriterien geeignete aus. Sie formulieren fachlich begründete Vermutungen über die mit den verschiedenen Deutungen verbundenen Absichten.
+					
+					Erleben und Verhalten psychologisch reflektieren
+					Die Schülerinnen und Schüler zeigen sich kompetent in den beschriebenen Kompetenzbereichen, wenn sie auf der Grundlage psychologischen Wissens einfache psychische 
+					Phänomene des menschlichen Erlebens und Verhaltens aus unterschiedlichen Perspektiven nachvollziehbar analysieren und kommunizieren können. Sie beziehen das Erlernte auf ihr Lebensumfeld und entwickeln so die Möglichkeit einer qualitativ neuen Bewältigung alltäglicher Situationen.
+			</content>
+		</subtext>
+	</c1>
+	<c2>
+		<vorwort>
+		<id>C-Psy-2-BE</id>
+		<title>Regelungen für das Land Berlin</title>
+		<content>Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler.
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungsvorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+Für Grundschulen und Grundstufen der Gemeinschaftsschulen sowie an 
+weiterführenden Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Schulanfangsphase 	Niveaustufen A, B, in Teilen C
+Jahrgangsstufen	3 – 4	Niveaustufe C, in Teilen D
+Jahrgangsstufe	5	Niveaustufen C – D 
+Jahrgangsstufe	6	Niveaustufe D, in Teilen E
+
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen 
+werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufe 		3	Niveaustufe B, in Teilen C
+Jahrgangsstufen		4 – 6	Niveaustufe C
+Jahrgangsstufen 	7 – 8	Niveaustufe D
+Jahrgangsstufen 	9 – 10	Niveaustufen D – E
+
+Zur Vorbereitung auf den der Berufsbildungsreife gleichwertigen Abschluss werden in den Jahrgangsstufen 9 und 10 auch Angebote auf dem Niveau F unterbreitet.
+Je nach dem Grad der Lernbeeinträchtigung erreichen die Schülerinnen und Schüler die 
+gesetzten Standards nicht im vollen Umfang bzw. nicht zum vorgegebenen Zeitpunkt. Dem trägt eine individuelle Ausrichtung des Unterrichtsangebots Rechnung.
+Für die Integrierte Sekundarschule gilt:
+grundlegendes Niveau:
+Jahrgangsstufen	7 – 8	Niveaustufen D – E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufe F, in Teilen G
+erweitertes Niveau: 
+Jahrgangsstufen	7 – 8 	Niveaustufe E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufen F – G
+
+
+Für das Gymnasium gilt:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+
+Die folgende Darstellung veranschaulicht die im Berliner Schulsystem in den Jahrgangsstufen 1 bis 10 möglichen Lerngeschwindigkeiten im Überblick und zeigt die Durchlässigkeit des Schulsystems. Sie bietet zudem eine Grundlage für eine systematische Schullaufbahnberatung. In der Darstellung ist auch erkennbar, welche Anforderungen Schülerinnen und Schüler erfüllen müssen, die die Voraussetzungen für den Erwerb der Berufsbildungsreife erst am Ende der Jahrgangsstufe 10 erreichen. Dieses Niveau können auch Schülerinnen und Schüler mit dem sonderpädagogischen Förderschwerpunkt Lernen erreichen, wenn sie den der Berufsbildungsreife gleichwerten Abschluss anstreben. 
+
+Der Unterricht im Wahlpflichtfach Psychologie beginnt in den Jahrgangsstufen 9/10. Im Unterricht nutzen die Schülerinnen und Schüler ihre bereits erworbenen Kompetenzen und vertiefen diese. Am Ende der Jahrgangsstufe 10 wird das entsprechende Übergangs- bzw. Abschlussniveau erreicht.</content>
+	</vorwort>
+<area>						
+		 <id>Psy-K1</id>
+ 	  	 <name>Fachwissen aufbereiten</name>
+ 	  	 <competence>
+ 	  	  	 <id>Psy-K1-1</id>
+ 	  	  	 <name>Psychologische Aspekte menschlichen Erlebens und Verhaltens erkennen und beschreiben</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K1-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K1-1-EF-1</id>
+ 	  	  	  	  	 <content>konkrete psychische Phänomene des menschlichen Verhaltens und Erlebens identifizieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K1-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K1-1-G-1</id>
+ 	  	  	  	  	 <content>konkrete psychische Phänomene des menschlichen Verhaltens und Erlebens unterscheiden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K1-1-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K1-1-H-1</id>
+ 	  	  	  	  	 <content>Beispiele für konkrete psychische Phänomene des menschlichen Verhaltens und Erlebens nach vorgegebenen Kriterien konstruieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Psy-K1-2</id>
+ 	  	  	 <name>Psychische Phänomene mit geeigneten Fachbegriffen und Modellen beschreiben</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K1-2-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K1-2-EF-1</id>
+ 	  	  	  	  	 <content>Fachinhalte von Begriffen und Modellen wiedergeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K1-2-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K1-2-G-1</id>
+ 	  	  	  	  	 <content>Fachbegriffe und Modelle im Kontext richtig verwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K1-2-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K1-2-H-1</id>
+ 	  	  	  	  	 <content>ähnliche Fachbegriffe voneinander abgrenzen und interpretieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Psy-K1-3</id>
+ 	  	  	 <name>Zusammenhänge und Unterschiede zwischen Alltagspsychologie und wissenschaftlicher Psychologie erkennen und verwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K1-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K1-3-EF-1</id>
+ 	  	  	  	  	 <content>psychische Phänomene und psychologische Fragestellungen verschiedenen Teildisziplinen der Psychologie zuordnen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K1-3-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K1-3-G-1</id>
+ 	  	  	  	  	 <content>Aussagen/Texte hinsichtlich ihres wissenschaftlichen Gehaltes untersuchen und begründet von der Alltagspsychologie unterscheiden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K1-3-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K1-3-H-1</id>
+ 	  	  	  	  	 <content>eigene Fragestellungen zu verschiedenen Teildisziplinen der Psychologie formulieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Psy-K1-4</id>
+ 	  	  	 <name>Paradigmen als zentrale, erkenntnisleitende Prinzipien verwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K1-4-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K1-4-EF-1</id>
+ 	  	  	  	  	 <content>unterschiedliche paradigmatische Erklärungsmodelle für menschliches Verhalten und Erleben beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K1-4-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K1-4-G-1</id>
+ 	  	  	  	  	 <content>paradigmatische Erklärungsmodelle bezüglich vorgegebener Kriterien (z. B. Menschenbild, Wissenschaftlichkeit) vergleichen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K1-4-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K1-4-H-1</id>
+ 	  	  	  	  	 <content>Erklärungen (unterschiedlicher Quellen und Darstellungen) zu menschlichem Verhalten und Erleben begründet einem Paradigma zuordnen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>Psy-K2</id>
+ 	  	 <name>Erkenntnis gewinnen</name>
+ 	  	 <competence>
+ 	  	  	 <id>Psy-K2-1</id>
+ 	  	  	 <name>Alltagsphänomene beobachten und beschreiben</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K2-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K2-1-EF-1</id>
+ 	  	  	  	  	 <content>Alltagsphänomene hinsichtlich ihrer psychologischen Bezüge identifizieren/sortieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K2-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K2-1-G-1</id>
+ 	  	  	  	  	 <content>treffende Beispiele (Alltagsphänomene) für psychische Phänomene finden oder entwickeln</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K2-1-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K2-1-H-1</id>
+ 	  	  	  	  	 <content>Alltagsphänomene in Bezug auf ihre psychologische Relevanz diskutieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Psy-K2-2</id>
+ 	  	  	 <name>Sachgerechte Informationen mithilfe geeigneter Materialien erschließen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K2-2-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K2-2-EF-1</id>
+ 	  	  	  	  	 <content>aus vielfältigen Materialien psychologisch relevante Informationen nach vorgegebenen Kriterien wiedergeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K2-2-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K2-2-G-1</id>
+ 	  	  	  	  	 <content>Kernaussagen von Quellen mit eigenen Worten zusammenfassen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K2-2-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K2-2-H-1</id>
+ 	  	  	  	  	 <content>Art und Aussagekraft der Inhalte verschiedener Materialien analysieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Psy-K2-3</id>
+ 	  	  	 <name>Psychologische Modelle und Erklärungsansätze auf Beispiele anwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K2-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K2-3-EF-1</id>
+ 	  	  	  	  	 <content>verschiedene vorgegebene Erklärungsansätze adäquat wiedergeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K2-3-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K2-3-G-1</id>
+ 	  	  	  	  	 <content>geeignete Beispiele mithilfe psychologischer Modelle und Erklärungsansätze nachvollziehbar erklären</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K2-3-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K2-3-H-1</id>
+ 	  	  	  	  	 <content>einen zweckmäßigen Erklärungsansatz oder ein psychologisches Modell auswählen und zur Erklärung nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Psy-K2-4</id>
+ 	  	  	 <name>Psychologische Experimente als Erkenntnismethode nachvollziehen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K2-4-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K2-4-EF-1</id>
+ 	  	  	  	  	 <content>klassische Experimente der Psychologie nennen und beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K2-4-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K2-4-G-1</id>
+ 	  	  	  	  	 <content>Ziele und Ergebnisse durchgeführter Experimente erläutern und begründen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K2-4-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K2-4-H-1</id>
+ 	  	  	  	  	 <content>einfach strukturierte Experimente selbstständig analysieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Psy-K2-5</id>
+ 	  	  	 <name>Psychologische Erkenntnismethoden selbst praktizieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K2-5-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K2-5-EF-1</id>
+ 	  	  	  	  	 <content>einen Sachverhalt mithilfe einer vorgegebenen psychologischen Methode untersuchen und Daten erfassen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K2-5-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K2-5-G-1</id>
+ 	  	  	  	  	 <content>Erkenntnismethoden selbstständig durchführen und die Daten angeleitet auswerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K2-5-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K2-5-H-1</id>
+ 	  	  	  	  	 <content>die verwendete Methode hinsichtlich ihrer Funktionalität für die Fragestellung kritisch bewerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>Psy-K3</id>
+ 	  	 <name>Kommunizieren</name>
+ 	  	 <competence>
+ 	  	  	 <id>Psy-K3-1</id>
+ 	  	  	 <name>Fachsprachliche Elemente verwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K3-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K3-1-EF-1</id>
+ 	  	  	  	  	 <content>grundlegende psychologische Begriffe identifizieren und ordnen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K3-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K3-1-G-1</id>
+ 	  	  	  	  	 <content>vorgegebene psychologische Begriffe passgenau und sinnstiftend gebrauchen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K3-1-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K3-1-H-1</id>
+ 	  	  	  	  	 <content>bezüglich einer vorgegebenen Thematik geeignete fachsprachliche Elemente auswählen und diese adäquat nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Psy-K3-2</id>
+ 	  	  	 <name>Fachsprachlich angemessen interagieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K3-2-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K3-2-EF-1</id>
+ 	  	  	  	  	 <content>Beschreibungen und Erklärungen zu psychischen Phänomenen austauschen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K3-2-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K3-2-G-1</id>
+ 	  	  	  	  	 <content>Positionen und Deutungen anderer in eigenen Beiträgen aufgreifen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K3-2-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K3-2-H-1</id>
+ 	  	  	  	  	 <content>unterschiedliche Darstellungen, Positionen gleichberechtigt diskutieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Psy-K3-3</id>
+ 	  	  	 <name>Fachsprache und Alltagssprache sinnvoll verwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K3-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K3-3-EF-1</id>
+ 	  	  	  	  	 <content>Fachsprache von Alltagssprache unterscheiden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K3-3-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K3-3-G-1</id>
+ 	  	  	  	  	 <content>Fachsprache in die alltagssprachliche Formulierungen übertragen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K3-3-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K3-3-H-1</id>
+ 	  	  	  	  	 <content>alltagssprachliche Formulierungen in Fachsprache "übersetzen"</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Psy-K3-4</id>
+ 	  	  	 <name>Adressatengerecht kommunizieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K3-4-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K3-4-EF-1</id>
+ 	  	  	  	  	 <content>konkrete Fachzusammenhänge in eigenen Worten wiedergeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K3-4-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K3-4-G-1</id>
+ 	  	  	  	  	 <content>konkrete Fachzusammenhänge innerhalb der Lerngruppe sachlich korrekt austauschen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K3-4-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K3-4-H-1</id>
+ 	  	  	  	  	 <content>Fachzusammenhänge für einen Informationsempfänger adäquat formulieren und illustrieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>Psy-K4</id>
+ 	  	 <name>Bewerten</name>
+ 	  	 <competence>
+ 	  	  	 <id>Psy-K4-1</id>
+ 	  	  	 <name>Die Qualität von Alltagswissen (zum Verhalten und Erleben von Menschen) einschätzen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K4-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K4-1-EF-1</id>
+ 	  	  	  	  	 <content>ihre eigene Einschätzung zur Qualität von Alltagswissen begründen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K4-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K4-1-G-1</id>
+ 	  	  	  	  	 <content>begründen, dass ihre eigene Einschätzung zu alltagspsychologischem Wissen nicht allgemeingültig ist</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K4-1-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K4-1-H-1</id>
+ 	  	  	  	  	 <content>die Qualität von Erklärungen zum Verhalten und Erleben aus verschiedenen Quellen des Lebensumfeldes fachbezogen einschätzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Psy-K4-2</id>
+ 	  	  	 <name>Eigenes Erleben und Verhalten reflektieren (sich selbst auf die Schliche kommen)</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K4-2-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K4-2-EF-1</id>
+ 	  	  	  	  	 <content>konkrete Situationen beschreiben, in denen sie ihr eigenes Verhalten und Erleben an psychologischen Erkenntnissen orientieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K4-2-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K4-2-G-1</id>
+ 	  	  	  	  	 <content>aufgrund psychologischer Erkenntnisse Vermutungen zu eigenen Entwicklungspotentialen formulieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K4-2-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K4-2-H-1</id>
+ 	  	  	  	  	 <content>psychologische Erkenntnisse zur Orientierung in der eigenen Lebenswelt nutzen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Psy-K4-3</id>
+ 	  	  	 <name>Die Vieldeutigkeit psychologischer Erklärungen für ein und dasselbe psychische Phänomen zum Ausdruck bringen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K4-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K4-3-EF-1</id>
+ 	  	  	  	  	 <content>mindestens zwei Erklärungen für ein und dasselbe psychische Phänomen wiedergeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K4-3-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K4-3-G-1</id>
+ 	  	  	  	  	 <content>verschiedene Erklärungen ein und desselben psychischen Phänomens vergleichen und diskutieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Psy-K4-3-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Psy-K4-3-H-1</id>
+ 	  	  	  	  	 <content>die Berechtigung mehrerer Erklärungsansätze zur Erfassung psychischer Phänomene erörtern</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+	</c2>
+	<c3>
+		<id>C-Psy-3</id>	
+			<title>Themen und Inhalte</title>
+			<vortext>Die Themen und Inhalte gelten für die Doppeljahrgangsstufe 9/10 und können auf verschiedenen Niveaustufen bearbeitet werden. Sie werden abhängig von der Entwicklung der Kom-petenzen der Schülerinnen und Schüler im Unterricht erarbeitet und vertieft. Die Themen bieten zahlreiche Möglichkeiten, Bezüge zu anderen Fächern und zu übergreifenden Themen herzustellen.
+					Die Themen und Inhalte bieten die Grundlage für differenzierte Aufgabenstellungen und eine Materialauswahl, die eine Herausforderung für das gesamte Leistungsspektrum einer Lerngruppe darstellt. Die Lernenden erhalten Gelegenheit, ihre Fähigkeiten und Fertigkeiten im Umgang mit den Themen und Inhalten allein und in der Zusammenarbeit mit anderen unter Beweis zu stellen. Sie erfahren dabei, in welchem Maße sie die gesetzten Standards erreichen bzw. was sie tun können, um ihre Kompetenzen zu vertiefen und zu erweitern.
+					Die aufgeführten Bereiche folgen einer didaktisch begründeten Strukturierung und Reihenfolge zur Einführung in das Unterrichtsfach Psychologie.
+					Die Themenfelder entsprechen nicht zwingend aufeinanderfolgenden Unterrichtseinheiten, sondern können hinsichtlich ihrer Reihenfolge variiert und miteinander kombiniert werden. Bei der Konstruktion von Unterrichtsgängen sollen aber alle Inhalte in angemessener Weise bedacht werden.
+					Die Lehrkräfte entwickeln ein eigenes Unterrichtskonzept, das neben den vorgegebenen Inhalten die Lebenswelt der Lernenden, ihre Erfahrungen und Interessen sowie ihre bereits erworbenen Kompetenzen aufgreift. Auch das Schulprogramm, die besonderen Gegebenheiten der Schule sowie aktuelle Anlässe sollen berücksichtigt werden. Hierfür ist die Kooperation der Lehrkräfte anzustreben.
+					Aus der Relevanz psychologischer Fachtheorien für das eigene Leben und den Alltag der Schülerinnen und Schüler ergeben sich Differenzierungsmöglichkeiten
+					­	im Hinblick auf die Auswahl theoretischer Konzepte,
+					­	bezüglich der Nutzung geeigneter Beispiele zur Aufbereitung von theoretischen Inhalten,
+					­	hinsichtlich des Abstraktionsniveaus des Theoriebezugs.
+					Die Heterogenität der Lernenden im Hinblick auf persönliche, soziokulturelle und ethnische Hintergründe sowie unterschiedliche Lebensformen sind wichtige Ausgangspunkte für die Planung des Unterrichts. Diese knüpft an die Realität der Schülerinnen und Schüler an, bezieht dabei im Besonderen die kulturellen Erfahrungen von Lernenden ein. Damit fördert der Unterricht die Stärken unterschiedlicher Persönlichkeiten und nutzt diese für das individuelle Lernen ebenso wie für die Demokratieerziehung in einer von Vielfalt geprägten Gesellschaft. Die sorgfältige Auswahl von Fallbeispielen, die sich an dieser Vielfalt orientiert, ist für den Psychologieunterricht essenziell.
+					Die ausgewiesenen Themenfelder werden für Schülerinnen und Schüler, die wegen einer erheblichen und langandauernden Beeinträchtigung ihres Lern- und Leistungsverhaltens sonderpädagogische Förderung erhalten oder für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen festgestellt wurde, schülerbezogen berücksichtigt. Sie werden entsprechend der Lebensbedeutsamkeit für die Schülerinnen und Schüler ausgewählt.
+					Die gleichberechtigte Teilhabe am gesellschaftlichen Leben, unabhängig von ethnischer und kultureller Herkunft, sozialem und wirtschaftlichem Status, Geschlecht und sexueller Orientierung, Alter und Behinderung sowie Religion und Weltanschauung bildet sowohl die Basis für die Unterrichtspraxis als auch einen zentralen Inhalt im Sinne des inklusiven Lernens.
+			</vortext>
+				<themainhalt>
+					<id>C-Psy-3-1</id>
+					<title>Einführung in die Wissenschaft Psychologie</title>
+					<content>Die Schülerinnen und Schüler formulieren aus eigener Erfahrung bekanntes Erleben und Verhalten und erfassen so psychologische Aspekte im Alltag. Auf dieser Grundlage identifi-zieren sie alltagspsychologische Herangehensweisen und unterscheiden diese von wissen-schaftlichen.
+							Die Schülerinnen und Schüler erschließen sowohl Möglichkeiten der Wissenschaft Psycho-logie bei der Betrachtung menschlichen Erlebens und Verhaltens als auch Berührungspunkte zu anderen Wissenschaften.
+							Sie nutzen selbst eine geeignete wissenschaftliche Methode im Rahmen einer einfachen psychologischen Fragestellung.</content>
+					<inhalt>
+						<id>C-Psy-3-1-1</id>
+						<title>Thema</title>
+						<content>Was ist Psychologie?</content>
+						<content>Psychologie als Wissenschaft</content>
+						<inhalt>
+							<id>C-Psy-3-1-1-1</id>
+							<title>Inhalte</title>
+							<content>­	Definition der Wissenschaft Psychologie</content>
+							<content>­	Psychologie als Geistes- und Naturwissenschaft</content>
+							<content>­	Abgrenzung von ähnlichen Wissenschaften und Alltagspsychologie</content>
+							<content>­	Teildisziplinen</content>
+							<content>­	Studium, Berufsbezeich-nungen</content>
+							<content>­	Arbeitsgebiete/Tätigkeiten von Psychologinnen und Psychologen</content>
+							<inhalt>
+								<id>C-Psy-3-1-1-1-1</id>
+								<title>Mögliche Konkretisierungen</title>
+								<content>Eine Couch als Arbeitsinstrument?</content>
+								<content>Können Psychologinnen und Psychologen Gedanken lesen?</content>
+								<content>Psychologin/Psychologe – ein Traumberuf?</content>
+							</inhalt>
+						</inhalt>
+					</inhalt>	
+				</themainhalt>	
+				<themainhalt>
+					<id>C-Psy-3-2</id>
+					<title>Betrachtung psychischer Phänomene</title>
+					<content>Auf der Grundlage von Verhaltensbeschreibungen aus ihrer Lebenswelt suchen die Schülerinnen und Schüler nach Ursache-Wirkungs-Beziehungen zur Erklärung psychischer Phänomene.
+							Sie identifizieren multifaktorielle Kausalbezüge und analysieren die Komplexität menschlichen Erlebens und Verhaltens.
+							Mithilfe geeigneter Systeme erfassen und erkennen sie die individuelle Vielfalt menschlichen Erlebens und Verhaltens.</content>
+					<inhalt>
+						<id>C-Psy-3-2-1</id>
+						<title>Thema</title>
+						<content>Warum verhalten wir uns so?</content>
+						<content>Analyse menschlichen Verhaltens und Erlebens</content>
+						<inhalt>
+							<id>C-Psy-3-2-1-1</id>
+							<title>Inhalte</title>
+							<content>Erklärungsaspekte für psychische Phänomene:</content>
+							<content>­	innere Prozesse</content>
+							<content>­	personale Dispositionen</content>
+							<content>­	Situationsfaktoren</content>
+							<content>­	Entwicklung</content>
+							<inhalt>
+								<id>C-Psy-3-2-1-1-1</id>
+								<title>Mögliche Konkretisierungen</title>
+								<content>Beobachtungen im Supermarkt – einfache Verhaltensanalysen</content>
+							</inhalt>
+						</inhalt>
+					</inhalt>
+					<inhalt>
+						<id>C-Psy-3-2-2</id>
+						<title>Thema</title>
+						<content>Wie funktioniert Wahrneh-mung, Denken, Gefühl …?</content>
+						<content>Betrachtung innerer Prozesse</content>
+						<inhalt>
+							<id>C-Psy-3-2-2-1</id>
+							<title>Inhalte</title>
+							<content>­	Erklärungen psychologi-scher Grundbegriffe</content>
+							<content>­	einfache Modelle zu grund-legenden Phänomenen</content>
+							<inhalt>
+								<id>C-Psy-3-2-2-1-1</id>
+								<title>Mögliche Konkretisierungen</title>
+								<content>„Ich sehe was, was du nicht siehst.“</content>
+								<content>Vergessen tut gut.</content>
+							</inhalt>
+						</inhalt>
+					</inhalt>		
+				</themainhalt>	
+				<themainhalt>
+					<id>C-Psy-3-3</id>
+					<title>Paradigmen in der Psychologie</title>
+					<content>Bei der Beschäftigung mit grundlegenden theoretischen Strömungen innerhalb der Psychologie schaffen sich die Schülerinnen und Schüler ein grobes inhaltliches Grundgerüst, in das psychologische Themen auch in Zukunft eingeordnet werden können.
+							Die Schülerinnen und Schüler identifizieren die Existenz verschiedener Perspektiven der Betrachtung von Erleben und Verhalten, nehmen erste vergleichende Wertungen vor und berücksichtigen historische Bezüge.</content>
+					<inhalt>
+						<id>C-Psy-3-3-1</id>
+						<title>Thema</title>
+						<content>Welche Erklärungsmodelle bietet die Psychologie an?</content>
+						<content>Paradigmen</content>
+						<inhalt>
+							<id>C-Psy-3-3-1-1</id>
+							<title>Inhalte</title>
+							<content>erste paradigmatische Betrachtungsweise:</content>
+							<content>­	behavioristisch</content>
+							<content>­	psychoanalytisch</content>
+							<content>­	kognitivistisch</content>
+							<content>­	biopsychologisch</content>
+							<content>­	humanistisch</content>
+							<inhalt>
+								<id>C-Psy-3-3-1-1-1</id>
+								<title>Mögliche Konkretisierungen</title>
+								<content>Ein Verkehrsunfall – Betrachtungen aus unterschiedlichen psychologischen Perspektiven</content>
+							</inhalt>
+						</inhalt>
+					</inhalt>	
+				</themainhalt>	
+				<themainhalt>
+					<id>C-Psy-3-4</id>
+					<title>Methoden der Psychologie</title>
+					<content>Mit dem Nachvollzug konkreter Untersuchungsmethoden, die sich u. a. in Erkenntnisinteresse oder Design unterscheiden, erschließen die Schülerinnen und Schüler die Bandbreite psychologischer Forschung.
+							Das psychologische Experiment stellt aufgrund seiner erkenntnistheoretischen Bedeutung einen Schwerpunkt der methodischen Betrachtung dar.</content>
+					<inhalt>
+						<id>C-Psy-3-4-1</id>
+						<title>Thema</title>
+						<content>Wie kommen Psychologinnen und Psychologen zu ihrem Wissen?</content>
+						<content>Psychologische Methoden im Vergleich</content>
+						<inhalt>
+							<id>C-Psy-3-4-1-1</id>
+							<title>Inhalte</title>
+							<content>­	Methoden: Beobachtung, Befragung, Testverfahren, Experiment</content>
+							<content>­	Gütekriterien: Objektivität, Validität, Reliabilität</content>
+							<content>­	ethische Aspekte</content>
+							<content>­	paradigmatische Zuordnung</content>
+							<inhalt>
+								<id>C-Psy-3-4-1-1-1</id>
+								<title>Mögliche Konkretisierungen</title>
+								<content>Wie kann man Intelligenz messen?</content>
+								<content>Planung einer eigenen Untersuchung: Warum gehen Menschen bei Rot über die Straße?</content>
+							</inhalt>
+						</inhalt>
+					</inhalt>
+					<inhalt>
+						<id>C-Psy-3-4-2</id>
+						<title>Thema</title>
+						<content>Was kann man mit psychologischen Experimenten ergründen?</content>
+						<content>Der Königsweg der Forschung</content>
+						<inhalt>
+							<id>C-Psy-3-4-2-1</id>
+							<title>Inhalte</title>
+							<content>historische Experimente zu ausgewählten psychischen Phänomenen</content>
+							<content>­	Experimentanalyse</content>
+							<content>­	Paradigmenbezug</content>
+							<inhalt>
+								<id>C-Psy-3-4-2-1-1</id>
+								<title>Mögliche Konkretisierungen</title>
+								<content>klassische Experimente in der Psychologie</content>
+							</inhalt>
+						</inhalt>
+					</inhalt>		
+				</themainhalt>		
+			</c3>
+		</fach>	
