@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fach xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns="http://bsbb.eu" 
+	xsi:schemaLocation="http://bsbb.eu fachtype.xsd">
+
+	<id>C-PB</id>
+	<title>Politische Bildung</title>
+	<c1>
+		<id>C-PB-1</id>
+		<title>Kompetenzentwicklung im Fach Politische Bildung</title>
+		<subtext>
+			<id>C-PB-1-1</id>
+			<title>Ziele des Unterrichts</title>
+			<content>Demokratien befinden sich durch nationale und internationale Herausforderungen stets im Wandel. Ihre Gesellschaften zeichnen sich durch ein hohes Maß an Komplexität und Heterogenität aus. Um das Leben in einer Demokratie mitgestalten zu können, benötigen Schülerinnen und Schüler Fähigkeiten, gesellschaftliche Fragen und Probleme zu verstehen und zu beurteilen. Sie in der Entwicklung ihrer politischen Mündigkeit zu unterstützen, ist Aufgabe des Faches Politische Bildung.
+					Politische Mündigkeit zu fördern heißt, dass Politische Bildung den Lernenden Möglichkeiten aufzeigt, auf der Basis einer kritischen Urteilsfähigkeit an politischen und gesellschaftlichen Prozessen teilzuhaben. Das bedeutet auch, die Folgen politischer Entscheidungen für sich und andere aus verschiedenen Perspektiven abzuschätzen: sozial, ökologisch, ökonomisch und global (Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen). Um nach der Schulzeit selbstständig politisch partizipieren zu können, lernen die Schülerinnen und Schüler, differenzierte Informationen aus den Medien zu beziehen sowie diese als Artikulationsmöglichkeit zu nutzen (Medienbildung).
+					Der Unterricht knüpft damit an das Fach Gesellschaftswissenschaften 5/6 an und stellt vor allem politikwissenschaftliche Herangehensweisen und Fragestellungen in den Mittelpunkt.
+					Pluralistische Demokratien ermöglichen eine Vielfalt von Lebensformen, Orientierungen, Weltanschauungen, Meinungen und Interessen. Dazu gehören auch kulturelle, ethnische und religiöse Unterschiede. Diese Vielfalt anzuerkennen, ist ein wesentliches Anliegen des Faches (Bildung zur Akzeptanz von Vielfalt [Diversity]).
+					Die Schülerinnen und Schüler üben bereits in der Grundschule, z. B. im Rahmen des Klas-senrates, demokratische Handlungs- und Kommunikationsweisen im Sinne sozialer und interkultureller Kompetenz, um gesellschaftliche und politische Konflikte kompromissorientiert und kooperativ zu lösen (Demokratiebildung, Gewaltprävention).
+					Dafür bilden die Menschen- und Grundrechte den normativen Rahmen. Sie sind wesentlicher Teil der Werteerziehung und Menschenrechtsbildung der politischen Bildung in der Schule. Zentrales Ziel ist es, die Schülerinnen und Schüler zur Loyalität der Demokratie gegenüber zu motivieren und sie zu ermutigen, für eine demokratische Kultur einzutreten.
+			</content>
+		</subtext>
+		<subtext>
+			<id>C-PB-1-2</id>
+			<title>Fachbezogene Kompetenzen</title>
+			<content>Der Förderung politisch mündigen Handelns in der Gesellschaft kommt im Politikunterricht eine zentrale Rolle zu. Die politische Handlungskompetenz steht dabei in einem engen Zusammenhang mit den Fachkompetenzen: Analysieren, Urteilen und Methoden anwenden. Die politik- und sozialwissenschaftliche (Problemlösungs-)Analyse ist eine Voraussetzung für ein reflektiertes politisches Urteil. Politisch mündiges Handeln bedingt in der Regel eine Beurteilung von Politik. Die genannten Fähigkeiten Analysieren, Urteilen sowie Handeln erfolgen dann kompetent, wenn sie auf Fachwissen, vor allem Konzeptwissen in Form von Fachkonzepten und politikwissenschaftlichen Kategorien, basieren und notwendige Methoden, z. B. zur Problemerschließung, berücksichtigen (Methoden anwenden).
+			
+			Mündig handeln
+			Politisch mündiges Handeln lässt sich in partizipatives und kommunikatives Handeln unterteilen. Reales partizipatives Handeln zeigt sich z. B. am Engagement in Initiativen, Verbänden, Parteien, bei Demonstrationen sowie der Teilnahme an Wahlen oder auch öffentlichen Debatten. Diese Formen des Handelns können im Schulfach Politische Bildung häufig nur simulativ realisiert werden. Denn in einer Demokratie steht allen frei, ob und in welcher Weise sie politisch aktiv sein wollen. Vorgaben im Unterricht wären ein Verstoß gegen das Indoktrinationsverbot des Beutelsbacher Konsens.
+			Durch die Förderung kommunikativen Handelns, wie Interessen artikulieren, Argumente vertreten, Konflikte und Kompromisse verhandeln und Entscheidungen treffen, leistet das Fach einen wesentlichen Beitrag zur Entwicklung politischer Mündigkeit. Politisches Handeln ist insbesondere politische Kommunikation, wie sie z. B. durch Debatten, Entscheidungs-, Rollen-, Planspiele oder Talkshows trainiert werden kann (siehe auch Methoden anwenden).
+			Aufgrund der Sprachintensität des kommunikativen Handelns erhält auch die Sprachbildung im Politikunterricht eine zentrale Bedeutung: Fehlende Sprachkompetenz behindert die Ausbildung politischer Mündigkeit und verwehrt gesellschaftliche Teilhabemöglichkeiten.
+			Handlungskompetenz zeichnet sich auch durch demokratische Grundqualifikationen wie Konflikt-, Kompromissfähigkeit, Empathie und Perspektivenübernahme aus. Diese sind in einer pluralistischen und Diversität anerkennenden Gesellschaft zentrale Qualifikationen, um gemeinsam Entscheidungen in einer Demokratie zu treffen, umzusetzen und andere politische Urteile verstehen und tolerieren zu können.
+			
+			Analysieren
+			Die Kompetenz des sozial- und politikwissenschaftlichen Analysierens bezeichnet die Fähigkeit der Schülerinnen und Schüler, sich ein politisches Problem, eine Kontroverse oder Entscheidung in seiner Komplexität und unter Berücksichtigung der verschiedenen gesellschaftlichen Perspektiven zu erarbeiten – eine Herausforderung, die den Schülerinnen und Schülern auch in ihrer Rolle als zukünftige Bürgerinnen und Bürger immer wieder begegnen wird. 
+			Die Analyse politischer Probleme und Entscheidungen erfolgt dabei anhand von Fragen nach Akteuren, Interessen, Macht, Werten etc. Dies sind politikwissenschaftliche Kategorien, hinter denen zentrale Fachkonzepte stehen und die sich auf das Prinzipielle von Politik beziehen. In Form von Fragen (z. B.: Welche Interessen sind von der Entscheidung betroffen?) helfen sie, Politik immer wieder aufs Neue zu erschließen und in einem nächsten Schritt zu beurteilen.
+			
+			Urteilen
+			Das politische Urteilen, die eigene Positionierung zu einem politischen Problem oder einer politischen Entscheidung, charakterisiert besonders die politische Mündigkeit des Individu-ums. Zentrale Akte politischen Urteilens sind z. B. Wahlentscheidungen, aber auch die alltäglichen Bewertungen von politischen Abläufen. 
+			Im Unterricht werden verschiedene und kontroverse Urteile entwickelt und diskutiert, die die gesellschaftliche Interessenvielfalt widerspiegeln. Die Akzeptanz der Schülerinnen und Schü-ler für die legitime Meinungsvielfalt in einer Demokratie wird durch einen kontroversen, problemorientierten Politikunterricht gefördert.
+			Ein politisches Urteil zeichnet sich dadurch aus, dass für eine differenzierte Urteilsbildung verschiedene Urteilskriterien gegeneinander abgewogen werden, an denen Politik in demokratischen Gesellschaften gemessen wird: z. B. an den Grundwerten Gerechtigkeit, Freiheit, Menschenwürde, Solidarität, Umwelt, aber auch an Kosten, Nutzen, Interessen etc. Diese werden aus verschiedenen Perspektiven (politische Akteure, Betroffene, politisches System) gewichtet. Auch hinter den Urteilskriterien verbergen sich politikwissenschaftliche Kategorien bzw. Fachkonzepte.
+			Das politische Urteil kann schließlich auch politisches Handeln initiieren, indem eine als für die Gegenwart oder Zukunft bedeutsam beurteilte Situation dazu herausfordert, sich aktiv in einen politischen Entscheidungsprozess einzubringen.
+			
+			Methoden anwenden
+			Alle fachspezifischen Kompetenzen werden von der Methodenkompetenz getragen. Im Zentrum sozialwissenschaftlicher Informations- und Erkenntnisgewinnung stehen Methoden zur Auswertung von verschiedenen Medien (z. B. Textquellen, Grafiken, Statistiken, Karikaturen). Sozialwissenschaftliche Perspektiven und Fragestellungen bestimmen hierbei die Auswahl und Anwendung überfachlicher Methoden.
+			Für das politische Urteilen und Handeln sind simulative Methoden der Handlungsorientierung wie Debatten, Hearings, Talkshows, Rollen-, Entscheidungsspiele etc. von besonderer Bedeutung, da sie im Unterricht die Möglichkeit zum politischen Probehandeln bieten: Konflikte austragen, Argumente vorbringen, andere überzeugen, Entscheidungen treffen, Kompromisse schließen. Zugleich fließen die erarbeiteten Erkenntnisse in sichtbare, handlungsorientierte Lernprodukte ein, welche daneben auch im produktiven Gestalten von Plakaten, Blogs, Videos, Folien etc. sichtbar werden können. Reales Handeln kann z. B. in Form von Erkundungen, Interviews und Expertenbefragungen stattfinden und zeigt sich in der Auswahl geeigneter Medien für die Kommunikation politischer Inhalte und Positionen.
+			
+			Konzeptwissen
+			Konzeptwissen bezieht sich auf das Fachwissen der Schülerinnen und Schüler, welches in Form von Basis- und Fachkonzepten im Laufe der Schuljahre erworben wird. Konzepte sind inhaltlich umfangreicher als Begriffe und Definitionen (enzyklopädisches Wissen). Sie beziehen sich auch auf Kontroversen und Probleme, die mit dem jeweiligen Konzept im Zusam-menhang stehen (z. B. repräsentative versus direkte Demokratie). So ist es nicht zentral, die Anzahl der Sitze im Bundestag zu kennen (enzyklopädisches Wissen), sondern die Bedeutung eines Parlaments in einer repräsentativen Demokratie sowie die Kritik daran. 
+			Politikunterricht bleibt nicht bei der Vermittlung von Fachkonzepten stehen, sondern Fach-konzepte werden als Erschließungs- und Bewertungskategorien funktional für die Analyse-, Urteils- und Handlungskompetenz genutzt.
+			Fachkonzepte erfordern das Erlernen und Nutzen einer eigenen Fachsprache im Politikunterricht. Dies ist die Grundlage für eine sprachsensible politische Bildung. Es kann nicht davon ausgegangen werden, dass Begriffe wie Rechtsstaat oder Verfassung zur Alltagssprache aller Schülerinnen und Schüler gehören. Ein sprachsensibler Politikunterricht zeichnet sich deshalb durch die bewusste Einführung von Fachkonzepten und die Kommunikation darüber aus.
+			Unterschieden wird in Basis- und Fachkonzepte. Die Basiskonzepte Ordnung/Systeme/Strukturen, Gemeinwohl/Grundorientierungen, Entscheidung/Akteure sind Kernideen zur Politik und haben eine Nähe zum Politikbegriff der drei Dimensionen des Politischen (Polity, Policy, Politics). Basiskonzepte setzen sich aus einer Vielzahl von Fachkonzepten zusammen. Diese werden im Politikunterricht eingeführt und regelmäßig aufgegriffen. An ihnen lässt sich das prinzipiell Politische erkennen und beschreiben, wie der Ablauf politischer Problemlösungsprozesse, das Handeln politischer Akteure, der Verlauf politischer Konflikte oder Wert- und Grundhaltungen politischer Positionen.
+			
+			Basis- und Fachkonzepte
+			
+			
+		</content>
+		</subtext>
+	</c1>
+	<c2>
+		<vorwort>
+		<id>C-Agr-2-BE</id>
+		<title>Regelungen für das Land Berlin</title>
+		<content>
+Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler.
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungsvorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+Für Grundschulen und Grundstufen der Gemeinschaftsschulen sowie an 
+weiterführenden Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Schulanfangsphase 	Niveaustufen A, B, in Teilen C
+Jahrgangsstufen	3 – 4	Niveaustufe C, in Teilen D
+Jahrgangsstufe	5	Niveaustufen C – D 
+Jahrgangsstufe	6	Niveaustufe D, in Teilen E
+
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen 
+werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufe 		3	Niveaustufe B, in Teilen C
+Jahrgangsstufen		4 – 6	Niveaustufe C
+Jahrgangsstufen 	7 – 8	Niveaustufe D
+Jahrgangsstufen 	9 – 10	Niveaustufen D – E
+
+Zur Vorbereitung auf den der Berufsbildungsreife gleichwertigen Abschluss werden in den Jahrgangsstufen 9 und 10 auch Angebote auf dem Niveau F unterbreitet.
+Je nach dem Grad der Lernbeeinträchtigung erreichen die Schülerinnen und Schüler die 
+gesetzten Standards nicht im vollen Umfang bzw. nicht zum vorgegebenen Zeitpunkt. Dem trägt eine individuelle Ausrichtung des Unterrichtsangebots Rechnung.
+Für die Integrierte Sekundarschule gilt:
+grundlegendes Niveau:
+Jahrgangsstufen	7 – 8	Niveaustufen D – E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufe F, in Teilen G
+erweitertes Niveau: 
+Jahrgangsstufen	7 – 8 	Niveaustufe E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufen F – G
+
+
+Für das Gymnasium gilt:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+
+Die folgende Darstellung veranschaulicht die im Berliner Schulsystem in den Jahrgangs-stufen 1 bis 10 möglichen Lerngeschwindigkeiten im Überblick und zeigt die Durchlässigkeit des Schulsystems. Sie bietet zudem eine Grundlage für eine systematische Schullaufbahnberatung. In der Darstellung ist auch erkennbar, welche Anforderungen Schülerinnen und Schüler erfüllen müssen, die die Voraussetzungen für den Erwerb der Berufsbildungsreife erst am Ende der Jahrgangsstufe 10 erreichen. Dieses Niveau können auch Schülerinnen und Schüler mit dem sonderpädagogischen Förderschwerpunkt Lernen erreichen, wenn sie den der Berufsbildungsreife gleichwerten Abschluss anstreben. 
+Für den Unterricht im Fach Politische Bildung werden Standards auf den Niveaustufen D bis H ausgewiesen. Schülerinnen und Schüler haben in der Schule bereits vielfältige Vorerfahrungen gewonnen, die sie im Unterricht in neu einsetzenden Fächern nutzen können. Am Ende der Jahrgangsstufe 10 wird das entsprechende Übergangs- bzw. Abschlussniveau erreicht.
+Die Progressionsaspekte Grad der Selbstständigkeit, Komplexität und Differenziertheit sind in allen Stufen zu berücksichtigen.
+Epochal erteilter Unterricht orientiert sich an Doppeljahrgangsstufen und stellt sicher, dass am Ende einer Doppeljahrgangsstufe die jeweils vorgegebenen Niveaustufen für beide Jahr-gangsstufen erreicht werden. Im schulinternen Curriculum wird festgelegt, wie am Ende der Jahrgangsstufe 10 das entsprechende Abschluss- bzw. Übergangsniveau erreicht wird.
+Das Wahlpflichtfach, auch wenn es fachübergreifend angelegt ist, orientiert sich an den fachbezogenen Standards. Die Anforderungen für die jeweiligen Jahrgangsstufen werden im schulinternen Curriculum festgelegt.
+</content>		
+</vorwort>
+<vorwort>
+		<id>C-BIO-2-BB</id>
+		<title>Regelungen für das Land Brandeburg</title>
+		<content>
+Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchtigungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler. 
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungs­vorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+Grundschule 
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang der Grundschule Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden können.
+Für Grundschulen und für Primarstufen von Ober- und Gesamtschulen sowie für weiterführende allgemeinbildende Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Jahrgangsstufen	1 – 2	Niveaustufen A und B
+Jahrgangsstufen	3 – 4	Niveaustufe C
+Jahrgangsstufen	5 – 6	Niveaustufe D 
+
+Förderschwerpunkt Lernen
+Die folgende tabellarische Darstellung beschreibt, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang zum Erwerb des Abschlusses der Schule mit dem sonderpädagogischen Förderschwerpunkt Lernen Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden können.
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufen	1 – 2	Niveaustufen A und B 
+Jahrgangsstufe	3	Niveaustufe B
+Jahrgangsstufen	4 – 6	Niveaustufe C
+Jahrgangsstufen	7 – 8	Niveaustufe D
+Jahrgangsstufen	9 – 10	Niveaustufen D und E
+
+Schülerinnen und Schüler, für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen festgestellt worden ist und die dem Bildungsgang Förderschule Lernen gemäß § 30 BbgSchulG zugeordnet sind, erhalten im Unterricht Lernangebote, die ein Erreichen der Niveaustufen A, B, C, D und E ermöglichen sollen. Hierbei sind die individuellen Lernvoraussetzungen der Schülerinnen und Schüler zu berücksichtigen.
+In diesem Bildungsgang wird mit der Niveaustufe E das gemeinsame Bildungsziel am Ende der Jahrgangsstufe 10 abgebildet.
+Zur Vorbereitung auf den der Berufsbildungsreife entsprechenden Abschluss wird in den Jahrgangsstufen 9 und 10 schülerbezogen auch auf dem Niveau F unterrichtet.
+Schulen der Sekundarstufe I
+Ausgehend vom grundlegenden, erweiterten und vertieften Anspruchsniveau unterscheidet sich der Unterricht in der Sekundarstufe I in der Art der Erschließung, der Vertiefung und dem Grad der Komplexität der zugrunde gelegten Themen und Inhalte. Bei der inneren Organisation in Klassen und Kursen ist dies zu berücksichtigen.
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel in den verschiedenen Bildungsgängen der Sekundarstufe I Niveaustufen durchlaufen bzw. erreichen. Der Unterricht enthält immer auch Angebote auf der jeweils höheren Niveaustufe.
+Am Unterricht in Fächern ohne äußere Fachleistungsdifferenzierung nehmen Schülerinnen und Schüler mit unterschiedlichen Lernvoraussetzungen teil. Die dem Unterricht zugrunde gelegte Niveaustufe ist daher so zu wählen, dass sie für alle Lernenden eine optimale Förderung ermöglicht.
+
+a) Oberschule
+In der EBR-Klasse des kooperativen Modells und im A-Kurs des integrativen Modells wird im Unterricht eine grundlegende Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufen D und E
+Jahrgangsstufe	8 	Niveaustufen E und F
+Jahrgangsstufe	9	Niveaustufe F
+Jahrgangsstufe	10	Niveaustufen F und G
+
+In der FOR-Klasse des kooperativen Modells sowie im B-Kurs des integrativen Modells wird im Unterricht eine erweiterte Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8 	Niveaustufen E und F
+Jahrgangsstufe	9	Niveaustufen F und G
+Jahrgangsstufe	10	Niveaustufe G
+
+In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass sowohl eine grundlegende als auch eine erweiterte Bildung vermittelt wird. Hierbei sind die für die Oberschule dargestellten Niveaustufen zugrunde zu legen.
+
+b) Gesamtschule
+Im G-Kurs der Gesamtschule wird zur Sicherung der Durchlässigkeit zum E-Kurs neben der grundlegenden Bildung auch die erweiterte Bildung vermittelt. Im E-Kurs der Gesamtschule wird zur Sicherung der Durchlässigkeit zum G-Kurs neben der vertieften Bildung auch die erweiterte Bildung vermittelt.
+In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass eine grundlegende, erweiterte und vertiefte Bildung vermittelt wird. Hierbei sind die für die Oberschule und das Gymnasium dargestellten Niveaustufen zugrunde zu legen.
+
+c) Gymnasium
+In den Klassen des Gymnasiums wird im Unterricht eine vertiefte Bildung vermittelt. Den einzelnen Jahrgangsstufen sind hierbei folgende Niveaustufen zugeordnet:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+
+Für den Unterricht im Fach Politische Bildung werden Standards auf den Niveaustufen D bis H ausgewiesen. Schülerinnen und Schüler haben in der Schule bereits vielfältige Vorerfahrungen gewonnen, die sie im Unterricht in neu einsetzenden Fächern nutzen können. Am Ende der Jahrgangsstufe 10 wird das entsprechende Übergangs- bzw. Abschlussniveau erreicht.
+Die Progressionsaspekte Grad der Selbstständigkeit, Komplexität und Differenziertheit sind in allen Stufen zu berücksichtigen.
+Epochal erteilter Unterricht orientiert sich an Doppeljahrgangsstufen und stellt sicher, dass am Ende einer Doppeljahrgangsstufe die jeweils vorgegebenen Niveaustufen für beide Jahrgangsstufen erreicht werden. Im schulinternen Curriculum wird festgelegt, wie am Ende der Jahrgangsstufe 10 das entsprechende Abschluss- bzw. Übergangsniveau erreicht wird.
+Das Wahlpflichtfach, auch wenn es fachübergreifend angelegt ist, orientiert sich an den fachbezogenen Standards. Die Anforderungen für die jeweiligen Jahrgangsstufen werden im schulinternen Curriculum festgelegt.
+			</content>
+		</vorwort>
+		<area>
+ 	  	 <id>PB-K1</id>
+ 	  	 <name>Mündig handeln</name>
+ 	  	 <competence>
+ 	  	  	 <id>PB-K1-1</id>
+ 	  	  	 <name>Eigene Interessen vertreten</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K1-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K1-1-D-1</id>
+ 	  	  	  	  	 <content>eigene Interessen und Positionen in politischen Fragen sachlich vor anderen vertreten und begründen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K1-1-E</id>
+ 	  	  	  	 <level>E</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K1-1-E-1</id>
+ 	  	  	  	  	 <content>eigene Interessen und Positionen in Auseinandersetzung mit anderen Positionen sachlich vertreten und begründen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K1-1-FGH</id>
+ 	  	  	  	 <level>FGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K1-1-FGH-1</id>
+ 	  	  	  	  	 <content>eigene Interessen und Positionen mit Bezug auf fachliche Konzepte und Theorien begründen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>PB-K1-2</id>
+ 	  	  	 <name>Perspektivwechsel vornehmen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K1-2-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K1-2-DE-1</id>
+ 	  	  	  	  	 <content>Positionen darstellen, die mit ihrer eigenen konkurrieren (z. B. in einem Leserbrief)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K1-2-FGH</id>
+ 	  	  	  	 <level>FGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K1-2-FGH-1</id>
+ 	  	  	  	  	 <content>Positionen in einer fremden Rolle darstellen (z. B. in einer Pro- und Kontra- Diskussion oder simulierten Talk-Show)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>PB-K1-3</id>
+ 	  	  	 <name>Konflikte austragen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K1-3-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K1-3-DE-1</id>
+ 	  	  	  	  	 <content>lebensweltbezogene Konflikte sachlich und respektvoll (simulativ) austragen und Kompromisse aushandeln (z. B. zu Fragen der Jugendkriminalität, Gruppenkonflikte)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K1-3-FGH</id>
+ 	  	  	  	 <level>FGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K1-3-FGH-1</id>
+ 	  	  	  	  	 <content>politische Konflikte (simualtiv) austragen und Kompromisse aushandeln (z.B im Plan- und Entscheidungsspiel)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>PB-K1-4</id>
+ 	  	  	 <name>Politisch entscheiden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K1-4-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K1-4-DE-1</id>
+ 	  	  	  	  	 <content>unterschiedliche Formen der Entscheidungsfindung und Durchsetzung von (eignen/gesellschaftlichen) Interessen darstellen und (simulativ) anwenden (z. B. Mehrheitsentscheidungen in Parlamenten nachvollziehen, Wahlen simulieren, Konsensbildungsverfahren anwenden, Abstimmungen durchführen</content>
+ 	  	  	  	 </standard>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K1-4-DE-2</id>
+ 	  	  	  	  	 <content>Möglichkeiten der eigenen Partizipation erläutern (z. B. Klassenrat, im schulischen und lokalen Umfeld)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K1-4-FGH</id>
+ 	  	  	  	 <level>FGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K1-4-FGH-1</id>
+ 	  	  	  	  	 <content>unterschiedliche Formen der Entscheidungsfindung und Durchsetzung von (eigenen/gesellschaftlichen) Interessen kriterienorientiert auswählen (Vor- und Nachteile einzelner Verfahren reflektieren)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>PB-K2</id>
+ 	  	 <name>Analysieren</name>
+ 	  	 <competence>
+ 	  	  	 <id>PB-K2-1</id>
+ 	  	  	 <name>Politische Probleme identifizieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K2-1-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K2-1-DE-1</id>
+ 	  	  	  	  	 <content>Problemlagen, Entscheidungen und Kontroversen beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K2-1-FGH</id>
+ 	  	  	  	 <level>FGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K2-1-FGH-1</id>
+ 	  	  	  	  	 <content>Problemlagen, Entscheidungen und Kontroversen mit Hilfe von Kriterien und Kategorien (z. B. Gerechtigkeit, Kosten, Interessen, Nutzen etc.) beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>PB-K2-2</id>
+ 	  	  	 <name>Politische Probleme, Entscheidungen und Kontroversen analysieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K2-2-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K2-2-DE-1</id>
+ 	  	  	  	  	 <content>Problemlagen, Entscheidungen, Kontroversen aus den verschiedenen Perspektiven von Betroffenen und Akteuren untersuchen (z. B. Interessen im Rahmen politischer Entscheidungen herausarbeiten)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K2-2-F</id>
+ 	  	  	  	 <level>F</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K2-2-F-1</id>
+ 	  	  	  	  	 <content>Problemlagen, Entscheidungen und Kontroversen anhand fachlicher Kriterien und Kategorien erläutern (z. B. Gemeinwohl- und Partikularinteresse, vertretene Prinzipien wie das Solidarprinzip herausarbeiten)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K2-2-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K2-2-GH-1</id>
+ 	  	  	  	  	 <content>Problemlagen, Entscheidungen und Kontroversen zusammenfassend auswerten</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>PB-K2-3</id>
+ 	  	  	 <name>Fachspezifische Konzepte anwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K2-3-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K2-3-DE-1</id>
+ 	  	  	  	  	 <content>anhand konkreter Problemlagen, Entscheidungen und Kontroversen politische Kategorien beschreiben und erklären (z.B. Grundrechte, Recht – Gerechtigkeit)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K2-3-FGH</id>
+ 	  	  	  	 <level>FGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K2-3-FGH-1</id>
+ 	  	  	  	  	 <content>Problemlagen, Entscheidungen und Kontroversen mit Hilfe Fachkonzepten und Modellen erläutern und vergleichen (z. B. sich auch auf verschiedene politische Konzepte und Programme beziehen)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>PB-K3</id>
+ 	  	 <name>Urteilen</name>
+ 	  	 <competence>
+ 	  	  	 <id>PB-K3-1</id>
+ 	  	  	 <name>Persönliche politische Urteile entwickeln und begründen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K3-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K3-1-D-1</id>
+ 	  	  	  	  	 <content>zwischen einem Vorausurteil und einem differenzierten Urteil unterscheiden mehrere Kriterien (z. B. Freiheit-Gleichheit, Kosten-Nutzen) und Perspektiven bei der Formulierung eigener Argumente berücksichtigen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K3-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K3-1-EF-1</id>
+ 	  	  	  	  	 <content>ihre kriteriengeleiteten Argumente in Abwägung verschiedener Perspektiven und möglicher Konsequenzen (z. B. für Umwelt, Gesellschaft und Wirtschaft) formulieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K3-1-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K3-1-GH-1</id>
+ 	  	  	  	  	 <content>die Auswahl und Gewichtung verwendeter Urteilskriterien (z. B. unterschiedliche Wertmaßstäbe) reflektieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>PB-K3-2</id>
+ 	  	  	 <name>Sich mit der Wertgebundenheit von politischen Urteilen auseinandersetzen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K3-2-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K3-2-DE-1</id>
+ 	  	  	  	  	 <content>die Wertgebundenheit von politischen Urteilen beschreiben (z. B. Grundwerte, weltanschauliche und religiöse Motive)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K3-2-FGH</id>
+ 	  	  	  	 <level>FGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K3-2-FGH-1</id>
+ 	  	  	  	  	 <content>die Wertgebundenheit von politischen Urteilen erläutern und unterschiedlichen politischen Grundhaltungen/Wertesystemen zuordnen (z. B. rechts-links, konservativ-liberal)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>PB-K3-3</id>
+ 	  	  	 <name>Thesen für politische Problemlösungen entwickeln</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K3-3-DEF</id>
+ 	  	  	  	 <level>DEF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K3-3-DEF-1</id>
+ 	  	  	  	  	 <content>eigene Thesen für politische Problemlösungen formulieren und begründen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K3-3-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K3-3-GH-1</id>
+ 	  	  	  	  	 <content>Thesen für politische Problemlösungen im Hinblick auf ihre Realisierbarkeit und Nachhaltigkeit überprüfen und gegebenenfalls revidieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>PB-K4</id>
+ 	  	 <name>Methoden anwenden</name>
+ 	  	 <competence>
+ 	  	  	 <id>PB-K4-1</id>
+ 	  	  	 <name>Fachsprache anwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K4-1-D</id>
+ 	  	  	  	 <level>D</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K4-1-D-1</id>
+ 	  	  	  	  	 <content>Fachbegriffe richtigen Erklärungen zuordnen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K4-1-EFG</id>
+ 	  	  	  	 <level>EFG</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K4-1-EFG-1</id>
+ 	  	  	  	  	 <content>politische Fachbegriffe erklären Fachbegriffe vernetzt darstellen (z. B. Begriffsnetze, Ober- und Unterbegriffe)</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K4-1-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K4-1-H-1</id>
+ 	  	  	  	  	 <content>Fachbegriffe reflektieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>PB-K4-2</id>
+ 	  	  	 <name>Erschließungs- und handlungsorientierte Methoden einsetzen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K4-2-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K4-2-DE-1</id>
+ 	  	  	  	  	 <content>Texte, Schaubilder, Tabellen und Karikaturen nach vorgegebenen Schrittfolgen untersuchen simulative, empirische und handlungsorientierte Methoden (z. B. Rollenspiel, Pro- und Kontra Diskussion, Interview, Umfrage) anwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K4-2-FGH</id>
+ 	  	  	  	 <level>FGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K4-2-FGH-1</id>
+ 	  	  	  	  	 <content>Texte, Schaubilder, Tabellen und Karikaturen mithilfe ausgewählter Methoden untersuchen geeignete simulative, empirische und handlungsorientierte Methoden auswählen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>PB-K4-3</id>
+ 	  	  	 <name>Methoden der (öffentlichen) Präsentation anwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K4-3-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K4-3-DE-1</id>
+ 	  	  	  	  	 <content>sich mit Hilfe von Text-, Audio-, Bild- und Filmmaterial und Videos adressatenbezogen (und öffentlich) positionieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K4-3-FGH</id>
+ 	  	  	  	 <level>FGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K4-3-FGH-1</id>
+ 	  	  	  	  	 <content>Text-, Audio-, Bildmaterial und Videos kriterienorientiertauswählen und sich adressatenbezogen (und öffentlich) positionieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>PB-K4-4</id>
+ 	  	  	 <name>Arbeitsprozesse partizitativ gestalten</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K4-4-DE</id>
+ 	  	  	  	 <level>DE</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K4-4-DE-1</id>
+ 	  	  	  	  	 <content>sich über Ziele und Verfahren der Gruppenarbeit verständigen gemeinsam Ergebnisse überprüfen und optimieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>PB-K4-4-FGH</id>
+ 	  	  	  	 <level>FGH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>PB-K4-4-FGH-1</id>
+ 	  	  	  	  	 <content>in Arbeitsgruppen Aufgaben selbstständig lösen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+	</c2>	
+	<c3>
+	<id>C-PB-3</id>	
+		<title>Themen und Inhalte</title>
+		<vortext>Die Themenfelder und Inhalte gelten für die Doppeljahrgangsstufen 7/8 und 9/10 und können auf verschiedenen Niveaustufen bearbeitet werden.
+				Die Umsetzung der Themenfelder und Inhalte richtet sich nach der Entwicklung und Kompe-tenz der Lernenden. Sie bietet zahlreiche Möglichkeiten, Bezüge zu anderen Fächern und zu übergreifenden Themen herzustellen. Auf unterschiedlichen Niveaus können einzelne Aspek-te erneut aufgegriffen und vertieft werden.
+				Die Themenfelder und Inhalte bilden die Grundlage für differenzierte Aufgabenstellungen und eine Materialauswahl, die eine motivierende Herausforderung für das gesamte Leistungsspektrum einer Lerngruppe darstellt. Die Lernenden erhalten Gelegenheit, ihre Fähigkeiten und Fertigkeiten im Umgang mit den Themenfeldern und Inhalten allein und kooperativ unter Beweis zu stellen. Sie erfahren dabei, in welchem Maße sie die gesetzten Standards erreichen bzw. was sie tun können, um ihre Kompetenzen zu vertiefen und zu erweitern.
+				Bei der Ausgestaltung der Themenfelder und Inhalte werden die Basis- und Fachkonzepte der Politischen Bildung regelmäßig aufgegriffen sowie zunehmend theoretisch und in ihrer Komplexität erschlossen. Politische Probleme und ihre Lösungen können somit besser ver-standen und mithilfe politischer Kategorien und Kriterien diskutiert werden. Alle Inhalte in den einzelnen Themenfeldern stehen immer in Bezug zu allen vier Kompetenzbereichen: Analysieren, Urteilen, Mündig handeln und Methoden anwenden. Diese wiederum sind wechselseitig miteinander vernetzt.
+				Die Themenfelder und Inhalte knüpfen vor allem an die Themenfelder, Themen und Inhalte für die Gesellschaftswissenschaften 5/6 an.
+				Schulinterne Planung:
+				Die Themen des Politikunterrichts werden aus den Themenfeldern abgeleitet. Die Fachlehrkräfte und die Fachkonferenzen erhalten mit den Themenfeldern einen thematischen Rahmen sowie verbindliche Inhalte, die sie je nach Niveaustufe und Schulprofil bei der Planung von Unterricht und bei der Erstellung des schulinternen Curriculums berücksichtigen. Dabei sind neben den vorgegebenen Kompetenzen und Inhalten vor allem aktuelle politische Probleme, die Interessen der Schülerinnen und Schüler, das Schulprogramm, Gegebenheiten der Schule, Schulpartnerschaften, Wettbewerbe etc. zu berücksichtigen. 
+				Vielfalt und inklusives Lernen:
+				Die dargestellten Themenfelder und Inhalte greifen die Lebenswirklichkeit der Lernenden auf. Die Heterogenität der Lernenden im Hinblick auf persönliche, soziokulturelle und ethnische Hintergründe sowie unterschiedliche Lebensformen sind somit wichtige Ausgangspunkte für die Planung des Unterrichts. Diese knüpft an die Realität der Schülerinnen und Schüler an, bezieht dabei im Besonderen die individuellen gesellschaftlichen Erfahrungen von Lernenden ein. Damit fördert der Unterricht die Stärken unterschiedlicher Persönlichkeiten und nutzt diese für das individuelle Lernen ebenso wie für die Demokratieerziehung in einer von Vielfalt geprägten Gesellschaft.
+				Die ausgewiesenen Themenfelder werden für Schülerinnen und Schüler, die wegen einer erheblichen und langandauernden Beeinträchtigung ihres Lern- und Leistungsverhaltens sonderpädagogische Förderung erhalten oder für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen0F  festgestellt wurde, schülerbezogen berücksichtigt. Sie werden entsprechend der Lebensbedeutsamkeit für die Schülerinnen und Schüler ausgewählt.
+				Die gleichberechtigte Teilhabe am gesellschaftlichen Leben, unabhängig von ethnischer und kultureller Herkunft, sozialem und wirtschaftlichem Status, Geschlecht und sexueller Orien-tierung, Alter und Behinderung sowie Religion und Weltanschauung, bildet sowohl die Basis für die Unterrichtspraxis als auch einen zentralen Inhalt im Sinne des inklusiven Lernens.
+				Unterrichtsleitende Prinzipien: Ein kompetenzorientierter Politikunterricht, der die politische Mündigkeit der Schülerinnen und Schülern fördert, orientiert sich an folgenden didaktischen Prinzipien:
+				Problemorientierung, Kontroversität und Multiperspektivität sind die zentralen didaktischen Zugänge, um die Urteils- und Handlungsfähigkeit der Schülerinnen und Schüler aus-zubilden. Diese Prinzipien sind eng mit der Wissenschaftsorientierung und dem Exemp-larischen Lernen verknüpft. Eine Kontroverse oder ein Problem lässt sich am besten an einem konkreten Beispiel erschließen, welches exemplarisch für die Problemstellung ist und darauf abzielt, aufgrund seiner Bedeutsamkeit, Aktualität oder seines Bezugs zur Lebenswelt der Schülerinnen und Schüler Interesse zu wecken und Motivation zu erzeugen.
+				Curriculare Bezüge der Fächer Geografie, Geschichte und Politische Bildung im Ver-bund: Für die Doppeljahrgangsstufe 7/8 sind Migration und Bevölkerung sowie Armut und Reichtum und für die Doppeljahrgangsstufe 9/10 Konflikte und Konfliktlösungen sowie Europa in der Welt für die drei Fächer Geografie, Geschichte und Politische Bildung als gemeinsame Themenfelder festgelegt. Eines davon wird in jedem Schuljahr im Verbund unter-richtet. Die organisatorische (zeitgleiche, ggf. zeitversetzte) Umsetzung erfolgt nach Abspra-che zwischen den Fächern (z. B. gegenseitige Abstimmung der Themenzugriffe; gemeinsame Planung und Durchführung; Durchführung von Projekten) und nach den schulspezifischen Gegebenheiten. In der Regel werden die Themenfelder gleichzeitig unterrichtet.
+				Die Themenfelder und Inhalte bieten darüber hinaus die Möglichkeit der Vernetzung und fachübergreifenden Kooperation mit allen Fächern bis hin zum Sachfachunterricht in einer Fremdsprache. In der Spalte Mögliche Konkretisierungen finden sich Anregungen zur Umsetzung der Inhalte.
+				Projektarbeit und Lernen am außerschulischen Lernort: Die Projektarbeit und die Nutzung von außerschulischen politischen Bildungsangeboten sind wichtige Formate für die Unterrichtsgestaltung im gesellschaftswissenschaftlichen Lernbereich. Durch die Möglichkeit, politisches Handeln (real oder simulativ) selbst erleben bzw. durchführen zu können, leistet das Fach Politische Bildung einen wichtigen Beitrag zur Demokratiebildung. In jeder Doppel-jahrgangsstufe wird mindestens ein außerschulischer Lernort besucht.
+				
+				Übersicht über die Themenfelder
+				
+				Doppeljahrgangsstufe 7/8
+				3.1		Armut und Reichtum (Unterricht im gesellschaftswissenschaftlichen Fächerverbund)
+				3.2		Leben in einer globalisierten Welt
+				3.3		Migration und Bevölkerung (Unterricht im gesellschaftswissenschaftlichen Fächerverbund)
+				3.4		Leben in einem Rechtsstaat
+				
+				Doppeljahrgangsstufe 9/10
+				3.5		Demokratie in Deutschland
+				3.6		Konflikte und Konfliktlösungen (Unterricht im gesellschaftswissenschaftlichen Fächerverbund)
+				3.7		Soziale Marktwirtschaft in Deutschland
+				3.8		Europa in der Welt (Unterricht im gesellschaftswissenschaftlichen Fächerverbund)
+		</vortext>
+		<themainhalt>
+				<id>C-PB-3-1</id>
+				<title>Armut und Reichtum 7/8 (Unterricht im gesellschaftswissenschaftlichen Fächerverbund)</title>
+				<content>Im Geografieunterricht werden Armut und Reichtum als vorrangige Herausforderung an die Gesellschaft thematisiert und in ihrer Raumbedingtheit und Raumwirksamkeit auf unter¬-schiedlichen Ebenen (lokal – regional – global) betrachtet.
+						Armut und Reichtum kennzeichnen menschliche Gesellschaften in der Vergangenheit, Gegenwart und nahen Zukunft. Im Geschichtsunterricht wird die Veränderung des Verständnisses und gesellschaftlichen wie politischen Handelns im Kontext von Armut und Reichtum in verschiedenen Zeitebenen aufgezeigt, verglichen und beurteilt.
+						Im Unterricht des Faches Politische Bildung befassen sich die Schülerinnen und Schüler mit den Erscheinungsformen sozialer Ungleichheit in der deutschen Gesellschaft und mit der Sozialstruktur, z. B. in der Region Berlin und Brandenburg. Sie setzen sich dabei mit den Merkmalen und Ursachen von Armut auseinander und diskutieren vor dem Hintergrund unterschiedlicher Lebensbedingungen und Sozialisationen über gesellschaftliche Teilhabechancen.
+						Das Themenfeld ist insbesondere mit den übergreifenden Themen Gleichstellung und Gleichberechtigung der Geschlechter (Gender Mainstreaming), Bildung zur Akzeptanz von Vielfalt (Diversity), Sexualerziehung/Bildung für sexuelle Selbstbestimmung, Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen und Demokratiebildung vernetzt und eignet sich gut für die Einbindung weiterer Fächer.
+						
+						Geografie							Geschichte						Politische Bildung
+						Leben in der Einen Welt/			Armut und Reichtum				Soziale Ungleichheit
+						Entwicklungsunterschiede			(Längsschnitt)	 				Teilhabechancen
+																							Sozialpolitik</content>
+				<inhalt>
+					<id>C-PB-3-1-1</id>
+					<title>Inhalte</title>
+					<content>Soziale Ungleichheit</content>
+					<inhalt>
+						<id>C-PB-3-1-1-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Dimensionen: Status, Einkommen, Bildung, Beruf, Herkunft/Milieu, Geschlecht, sexuelle Orientierung, Alter, Behinderung</content>
+						<content>­	Lebensformen und -situationen, Sozialisation</content>
+						<content>­	Armut (Definitionen), soziale Gerechtigkeit</content>
+						<content>­	Sozialstruktur und deren Besonderheit in der Region/in der Stadt</content>
+					</inhalt>	
+ 				</inhalt>
+ 				<inhalt>
+ 					<id>C-PB-3-1-2</id>
+					<title>Inhalte</title>
+					<content>Teilhabechancen</content>
+					<inhalt>
+						<id>C-PB-3-1-2-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Mitwirkungsmöglichkeiten von Kindern und Jugendlichen</content>
+						<content>­	Bildungsbiografien</content>
+ 					</inhalt>
+ 				</inhalt>
+ 				<inhalt>
+ 					<id>C-LER-3-1-3</id>
+					<title>Inhalte</title>
+					<content>Sozialstaat</content>
+					<inhalt>
+						<id>C-LER-3-1-3-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Institutionen und Einrichtungen (insbesondere ihre Zuständigkeiten für Kinder und Jugendliche)</content>
+						<content>­	soziale Leistungen (insbesondere für Kinder und Jugendliche)</content>
+					</inhalt>
+ 				</inhalt>
+ 			</themainhalt>	
+			<themainhalt>
+				<id>C-PB-3-2</id>
+				<title>Leben in einer globalisierten Welt 7/8</title>
+				<content>Die Schülerinnen und Schüler setzen sich in diesem Themenfeld mit den globalen Veränderungen der gesellschaftlichen Kommunikation und des kulturellen und politischen Lebens in der modernen digitalen Welt des 21. Jahrhunderts auseinander. Neben exemplarischen Alltagserfahrungen, die diese umfassenden Globalisierungsprozesse anschaulich verdeutlichen, werden im Unterricht auch Gefahren und Chancen der digitalen Gesellschaft und das Spannungsverhältnis von Freiheit und Sicherheit kontrovers diskutiert. Die Auseinanderset-zung mit globalen Risiken und nachhaltigen Lösungsansätzen erfolgt im Unterricht mithilfe von Fallbeispielen und richtet insbesondere den Blick auf die globalen Umwelt- und Ressourcenprobleme. Damit bietet das Themenfeld zahlreiche Bezüge zum Basiscurriculum Medienbildung sowie zum übergreifenden Thema Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen.</content>
+				<inhalt>
+					<id>C-PB-3-2-1</id>
+					<title>Inhalte</title>
+					<content>Kultur – die Welt als globales Dorf</content>
+					<inhalt>
+						<id>C-PB-3-2-1-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Berührungspunkte im Alltag (z. B. Familie, Freizeit, Konsum, Medien, Kommunikation)</content>
+					</inhalt>	
+ 				</inhalt>
+ 				<inhalt>
+ 					<id>C-PB-3-2-2</id>
+					<title>Inhalte</title>
+					<content>Vernetzte Welt/digitale Gesellschaft</content>
+					<inhalt>
+						<id>C-PB-3-2-2-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Chancen und Risiken: Meinungs- und Informationsfreiheit, Kontrolle und Sicherheit/Datenschutz, staatliche Zensur, Anonymität, Quellenkritik</content>
+						<content>­	Agenda-Setting</content>
+						<content>­	neue politische Beteiligungsformen</content>
+ 					</inhalt>
+ 				</inhalt>
+ 				<inhalt>
+ 					<id>C-LER-3-2-3</id>
+					<title>Inhalte</title>
+					<content>Globale Risiken und Nachhaltigkeit</content>
+					<inhalt>
+						<id>C-LER-3-2-3-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Fallbeispiele, z. B. Umwelt- und Klimaschutzpolitik, Energiepolitik, Umgang mit Ressourcen</content>
+					</inhalt>
+ 				</inhalt>
+ 			</themainhalt>	
+ 			<themainhalt>
+				<id>C-PB-3-3</id>
+				<title>Migration und Bevölkerung 7/8 (Unterricht im gesellschaftswissenschaftlichen Fächerverbund)</title>
+				<content>Im Geografieunterricht werden demografische Prozesse und Strukturen auf allen Maßstabsebenen als Herausforderung für heutige und künftige Generationen thematisiert. Auf regionaler und globaler Ebene werden z. B. die wachsende Weltbevölkerung, Migration und deren Auswirkungen auf ländliche und urbane Räume betrachtet.
+						Im Geschichtsunterricht wird Migration als ein zentrales Merkmal menschlicher Gesellschaf-ten in der Vergangenheit und Gegenwart betrachtet. Unterschiedliche Faktoren kennzeichnen Wanderungsbewegungen. Diese Faktoren sowie der Umgang mit resultierenden Problemen werden im Geschichtsunterricht in verschiedenen zeitlichen Ebenen im Kontext von Verlust, Herausforderung und Chance untersucht, verglichen und beurteilt.
+						Im Mittelpunkt des Unterrichts im Fach Politische Bildung steht in diesem Themenfeld die Auseinandersetzung mit aktuellen Migrationsursachen und den gesellschaftlichen Auswirkungen der Migrationsbewegungen. Im Kontext der universalen Menschenrechte und des Asylrechts diskutieren die Schülerinnen und Schüler Ziele und Strategien der deutschen Integrations- und Einwanderungspolitik sowie Chancen und Probleme in einer zunehmend von Vielfalt geprägten Gesellschaft.
+						Die Auseinandersetzung mit den Inhalten des Themenfeldes unterstützt die Kompetenzentwicklung der Schülerinnen und Schüler in den übergreifenden Themen Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen, Interkulturelle Bildung, Bildung zur Akzeptanz von Vielfalt (Diversity) sowie Demokratiebildung.
+
+						Geografie							Geschichte							Politische Bildung
+						Demografische Entwicklung			Migrationen (Längsschnitt)			Integration und Teilhabe
+						in regionaler und globaler 												Migrationsursachen
+						Dimension																Biografien und hybride Identitäten</content>
+				<inhalt>
+					<id>C-PB-3-3-1</id>
+					<title>Inhalte</title>
+					<content>Integration und Teilhabe</content>
+					<inhalt>
+						<id>C-PB-3-3-1-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	universelle Menschenrechte</content>
+						<content>­	Asylrecht in Deutschland und Europa</content>
+						<content>­	Migrationspolitik in Deutschland, Leben von Flüchtlingen in Deutschland und Europa</content>
+					</inhalt>	
+ 				</inhalt>
+ 				<inhalt>
+ 					<id>C-PB-3-3-2</id>
+					<title>Inhalte</title>
+					<content>Migrationsursachen</content>
+					<inhalt>
+						<id>C-PB-3-3-2-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Push- und Pull-Faktoren, z. B. Armut, Kriege, Wohlstand, Sicherheit und Freiheit</content>
+						<content>­	Fallbeispiele: Zu- und Abwanderung in Berlin und Brandenburg, Transnationalismus</content>
+ 					</inhalt>
+ 				</inhalt>
+ 				<inhalt>
+ 					<id>C-LER-3-3-3</id>
+					<title>Inhalte</title>
+					<content>Biografien und hybride Identitäten</content>
+					<inhalt>
+						<id>C-LER-3-3-3-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Integration, Transnationalismus, Marginalisierung und Segregation</content>
+						<content>­	Fallbeispiele – Einwanderung und Leben in einer vielfältigen Gesellschaft: Kultur, Ethnie, Geschlecht, sexuelle Orientierung, Weltanschauung etc.</content>
+					</inhalt>
+ 				</inhalt>
+ 			</themainhalt>	
+ 			<themainhalt>
+				<id>C-PB-3-4</id>
+				<title>Leben in einem Rechtsstaat 7/8</title>
+				<content>Die Schülerinnen und Schüler lernen in diesem Themenfeld die Merkmale der demokratischen Rechtsordnung in der Bundesrepublik Deutschland kennen und setzen sich mit dem Spannungsverhältnis von Recht und Gerechtigkeit auseinander. Im Sinne der Lebensweltorientierung werden im Unterricht insbesondere rechtliche Fragen desJugendschutzes und der Rechts- und Strafmündigkeit von Jugendlichen behandelt. Anhand von Fallbeispielen diskutieren die Schülerinnen und Schüler über den Sinn und Zweck von Strafen und über die Bedeutung der Resozialisierung.
+						Die im Themenfeld erworbenen Kompetenzen sind Bestandteil des Kompetenzerwerbs zu den übergreifenden Themen Gewaltprävention und Demokratiebildung.</content>
+				<inhalt>
+					<id>C-PB-3-4-1</id>
+					<title>Inhalte</title>
+					<content>Merkmale einer demokratischen Rechtsordnung</content>
+					<inhalt>
+						<id>C-PB-3-4-1-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Grundrechte im Grundgesetz</content>
+						<content>­	Rechtssicherheit, Rechtsgleichheit, Rechtsweggarantie, Gewaltenteilung, Unabhängigkeit der Gerichte, Grundrechtsgarantie</content>
+						<content>­	Spannungsverhältnis zwischen Recht und Gerechtigkeit</content>
+					</inhalt>	
+ 				</inhalt>
+ 				<inhalt>
+ 					<id>C-PB-3-4-2</id>
+					<title>Inhalte</title>
+					<content>Rechtsmündigkeit und Jugendschutz</content>
+					<inhalt>
+						<id>C-PB-3-4-2-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Jugendschutzgesetz, Deliktfähigkeit, Strafmündigkeit</content>
+ 					</inhalt>
+ 				</inhalt>
+ 				<inhalt>
+ 					<id>C-LER-3-4-3</id>
+					<title>Inhalte</title>
+					<content>Strafverfahren und Jugendstrafrecht</content>
+					<inhalt>
+						<id>C-LER-3-4-3-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Jugendkriminalität: Ursachen, Ausmaß</content>
+						<content>­	Sinn und Zweck von Strafe: Resozialisierung, Täter-Opfer-Ausgleich, Abschreckung etc.</content>
+						<content>­	Fallbeispiele</content>
+					</inhalt>
+ 				</inhalt>
+ 			</themainhalt>	
+ 			<themainhalt>
+				<id>C-PB-3-5</id>
+				<title>Demokratie in Deutschland 9/10</title>
+				<content>Im Mittelpunkt dieses Themenfeldes steht das politische System der Bundesrepublik Deutschland. Wichtige Merkmale sind hierbei der Rechtsstaat, der Sozialstaat, der Föderalismus und die damit verbundenen verschiedenen politischen Ebenen (Institutionen, Mitwirkung an der Willensbildung und an Entscheidungen). Neben diesen zentralen Merkmalen und Prinzipien der deutschen Demokratie thematisieren die Schülerinnen und Schüler die Kontrollfunktion der Massenmedien in der Demokratie und reflektieren in diesem Zusammenhang politische und ökonomische Interessen. Die kritische Auseinandersetzung mit demokratiefeindlichem Gedankengut und Gefahren für die freiheitlich-demokratische Grundordnung ist ein weiterer inhaltlicher Schwerpunkt dieses Themenfeldes.
+						Die im Themenfeld erworbenen Kompetenzen sind ein konstitutives Element des Kompetenzerwerbs zum übergreifenden Thema Demokratiebildung.</content>
+				<inhalt>
+					<id>C-PB-3-5-1</id>
+					<title>Inhalte</title>
+					<content>Politische Prinzipien</content>
+					<inhalt>
+						<id>C-PB-3-5-1-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Gewaltenteilung und -kontrolle</content>
+						<content>­	Rechtsstaat, Sozialstaat, Bundesstaat, Demokratie(-prinzip)</content>
+						<content>­	Elemente der repräsentativen und direkten Demokratie</content>
+						<content>­	Massenmedien</content>
+					</inhalt>	
+ 				</inhalt>
+ 				<inhalt>
+ 					<id>C-PB-3-5-2</id>
+					<title>Inhalte</title>
+					<content>Institutionen</content>
+					<inhalt>
+						<id>C-PB-3-5-2-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Verfassungsorgane, Interessensgruppen</content>
+ 					</inhalt>
+ 				</inhalt>
+ 				<inhalt>
+ 					<id>C-LER-3-5-3</id>
+					<title>Inhalte</title>
+					<content>Politische Willensbildung und Entscheidungen</content>
+					<inhalt>
+						<id>C-LER-3-5-3-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Wahlen, Parteien, Regierung/Opposition</content>
+						<content>­	Formen der Bürgerbeteiligung, plebiszitäre Elemente</content>
+						<content>­	Gesetzgebungsprozess, Beteiligung von Institutionen und Akteuren</content>
+						<content>­	Fallbeispiele</content>
+					</inhalt>
+ 				</inhalt>
+ 				<inhalt>
+ 					<id>C-LER-3-5-4</id>
+					<title>Inhalte</title>
+					<content>Gefährdungen der Demokratie</content>
+					<inhalt>
+						<id>C-LER-3-5-4-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	wehrhafte Demokratie</content>
+						<content>­	Diktatur (Vergleich DDR)</content>
+						<content>­	Intoleranz, Extremismus und Gewalt</content>
+						<content>­	Parteienverdrossenheit</content>
+					</inhalt>
+ 				</inhalt>
+ 			</themainhalt>	
+ 			<themainhalt>
+				<id>C-PB-3-6</id>
+				<title>Konflikte und Konfliktlösungen 9/10 (Unterricht im gesellschaftswissenschaftlichen Fächerverbund)</title>
+				<content>Zum übergreifenden Themenfeld Konflikte und Konfliktlösungen finden sich im Fach Geografie Bezüge in den Themenfeldern 3.5 Umgang mit Ressourcen sowie 3.6 Klimawandel und Klimaschutz als Beispiel für internationale Konflikte und Konfliktlösungen.
+						Im Geschichtsunterricht setzen sich die Lernenden an einem Fallbeispiel mit dem völkerrechtlichen wie vergangenheitspolitischen Umgang mit historischen Konflikten/Konfliktlösungen auseinander. Mit den vorgeschlagenen historischen Beispielen wird der Gegenstand auch in einen globalhistorischen Kontext gestellt und es werden Möglichkeiten des Transfers eröffnet.
+						Der Unterricht im Fach Politische Bildung führt ein in die Probleme internationaler Zusammenarbeit und Friedenssicherung und vermittelt bei der multiperspektivischen Analyse von internationalen Konflikten politisches Deutungswissen mit dem Ziel einer differenzierten Urteilsbildung. Den Schwerpunkt bilden dabei mögliche Wege der Konfliktlösung und Konfliktprävention auf der Grundlage internationaler Zusammenarbeit und einer nachhaltigen Entwicklungspolitik.
+						Das Themenfeld bietet zahlreiche Schnittstellen zu den übergreifenden Themen Interkultu-relle Bildung, Bildung zur Akzeptanz von Vielfalt (Diversity) sowie Demokratiebildung.
+
+						Geografie								Geschichte							Politische Bildung
+						Ressourcenkonflikte						Konflikte und Konfliktlösungen		Kriege, Konflikte, Terrorismus						
+						Interessenkonflikte beim 				(Fallanalyse)						Entwicklungspolitik und Friedenssicherung
+						Klimaschutz						
+				</content>
+				<inhalt>
+					<id>C-PB-3-6-1</id>
+					<title>Inhalte</title>
+					<content>Kriege, Konflikte, Terrorismus</content>
+					<inhalt>
+						<id>C-PB-3-6-1-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Definitionen</content>
+						<content>­	Konfliktanalyse am Fallbeispiel: Gegenstand/Interessen, Ursachen, Akteure, Lösungsstrategien (z. B. Instrumente der zivilen Konfliktbearbeitung), internationale Dimension etc.</content>
+						<content>­	Failed States</content>
+					</inhalt>	
+ 				</inhalt>
+ 				<inhalt>
+ 					<id>C-PB-3-6-2</id>
+					<title>Inhalte</title>
+					<content>Entwicklungspolitik und Friedenssicherung</content>
+					<inhalt>
+						<id>C-PB-3-6-2-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	internationale Akteure (z. B. UN, NGOs, EU, NATO): Selbstverständnis und Ziele</content>
+						<content>­	Fallbeispiele</content>
+						<content>­	Rolle Deutschlands</content>
+ 					</inhalt>
+ 				</inhalt>
+ 			</themainhalt>	
+ 			<themainhalt>
+				<id>C-PB-3-7</id>
+				<title>Soziale Marktwirtschaft in Deutschland 9/10</title>
+				<content>Die Schülerinnen und Schüler setzen sich in diesem Themenfeld mit den politischen und ökonomischen Grundlagen der sozialen Marktwirtschaft in Deutschland auseinander. Neben der Thematisierung verschiedener ordnungspolitischer Paradigmen bzw. Wirtschaftsordnungen und dem Vergleich mit der Konzeption der sozialen Marktwirtschaft steht insbesondere das Spannungsverhältnis von Wirtschafts- und Sozialpolitik im Mittelpunkt der Urteilsbildung. Die Perspektive der Schülerinnen und Schüler als Beteiligte des Wirtschaftsgeschehens (Mikroebene) stellt dabei einen wichtigen Ausgangspunkt für das Verständnis von ökonomischen Prozessen dar. Auf dieser Grundlage diskutieren die Schülerinnen und Schüler über Ziele und Probleme der Wirtschaftspolitik (Makroebene) und über sozialpolitische Herausforderungen.
+						In dem Themenfeld erwerben die Schülerinnen und Schüler Kompetenzen für ein wirtschaft-lich verantwortliches Handeln, das sich an Kriterien der nachhaltigen Entwicklung orientiert. Das Themenfeld bietet daher gute Verknüpfungen mit den übergreifenden Themen Verbraucherbildung und Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen.
+				</content>
+				<inhalt>
+					<id>C-PB-3-7-1</id>
+					<title>Inhalte</title>
+					<content>Grundlagen der Sozialen Marktwirtschaft</content>
+					<inhalt>
+						<id>C-PB-3-7-1-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Wettbewerbspolitik, Handelspolitik</content>
+						<content>­	Konjunkturpolitik</content>
+						<content>­	Sozialpolitik: Solidaritätsprinzip und Subsidiaritätsprinzip</content>
+						<content>­	tarifpolitische Akteure</content>
+					</inhalt>	
+ 				</inhalt>
+ 				<inhalt>
+ 					<id>C-PB-3-7-2</id>
+					<title>Inhalte</title>
+					<content>Spannungsverhältnis von Wirtschafts- und Sozialpolitik</content>
+					<inhalt>
+						<id>C-PB-3-7-2-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Ziele der Wirtschaftspolitik (Magisches Vieleck)</content>
+						<content>­	individuelle Handlungsmöglichkeiten (lokal/global)</content>
+						<content>­	sozialpolitische und ökonomische Herausforderungen, Reform des Sozialstaates, demografischer Wandel, Globalisierung</content>
+ 					</inhalt>
+ 				</inhalt>
+ 				<inhalt>
+ 					<id>C-PB-3-7-3</id>
+					<title>Inhalte</title>
+					<content>Wirtschaftsordnungen</content>
+					<inhalt>
+						<id>C-PB-3-7-2-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Verhältnis von Markt und Staat</content>
+						<content>­	Markt- und Zentralverwaltungswirtschaft (DDR)</content>
+ 					</inhalt>
+ 				</inhalt>
+ 			</themainhalt>
+ 			<themainhalt>
+				<id>C-PB-3-8</id>
+				<title>Europa in der Welt 9/10 (Unterricht im gesellschaftswissenschaftlichen Fächerverbund)</title>
+				<content>Im Geografieunterricht werden ausgewählte Wirtschafts- und Naturräume Europas mit dem Ziel untersucht, die Vielfalt des Kontinents sowie seine Stellung in der Welt zu verdeutlichen. Am Beispiel von Europa kann die Konstruiertheit von Räumen exemplarisch aufgezeigt werden.
+						Der Geschichtsunterricht ergänzt die Binnenperspektive auf Europa durch einen Vergleich einer europäischen mit einer außereuropäischen Gesellschaft und Kultur an einem Fallbeispiel. Ziel ist es, die Unterschiedlichkeit der Vergleichspartner zu verschiedenen historischen Zeitpunkten herauszuarbeiten. Dies kann am Beispiel von historischen Dimensionen wie Herrschaft, Wirtschaft oder Kultur erfolgen.
+						Im Mittelpunkt für den Unterricht im Fach Politische Bildung steht in diesem Themenfeld die Auseinandersetzung mit dem europäischen Integrationsprozess und der Politik der Europäischen Union. Die Schülerinnen und Schüler diskutieren Fallbeispiele europäischer Politik, die Finalität der EU und demokratische Partizipationsmöglichkeiten. Ziel ist es auch, die vielfältigen alltagsweltlichen Prägungen des gesellschaftlichen Lebens und die Herausbildung einer europäischen Identität im Unterricht zu thematisieren.
+						Der Unterricht zum Themenfeld ist Teil der Europabildung in der Schule. Daneben entwickeln die Schülerinnen und Schüler wichtige Kompetenzen im Rahmen der übergreifenden Themen Demokratiebildung, interkulturelle Bildung, Bildung zur Akzeptanz von Vielfalt (Diversity) und Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen.
+						Geografie								Geschichte							Politische Bildung
+						Grenzen setzen/							Europa in der Welt (Vergleich)		Die europäische Idee
+						europäische Identität														Die EU im Alltag
+						Potenziale und Herausforderungen											Politische Entscheidungen
+						Grenzübergreifende Zusammenarbeit
+				</content>
+				<inhalt>
+					<id>C-PB-3-8-1</id>
+					<title>Inhalte</title>
+					<content>Die EU im Alltag</content>
+					<inhalt>
+						<id>C-PB-3-8-1-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Fallbeispiele: Auswirkungen des Binnenmarktes</content>
+					</inhalt>	
+ 				</inhalt>
+ 				<inhalt>
+ 					<id>C-PB-3-8-2</id>
+					<title>Inhalte</title>
+					<content>Die europäische Idee</content>
+					<inhalt>
+						<id>C-PB-3-8-2-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	europäische Identitäten</content>
+						<content>­	Finalität der EU (Bundesstaat oder Staatenbund)</content>
+						<content>­	Erweiterung und Grenzen Europas</content>
+ 					</inhalt>
+ 				</inhalt>
+ 				<inhalt>
+ 					<id>C-PB-3-8-3</id>
+					<title>Inhalte</title>
+					<content>Politische Entscheidungen</content>
+					<inhalt>
+						<id>C-PB-3-8-3-1</id>
+						<title>Mögliche Konkretisierungen</title>
+						<content>­	Beteiligung von Institutionen und Akteuren in der EU, Gesetzgebungsverfahren, demokratische Legitimation</content>
+						<content>­	Politikfelder: Binnenmarkt, Wirtschafts- und Währungsunion, Außenhandelspolitik, Außen- und Sicherheitspolitik, Umweltpolitik, Migrationspolitik</content>
+						<content>­	Partizipationsmöglichkeiten (z. B. Online-Petitionen, Europäische Bürgerinitiative)</content>
+ 					</inhalt>
+ 				</inhalt>
+ 			</themainhalt>		
+ 			<themainhalt>
+				<id>C-PB-3-9</id>
+				<title>Wahlpflichtfach</title>
+				<content>Der Wahlpflichtunterricht stellt ein Angebot dar, das über den Regelunterricht hinausgeht und ihn thematisch erweitert. Er dient der Vertiefung von Fachinhalten und schafft die Möglichkeit, Fachliches und Überfachliches zu verbinden.
+						Grundlage für den Unterricht im Wahlpflichtfach sind die fachlichen Kompetenzbereiche. Werden weitere Fächer hinzugezogen, gilt dies für die Kompetenzbereiche aller beteiligten Fächer.
+				</content>
+ 			</themainhalt>			
+	</c3>
+</fach>
+				
