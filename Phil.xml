@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fach xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns="http://bsbb.eu" 
+	xsi:schemaLocation="http://bsbb.eu fachtype.xsd">
+
+	<id>C-Phil</id>
+	<title>Philosophie</title>
+	<c1>
+		<id>C-Phil-1</id>
+		<title>Kompetenzentwicklung im Fach Philosophie</title>
+		<subtext>
+			<id>C-Phil-1-1</id>
+			<title>Ziele des Unterrichts</title>
+			<content>Die Philosophie ist ein Nachdenken, bei dem sich Menschen mit grundlegenden Vorstellungen über sich und ihre Welt auseinandersetzen. Sie beginnt damit, dass Menschen zweifeln, staunen oder nach Orientierung suchen und dabei Fragen entwickeln: Kann ich behaupten, von dieser bestimmten Sache etwas zu verstehen, ein Wissen von ihr zu besitzen? Wie beurteile ich, ob diese Handlung richtig ist? Wer bin ich? Hat meine Existenz, mein Leben einen Sinn, ein Ziel? Für diese existenziellen Fragen des Menschen, die sich auch schon Kinder und Jugendliche stellen, hat die Philosophie seit ihren Anfängen Lösungsstrategien entwickelt, in denen sie grundlegende Begriffe wie Wahrheit, Wissen, Moralität, Sinn oder auch Schönheit zu klären versucht.
+					In der Geschichte der Philosophie haben sich um diese Fragen und Probleme Teildisziplinen gebildet, wie etwa die Erkenntnistheorie und die Wissenschaftstheorie, die Ethik und die Anthropologie, die politische Philosophie und die Sozialphilosophie, die Metaphysik und die Ästhetik. In ihnen sind Theorien und Konzepte entstanden, mit denen die aufgeworfenen Probleme zu lösen versucht worden sind. Für die Philosophie kann es dabei aber keine endgültigen Lösungen geben. Dies liegt daran, dass im Zentrum ihrer Lösungsstrategien die Tätigkeit des Philosophierens steht, d.h. das selbständige Nachdenken über die philosophischen Probleme, dessen Maßstab für die Beurteilung eines Gedankens seine Überzeugungskraft und logische Schlüssigkeit ist – das, was die griechische Philosophie den Logos nannte. Zum Philosophieren gehört somit eine kritische Grundhaltung, die in dem Anspruch besteht, nichts als wahr oder richtig gelten zu lassen, das nicht durch den eigenen Verstand geprüft und für plausibel erklärt wurde.
+					Gerade deshalb weil Philosophierende selbst nachdenken und dabei von den Fragen ausgehen, die sich ihnen stellen und die sie zur Beschäftigung mit philosophischen Problemen geführt haben, müssen sie sowohl die gängigen Sichtweisen, die sie bei den Menschen in ihrer eignen Umgebung vorfinden, als auch die Konzepte der philosophischen Tradition kritisch prüfen. Sie müssen sich fragen, ob diese logisch konsistent sind und eine überzeugende Lösung für das Problem, mit dem sie sich beschäftigen, bieten.
+					Im Fach Philosophie lernen die Schülerinnen und Schüler in diesem Sinne zu philosophieren. Im Rahmen ihres lebensweltlichen Horizonts und ihres Bewusstseins von der Welt, ausgehend von den Problemen und Fragen, die sie darin vorfinden, entwickeln sie eigene philosophische Fragestellungen und entdecken die philosophische Dimension in alltäglichen Fragen. Zum Beispiel können sie, von der Frage ausgehend, ob man seiner Mitschülerin oder seinem Mitschüler unter allen Umständen helfen muss, wenn er oder sie etwas nicht verstanden hat, zu der Frage gelangen, was eigentlich das Kriterium dafür ist, eine Handlung als richtig und geboten zu beurteilen. Von der Frage ausgehend, ob der Inhalt eines Wikipedia-Artikels wahr ist, können sie zu der Frage gelangen, was Wahrheit überhaupt ausmacht. Von der Frage nach ihrer sexuellen Identität ausgehend können sie überlegen, was Sexualität überhaupt ist. Von der Frage ausgehend, warum sie zur Schule gehen, kann sich die Frage ergeben, welchen Sinn die menschliche Existenz haben kann.
+					Auf diese Weise werden die Schülerinnen und Schüler zu einer allgemeinen Nachdenklichkeit ermuntert sowie dazu, die Vorstellungen und Wertsetzungen zu hinterfragen, die sie in ihrer sozialen Umgebung vorgefunden haben. Sie üben sich selbst und ihrer Lebenswelt gegenüber eine kritische Haltung ein, bei der sie nicht dem ersten Anschein trauen, den ein Sachverhalt für sie erweckt, und bei dem sie in Bezug auf das, was andere schreiben oder sagen, nicht nur deshalb zustimmen, weil es gesellschaftlich akzeptiert ist oder eine Autorität dies fordert. Das gilt auch für die Theorien der Philosophiegeschichte selbst. Die Schülerinnen und Schüler ziehen diese heran, um ihre Perspektive zu erweitern, mögliche Argumente und Positionen kennenzulernen und ein Verständnis für argumentative Schlüssigkeit zu entwickeln, unterziehen sie aber dann ebenfalls einer kritischen Prüfung.
+					Diese kritische Haltung besteht vor allem darin, sich von selbst gebildeten, gut begründeten Urteilen leiten zu lassen. In der Auseinandersetzung mit philosophischen Problemen im Un-terricht lernen die Schülerinnen und Schüler, dass sie am Ende selbst entscheiden müssen, welche Argumente sie überzeugend finden und welche Position sie einnehmen wollen und begründet vertreten können. Sie lernen dadurch, dass sie sowohl ihre Urteile und ihre Sichtweisen als auch ihr Handeln, das sich daran orientiert, selbst verantworten müssen. Auf diese Weise leistet der Philosophieunterricht einen Beitrag dazu, dass die Schülerinnen und Schüler eigenständig denkende und handelnde Menschen werden, die sich ihrer Autonomie bewusst sind.
+					Durch den Umgang mit verschiedenen Denkperspektiven, Theorien und Begründungsmöglichkeiten lernen die Schülerinnen und Schüler außerdem einen grundlegenden Pluralismus kennen, eine Vielfalt der Meinungen und Gedanken. Sie erwerben die Fähigkeit, eine generelle Offenheit in grundsätzlichen Fragen auszuhalten und mit ihr konstruktiv umzugehen. Gleichzeitig werden sie an eine Wertschätzung der Pluralität und Diversität unserer Gesellschaft herangeführt. Sie lernen, sich in ihr zurechtzufinden und ihre Mitverantwortung für die Erhaltung der Grundlagen eines solchen Zusammenlebens zu erkennen und anzunehmen. Der Philosophieunterricht leistet so einen wesentlichen Beitrag zu den generellen Bildungs- und Erziehungszielen der Schule.
+			</content>
+		</subtext>
+		<subtext>
+			<id>C-Phil-1-2</id>
+			<title>Fachbezogene Kompetenzen</title>
+			<content>Die zentrale Kompetenz des Faches Philosophie ist das Philosophieren. Philosophieren ist eine Reflexionskompetenz. Wenn die Schülerinnen und Schüler philosophieren lernen, so lernen sie Phänomene und Fragen oder Problemstellungen in philosophischer Weise zu reflektieren. Das heißt, sie arbeiten zunächst die philosophische Dimension, also die grundlegenden Vorstellungen, Wertsetzungen und Begriffe heraus, um die es bei der Auseinandersetzung mit diesen Problemen geht und die sie so zum Gegenstand ihres Nachdenkens machen. Dann entwickeln sie Positionen zu diesen Fragen oder Problemstellungen, indem sie sich mögliche Lösungsansätze aus der Philosophiegeschichte und deren Vorstellungen, Begriffe und Argumentationen aneignen und eigene Ansätze hierzu entwickeln. Schließlich beurteilen sie, inwieweit diese Vorstellungen das Problem lösen können, und versuchen eine eigene Beantwortung der aufgeworfenen Fragen.
+					Philosophieren heißt für die Schülerinnen und Schüler somit, von der Auseinandersetzung mit konkreten Problematiken ausgehend eine reflektierte Orientierung bezüglich bestimmter Grundvorstellungen, Wertsetzungen und Begriffe zu gewinnen. Insofern eine solche reflektierende Auseinandersetzung auch ihr Handeln und Sichorientieren im Alltag leiten kann, hat das Philosophieren auch eine praktische, handlungsleitende oder zumindest handlungsorientierende Dimension.
+					Im Einzelnen betrachtet lässt sich die Kompetenz des Philosophierens in die folgenden Kompetenzbereiche untergliedern:
+					
+					Wahrnehmen und deuten
+					Die Schülerinnen und Schüler nehmen in ihrer Lebenswelt wie in unterschiedlichen medialen Darstellungen (gedruckte und vorgetragene Texte, Bilder, Filme) Phänomene und Probleme wahr, in denen sie philosophische Fragestellungen entdecken, und deuten sie, d. h., sie beschreiben das, was sie wahrnehmen. Im Einzelnen analysieren sie, welche Fragen darin aufgeworfen werden und welche Grundvorstellungen, Wertsetzungen und Begriffe für ein Verständnis dieser Phänomene und Problematiken wichtig sind. Dazu ziehen sie philosophische Theorien heran, deren Auffassungen sie sich aneignen, um so ein erweitertes Verständnis und verschiedene Perspektiven bezüglich der betrachteten Problematik zu gewinnen.
+					
+					Kulturelle Perspektiven analysieren
+					Die Schülerinnen und Schüler entwickeln ein Bewusstsein für die kulturellen Kontexte philo-sophischer Positionen und anderer Theorien und Vorstellungen von der Wirklichkeit sowie ein Bewusstsein für kulturelle Vielfalt und Transkulturalität an sich. Dazu analysieren sie in Texten und anderen medialen Darstellungen, wie unterschiedliche kulturgeschichtliche Kontexte in Handlungen, in der Sprache und deren Begrifflichkeit, in Bildern und Vorstellungen vom Menschen und von der Welt zum Ausdruck kommen.
+					Sie vergleichen verschiedene kulturelle Perspektiven im Hinblick auf bestimmte Aspekte der Wirklichkeit des menschlichen Lebens und machen sich so ihre Verschiedenheit bewusst. Von diesen Einsichten und Erfahrungen ausgehend entwickeln sie eine kritisch reflektierte Wertschätzung für kulturelle Vielfalt und Denkansätze für ein von Transkulturalität geprägtes Zusammenleben.
+					
+					Argumentieren und urteilen
+					In ihrer Auseinandersetzung mit philosophischen Problemstellungen argumentieren und urteilen die Schülerinnen und Schüler mit dem Ziel, zu einem eigenen, begründeten Urteil zu gelangen. Zum einen beschäftigen sie sich dabei mit philosophischen Theorien zur jeweiligen Problematik, indem sie deren Begriffe, Gedankengänge und Argumentationen rekonstruieren sowie deren Voraussetzungen und Konsequenzen erschließen und diese anschließend mit eigenen Gedankengängen und Argumenten bewerten. Zum anderen entwickeln sie sowohl in Auseinandersetzung mit philosophischen Theorien als auch unabhängig von solchen eine eigene Beurteilung der Problematik, die sie in einer überzeugenden Weise argumentativ zu untermauern suchen.
+					
+					Einen Diskurs gestalten
+					Die Schülerinnen und Schüler gestalten einen Diskurs, indem sie eigene Positionen und Argumentationen überzeugend und in vielfältiger Weise darstellen, auf Positionen und Argumentationen anderer angemessen und kritisch eingehen und in konstruktiver Weise sowohl nach einem möglichen Konsens suchen als auch mit einem Dissens umzugehen lernen.
+			</content>
+		</subtext>			
+	</c1>
+	<c2>
+		<vorwort>
+		<id>C-Phil-2-BE</id>
+		<title>Regelungen für das Land Berlin</title>
+		<content>Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren Niveaus vorbereiten können.
+Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler.
+Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
+Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungsvorschriften.
+Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
+Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
+Für Grundschulen und Grundstufen der Gemeinschaftsschulen sowie an 
+weiterführenden Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Schulanfangsphase 	Niveaustufen A, B, in Teilen C
+Jahrgangsstufen	3 – 4	Niveaustufe C, in Teilen D
+Jahrgangsstufe	5	Niveaustufen C – D 
+Jahrgangsstufe	6	Niveaustufe D, in Teilen E
+
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen 
+werden auf folgenden Niveaustufen unterrichtet:
+Jahrgangsstufe 		3	Niveaustufe B, in Teilen C
+Jahrgangsstufen		4 – 6	Niveaustufe C
+Jahrgangsstufen 	7 – 8	Niveaustufe D
+Jahrgangsstufen 	9 – 10	Niveaustufen D – E
+
+Zur Vorbereitung auf den der Berufsbildungsreife gleichwertigen Abschluss werden in den Jahrgangsstufen 9 und 10 auch Angebote auf dem Niveau F unterbreitet.
+Je nach dem Grad der Lernbeeinträchtigung erreichen die Schülerinnen und Schüler die 
+gesetzten Standards nicht im vollen Umfang bzw. nicht zum vorgegebenen Zeitpunkt. Dem trägt eine individuelle Ausrichtung des Unterrichtsangebots Rechnung.
+Für die Integrierte Sekundarschule gilt:
+grundlegendes Niveau:
+Jahrgangsstufen	7 – 8	Niveaustufen D – E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufe F, in Teilen G
+erweitertes Niveau: 
+Jahrgangsstufen	7 – 8 	Niveaustufe E, in Teilen F
+Jahrgangsstufen	9 – 10	Niveaustufen F – G
+
+
+Für das Gymnasium gilt:
+Jahrgangsstufe	7	Niveaustufe E
+Jahrgangsstufe	8	Niveaustufe F
+Jahrgangsstufe	9	Niveaustufe G
+Jahrgangsstufe	10	Niveaustufe H
+
+Die folgende Darstellung veranschaulicht die im Berliner Schulsystem in den Jahrgangsstufen 1 bis 10 möglichen Lerngeschwindigkeiten im Überblick und zeigt die Durchlässigkeit des Schulsystems. Sie bietet zudem eine Grundlage für eine systematische Schullaufbahnberatung. In der Darstellung ist auch erkennbar, welche Anforderungen Schülerinnen und Schüler erfüllen müssen, die die Voraussetzungen für den Erwerb der Berufsbildungsreife erst am Ende der Jahrgangsstufe 10 erreichen. Dieses Niveau können auch Schülerinnen und Schüler mit dem sonderpädagogischen Förderschwerpunkt Lernen erreichen, wenn sie den der Berufsbildungsreife gleichwerten Abschluss anstreben. 
+
+Der Unterricht im Wahlpflichtfach Philosophie in den Jahrgangsstufen 9/10 wird dazu genutzt, dass die Schülerinnen und Schüler ihre bereits erworbenen Kompetenzen anwenden und vertiefen. Am Ende der Jahrgangsstufe 10 wird das entsprechende Übergangs- bzw. Abschlussniveau erreicht.</content>
+	</vorwort>
+		<area>
+ 	  	 <id>Phil-K1</id>
+ 	  	 <name>Wahrnehmen und deuten</name>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K1-1</id>
+ 	  	  	 <name>Probleme beschreiben</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K1-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K1-1-EF-1</id>
+ 	  	  	  	  	 <content>in lebensweltnahen Texten, Bildern, Filmen und eigenen Beobachtungen philosophisch relevante Probleme beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K1-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K1-1-G-1</id>
+ 	  	  	  	  	 <content>in Texten, Bildern, Filmen und eigenen Beobachtungen philosophisch relevante Probleme beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K1-1-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K1-1-H-1</id>
+ 	  	  	  	  	 <content>anhand von Texten, Bildern, Filmen und eigenen Beobachtungen philosophische Probleme zusammenhängend beschreiben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K1-2</id>
+ 	  	  	 <name>Begriffe erläutern</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K1-2-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K1-2-EF-1</id>
+ 	  	  	  	  	 <content>für eine Problemstellung relevante Normen und Begriffe benennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K1-2-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K1-2-G-1</id>
+ 	  	  	  	  	 <content>für eine Problemstellung relevante Normen und Begriffe erläutern</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K1-2-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K1-2-H-1</id>
+ 	  	  	  	  	 <content>für eine Problemstellung relevante Normen und Begriffe auf philosophische Positionen beziehen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K1-3</id>
+ 	  	  	 <name>Theorien darstellen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K1-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K1-3-EF-1</id>
+ 	  	  	  	  	 <content>Positionen aus ausgewählten philosophischen, kulturgeschichtlichen, religiösen und wissenschaftlichen Texten darstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K1-3-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K1-3-GH-1</id>
+ 	  	  	  	  	 <content>Positionen aus philosophischen, kulturgeschichtlichen, religiösen und wissenschaftlichen Texten darstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K1-4</id>
+ 	  	  	 <name>Theorien vergleichen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K1-4-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K1-4-EF-1</id>
+ 	  	  	  	  	 <content>Gemeinsamkeiten und Unterschiede verschiedener Positionen benennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K1-4-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K1-4-G-1</id>
+ 	  	  	  	  	 <content>Gemeinsamkeiten und Unterschiede verschiedener Positionen erläutern</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K1-4-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K1-4-H-1</id>
+ 	  	  	  	  	 <content>die Vereinbarkeit verschiedener Positionen beurteilen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K1-5</id>
+ 	  	  	 <name>Theorien anwenden</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K1-5-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K1-5-EF-1</id>
+ 	  	  	  	  	 <content>ausgewählte Beispielsituationen mit Begriffen und Argumenten einer Theorie erklären</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K1-5-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K1-5-G-1</id>
+ 	  	  	  	  	 <content>Beispielsituationen mit Begriffen und Argumenten einer Theorie erklären</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K1-5-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K1-5-H-1</id>
+ 	  	  	  	  	 <content>verschiedene Theorien in ihrer Anwendung auf eine Beispielsituation vergleichen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K1-6</id>
+ 	  	  	 <name>Eigene Positionen prüfen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K1-6-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K1-6-EF-1</id>
+ 	  	  	  	  	 <content>zu ausgewählten Beispielsituationen persönliche Intuitionen hinterfragen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K1-6-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K1-6-GH-1</id>
+ 	  	  	  	  	 <content>persönliche Einstellungen und Wertvorstellungen darstellen und beurteilen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>Phil-K2</id>
+ 	  	 <name>Kulturelle Perspektiven analysieren</name>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K2-1</id>
+ 	  	  	 <name>Kulturelle Kontexte erschließen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K2-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K2-1-EF-1</id>
+ 	  	  	  	  	 <content>kulturelle Bezüge von Texten, Bildern, Filmen und Alltagssituationen untersuchen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K2-1-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K2-1-GH-1</id>
+ 	  	  	  	  	 <content>kulturelle Kontexte von Texten, Bildern, Filmen und Alltagssituationen erläutern</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K2-2</id>
+ 	  	  	 <name>Kulturelle Vorstellungen vergleichen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K2-2-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K2-2-EF-1</id>
+ 	  	  	  	  	 <content>Antworten unterschiedlicher kultureller Kontexte auf philosophische Fragen vergleichen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K2-2-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K2-2-GH-1</id>
+ 	  	  	  	  	 <content>Antworten unterschiedlicher kultureller Kontexte auf philosophische Fragen vergleichen und ihre Vereinbarkeit beurteilen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K2-3</id>
+ 	  	  	 <name>Mit kulturellen Problematiken umgehen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K2-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K2-3-EF-1</id>
+ 	  	  	  	  	 <content>an einem Beispiel Gegensätze unterschiedlicher kultureller Perspektiven darstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K2-3-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K2-3-G-1</id>
+ 	  	  	  	  	 <content>zu einer interkulturellen Problematik Lösungsansätze formulieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K2-3-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K2-3-H-1</id>
+ 	  	  	  	  	 <content>zu einer interkulturellen Problematik Lösungsansätze diskutieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>Phil-K3</id>
+ 	  	 <name>Argumentieren und urteilen</name>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K3-1</id>
+ 	  	  	 <name>Argumentationen rekonstruieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K3-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K3-1-EF-1</id>
+ 	  	  	  	  	 <content>die Begründung einer vereinfachten philosophischen Position untersuchen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K3-1-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K3-1-G-1</id>
+ 	  	  	  	  	 <content>die Begründung einer philosophischen Position untersuchen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K3-1-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K3-1-H-1</id>
+ 	  	  	  	  	 <content>argumentative Strukturen philosophischer Positionen rekonstruieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K3-2</id>
+ 	  	  	 <name>Argumentieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K3-2-EFG</id>
+ 	  	  	  	 <level>EFG</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K3-2-EFG-1</id>
+ 	  	  	  	  	 <content>bei der Begründung eigener Urteile Grundtechniken des Argumentierens (widerspruchsfreies Begründen, Belegen von Aussagen durch Beispiele, Tatsachen, Erfahrungen) verwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K3-2-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K3-2-H-1</id>
+ 	  	  	  	  	 <content>bei der Begründung eigener Urteile Grundtechniken des Argumentierens und ein logisches Argumentationsmodell verwenden</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K3-3</id>
+ 	  	  	 <name>Problemlösungen beurteilen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K3-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K3-3-EF-1</id>
+ 	  	  	  	  	 <content>einen Lösungsvorschlag für eine philosophische Problemstellung beurteilen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K3-3-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K3-3-GH-1</id>
+ 	  	  	  	  	 <content>Lösungsvorschläge für eine philosophische Problemstellung vergleichend beurteilen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K3-4</id>
+ 	  	  	 <name>Sich positionieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K3-4-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K3-4-EF-1</id>
+ 	  	  	  	  	 <content>zu einer philosophischen Problematik begründet Stellung nehmen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K3-4-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K3-4-G-1</id>
+ 	  	  	  	  	 <content>zu einer philosophischen Problematik unter Bezugnahme auf andere Positionen begründet Stellung nehmen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K3-4-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K3-4-H-1</id>
+ 	  	  	  	  	 <content>zu einer philosophischen Problematik im Vergleich mit anderen Positionen begründet Stellung nehmen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K3-5</id>
+ 	  	  	 <name>Konsequenzen einer Theorie beurteilen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K3-5-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K3-5-EF-1</id>
+ 	  	  	  	  	 <content>Konsequenzen einer Theorie an lebenspraktischen Beispielen verdeutlichen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K3-5-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K3-5-G-1</id>
+ 	  	  	  	  	 <content>die Konsequenzen einer Theorie für Gesellschaft und individuelle Lebenspraxis kritisch darstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K3-5-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K3-5-H-1</id>
+ 	  	  	  	  	 <content>die Konsequenzen einer Theorie im Vergleich mit konkurrierenden Theorien kritisch darstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+ 	 <area>
+ 	  	 <id>Phil-K4</id>
+ 	  	 <name>Einen Diskurs gestalten</name>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K4-1</id>
+ 	  	  	 <name>Positionen anderer respektieren</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K4-1-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K4-1-EF-1</id>
+ 	  	  	  	  	 <content>die Position und Argumente eines anderen anhören und in eigenen Worten wiedergeben</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K4-1-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K4-1-GH-1</id>
+ 	  	  	  	  	 <content>die Position und Argumente eines anderen darstellen und ggf. unter Berücksichtigung kultureller Unterschiede kritisch würdigen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K4-2</id>
+ 	  	  	 <name>Eine eigene Position darstellen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K4-2-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K4-2-EF-1</id>
+ 	  	  	  	  	 <content>eine eigene Position und ihre Argumente verständlich darstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K4-2-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K4-2-G-1</id>
+ 	  	  	  	  	 <content>eine eigene Position und ihre Argumente in Abgrenzung zu anderen Positionen darstellen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K4-2-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K4-2-H-1</id>
+ 	  	  	  	  	 <content>eine eigene Position und ihre Argumente im Lichte anderer Positionen reflektieren und ggf. revidieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K4-3</id>
+ 	  	  	 <name>Kritik äußern</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K4-3-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K4-3-EF-1</id>
+ 	  	  	  	  	 <content>Kritik an Argumenten anderer wertschätzend äußern und dabei ggf. kulturelle Unterschiede berücksichtigen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K4-3-GH</id>
+ 	  	  	  	 <level>GH</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K4-3-GH-1</id>
+ 	  	  	  	  	 <content>Kritik an Argumenten anderer wertschätzend äußern und Vorschläge für eine plausiblere Argumentation entwickeln</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	  	 <competence>
+ 	  	  	 <id>Phil-K4-4</id>
+ 	  	  	 <name>Einen Diskurs inhaltlich zusammenfassen</name>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K4-4-EF</id>
+ 	  	  	  	 <level>EF</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K4-4-EF-1</id>
+ 	  	  	  	  	 <content>Unterschiede und Gemeinsamkeiten zwischen der eigenen und fremden Positionen benennen</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K4-4-G</id>
+ 	  	  	  	 <level>G</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K4-4-G-1</id>
+ 	  	  	  	  	 <content>das Ergebnis einer Diskussion zusammenfassend formulieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	  	 <stufe>
+ 	  	  	  	 <id>Phil-K4-4-H</id>
+ 	  	  	  	 <level>H</level>
+ 	  	  	  	 <standard>
+ 	  	  	  	  	 <id>Phil-K4-4-H-1</id>
+ 	  	  	  	  	 <content>das Ergebnis einer Diskussion geordnet nach Konsens, Dissens und bleibenden Fragen formulieren</content>
+ 	  	  	  	 </standard>
+ 	  	  	 </stufe>
+ 	  	 </competence>
+ 	 </area>
+	 </c2>
+ 	<c3>
+		<id>C-Phil-3</id>	
+		<title>Themen und Inhalte</title>
+		<vortext>Im Fach Philosophie werden die konkreten Unterrichtsthemen im Sinne des Inklusionsprinzips nach den Bedürfnissen, Voraussetzungen und Fähigkeiten der Lerngruppe und den Vorgaben des schulinternen Curriculums ausgewählt. Neben dem Entwicklungs- und Bildungsstand sind im Philosophieunterricht kulturelle Hintergründe, Religionszugehörigkeiten, fachliche Orientierungen und Geschlechterzusammensetzung der Lerngruppe bei der Themenwahl zu berücksichtigen. Die Themenfelder knüpfen an die Themen und Inhalte für die gesellschaftswissenschaftlichen Fächer und besonders das Fach Ethik an. Es ist außerdem wünschenswert, die vielen Bezüge der Philosophie zu verschiedenen Inhalten anderer Fächer zu nutzen, um Wissen und Reflexion der Schülerinnen und Schüler zu vernetzen und zu vertiefen. Insbesondere eine Vertiefung passender Inhalte des Faches Ethik ist naheliegend.
+				Die Themenfelder bieten folglich die Möglichkeit der Vernetzung und fächerübergreifenden Kooperation mit allen Fächern. In der Spalte Mögliche Konkretisierungen finden sich Anregungen dazu.
+				
+				Schulinterne Planung: Die Fachlehrkräfte und die Fachkonferenzen erhalten einen thematischen Rahmen sowie verbindliche Inhalte, die sie je nach Niveaustufe und Schulprofil bei der Planung von Unterricht und bei der Erstellung des schulinternen Curriculums berücksichtigen. Bei der Planung und Konkretisierung werden neben den vorgegebenen Kompetenzen und Inhalten auch die Interessen der Schülerinnen und Schüler, das Schulprogramm, Gegebenheiten der Schule oder Wettbewerbe etc. mit einbezogen.
+				
+				Lebensweltbezug: Nachhaltig ist der Philosophieunterricht für Schülerinnen und Schüler, wenn die Auseinandersetzung mit ethischen Themen einen Bezug zu wichtigen Fragen und Problemen der Gesellschaft wie auch zu ihrem eigenen Leben hat. Die Thematisierung der Inhalte greift die Lebenswirklichkeit der Lernenden auf.
+				
+				Vielfalt und inklusives Lernen: Die Heterogenität der Lernenden im Hinblick auf persönliche, soziale, kulturelle und ethnische Hintergründe sowie unterschiedliche Lebensformen ist wichtiger Ausgangspunkt für die Planung des Unterrichts. Diese knüpft an die Realität der Schülerinnen und Schüler an und bezieht dabei insbesondere die kulturellen Erfahrungen der Lernenden ein. Damit fördert der Unterricht die Stärken unterschiedlicher Persönlichkeiten und nutzt diese für das individuelle Lernen.
+				
+				Die ausgewiesenen Themenfelder werden für Schülerinnen und Schüler, die wegen einer erheblichen und langandauernden Beeinträchtigung ihres Lern- und Leistungsverhaltens sonderpädagogische Förderung erhalten oder für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen  festgestellt wurde, schülerbezogen berücksichtigt. Sie werden entsprechend der Lebensbedeutsamkeit für die Schülerinnen und Schüler ausgewählt.
+				Der Philosophieunterricht thematisiert die Möglichkeiten der Teilhabe am gesellschaftlichen Leben wie auch Phänomene der Ausgrenzung davon. Die gleichberechtigte Teilhabe an diesem Leben, unabhängig von ethnischer und kultureller Herkunft, sozialem und wirtschaftlichem Status, Geschlecht und sexueller Orientierung, Alter und Behinderung sowie Religion und Weltanschauung, bildet sowohl die Basis für die Unterrichtspraxis als auch einen zentralen Inhalt im Sinne des inklusiven Lernens.
+				
+				Didaktische Perspektiven
+				Die Schülerinnen und Schüler lernen im Philosophieunterricht, jedes Thema aus zwei unterschiedlichen Perspektiven zu betrachten.
+				Die gesellschaftliche Perspektive: Philosophieren steht immer in einem gesellschaftlichen Kontext. Einerseits stehen die Probleme, mit denen sich Philosophierende beschäftigten, in einem Zusammenhang mit den Normen, Wertvorstellungen und Weltbildern der Gesellschaft, in der sie leben. Andererseits können philosophische Theorien und Beurteilungen eine gesellschaftliche Relevanz haben, insofern sie zu gesellschaftlichen Realitäten und Vorstellungen kritisch oder bejahend Stellung nehmen. Dementsprechend erwerben die Schülerinnen und Schüler in der gesellschaftlichen Perspektive zunächst Kenntnisse zum gesellschaftlichen Kontext der philosophischen Probleme, mit denen sie sich beschäftigen. Dann beziehen sie diese Kenntnisse in ihre Auseinandersetzung mit philosophischen Problemen ein.
+				Die ideengeschichtliche Perspektive: Über viele philosophische Probleme wird schon seit der Antike nachgedacht. Die Philosophiegeschichte bietet daher ein reiches Feld verschiedenster Denkperspektiven und Ideen, welche die Auseinandersetzung mit philosophischen Problemen bereichern und voranbringen können. In diesem Sinne sollen in der ideengeschichtlichen Perspektive wesentliche Konzepte, Ideen und Begrifflichkeiten der Philosophiegeschichte zur jeweiligen Problematik in die Auseinandersetzung einbezogen werden. Auf diese Weise lernen Schülerinnen und Schüler, philosophische Theorien und Probleme differenziert und reflektiert zu beurteilen.
+				
+				Themenfelder
+				Die Themen und Inhalte des Faches Philosophie sind untergliedert in das Themenfeld Einführung in das Philosophieren (3.1), in dem den Schülerinnen und Schülern die Tätigkeit des Philosophierens nahegebracht wird, sowie in vier weitere verbindliche Themenfelder mit unterschiedlichen Schwerpunkten. Der Philosophieunterricht beginnt in der Regel im Wahlpflichtunterricht der Jahrgangsstufe 9 mit dem Themenfeld Einführung in das Philosophieren (3.1). Jedes im Unterricht behandelte Thema ist einem der Themenfelder zugeordnet. Bis zum Ende der Jahrgangsstufe 10 wird zu jedem Themenfeld mindestens einmal ein Thema im Unterricht behandelt.
+		</vortext>
+		<themainhalt>
+			<id>C-Phil-3-1</id>
+			<title>Einführung in das Philosophieren</title>
+			<content>Das Philosophieren stellt einen eigenen Weg dar, die Welt zu verstehen. Auf ihm versucht der philosophierende Mensch selbstständig, durch eigene Beobachtungen und eigenes Nachdenken zu einem überzeugenden Verständnis bestimmter Phänomene zu gelangen. Wer philosophiert, arbeitet allein mit den Mitteln des allgemeinen Menschenverstandes: mit sachgerechten Begriffen, schlüssigen Argumenten und grundlegenden Erfahrungen, die von allen geteilt werden können.
+					Seit Sokrates vollzieht sich das Philosophieren im Zusammenhang mit grundlegenden Was- und Warum-Fragen. Was ist etwas eigentlich? Warum ist es so (und nicht anders)? So werden scheinbar alltägliche Gewissheiten dem Philosophierenden fragwürdig, und sie oder er sucht nach Antworten auf diese Fragen, nach Lösungen der Probleme, die in diesen Fragen zum Ausdruck kommen.
+					Der philosophische Zugang zur Welt muss erst erlernt werden. Dazu gehen die Philosophierenden von lebensweltlichen Problemen und Phänomenen aus, die jedem Menschen vertraut sind. Sie lernen, sich Begriffe, Vorstellungen und Wertsetzungen bewusstzumachen, die mit diesen Problemen und Phänomenen zusammenhängen, und ihre Plausibilität zu beurteilen. Schließlich versuchen sie mit sachgerechten Begriffen und überzeugenden Argumenten zu einer eigenen Beurteilung der Problematik zu gelangen. Auf diese Weise eröffnet sich den Philosophierenden die philosophische Perspektive, auch in Abgrenzung zu anderen möglichen Perspektiven (z. B. Mythos, Religion, Kunst).
+			</content>
+			<inhalt>
+				<id>C-Phil-3-1-1</id>
+				<title>Inhalte</title>		
+				<content>Wissen und Zweifeln</content>
+				<inhalt>
+					<id>C-Phil-3-1-1-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>Herkunft und Verständnis alltäglicher Begriffe</content>
+					<content>Lebensweisen von Philosophen</content>
+				<inhalt>
+					<id>C-Phil-3-1-1-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>sokratische Methodik (Maieutik/Dialogführung)</content>
+					<content>Wissen und Schein (Höhlengleichnis)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>	
+			<inhalt>
+				<id>C-Phil-3-1-2</id>
+				<title>Inhalte</title>
+				<content>Logik des Denkens</content>
+				<inhalt>
+					<id>C-Phil-3-1-2-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>Begründungen in alltäglichen sprachlichen Kontexten (Reden, Kommentare, Diskussionen)</content>
+				<inhalt>
+					<id>C-Phil-3-1-2-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>Argumentationsverfahren/Schlussformen (praktischer Syllogismus, induktives/deduktives Schließen, Argumentarten)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>
+			<inhalt>
+				<id>C-Phil-3-1-3</id>
+				<title>Inhalte</title>
+				<content>Philosophie und Gesellschaft</content>
+				<inhalt>
+					<id>C-Phil-3-1-3-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>Beispiele für den Zusammenhang von Ideensystemen und gesellschaftlichen Systemen (z. B. Liberalismus und Kapitalismus)</content>
+				<inhalt>
+					<id>C-Phil-3-1-3-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>philosophische Gesellschaftskritik (K. Marx, F. Nietzsche, M. Heidegger)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>	
+			</themainhalt>
+			<themainhalt>
+				<id>C-Phil-3-2</id>
+				<title>Mensch und Handeln</title>
+				<content>Die philosophische Untersuchung des menschlichen Handelns ist seit Sokrates eines der wesentlichen Aufgabenfelder der Philosophie. Im Kontext der antiken griechischen Stadtstaaten (polis) wird menschliches Handeln als ein von der Vernunft (logos) geleitetes Handeln verstanden, das sich im zwischenmenschlichen Bereich generell, vor allem aber im Handeln in und für die Gemeinschaft bewährt.
+						Die nähere Bestimmung dessen, was an einem solchen Handeln gut oder nicht gut ist, kann jedoch höchst unterschiedlich und wandelbar sein. Moralische Verhaltensregeln (Normen) und die Auffassungen darüber, was als moralisch gut oder erstrebenswert anzu-sehen ist (Werte), werden sowohl durch die gesellschaftliche und politische Ordnung einer Gemeinschaft geprägt als auch durch individuelle Erfahrungen. Normen und Werte sind somit eingebettet in einen konkreten, historisch gewordenen, gesellschaftlichen Kontext.
+						So stellen sich Fragen wie: Was ist moralisch bzw. unmoralisch? Wie werden moralische Normen begründet? Wie unterscheiden sich moralische von rechtlichen Normen? Was sind Werte, und wie werden sie begründet? Im Nachdenken über diese Fragen lernt der Philosophierende zu beurteilen, ob und warum und in welchen Zusammenhängen bestimmte moralische Normen oder Werte gut oder eben nicht gut sind.
+				</content>
+				<inhalt>
+					<id>C-Phil-3-2-1</id>
+					<title>Inhalte</title>		
+					<content>Normen und Werte</content>
+					<inhalt>
+						<id>C-Phil-3-2-1-1</id>
+						<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+						<content>Normen und Werte in der Erziehung</content>
+					<inhalt>
+						<id>C-Phil-3-2-1-2</id>
+						<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+						<content>philosophische Theorien des guten Lebens und des Glücks (Aristoteles, Epikur, Seneca)</content>
+					</inhalt>
+					</inhalt>
+			</inhalt>	
+			<inhalt>
+				<id>C-Phil-3-2-2</id>
+				<title>Inhalte</title>
+				<content>Moralität</content>
+				<inhalt>
+					<id>C-Phil-3-2-2-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>moralisches Handeln im Alltag</content>
+				<inhalt>
+					<id>C-Phil-3-2-2-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>Gefühl und Verstand im morali-schen Urteil (D. Hume, J. Locke, I. Kant)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>
+			<inhalt>
+				<id>C-Phil-3-2-3</id>
+				<title>Inhalte</title>
+				<content>Entstehung von Werten und Normen</content>
+				<inhalt>
+					<id>C-Phil-3-2-3-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>Werte und Normen im Kontext ihrer Entstehung</content>
+				<inhalt>
+					<id>C-Phil-3-2-3-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>Normen und Werte aus philosophischer und aus religiöser Sicht (I. Kant, M. Weber, P. Tillich)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>	
+			<inhalt>
+				<id>C-Phil-3-2-4</id>
+				<title>Inhalte</title>
+				<content>Gerechtigkeit</content>
+				<inhalt>
+					<id>C-Phil-3-2-4-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>Bedürfnis nach Gerechtigkeit - Gerechtigkeitsvorstellungen im Alltagsbewusstsein</content>
+				<inhalt>
+					<id>C-Phil-3-2-4-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>philosophische Theorien der Gerechtigkeit (Platon, Aristoteles, D. Hume, I. Kant, J. Bentham, J. Rawls)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>
+			<inhalt>
+				<id>C-Phil-3-2-5</id>
+				<title>Inhalte</title>
+				<content>aturrecht und Menschenrechte</content>
+				<inhalt>
+					<id>C-Phil-3-2-5-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>Menschenrechte und Grundgesetz</content>
+				<inhalt>
+					<id>C-Phil-3-2-5-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>philosophische Theorien des modernen Naturrechts (S. Pufendorf, J. Locke, J.-J. Rousseau, I. Kant)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>
+			</themainhalt>	
+			<themainhalt>
+			<id>C-Phil-3-3</id>
+			<title>Mensch und Kultur</title>
+			<content>Zur menschlichen Lebensform gehört wesentlich die Kultur. In ihren Ritualen und Symbolen, ihren Formen und Vorstellungen gestaltet der Mensch sein Leben und das Zusammenleben mit anderen Menschen.
+					Die Kultur beginnt schon im Verhältnis des Menschen zu seinem eigenen Körper, etwa wenn es um die Beschaffenheit des menschlichen Geistes oder um die eigene Auffassung von Tod, Liebe oder Sexualität geht. Die Kultur strukturiert in den Bereichen Arbeit und Spiel auch einen großen Teil menschlicher Tätigkeit und menschlicher Lebensziele. Viele sehen auch in der Kultur oder in einem ihrer Aspekte das, was den Menschen zum Menschen macht. So gehören auch die Vorstellungen des Menschen von sich selbst in ihren Bereich.
+					Kultur ist etwas Vielfältiges und Wandelbares. Sowohl eine historische Betrachtung als auch ein Querschnitt durch die Kulturen der heutigen Welt zeigt Unterschiede in Selbstverständnis, Weltbild, Wertvorstellungen und Alltagshandeln. Hinzu kommt, dass gerade in der heutigen, sich globalisierenden Welt Kulturen nicht statisch sind. Vielmehr verändern sie sich, sind in sich vielfältig und enthalten auch Widersprüchliches. Daher sind ein angemessenes Verständnis von Kultur sowie der Umgang mit dem Fremden und die transkulturelle Auseinandersetzung mit unterschiedlichen kulturellen Traditionen ein zentrales Feld für das Selbstverständnis des modernen Menschen.
+			</content>
+			<inhalt>
+				<id>C-Phil-3-3-1</id>
+				<title>Inhalte</title>		
+				<content>Tod und Sterben</content>
+				<inhalt>
+					<id>C-Phil-3-3-1-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>Verdrängung des Todes aus dem Alltag</content>
+				<inhalt>
+					<id>C-Phil-3-3-1-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>Umgang mit dem Tod (M. Montaigne, Epikur) Tod und Leib-Seele-Problem (Sokrates, T. Nagel)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>	
+			<inhalt>
+				<id>C-Phil-3-3-2</id>
+				<title>Inhalte</title>
+				<content>Arbeit und Spiel</content>
+				<inhalt>
+					<id>C-Phil-3-3-2-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>Arbeitswelt und Freizeitindustrie</content>
+				<inhalt>
+					<id>C-Phil-3-3-2-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>Arbeit und Spiel als Bestimmungen des Menschen (K. Marx, F. Schiller, J. Huizinga, H. Arendt)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>
+			<inhalt>
+				<id>C-Phil-3-3-3</id>
+				<title>Inhalte</title>
+				<content>Fremdheit</content>
+				<inhalt>
+					<id>C-Phil-3-3-3-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>kulturelle Konflikte der heutigen Gesellschaft (z. B. religiöse Lebensweisen, Umgang mit dem Körper)</content>
+				<inhalt>
+					<id>C-Phil-3-3-3-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>Theorien zu Fremdheit und Identität (J. Kristeva, S. P. Huntington, W. Welsch, A. Sen, C. Taylor)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>
+			<inhalt>
+				<id>C-Phil-3-3-4</id>
+				<title>Inhalte</title>
+				<content>Interkulturelles Philosophieren</content>
+				<inhalt>
+					<id>C-Phil-3-3-4-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>Veränderung der Lebenswelt durch die Globalisierung</content>
+				<inhalt>
+					<id>C-Phil-3-3-4-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>ostasiatische und europäische Denktraditionen</content>
+					<content>Das Ich im Buddhismus und in der neuzeitlichen Philosophie</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>
+			<inhalt>
+				<id>C-Phil-3-3-5</id>
+				<title>Inhalte</title>
+				<content>Sex und Gender</content>
+				<inhalt>
+					<id>C-Phil-3-3-5-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>Prägung sexueller Identität durch Gesellschaft und Erziehung</content>
+				<inhalt>
+					<id>C-Phil-3-3-5-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>feministische Philosophie (S. de Beauvoir, C. Gilligan)</content>
+					<content>Theorien zum Verhältnis von Gesellschaft und Körper (J. Butler, M. Foucault)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>		
+			</themainhalt>	
+			<themainhalt>
+			<id>C-Phil-3-4</id>
+			<title>3.4	Mensch und Natur</title>
+			<content>Das Verhältnis des Menschen zur Natur ist geprägt von seiner Lebensweise. Zunächst ist er selbst ein Teil der Natur. Sie hat ihn hervorgebracht und sie ist seine Lebensgrundlage. Nur in Abhängigkeit von ihr kann er sich am Leben halten.
+					Im Zuge der modernen gesellschaftlichen und technischen Entwicklung und ihrer Möglichkeiten zur Naturbeherrschung wird das Verhältnis des Menschen zur Natur jedoch problematisch. Einerseits eignet der moderne Mensch sich die Natur an, indem er sie mithilfe von Wissenschaft und Technik zur Kultur-Natur nach seinen Bedürfnissen umgestaltet. Andererseits ergeben sich gerade daraus langfristig für den modernen Menschen selbst existenzielle Probleme, da die Aneignung der Natur so weit gehen kann, dass der Mensch seine eigenen Lebensgrundlagen zerstört. Daher muss er in seinem eigenen Interesse umdenken. Er muss sein Naturverhältnis neu denken und Entwicklung nachhaltig gestalten, um sein Überleben zu sichern.
+					Eine philosophische Untersuchung des menschlichen Naturverhältnisses führt die Philosophierenden dazu, die in ihrer Gesellschaft geltenden Werte im Umgang mit der Natur auf ihre Gültigkeit hin zu befragen. Sie setzen sich mit verschiedenen möglichen Denkweisen auseinander und positionieren sich in einem Prozess, in dem es darum geht, dass die Gesellschaft als Ganze zu einem Umdenken in ihrem Verhältnis zur Natur kommt.
+			</content>
+			<inhalt>
+				<id>C-Phil-3-4-1</id>
+				<title>Inhalte</title>		
+				<content>Naturbegriff</content>
+				<inhalt>
+					<id>C-Phil-3-4-1-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>Naturbegriffe im Alltagsbewusst-sein</content>
+				<inhalt>
+					<id>C-Phil-3-4-1-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>Weltbild und Naturbegriff (Protagoras, F. Bacon, J. J. Rousseau, A. Schweitzer, P. Singer)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>	
+			<inhalt>
+				<id>C-Phil-3-4-2</id>
+				<title>Inhalte</title>
+				<content>Natur und Technik</content>
+				<inhalt>
+					<id>C-Phil-3-4-2-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>Technik im Alltag – Veränderung des Lebens durch Technik</content>
+				<inhalt>
+					<id>C-Phil-3-4-2-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>Technik und Naturbeherrschung (A. Gehlen, J. Habermas)</content>
+					<content>Herrschaft der Technik über den Menschen (M. Heidegger, G. Anders, H. Marcuse, D. Meadows)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>
+			<inhalt>
+				<id>C-Phil-3-4-3</id>
+				<title>Inhalte</title>
+				<content>Kultur-Natur</content>
+				<inhalt>
+					<id>C-Phil-3-4-3-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>Natur-Welten (Kulturlandschaften, Landschaftspark, Naturschutzpark)</content>
+				<inhalt>
+					<id>C-Phil-3-4-3-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>Von der Natur zur Kultur-Natur: die Veränderung der Natur durch den Menschen (K. Marx, J. Mittelstraß)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>
+			<inhalt>
+				<id>C-Phil-3-4-4</id>
+				<title>Inhalte</title>
+				<content>Naturwissenschaft und Verantwortung</content>
+				<inhalt>
+					<id>C-Phil-3-4-4-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>problematische Folgen naturwissenschaftlicher Entdeckungen</content>
+				<inhalt>
+					<id>C-Phil-3-4-4-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>Ethik der Naturforschung (A. Einstein, M. Born, J. Mittelstraß, R. Jungk, H. Jonas)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>		
+			</themainhalt>	
+			<themainhalt>
+			<id>C-Phil-3-5</id>
+			<title>Mensch und Kunst</title>
+			<content>Eine wesentliche Form des Menschen, sein Leben und die Welt, in der er lebt, zu begreifen, besteht darin, sie darzustellen. Sowohl der kreative Akt, eine Darstellung zu entwickeln, als auch die Reflexion, die von einer Darstellung ausgeht, sind Formen, in denen der Mensch über sich und seine Welt nachdenkt.
+					Die Basis solcher Darstellungen ist die Sinneswahrnehmung. In ihr entstehen die ersten Bilder, die der Mensch von seiner Welt hat. Fast so alt wie die Philosophie selbst ist allerdings auch der Zweifel daran, wie angemessen sich die Welt über die Sinneswahrnehmung erfassen lässt. Es stellt sich die Frage, ob das Bild, das die Sinne liefern, auch wahr ist.
+					Genauso wichtig wie die Frage danach, wie wahr das Bild ist, das die Wahrnehmung dem Menschen liefert, ist die Bewertung aller Wahrnehmungen und Darstellungen nach den Kategorien von Schönheit und Hässlichkeit. Jeder Mensch hat ein Schönheitsempfinden, aber die Kriterien dafür, was als schön oder hässlich empfunden wird, können sehr unterschiedlich sein und stets in Zweifel gezogen werden. Dazu kommt, dass diese Kriterien vom historisch-gesellschaftlichem Kontext geprägt werden und die Prädikate schön und hässlich auf sehr unterschiedliche Dinge angewendet werden können, z. B. auf eine Landschaft, ein Kunstwerk, das Äußere eines Menschen, aber auch auf sein Verhalten.
+					In besonders konzentrierter Form erfolgt eine Darstellung der Welt in der Kunst. In der modernen Kunst geschieht das zudem in einer sehr reflektierten Form, die auch die Frage nach der Darstellbarkeit der Wirklichkeit überhaupt mit einbezieht. Dementsprechend lässt sich der Versuch des Menschen, seine Welt darzustellen, besonders differenziert in Ausei-nandersetzung mit der Kunst reflektieren. Dazu gehört auch die Frage nach dem Sinn dieser Darstellungen, dem Sinn von Kunst überhaupt, der unterschiedlich beispielsweise in Erkenntnis, Weltveränderung, Unterhaltung oder psychischer Entlastung gesehen worden ist.
+					In der heutigen Zeit bilden mediale Darstellungen der Welt den zentralen Zugang zu ihr. Die Menge an medial vermittelten Informationen erzeugt das Gefühl, einen reichen Zugriff auf die menschliche Wirklichkeit zu haben. Doch es stellt sich die Frage, in welchem Maße, auf welche Weise und mit welchen Einschränkungen die Medien dem Menschen einen Zugriff auf seine Wirklichkeit gewähren.
+			</content>
+			<inhalt>
+				<id>C-Phil-3-5-1</id>
+				<title>Inhalte</title>		
+				<content>Wahrnehmung und Wirklichkeit</content>
+				<inhalt>
+					<id>C-Phil-3-5-1-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>Vorurteilsbildung in den Medien (z. B. Geschlechterstereotypien)</content>
+				<inhalt>
+					<id>C-Phil-3-5-1-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>Zusammenhang von Wahrnehmung und Wissen (Platon, J. Locke)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>	
+			<inhalt>
+				<id>C-Phil-3-5-2</id>
+				<title>Inhalte</title>
+				<content>Schönheit und Hässlichkeit</content>
+				<inhalt>
+					<id>C-Phil-3-5-2-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>modernes Schönheitsideal</content>
+					<content>Ästhetisierung der Konsumwelt</content>
+				<inhalt>
+					<id>C-Phil-3-5-2-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>Theorien der Schönheit (I. Kant, F. Schiller) und der Hässlichkeit (F. Nietzsche, F. Schlegel)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>
+			<inhalt>
+				<id>C-Phil-3-5-3</id>
+				<title>Inhalte</title>
+				<content>Der Sinn der Kunst</content>
+				<inhalt>
+					<id>C-Phil-3-5-3-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>Kulturindustrie/Hollywood Kunst als Statusobjekt/Habitus (P. Bourdieu)</content>
+				<inhalt>
+					<id>C-Phil-3-5-3-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>Autonomieästhetik (C. Baudelaire, F. Lyotard) versus engagierte Kunst (B. Brecht)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>
+			<inhalt>
+				<id>C-Phil-3-5-4</id>
+				<title>Inhalte</title>
+				<content>Medien und Wirklichkeit</content>
+				<inhalt>
+					<id>C-Phil-3-5-4-1</id>
+					<title>Mögliche Konkretisierungen - Gesellschaftliche Perspektive</title>
+					<content>soziale Medien</content>
+				<inhalt>
+					<id>C-Phil-3-5-4-2</id>
+					<title>Mögliche Konkretisierungen - Ideengeschichtliche Perspektive</title>
+					<content>Theorien zum medialen Zeitalter (M. McLuhan, N. Postman)</content>
+				</inhalt>
+				</inhalt>
+			</inhalt>		
+		</themainhalt>			
+	 </c3>	 
+</fach> 		
