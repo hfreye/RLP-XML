@@ -579,8 +579,11 @@ Im Wahlpflichtfach Astronomie nutzen und vertiefen die Schülerinnen und Schüle
  	  	  	  	  	 <level>E</level>
  	  	  	  	  	 <standard>
  	  	  	  	  	  	 <id>AS-K2-4-1-E-1</id>
- 	  	  	  	  	  	 <content>Einheitenvorsätze (z. B. Mega, Kilo, Milli) verwenden und Größenangaben umrechnen<content>
- 	  	  	  	  	  	 </content>Zusammenhänge zweier Größen auf Proportionalität prüfen</content>
+ 	  	  	  	  	  	 <content>Einheitenvorsätze (z. B. Mega, Kilo, Milli) verwenden und Größenangaben umrechnen</content>
+ 	  	  	  	  	 </standard>
+ 	  	  	  	  	 <standard>
+ 	  	  	  	  	 	<id>AS-K2-4-1-E-2</id>
+ 	  	  	  	  	  	 <content>Zusammenhänge zweier Größen auf Proportionalität prüfen</content>
  	  	  	  	  	 </standard>
  	  	  	  	 </stufe>
  	  	  	  	 <stufe>
@@ -1058,7 +1061,10 @@ Im Wahlpflichtfach Astronomie nutzen und vertiefen die Schülerinnen und Schüle
 	<c3>
 		<id>C-AS-3</id>
 		<title>Themen und Inhalte</title>
-		<vortext>In diesem Kapitel werden die Themenfelder und Inhalte für das Fach Astronomie dargestellt. Die Themenfelder 3.1 bis 3.7 sind didaktisch verbunden und ergeben eine sinnvolle und begründete Reihenfolge. Die Reihenfolge der Themenfelder und die Akzentuierung ihrer Inhalte können jedoch an die jeweilige Lerngruppe, an schulartspezifische Bedingungen und an konkrete Besonderheiten der Schule angepasst werden. Das Themenfeld 3.8 kann getrennt oder in die anderen Themenfelder integriert behandelt werden.
+		<vortext>
+		<id>C-AS-3-0</id>
+		<title></title>
+		<content>In diesem Kapitel werden die Themenfelder und Inhalte für das Fach Astronomie dargestellt. Die Themenfelder 3.1 bis 3.7 sind didaktisch verbunden und ergeben eine sinnvolle und begründete Reihenfolge. Die Reihenfolge der Themenfelder und die Akzentuierung ihrer Inhalte können jedoch an die jeweilige Lerngruppe, an schulartspezifische Bedingungen und an konkrete Besonderheiten der Schule angepasst werden. Das Themenfeld 3.8 kann getrennt oder in die anderen Themenfelder integriert behandelt werden.
 				Die Themenfelder und Inhalte bieten zahlreiche Möglichkeiten, Bezüge zu anderen Fächern und zu übergreifenden Themen herzustellen. Auf unterschiedlichen Niveaus können einzelne Aspekte erneut aufgegriffen und vertieft werden.
 				Um die gleichberechtigte Teilhabe am gesellschaftlichen Leben, unabhängig von ethnischer und kultureller Herkunft, sozialem und wirtschaftlichem Status, Geschlecht und sexueller Orientierung, Alter und Behinderung sowie Religion und Weltanschauung zu ermöglichen, ist es erforderlich, diese individuelle Vielfalt der Lernenden bei der Planung des Unterrichts zu berücksichtigen. Damit fördert der Unterricht die Stärken unterschiedlicher Persönlichkeiten und ermöglicht inklusives Lernen.
 				Die ausgewiesenen Themenfelder werden für Schülerinnen und Schüler, die wegen einer erheblichen und langandauernden Beeinträchtigung ihres Lern- und Leistungsverhaltens sonderpädagogische Förderung erhalten oder für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen  festgestellt wurde, schülerbezogen berücksichtigt. Sie werden entsprechend der Lebensbedeutsamkeit für die Schülerinnen und Schüler ausgewählt.
@@ -1086,6 +1092,7 @@ Im Wahlpflichtfach Astronomie nutzen und vertiefen die Schülerinnen und Schüle
 				3.6	Die Milchstraße – unsere Galaxis
 				3.7	Kosmologie
 				3.8	Themen und Methoden moderner astronomischer Forschung
+			</content>
 		</vortext>
 	<themainhalt>
 		<id>C-AS-3-1</id>
@@ -1144,7 +1151,7 @@ Im Wahlpflichtfach Astronomie nutzen und vertiefen die Schülerinnen und Schüle
 			</inhalt>
 	</themainhalt>
 	<themainhalt>
-		<id>>C-AS-3-2</id>
+		<id>C-AS-3-2</id>
 		<title>Orientierung am Sternenhimmel</title>
 		<content>Ausgehend von den Vorerfahrungen der Schülerinnen und Schüler, die teilweise im Sachunterricht erarbeitet wurden, stehen die Möglichkeiten der Orientierung am Sternhimmel im Mittelpunkt des Themenfeldes. Dabei geht es vor allem um die Unterscheidung von scheinbaren und realen Bewegungen in Abhängigkeit vom Bezugssystem. Der Besuch eines Planetariums bzw. die Nutzung von Planetariumssoftware sollten neben praktischen Himmelsbeobachtungen zu einer anschaulichen Auseinandersetzung mit den Inhalten beitragen.
 		</content>	
@@ -1208,7 +1215,7 @@ Im Wahlpflichtfach Astronomie nutzen und vertiefen die Schülerinnen und Schüle
 			</inhalt>
 		</themainhalt>
 		<themainhalt>
-			<id>>C-AS-3-3</id>
+			<id>C-AS-3-3</id>
 			<title>Das Sonnensystem – unsere kosmische Heimat</title>
 			<content>Ausgehend von einem Vergleich mit den anderen Planeten soll die Erde als einer von acht Planeten im Sonnensystem erkannt und in ihrer Einzigartigkeit verstanden werden. Dabei werden die verschiedenen Objektklassen charakterisiert und in das Sonnensystem eingeordnet. Weiterhin werden die Bewegungen und Größenverhältnisse im Sonnensystem herausgearbeitet.
 			</content>	
@@ -1280,7 +1287,7 @@ Im Wahlpflichtfach Astronomie nutzen und vertiefen die Schülerinnen und Schüle
 			</inhalt>
 		</themainhalt>
 		<themainhalt>
-			<id>>C-AS-3-4</id>
+			<id>C-AS-3-4</id>
 			<title>Die Sonne – unser Stern</title>
 			<content>Die zentrale und dominierende Rolle der Sonne für das Planetensystem als Energiequelle und als Grundlage des Lebens auf der Erde steht im Mittelpunkt der Betrachtung. Bei den für eine anschauliche Umsetzung wichtigen praktischen Sonnenbeobachtungen ist unbedingt eine Belehrung zu den Gefahren der Sonnenbeobachtung durchzuführen.</content>	
 			<inhalt>
@@ -1355,7 +1362,7 @@ Im Wahlpflichtfach Astronomie nutzen und vertiefen die Schülerinnen und Schüle
 			</inhalt>
 		</themainhalt>
 		<themainhalt>
-			<id>>C-AS-3-5</id>
+			<id>C-AS-3-5</id>
 			<title>Sterne</title>
 			<content>Die Untersuchungsmethoden, die im Themenfeld Sonne erarbeitet wurden, werden auf andere Sterne angewendet. Ein Vergleich der verschiedenen Eigenschaften führt zu verschiedenen Möglichkeiten, Sterne einzuteilen bzw. zu klassifizieren. Schließlich werden die grundlegenden Prozesse bei der Entstehung und Entwicklung von Sternen betrachtet.</content>	
 			<inhalt>
@@ -1420,7 +1427,7 @@ Im Wahlpflichtfach Astronomie nutzen und vertiefen die Schülerinnen und Schüle
 			</inhalt>
 		</themainhalt>
 		<themainhalt>
-			<id>>C-AS-3-6</id>
+			<id>C-AS-3-6</id>
 			<title>Die Milchstraße – unsere Galaxis</title>
 			<content>Die Sonne wird als einer von 200 Milliarden Sternen in unsere Galaxis, die Milchstraße, eingeordnet. Einen Schwerpunkt in diesem Themenfeld bildet der Aufbau und die Dynamik der Milchstraße. Die Existenz Dunkler Materie wird mit einfachen Hypothesen qualitativ erarbeitet.
 				Der Vergleich mit anderen Galaxien führt zu einer Einteilung in verschiedene Galaxienarten ausgehend von deren Morphologie.</content>	
@@ -1484,7 +1491,7 @@ Im Wahlpflichtfach Astronomie nutzen und vertiefen die Schülerinnen und Schüle
 			</inhalt>
 		</themainhalt>
 		<themainhalt>
-			<id>>C-AS-3-7</id>
+			<id>C-AS-3-7</id>
 			<title>Kosmologie</title>
 			<content>Das Ziel des Themenfeldes ist die Vermittlung eines naturwissenschaftlichen Weltbildes über die Entstehung, den Aufbau und die Entwicklung des Universums. Dabei ist die räumliche und zeitliche Einordnung der Erde in das Universum ein entscheidender Aspekt, der die zuvor behandelten Themenfelder vernetzt.</content>	
 			<inhalt>
@@ -1541,8 +1548,8 @@ Im Wahlpflichtfach Astronomie nutzen und vertiefen die Schülerinnen und Schüle
 				<content>–	HUBBLE-Konstante</content>
 				<content>–	Expansion und Dunkle Energie</content>
 				<content>–	Urknalltheorie</content>
-			<inhalt>
 			</inhalt>
+			<inhalt>
 				<id>C-AS-3-7-6</id>
 				<title>Beispiele für Differenzierungsmöglichkeiten</title>
 				<content>–	HUBBLE-Beziehung</content>
