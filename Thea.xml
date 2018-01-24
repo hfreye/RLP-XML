@@ -2,6 +2,7 @@
 <fach xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 	xmlns="http://bsbb.eu" 
 	xsi:schemaLocation="http://bsbb.eu fachtype.xsd">
+
 	<id>C-Thea</id>
 	<title>Theater</title>
 	<c1>
@@ -705,8 +706,7 @@ Am Ende der Jahrgangsstufe 10 wird das entsprechende Übergangs- bzw. Abschlussn
  	  	</area>
  	 </c2>
  	 <c3>
- 	 	<id>C-Thea-3</id>
- 	 	<title>Themen und Inhalte</title>
+ 	 <title>Themen und Inhalte</title>
 		<vortext>Im Folgenden werden Themenfelder und Inhalte für den strukturierten, projektorientierten Forschungs-, Findungs- und Erarbeitungsprozess im Theaterunterricht dargestellt. Die vorliegende Gestaltung berücksichtigt Theater als Wahlpflichtfach und die möglichen Organisationsformen für seine Umsetzung.
 Fachkonferenz und Fachlehrkräfte können mit dem Fachteil Theater – entsprechend dem Schulprofil und der schulspezifischen Organisation des Wahlpflichtfachs – den Unterricht und die Rolle des Faches im schulinternen Curriculum planen und gestalten.
 Bei der Planung und Konkretisierung werden neben den vorgegebenen Kompetenzen und Inhalten die Interessen der Schülerinnen und Schüler, das Schulprogramm, Gegebenheiten der Schule, Kooperationen mit Theatern, Schulpartnerschaften, Wettbewerbe etc. einbezogen. 

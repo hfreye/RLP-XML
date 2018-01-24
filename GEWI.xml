@@ -1,126 +1,134 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <fach xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 	xmlns="http://bsbb.eu" 
 	xsi:schemaLocation="http://bsbb.eu fachtype.xsd">
 
-	<id>C-GEWI</id>
+	<id>C-GEWIWI</id>
 	<title>Gesellschaftswissenschaften</title>
 	<c1>
 		<id>C-GEWI-1</id>
-		<title>Kompetenzentwicklung im Fach Gesellschaftswissenschaften</title>
+		<title>Kompetenzentwicklung im Fach Gesellschaftswissenschaften 5/6</title>
 		<subtext>
 			<id>C-GEWI-1-1</id>
 			<title>Ziele des Unterrichts</title>
-			<content>Im Unterricht des Faches Gesellschaftswissenschaften 5/6 befassen sich die Schülerinnen und Schüler mit vielfältigen Formen gesellschaftlichen Zusammenlebens von Menschen in verschiedenen Räumen der Erde, in Vergangenheit, Gegenwart und Zukunft.
+			<content>
+			Im Unterricht des Faches Gesellschaftswissenschaften 5/6 befassen sich die Schülerinnen und Schüler mit vielfältigen Formen gesellschaftlichen Zusammenlebens von Menschen in verschiedenen Räumen der Erde, in Vergangenheit, Gegenwart und Zukunft.
 In der Auseinandersetzung mit ausgewählten Inhalten beschäftigen sie sich mit Phänomenen der Geografie, der Geschichte und der Politik. Dabei wird ein Verständnis über Zusammenhänge im Raum befördert sowie ein Geschichts- und politisch-demokratisches Bewusstsein entwickelt.
-Insofern führt das Fach Gesellschaftswissenschaften 5/6 in die Perspektiven der drei anschließenden Fächer Geografie, Geschichte und Politische Bildung ein und die Schülerinnen und Schüler erarbeiten sich fachspezifische Zugangs-, Denk- und Arbeitsweisen. 
+Insofern führt das Fach Gesellschaftswissenschaften 5/6 in die Perspektiven der drei 
+anschließenden Fächer Geografie, Geschichte und Politische Bildung ein und die Schülerinnen und Schüler erarbeiten sich fachspezifische Zugangs-, Denk- und Arbeitsweisen. 
 Sie gehen Schritte zur Entfaltung ihrer persönlichen Identität und lernen Möglichkeiten zur reflektierten und verantwortlichen Teilhabe am gesellschaftlichen Leben und in der Demokratie kennen. Sie gewinnen räumliche und historische Orientierung und entwickeln die Bereitschaft für ein verantwortungsvolles Verhalten. 
 Als Antwort auf die gestiegene Komplexität der Realität bietet das integrative Fach Gesellschaftswissenschaften den Schülerinnen und Schülern die Chance, ausgewählten Herausforderungen im Spannungsfeld zwischen historisch geprägten, lokalen, regionalen und globalen Bedingungen perspektivenübergreifend zu begegnen. Die vernetzende Betrachtungsweise exemplarischer Frage- und Themenstellungen führt die Schülerinnen und Schüler an mehrdimensionales Denken heran sowie zur Erkenntnis, dass dies zur Lösung komplexer Probleme beiträgt.
-Durch die entwicklungsangemessene Themenauswahl und eine an den Lernenden orientierte Aufbereitung lernen sie Herausforderungen des 21. Jahrhunderts kennen, um sich mit diesen in überschaubaren Ausschnitten auseinanderzusetzen. Das beinhaltet z. B. Lernangebote zu gesellschaftlicher Pluralität und zu Ausgrenzungen, zur kulturellen und religiösen Vielfalt und dem Agieren verschiedener Interessengruppen, zum Zusammenwachsen Europas, zu Migrationsbewegungen und zur Globalisierung, zu Ressourcenkonflikten und zur nachhaltigen Entwicklung, zu Konfliktregelungen und -lösungen im persönlichen Umfeld wie im weltweiten Bereich, zu Kinderrechten und deren Verletzung sowie zum Umgang mit digitalen Medien. Dabei setzt der Lernprozess, wenn möglich, im Konkreten, Nahen und Vertrauten an und bezieht dann zunehmend Abstrakta und Fremdes mit ein.
+Durch die entwicklungsangemessene Themenauswahl und eine an den Lernenden orientierte Aufbereitung lernen sie Herausforderungen des 21. Jahrhunderts kennen, um sich mit diesen in überschaubaren Ausschnitten auseinanderzusetzen. Das beinhaltet z. B. Lernangebote zu gesellschaftlicher Pluralität und zu Ausgrenzungen, zur kulturellen und religiösen Vielfalt und dem Agieren verschiedener Interessengruppen, zum Zusammenwachsen Europas, zu Migrationsbewegungen und zur Globalisierung, zu Ressourcenkonflikten und zur nachhaltigen Entwicklung, zu Konfliktregelungen und -lösungen im persönlichen Umfeld wie im weltweiten Bereich, zu Kinderrechten und deren Verletzung sowie zum 
+Umgang mit digitalen Medien. Dabei setzt der Lernprozess, wenn möglich, im Konkreten, Nahen und Vertrauten an und bezieht dann zunehmend Abstrakta und Fremdes mit ein.
 			</content>
-			</subtext>
+		</subtext>
 		<subtext>
 			<id>C-GEWI-1-2</id>
 			<title>Fachbezogene Kompetenzen</title>
-			<content>Das Kompetenzmodell des Faches nimmt zwischen den gesellschaftswissenschaftlichen Anteilen des Sachunterrichts (Jahrgangsstufen 1 bis 4) und den Anschlussfächern Geografie, Geschichte und Politische Bildung (ab Jahrgangsstufe 7) eine Brückenfunktion ein. Das Kompetenzmodell integriert Anforderungen der drei gesellschaftswissenschaftlichen Fächer und weist in der Ausformulierung der Standards Anschlüsse in beide Richtungen auf.
-			
-					Während der Bereich Erschließen fachspezifisch unterteilt ist, werden in den Bereichen Methoden anwenden und Urteilen für die Gesellschaftswissenschaften insgesamt geltende Kompetenzen formuliert. Dabei gibt es auch zwischen den Kompetenzfeldern Überschneidungen. 
-					Insgesamt dient die Kompetenzentwicklung der Orientierung in Raum, Zeit und Gesellschaft.
-					Die Kompetenzbereiche werden durch Leitfragen für den Unterricht ergänzt (vgl. Tabelle S. 6), die einerseits die Kompetenzentwicklung unterstützen und andererseits ein verbindendes Element bei der Erschließung der gesellschaftswissenschaftlichen Phänomene bilden.
-					
-					Erschließen – geografisch
-					Die Schülerinnen und Schüler gewinnen in Auseinandersetzung mit fachspezifischen Medien geografisch relevante Kenntnisse und Fähigkeiten. Sie erarbeiten sich topografisches Orien-tierungswissen (z. B. Kontinente und Gewässer, Grenzen und Verbindungswege), um sich in Orientierungsrastern (z. B. Planquadrate) wie auch im Realraum (z. B. Umgebung, Ortsteil, Stadt) zurechtzufinden. Dazu sind Grundkenntnisse in der Atlas- und Kartenarbeit (z. B. Atlasführerschein) ebenso wichtig wie das Lesen von Weg- und Fahrplänen sowie von Klimadiagrammen. Geografische Methoden werden im Nahraum der Schule kennengelernt und angewendet (z. B. Kartierungen).
-					Die Schülerinnen und Schüler untersuchen darüber hinaus Unterschiede in der Nutzung und Gestaltung von Räumen in verschiedenen Gesellschaften. Sie erfassen, wie natürliche und gestaltete Räume und gesellschaftliches Leben einander bedingen.
-					
-					Erschließen – historisch
-					Die Schülerinnen und Schüler erschließen sich in der Auseinandersetzung mit historischen Quellen und Darstellungen Vergangenheit und Geschichte. Sie untersuchen menschliches Handeln in der Zeit, ordnen es in Zeitverläufe ein und benennen Dauer und Wandel. Dabei lernen sie an konkreten historischen Inhalten den geschichtswissenschaftlichen Erkenntnisprozess kennen (historische Frage, Untersuchung des ausgewählten Gegenstands, Beantwortung der Frage, Orientierung und Nutzen für das eigene Leben).
-					In der Auseinandersetzung mit unterschiedlichen Quellen und Darstellungen stellen sie fest, dass Geschichte immer wieder neu und unterschiedlich gedeutet und erzählt wird (Konstruktcharakter). Sie üben sich auch selbst darin, eigene Darstellungen sinnhaft und gestützt auf historischen Tatsachen zu verfassen.
-					An ausgewählten Beispielen erproben sie, Darstellungen zu analysieren und werden so für einen bewussten Umgang mit Ausdrucksformen der Geschichtskultur sensibilisiert.
-					
-					Erschließen – politisch
-					Die Schülerinnen und Schüler üben sich darin, an anschaulichen Beispielen Problemlagen, Entscheidungen und Kontroversen zu identifizieren und zu analysieren. Dabei setzen sie sich mit den beteiligten Akteuren, Perspektiven, Interessen und Werten auseinander. Durch beispielhafte Untersuchungen verschiedener Perspektiven vollziehen sie politische Positionen anderer nach und gewinnen Einblicke in gesellschaftliche Vielfalt. 
-					In der Auseinandersetzung mit konkreten Fällen erkennen die Lernenden wesentliche Kategorien der politischen Bildung wie z. B. Kinderrechte, Demokratie und Frieden.
-					An für sie relevanten Problemen beschreiben die Schülerinnen und Schüler vor dem Hintergrund pluraler Interessen Möglichkeiten für politisches Handeln. Sie erproben, z. B. simulativ, Chancen zur eigenen Teilnahme an demokratischen Prozessen, insbesondere im schulischen Raum.
-					
-					Methoden anwenden
-					Die Schülerinnen und Schüler entwickeln eigene Fragen, üben sich darin, begründete Vermutungen zu formulieren und sammeln zu Fragen und Themen relevante Informationen. Sie werten aus und präsentieren Ergebnisse mit angemessenen und variablen Verfahren. Sie nutzen hierfür vielfältige Informationsquellen (z. B. historische Quellen, Karten und Medien aller Art einschließlich des Internets) wie auch unterschiedliche Orte und Räume (z. B. Ausstellungen, Museen und den Realraum). Das Lernen mit und über Medien trägt auch zu einer kritischen Medienbildung bei. Gesellschaftswissenschaftliche Methodenkompetenz zeigt sich darüber hinaus in der Fähigkeit und Fertigkeit, sich Arbeitstechniken anzueignen, Gespräche zu führen, eine angemessene Fachsprache zu benutzen sowie Lernprozesse partizipativ zu gestalten (vgl. auch die Tabelle zu den Methoden und Arbeitsweisen, S. 7).
-					
-					Urteilen
-					Die Schülerinnen und Schüler üben sich darin, persönliche und reflektierte Werturteile in Abgrenzung zu Vorausurteilen über ausgewählte Sachverhalte und Probleme zu bilden und diese zu begründen. In der Urteilsbildung beziehen sie sich auf persönliche und gesellschaftliche Wertmaßstäbe. In der kommunikativen Auseinandersetzung mit anderen Urteilen nehmen sie unterschiedliche Interessen und Perspektiven wahr und üben sich in der Perspektivübernahme sowie im sachlichen Vertreten eigener Positionen. Dabei gewinnen sie Orientierung für ihr Handeln in der Gegenwart sowie für individuelle Zukunftsperspektiven.					
-					Auch die kritische Auseinandersetzung mit Informationen und die Bewertung eigener Lernwege gehört in den Bereich des Urteilens mit hinein.</content>
-			<subtext>
-				<id>C-GEWI-1-2-1</id>
-				<title>Leitfragen für den Unterricht</title>
-					<content>
-						Erschließen
-						­	Was waren und sind geografische, historische und politische Rahmenbedingungen menschlichen Handelns?
-						­	Durch welche Ereignisse, Strukturen und Prozesse wurde und wird ein Zusammenleben in Vergangenheit und Gegenwart geprägt?
-						­	Wie wirken sich Zeit- und Standortgebundenheit auf menschliches Handeln aus?
-						­	Wie wurde und wird gesellschaftliche Teilhabe in Vergangenheit und Gegenwart ermöglicht bzw. verhindert?
-						­	Welche förderlichen und welche nachteiligen Auswirkungen hat menschliches Handeln auf den Lebensraum und die Lebensverhältnisse in Gegenwart und Vergangenheit?
-						­	Inwiefern waren und sind die Menschen früher und heute mit ähnlichen oder sich unterscheidenden Herausforderungen konfrontiert?
-						­	Durch welche Wertmaßstäbe, durch welches Denken und welche Strategien und Handlungsspielräume war und ist der Umgang mit den Herausforderungen gekennzeichnet?
-						­	Welche Wechselwirkungen bestehen zwischen geografischen Gegebenheiten, gesellschaftlich-politischen Bedingungen und historischen Voraussetzungen?
-					
-						Methoden anwenden
-						­	Wie gelangen wir zu unserem Wissen über gesellschaftswissenschaftliche Zusammenhänge der Vergangenheit und der Gegenwart? (Auf welchen Wegen, mit welchen Informationsquellen, mit welchen Methoden, mit welchen Arbeitstechniken?)
-						­	Welche Fachmethoden und Arbeitsweisen sind für unsere Recherchen sinnvoll und nützlich?
-						­	Wie können wir unser Wissen über gesellschaftliche Themen adressatengerecht aufbereiten und präsentieren?
-						
-						Urteilen
-						­	Wie und mit welchen Wertmaßstäben beurteilen wir die untersuchten Sachverhalte?
-						­	Wie urteilen andere und warum gibt es unterschiedliche Urteile?
-						­	Was haben die Themen und Probleme mit uns persönlich zu tun?	
-						­	Wo und wie können wir teilhaben und uns einmischen?
-						­	Wie bewerten wir unseren Lernweg?
-					</content>
-				</subtext>
-				<subtext>
-				<id>C-GEWI-1-2-2</id>
-				<title>Fachmethoden und Arbeitsweisen für den Unterricht</title>
-					<content>Im Fach Gesellschaftswissenschaften 5/6 finden vielfältige (Fach-)Methoden und Arbeitsweisen Anwendung. Die nachfolgende Auflistung zeigt Möglichkeiten auf, die in den Standards und Unterrichtsanregungen aufgegriffen und die durch weitere Methoden ergänzt werden können.					
-							mit dem Atlas und dem Globus arbeiten
-							eine Befragung durchführen, ein Gespräch führen (z. B. mit Sachkundigen oder Zeitzeuginnen und Zeitzeugen)
-							Darstellungen (z. B. Bilder, Texte, Filme) beschreiben, untersuchen, auswerten und beurteilen
-							eine Erkundung durchführen
-							eine Geschichtserzählung verfassen
-							Grafiken (z. B. ein Diagramm) und Schaubilder auswerten
-							Karten lesen und ergänzen, Kartenskizzen zeichnen
-							eine Mindmap anfertigen
-							Messungen, Zählungen durchführen
-							ein Museum, eine Ausstellung erkunden
-							Modelle beschreiben und bauen und Experimente auswerten
-							ein Portfolio anlegen
-							eine Präsentation, ein Referat mit (analogen und digitalen) Medien anfertigen und darbieten
-							eine Pro- und Kontradebatte durchführen
-							mit historischen Quellen (Bild-, Sach- und Textquellen) arbeiten
-							ein Rollenspiel durchführen
-							eine Recherche durchführen
-							Sachtexte auswerten
-							eine Tabelle auswerten und anlegen
-							ein Werturteil bilden
-							mit dem Zeitfries arbeiten	
-					</content>
-				</subtext>
-			</subtext>
-		</c1>	
-		<c2>
-		<vorwort>
+			<content>
+			Das Kompetenzmodell des Faches nimmt zwischen den gesellschaftswissenschaftlichen Anteilen des Sachunterrichts (Jahrgangsstufen 1 bis 4) und den Anschlussfächern Geografie, Geschichte und Politische Bildung (ab Jahrgangsstufe 7) eine Brückenfunktion ein. Das Kompetenzmodell integriert Anforderungen der drei gesellschaftswissenschaftlichen Fächer und weist in der Ausformulierung der Standards Anschlüsse in beide Richtungen auf.
+
+Während der Bereich Erschließen fachspezifisch unterteilt ist, werden in den Bereichen 
+Methoden anwenden und Urteilen für die Gesellschaftswissenschaften insgesamt geltende Kompetenzen formuliert. Dabei gibt es auch zwischen den Kompetenzfeldern Überschneidungen. 
+Insgesamt dient die Kompetenzentwicklung der Orientierung in Raum, Zeit und Gesellschaft.
+Die Kompetenzbereiche werden durch Leitfragen für den Unterricht ergänzt (vgl. Tabelle S. 6), die einerseits die Kompetenzentwicklung unterstützen und andererseits ein verbindendes Element bei der Erschließung der gesellschaftswissenschaftlichen Phänomene bilden.
+Erschließen – geografisch
+Die Schülerinnen und Schüler gewinnen in Auseinandersetzung mit fachspezifischen Medien geografisch relevante Kenntnisse und Fähigkeiten. Sie erarbeiten sich topografisches Orientierungswissen (z. B. Kontinente und Gewässer, Grenzen und Verbindungswege), um sich in Orientierungsrastern (z. B. Planquadrate) wie auch im Realraum (z. B. Umgebung, Ortsteil, Stadt) zurechtzufinden. Dazu sind Grundkenntnisse in der Atlas- und Kartenarbeit 
+(z. B. Atlasführerschein) ebenso wichtig wie das Lesen von Weg- und Fahrplänen sowie von 
+Klimadiagrammen. Geografische Methoden werden im Nahraum der Schule kennengelernt und angewendet (z. B. Kartierungen). 
+Die Schülerinnen und Schüler untersuchen darüber hinaus Unterschiede in der Nutzung und Gestaltung von Räumen in verschiedenen Gesellschaften. Sie erfassen, wie natürliche und gestaltete Räume und gesellschaftliches Leben einander bedingen.
+Erschließen – historisch
+Die Schülerinnen und Schüler erschließen sich in der Auseinandersetzung mit historischen Quellen und Darstellungen Vergangenheit und Geschichte. Sie untersuchen menschliches Handeln in der Zeit, ordnen es in Zeitverläufe ein und benennen Dauer und Wandel. Dabei 
+lernen sie an konkreten historischen Inhalten den geschichtswissenschaftlichen Erkenntnisprozess kennen (historische Frage, Untersuchung des ausgewählten Gegenstands, Beantwortung der Frage, Orientierung und Nutzen für das eigene Leben).
+In der Auseinandersetzung mit unterschiedlichen Quellen und Darstellungen stellen sie fest, dass Geschichte immer wieder neu und unterschiedlich gedeutet und erzählt wird (Konstruktcharakter). Sie üben sich auch selbst darin, eigene Darstellungen sinnhaft und 
+gestützt auf historischen Tatsachen zu verfassen. 
+An ausgewählten Beispielen erproben sie, Darstellungen zu analysieren und werden so für 
+einen bewussten Umgang mit Ausdrucksformen der Geschichtskultur sensibilisiert.
+Erschließen – politisch
+Die Schülerinnen und Schüler üben sich darin, an anschaulichen Beispielen Problemlagen, Entscheidungen und Kontroversen zu identifizieren und zu analysieren. Dabei setzen sie sich mit den beteiligten Akteuren, Perspektiven, Interessen und Werten auseinander. Durch beispielhafte Untersuchungen verschiedener Perspektiven vollziehen sie politische Positionen anderer nach und gewinnen Einblicke in gesellschaftliche Vielfalt. 
+In der Auseinandersetzung mit konkreten Fällen erkennen die Lernenden wesentliche Kategorien der politischen Bildung wie z. B. Kinderrechte, Demokratie und Frieden.
+An für sie relevanten Problemen beschreiben die Schülerinnen und Schüler vor dem Hintergrund pluraler Interessen Möglichkeiten für politisches Handeln. Sie erproben, z. B. simulativ, Chancen zur eigenen Teilnahme an demokratischen Prozessen, insbesondere im schulischen Raum.
+Methoden anwenden 
+Die Schülerinnen und Schüler entwickeln eigene Fragen, üben sich darin, begründete Vermutungen zu formulieren und sammeln zu Fragen und Themen relevante Informationen. Sie werten aus und präsentieren Ergebnisse mit angemessenen und variablen Verfahren. Sie nutzen hierfür vielfältige Informationsquellen (z. B. historische Quellen, Karten und Medien aller Art einschließlich des Internets) wie auch unterschiedliche Orte und Räume (z. B. Ausstellungen, Museen und den Realraum). Das Lernen mit und über Medien trägt auch zu einer kritischen Medienbildung bei. Gesellschaftswissenschaftliche Methodenkompetenz zeigt sich darüber hinaus in der Fähigkeit und Fertigkeit, sich Arbeitstechniken anzueignen, Gespräche zu führen, eine angemessene Fachsprache zu benutzen sowie Lernprozesse partizipativ zu gestalten (vgl. auch die Tabelle zu den Methoden und Arbeitsweisen, S. 7).
+Urteilen
+Die Schülerinnen und Schüler üben sich darin, persönliche und reflektierte Werturteile in 
+Abgrenzung zu Vorausurteilen über ausgewählte Sachverhalte und Probleme zu bilden und diese zu begründen. In der Urteilsbildung beziehen sie sich auf persönliche und gesellschaftliche Wertmaßstäbe. In der kommunikativen Auseinandersetzung mit anderen Urteilen 
+nehmen sie unterschiedliche Interessen und Perspektiven wahr und üben sich in der 
+Perspektivübernahme sowie im sachlichen Vertreten eigener Positionen. Dabei gewinnen sie Orientierung für ihr Handeln in der Gegenwart sowie für individuelle Zukunftsperspektiven.
+Auch die kritische Auseinandersetzung mit Informationen und die Bewertung eigener Lernwege gehört in den Bereich des Urteilens mit hinein.
+1.2.1 Leitfragen für den Unterricht
+Erschließen
+Was waren und sind geografische, historische und politische Rahmenbedingungen menschlichen Handelns? 
+Durch welche Ereignisse, Strukturen und Prozesse wurde und wird ein 
+Zusammenleben in Vergangenheit und Gegenwart geprägt? 
+Wie wirken sich Zeit- und Standortgebundenheit auf menschliches Handeln aus?
+Wie wurde und wird gesellschaftliche Teilhabe in Vergangenheit und Gegenwart ermöglicht bzw. verhindert?
+Welche förderlichen und welche nachteiligen Auswirkungen hat menschliches Handeln auf den Lebensraum und die Lebensverhältnisse in Gegenwart und Vergangenheit?
+Inwiefern waren und sind die Menschen früher und heute mit ähnlichen oder sich unterscheidenden Herausforderungen konfrontiert?
+Durch welche Wertmaßstäbe, durch welches Denken und welche Strategien und Handlungsspielräume war und ist der Umgang mit den Herausforderungen gekennzeichnet?
+Welche Wechselwirkungen bestehen zwischen geografischen Gegebenheiten, gesellschaftlich-politischen Bedingungen und historischen Voraussetzungen?
+Methoden anwenden
+Wie gelangen wir zu unserem Wissen über gesellschaftswissenschaftliche Zusammenhänge der Vergangenheit und der Gegenwart? (Auf welchen Wegen, mit welchen Informationsquellen, mit welchen Methoden, mit welchen Arbeitstechniken?)
+Welche Fachmethoden und Arbeitsweisen sind für unsere Recherchen sinnvoll und 
+nützlich?
+Wie können wir unser Wissen über gesellschaftliche Themen adressatengerecht 
+aufbereiten und präsentieren?
+Urteilen
+Wie und mit welchen Wertmaßstäben beurteilen wir die untersuchten Sachverhalte?
+Wie urteilen andere und warum gibt es unterschiedliche Urteile?
+Was haben die Themen und Probleme mit uns persönlich zu tun? 
+Wo und wie können wir teilhaben und uns einmischen?
+Wie bewerten wir unseren Lernweg?
+1.2.2 Fachmethoden und Arbeitsweisen für den Unterricht
+Im Fach Gesellschaftswissenschaften 5/6 finden vielfältige (Fach-)Methoden und Arbeitsweisen Anwendung. Die nachfolgende Auflistung zeigt Möglichkeiten auf, die in den Standards und Unterrichtsanregungen aufgegriffen und die durch weitere Methoden ergänzt werden 
+können.
+
+mit dem Atlas und dem Globus arbeiten
+eine Befragung durchführen, ein Gespräch führen (z. B. mit Sachkundigen oder Zeitzeuginnen und Zeitzeugen)
+Darstellungen (z. B. Bilder, Texte, Filme) beschreiben, untersuchen, auswerten und 
+beurteilen
+eine Erkundung durchführen 
+eine Geschichtserzählung verfassen
+Grafiken (z. B. ein Diagramm) und Schaubilder auswerten
+Karten lesen und ergänzen, Kartenskizzen zeichnen
+eine Mindmap anfertigen
+Messungen, Zählungen durchführen
+ein Museum, eine Ausstellung erkunden
+Modelle beschreiben und bauen und Experimente auswerten
+ein Portfolio anlegen
+eine Präsentation, ein Referat mit (analogen und digitalen) Medien anfertigen und 
+darbieten
+eine Pro- und Kontradebatte durchführen
+mit historischen Quellen (Bild-, Sach- und Textquellen) arbeiten
+ein Rollenspiel durchführen
+eine Recherche durchführen
+Sachtexte auswerten
+eine Tabelle auswerten und anlegen
+ein Werturteil bilden
+mit dem Zeitfries arbeiten
+			</content>
+		</subtext>
+	</c1>
+	<c2>
+	<vorwort>
 		<id>C-GEWI-2-BE</id>
 		<title>Regelungen für das Land Berlin</title>
 		<content>
-Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+		Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen 
+Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
 Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
 Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
 Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
-Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren Niveaus vorbereiten können.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren 
+Niveaus vorbereiten können.
 Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler.
 Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
 Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
 Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungs­vorschriften.
 Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
 Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
-Für Grundschulen und Grundstufen der Gemeinschaftsschulen sowie an weiterführenden Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Für Grundschulen und Grundstufen der Gemeinschaftsschulen sowie an 
+weiterführenden Schulen mit den Jahrgangsstufen 5 und 6 gilt:
 Schulanfangsphase 	Niveaustufen A, B, in Teilen C
 Jahrgangsstufen	3 – 4	Niveaustufe C, in Teilen D
 Jahrgangsstufe	5	Niveaustufen C – D 
@@ -128,13 +136,14 @@ Jahrgangsstufe	6	Niveaustufe D, in Teilen E
 
 Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen 
 werden auf folgenden Niveaustufen unterrichtet:
-Jahrgangsstufe 		3	Niveaustufe B, in Teilen C
-Jahrgangsstufen		4 – 6	Niveaustufe C
+Jahrgangsstufe 	3	Niveaustufe B, in Teilen C
+Jahrgangsstufen	4 – 6	Niveaustufe C
 Jahrgangsstufen 	7 – 8	Niveaustufe D
 Jahrgangsstufen 	9 – 10	Niveaustufen D – E
 
 Zur Vorbereitung auf den der Berufsbildungsreife gleichwertigen Abschluss werden in den Jahrgangsstufen 9 und 10 auch Angebote auf dem Niveau F unterbreitet.
-Je nach dem Grad der Lernbeeinträchtigung erreichen die Schülerinnen und Schüler die gesetzten Standards nicht im vollen Umfang bzw. nicht zum vorgegebenen Zeitpunkt. Dem trägt eine individuelle Ausrichtung des Unterrichtsangebots Rechnung.
+Je nach dem Grad der Lernbeeinträchtigung erreichen die Schülerinnen und Schüler die 
+gesetzten Standards nicht im vollen Umfang bzw. nicht zum vorgegebenen Zeitpunkt. Dem trägt eine individuelle Ausrichtung des Unterrichtsangebots Rechnung.
 Für die Integrierte Sekundarschule gilt:
 grundlegendes Niveau:
 Jahrgangsstufen	7 – 8	Niveaustufen D – E, in Teilen F
@@ -150,50 +159,56 @@ Jahrgangsstufe	8	Niveaustufe F
 Jahrgangsstufe	9	Niveaustufe G
 Jahrgangsstufe	10	Niveaustufe H
 
-Die folgende Darstellung veranschaulicht die im Berliner Schulsystem in den Jahrgangsstufen 1 bis 10 möglichen Lerngeschwindigkeiten im Überblick und zeigt die Durchlässigkeit des Schulsystems. Sie bietet zudem eine Grundlage für eine systematische Schullaufbahnberatung. In der Darstellung ist auch erkennbar, welche Anforderungen Schülerinnen und Schüler erfüllen müssen, die die Voraussetzungen für den Erwerb der Berufsbildungsreife erst am Ende der Jahrgangsstufe 10 erreichen. Dieses Niveau können auch Schülerinnen und Schüler mit dem sonderpädagogischen Förderschwerpunkt Lernen erreichen, wenn sie den der Berufsbildungsreife gleichwerten Abschluss anstreben. 
+Die folgende Darstellung veranschaulicht die im Berliner Schulsystem in den Jahrgangs-stufen 1 bis 10 möglichen Lerngeschwindigkeiten im Überblick und zeigt die Durchlässigkeit des Schulsystems. Sie bietet zudem eine Grundlage für eine systematische Schullaufbahnberatung. In der Darstellung ist auch erkennbar, welche Anforderungen Schülerinnen und Schüler erfüllen müssen, die die Voraussetzungen für den Erwerb der Berufsbildungsreife erst am Ende der Jahrgangsstufe 10 erreichen. Dieses Niveau können auch Schülerinnen und Schüler mit dem sonderpädagogischen Förderschwerpunkt Lernen erreichen, wenn sie den der Berufsbildungsreife gleichwerten Abschluss anstreben. 
 
 Der Unterricht im Fach Gesellschaftswissenschaften 5/6 beginnt in der Jahrgangsstufe 5 auf dem Standardniveau C/D. Schülerinnen und Schüler haben in der Schule bereits vielfältige Vorerfahrungen gewonnen, die sie im Unterricht in neu einsetzenden Fächern nutzen können. Um Niveaustufe E (in Teilen) in den Unterricht zu integrieren, kann diese den Teilen C des Rahmenlehrplanes für die sich anschließenden Fächer Geografie, Geschichte und Politische Bildung in der Sekundarstufe I jeweils im Kapitel 2 entnommen werden.
-</content>
+		</content>
 	</vorwort>
 	<vorwort>
 		<id>C-GEWI-2-BB</id>
-		<title>Regelungen für das Land Brandeburg</title>
+		<title>Regelungen für das Land Brandenburg</title>
 		<content>
-Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
+Die Standards beschreiben auf unterschiedlichen Niveaustufen, welche Kompetenzen 
+Schülerinnen und Schüler im Laufe ihrer Schulzeit im Fachunterricht erwerben, je nachdem, über welche Lernvoraussetzungen sie verfügen und welchen Abschluss bzw. Übergang sie zu welchem Zeitpunkt anstreben. Die Standards orientieren sich am Kompetenzmodell und an den fachlichen Unterrichtszielen. Sie berücksichtigen die Anforderungen der Lebens- und zukünftigen Arbeitswelt der Lernenden.
 Die im Kapitel 3 aufgeführten Themen und Inhalte können auf unterschiedlichen Niveaustufen angeboten werden.
-Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchtigungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
+Schülerinnen und Schüler mit Sinnes- und Körperbehinderungen und anderen Beeinträchti­gungen erhalten behindertenspezifisch aufbereitete Lernangebote, die es ihnen ermöglichen, den gewählten Bildungsgang erfolgreich abzuschließen.
 Bei den Standards handelt es sich um Regelstandards. Sie beschreiben, welche Voraus­setzungen die Lernenden in den Jahrgangsstufen 1 bis 10 erfüllen müssen, um Übergänge erfolgreich zu bewältigen bzw. Abschlüsse zu erreichen. Sie stellen in ihren jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler im Laufe ihres individuellen Lernens dar, sodass Standards höherer Niveaustufen darunterliegende einschließen.
-Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren Niveaus vorbereiten können.
+Ein differenziertes Unterrichtsangebot stellt sicher, dass die Schülerinnen und Schüler ihren individuellen Voraussetzungen entsprechend lernen können. Das Unterrichtsangebot berücksichtigt in den verschiedenen Jahrgangsstufen die jeweils gesetzten Anforderungen. Es ist Aufgabe der Lehrkräfte, die Schülerinnen und Schüler dabei zu unterstützen, die in den Standards formulierten Anforderungen zu verstehen, damit sie sich unter Anleitung und mit steigendem Alter zunehmend selbstständig auf das Erreichen des jeweils nächsthöheren 
+Niveaus vorbereiten können.
 Die Anforderungen werden auf acht Stufen ausgewiesen, die durch die Buchstaben A bis H gekennzeichnet sind. Die Niveaustufen beschreiben die bildungsgangbezogenen Anforde­rungen an die Schülerinnen und Schüler. 
 Für die Lehrkräfte verdeutlichen sie in Kombination mit den für ihre Schulstufe und Schulform gültigen Rechtsvorschriften, auf welchem Anforderungsniveau sie in der jeweiligen Jahrgangsstufe Unterrichtsangebote unterbreiten müssen.
 Die Standards werden als Basis für die Feststellung des Lern- und Leistungsstands und der darauf aufbauenden individuellen Förderung und Lernberatung genutzt. Dafür werden differenzierte Aufgabenstellungen und Unterrichtsmaterialien verwendet, die die individuellen Lernvoraussetzungen und Lerngeschwindigkeiten berücksichtigen und dafür passgerechte Angebote bereitstellen.
-Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungsvorschriften.
+Die Leistungsbewertung erfolgt auf der Grundlage der geltenden Rechts- und Verwaltungs­vorschriften.
 Im schulinternen Curriculum dienen die Standards als Grundlage für die Festlegungen zur Qualitätsentwicklung und -sicherung im Unterricht.
 Die im Teil B formulierten Standards für die Sprach- und Medienkompetenz der Schülerinnen und Schüler werden in den fachlichen Standards in diesem Kapitel berücksichtigt. Der Beitrag der Fächer zur Förderung von Sprach- und Medienkompetenz wird im Rahmen des schulinternen Curriculums abgestimmt.
-
 Grundschule 
-Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang der Grundschule Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden können.
-Für Grundschulen und für Primarstufen von Ober- und Gesamtschulen sowie für weiterführende allgemeinbildende Schulen mit den Jahrgangsstufen 5 und 6 gilt:
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang der Grundschule Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen 
+erreicht werden können.
+Für Grundschulen und für Primarstufen von Ober- und Gesamtschulen sowie 
+für weiterführende allgemeinbildende Schulen mit den Jahrgangsstufen 5 und 6 gilt:
 Jahrgangsstufen	1 – 2	Niveaustufen A und B
 Jahrgangsstufen	3 – 4	Niveaustufe C
 Jahrgangsstufen	5 – 6	Niveaustufe D 
 
 Förderschwerpunkt Lernen
 Die folgende tabellarische Darstellung beschreibt, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel im Bildungsgang zum Erwerb des Abschlusses der Schule mit dem sonderpädagogischen Förderschwerpunkt Lernen Niveaustufen durchlaufen bzw. erreichen. Die Lehrkräfte stellen in den jeweiligen Niveaustufen steigende Anforderungen an die Schülerinnen und Schüler, sodass Standards höherer Niveaustufen von ihnen erreicht werden können.
-Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen werden auf folgenden Niveaustufen unterrichtet:
+Schülerinnen und Schüler mit dem sonderpädagogischen Förderbedarf Lernen 
+werden auf folgenden Niveaustufen unterrichtet:
 Jahrgangsstufen	1 – 2	Niveaustufen A und B 
 Jahrgangsstufe	3	Niveaustufe B
 Jahrgangsstufen	4 – 6	Niveaustufe C
 Jahrgangsstufen	7 – 8	Niveaustufe D
 Jahrgangsstufen	9 – 10	Niveaustufen D und E
 
-Schülerinnen und Schüler, für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen festgestellt worden ist und die dem Bildungsgang Förderschule Lernen gemäß § 30 BbgSchulG zugeordnet sind, erhalten im Unterricht Lernangebote, die ein Erreichen der Niveaustufen A, B, C, D und E ermöglichen sollen. Hierbei sind die individuellen Lernvoraussetzungen der Schülerinnen und Schüler zu berücksichtigen.
+Schülerinnen und Schüler, für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen festgestellt worden ist und die dem Bildungsgang Förderschule Lernen gemäß 
+§ 30 BbgSchulG zugeordnet sind, erhalten im Unterricht Lernangebote, die ein Erreichen der Niveaustufen A, B, C, D und E ermöglichen sollen. Hierbei sind die individuellen Lernvoraussetzungen der Schülerinnen und Schüler zu berücksichtigen.
 In diesem Bildungsgang wird mit der Niveaustufe E das gemeinsame Bildungsziel am Ende der Jahrgangsstufe 10 abgebildet.
 Zur Vorbereitung auf den der Berufsbildungsreife entsprechenden Abschluss wird in den Jahrgangsstufen 9 und 10 schülerbezogen auch auf dem Niveau F unterrichtet.
-
 Schulen der Sekundarstufe I
-Ausgehend vom grundlegenden, erweiterten und vertieften Anspruchsniveau unterscheidet sich der Unterricht in der Sekundarstufe I in der Art der Erschließung, der Vertiefung und dem Grad der Komplexität der zugrunde gelegten Themen und Inhalte. Bei der inneren Organisation in Klassen und Kursen ist dies zu berücksichtigen.
-Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel in den verschiedenen Bildungsgängen der Sekundarstufe I Niveaustufen durchlaufen bzw. erreichen. Der Unterricht enthält immer auch Angebote auf der jeweils höheren Niveaustufe.
+Ausgehend vom grundlegenden, erweiterten und vertieften Anspruchsniveau unterscheidet sich der Unterricht in der Sekundarstufe I in der Art der Erschließung, der Vertiefung und dem Grad der Komplexität der zugrunde gelegten Themen und Inhalte. Bei der inneren 
+Organisation in Klassen und Kursen ist dies zu berücksichtigen.
+Die folgenden tabellarischen Darstellungen beschreiben, zu welchen Zeitpunkten Schülerinnen und Schüler in der Regel in den verschiedenen Bildungsgängen der Sekundarstufe I 
+Niveaustufen durchlaufen bzw. erreichen. Der Unterricht enthält immer auch Angebote auf der jeweils höheren Niveaustufe.
 Am Unterricht in Fächern ohne äußere Fachleistungsdifferenzierung nehmen Schülerinnen und Schüler mit unterschiedlichen Lernvoraussetzungen teil. Die dem Unterricht zugrunde gelegte Niveaustufe ist daher so zu wählen, dass sie für alle Lernenden eine optimale Förderung ermöglicht.
 
 a) Oberschule
@@ -212,7 +227,8 @@ Jahrgangsstufe	10	Niveaustufe G
 In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass sowohl eine grundlegende als auch eine erweiterte Bildung vermittelt wird. Hierbei sind die für die Oberschule dargestellten Niveaustufen zugrunde zu legen.
 
 b) Gesamtschule
-Im G-Kurs der Gesamtschule wird zur Sicherung der Durchlässigkeit zum E-Kurs neben der grundlegenden Bildung auch die erweiterte Bildung vermittelt. Im E-Kurs der Gesamtschule wird zur Sicherung der Durchlässigkeit zum G-Kurs neben der vertieften Bildung auch die erweiterte Bildung vermittelt.
+Im G-Kurs der Gesamtschule wird zur Sicherung der Durchlässigkeit zum E-Kurs neben der grundlegenden Bildung auch die erweiterte Bildung vermittelt. Im E-Kurs der 
+Gesamtschule wird zur Sicherung der Durchlässigkeit zum G-Kurs neben der vertieften Bildung auch die erweiterte Bildung vermittelt.
 In Fächern ohne äußere Fachleistungsdifferenzierung ist der Unterricht so zu gestalten, dass eine grundlegende, erweiterte und vertiefte Bildung vermittelt wird. Hierbei sind die für die Oberschule und das Gymnasium dargestellten Niveaustufen zugrunde zu legen.
 
 c) Gymnasium
@@ -222,11 +238,11 @@ Jahrgangsstufe	8	Niveaustufe F
 Jahrgangsstufe	9	Niveaustufe G
 Jahrgangsstufe	10	Niveaustufe H
 
-Der Unterricht im Fach Gesellschaftswissenschaften 5/6 beginnt in der Jahrgangsstufe 5 auf dem Standardniveau C/D. Schülerinnen und Schüler haben in der Schule bereits vielfältige Vorerfahrungen gewonnen, die sie im Unterricht in neu einsetzenden Fächern nutzen können. Um Niveaustufe E (in Teilen) in den Unterricht zu integrieren, kann diese den Teilen C des Rahmenlehrplanes für die sich anschließenden Fächer Geografie, Geschichte und Po-litische Bildung in der Sekundarstufe I jeweils im Kapitel 2 entnommen werden.			
-	</content>
+Der Unterricht im Fach Gesellschaftswissenschaften 5/6 beginnt in der Jahrgangsstufe 5 auf dem Standardniveau C/D. Schülerinnen und Schüler haben in der Schule bereits vielfältige Vorerfahrungen gewonnen, die sie im Unterricht in neu einsetzenden Fächern nutzen können. Um Niveaustufe E (in Teilen) in den Unterricht zu integrieren, kann diese den Teilen C des Rahmenlehrplanes für die sich anschließenden Fächer Geografie, Geschichte und Politische Bildung in der Sekundarstufe I jeweils im Kapitel 2 entnommen werden.		
+		</content>
 	</vorwort>
-		<area>
-			 <id>GEWI-K1</id>
+ 	 <area>
+ 	  	 <id>GEWI-K1</id>
  	  	 <name>Erschließen, geografisch</name>
  	  	 <competence>
  	  	  	 <id>GEWI-K1-1</id>
@@ -254,7 +270,7 @@ Der Unterricht im Fach Gesellschaftswissenschaften 5/6 beginnt in der Jahrgangss
  	  	  	  	  	 <id>GEWI-K1-1-D-2</id>
  	  	  	  	  	 <content>Kartenskizzen anfertigen</content>
  	  	  	  	 </standard>
- 	  	  	  </stufe>
+ 	  	  	 </stufe>
  	  	 </competence>
  	  	 <competence>
  	  	  	 <id>GEWI-K1-2</id>
@@ -264,7 +280,7 @@ Der Unterricht im Fach Gesellschaftswissenschaften 5/6 beginnt in der Jahrgangss
  	  	  	  	 <level>C</level>
  	  	  	  	 <standard>
  	  	  	  	  	 <id>GEWI-K1-2-C-1</id>
- 	  	  	  	  	 <content>sich nach Vorgaben (z.B. mit einer Wegbeschreibung) im Realraum (z.B. in der Schulumgebung) bewegen</content>
+ 	  	  	  	  	 <content>sich nach Vorgaben (z. B. mit einer Wegbeschreibung) im Realraum (z. B. in der Schulumgebung) bewegen</content>
  	  	  	  	 </standard>
  	  	  	 </stufe>
  	  	  	 <stufe>
@@ -284,7 +300,8 @@ Der Unterricht im Fach Gesellschaftswissenschaften 5/6 beginnt in der Jahrgangss
  	  	  	  	 <level>C</level>
  	  	  	  	 <standard>
  	  	  	  	  	 <id>GEWI-K1-3-C-1</id>
- 	  	  	  	  	 <content>an einem Beispiel mittels Informationsquellen (z.B. Bild, Text) Merkmale (z.B. Oberfläche) und die Nutzung eines Raumes (z.B. Landwirtschaft) benennen</content>
+ 	  	  	  	  	 <content>an einem Beispiel mittels Informationsquellen (z.&amp;nbsp;B. Bild, Text) Merkmale (z.&amp;nbsp;B. Oberfläche) und die
+Nutzung eines Raumes (z.&amp;nbsp;B. Landwirtschaft) benennen</content>
  	  	  	  	 </standard>
  	  	  	 </stufe>
  	  	  	 <stufe>
@@ -292,7 +309,7 @@ Der Unterricht im Fach Gesellschaftswissenschaften 5/6 beginnt in der Jahrgangss
  	  	  	  	 <level>D</level>
  	  	  	  	 <standard>
  	  	  	  	  	 <id>GEWI-K1-3-D-1</id>
- 	  	  	  	  	 <content>mithilfe von Informationsquellen (z.B. Karten, Diagramme) die Nutzung und Gestaltung eines Raumes beschreiben</content>
+ 	  	  	  	  	 <content>mithilfe von Informationsquellen (z. B. Karten, Diagramme) die Nutzung und Gestaltung eines Raumes beschreiben</content>
  	  	  	  	 </standard>
  	  	  	 </stufe>
  	  	 </competence>
@@ -320,9 +337,11 @@ Der Unterricht im Fach Gesellschaftswissenschaften 5/6 beginnt in der Jahrgangss
  	  	  	  	 </standard>
  	  	  	  	 <standard>
  	  	  	  	  	 <id>GEWI-K1-4-D-2</id>
- 	  	  	  	  	 <content>Einflüsse des Menschen (z. B. künstliche Seengebiete) auf den Naturraum und seine Verantwortung bei dessen Nutzung beschreiben</content>
+ 	  	  	  	  	 <content>Einflüsse des Menschen (z. B. künstliche Seengebiete) auf den Naturraum und seine Verantwortung bei dessen Nutzung beschreiben
+
+</content>
  	  	  	  	 </standard>
- 	  	  	</stufe>
+ 	  	  	 </stufe>
  	  	 </competence>
  	 </area>
  	 <area>
@@ -402,7 +421,7 @@ Der Unterricht im Fach Gesellschaftswissenschaften 5/6 beginnt in der Jahrgangss
  	  	  	  	  	 <id>GEWI-K2-3-D-3</id>
  	  	  	  	  	 <content>die Bedeutsamkeit historischer Veränderungen für das Leben in der Gegenwart erläutern</content>
  	  	  	  	 </standard>
- 	  	  	  </stufe>
+ 	  	  	 </stufe>
  	  	 </competence>
  	  	 <competence>
  	  	  	 <id>GEWI-K2-4</id>
@@ -584,7 +603,8 @@ Der Unterricht im Fach Gesellschaftswissenschaften 5/6 beginnt in der Jahrgangss
  	  	  	  	 </standard>
  	  	  	  	 <standard>
  	  	  	  	  	 <id>GEWI-K4-2-C-2</id>
- 	  	  	  	  	 <content>Informationen aus unterschiedlichen Medien und Materialien herausfinden</content>
+ 	  	  	  	  	 <content>Informationen aus unterschiedlichen Medien und Materialien herausfinden
+</content>
  	  	  	  	 </standard>
  	  	  	 </stufe>
  	  	  	 <stufe>
@@ -598,7 +618,7 @@ Der Unterricht im Fach Gesellschaftswissenschaften 5/6 beginnt in der Jahrgangss
  	  	  	  	  	 <id>GEWI-K4-2-D-2</id>
  	  	  	  	  	 <content>Informationen an verschiedenen Orten (z. B. Museum, Realraum) und mit verschiedenen Methoden (z. B. Befragung, Erkundung) erarbeiten</content>
  	  	  	  	 </standard>
- 	  	  	</stufe>
+ 	  	  	 </stufe>
  	  	 </competence>
  	  	 <competence>
  	  	  	 <id>GEWI-K4-3</id>
@@ -656,9 +676,10 @@ Der Unterricht im Fach Gesellschaftswissenschaften 5/6 beginnt in der Jahrgangss
  	  	  	  	 </standard>
  	  	  	  	 <standard>
  	  	  	  	  	 <id>GEWI-K4-5-CD-2</id>
- 	  	  	  	  	 <content>Fachbegriffe in ihrem Kontext anwenden</content>
+ 	  	  	  	  	 <content>Fachbegriffe in ihrem Kontext anwenden
+</content>
  	  	  	  	 </standard>
- 	  	  	</stufe>
+ 	  	  	 </stufe>
  	  	 </competence>
  	  	 <competence>
  	  	  	 <id>GEWI-K4-6</id>
@@ -682,7 +703,7 @@ Der Unterricht im Fach Gesellschaftswissenschaften 5/6 beginnt in der Jahrgangss
  	  	  	  	  	 <id>GEWI-K4-6-CD-4</id>
  	  	  	  	  	 <content>gemeinsam Ergebnisse überprüfen und optimieren</content>
  	  	  	  	 </standard>
- 	  	  	</stufe>
+ 	  	  	 </stufe>
  	  	 </competence>
  	 </area>
  	 <area>
@@ -772,923 +793,960 @@ Der Unterricht im Fach Gesellschaftswissenschaften 5/6 beginnt in der Jahrgangss
  	  	  	  	 </standard>
  	  	  	 </stufe>
  	  	 </competence>
-		</area>		
-		</c2>
-		<c3>
-			<id>C-GEWI-3</id>
-			<title>Themen und Inhalte</title>
-			<vortext>Die Themenfelder, Themen und Inhalte gelten für die Doppeljahrgangsstufe 5/6 und können auf verschiedenen Niveaustufen bearbeitet werden. Sie werden abhängig von der Entwicklung und den Kompetenzen der Lernenden im Unterricht erarbeitet und vertieft. 
-Die ausgewiesenen Themenfelder werden für Schülerinnen und Schüler, die wegen einer erheblichen und langandauernden Beeinträchtigung ihres Lern- und Leistungsverhaltens sonderpädagogische Förderung erhalten oder für die sonderpädagogischer Förderbedarf im Förderschwerpunkt Lernen  festgestellt wurde, schülerbezogen berücksichtigt. Sie werden entsprechend der Lebensbedeutsamkeit für die Schülerinnen und Schüler ausgewählt.
-Die Auswahl und der Aufbau der Themenfelder und Themen setzen die Ziele des integrativen Faches um. In Verknüpfungen zum vorausgegangenen Sachunterricht werden thematische Schwerpunkte aufgegriffen, die hier erweitert sowie durch neue Themen ergänzt werden. Zugleich werden mit Blick auf die sich anschließenden Fächer (Geografie, Geschichte und Politische Bildung) wichtige inhaltliche Grundlagen gelegt. Insgesamt bieten sich dadurch über die Jahrgangsstufen 1 bis 10 Chancen zu spiralcurricularem Arbeiten. 
-Leitend für die Konzeption der Themenfelder und Themen ist vor allem die Frage nach einer Bedeutsamkeit für die Gegenwart und Zukunft der Lernenden.
-Themenfelder, Themen und Inhalte bieten zudem Möglichkeiten, Bezüge zu anderen Fächern und zu übergreifenden Themen herzustellen.
-Die Auswahl und der Aufbau der Themenfelder und Themen setzen die Ziele des integrativen Faches um. In Verknüpfungen zum vorausgegangenen Sachunterricht werden thematische Schwerpunkte aufgegriffen, die hier erweitert sowie durch neue Themen ergänzt werden. Zugleich werden mit Blick auf die sich anschließenden Fächer (Geografie, Geschichte und Politische Bildung) wichtige inhaltliche Grundlagen gelegt. Insgesamt bieten sich dadurch über die Jahrgangsstufen 1 bis 10 Chancen zu spiralcurricularem Arbeiten. 
-Leitend für die Konzeption der Themenfelder und Themen ist vor allem die Frage nach einer Bedeutsamkeit für die Gegenwart und Zukunft der Lernenden.
-Themenfelder, Themen und Inhalte bieten zudem Möglichkeiten, Bezüge zu anderen Fächern und zu übergreifenden Themen herzustellen.
-
-Verbindlichkeit: 
-Die sechs obligatorischen Themenfelder und die darin aufgeführten Themen sind verbindlich zu bearbeiten. Die Reihenfolge, in der sie im Unterricht Berücksichtigung finden, ist wählbar.
-Aus dem Bereich der sechs wahlobligatorischen Themenfelder ist pro Schuljahr mindestens eines zu wählen.
-Den Themen sind Inhalte zugeordnet, aus denen Schwerpunkte, wenn möglich gemeinsam mit den Lernenden, auszuwählen sind. Weitere bedeutsame Inhalte können ergänzt werden. 
-In der Spalte Unterrichtsanregungen finden sich Vorschläge zur Umsetzung der Themen und Inhalte im Unterricht und für Projekte sowie für Möglichkeiten der Differenzierung; sie haben anregenden, jedoch keinen obligatorischen Charakter.
-
-Kompetenzorientierung:
-Themen und Inhalte bilden die Grundlage für differenzierte Aufga-benstellungen und eine Materialauswahl, die eine Herausforderung für das gesamte Leistungsspektrum einer Lerngruppe darstellt. Die Lernenden erhalten Gelegenheit, ihre Fähigkeiten und Fertigkeiten im Umgang mit den Unterrichtsgegenständen allein und in der Zusammenarbeit mit anderen unter Beweis zu stellen. Sie erfahren dabei, in welchem Maße sie die gesetzten Standards erreichen bzw. was sie tun können, um ihre Kompetenzen zu vertiefen und zu erweitern.
-
-Schulinterne Planung:
-Es besteht die Möglichkeit, zusätzliche Themenfelder aus dem Wahlpflichtbereich auszuwählen oder auch eigene zu entwickeln. Hier sollen die Fähigkeiten und Interessen der Schülerinnen und Schüler sowie die im Folgenden benannten Kriterien einbezogen werden. Auch das Schulprogramm, besondere Gegebenheiten im schulischen Umfeld sowie aktuelle Anlässe und auch Wettbewerbe können in diesem Zusammenhang bedeutsam sein. Die Auswahl der wahlobligatorischen Themenfelder sollte im kommunikativen Austausch der Lehrkräfte in den schulischen Gremien erfolgen.
-
-Kriterien für die Umsetzung bzw. die Generierung von Themenfeldern:
-­	Die Teildisziplinen (Geografie, Geschichte, Politische Bildung) sind integriert.
-­	In jedem Themenfeld können alle Kompetenzen zur Erreichung der Standards eingeübt und weiterentwickelt werden.
-­	Jedes Themenfeld kann mit einer oder mehreren Leitfragen verknüpft werden (vgl. Tabelle S. 6).
-­	Fachmethoden und Arbeitsweisen werden in die Bearbeitung der Themenfelder einbezogen und im Laufe der Doppeljahrgangsstufe wiederholt und vertieft (vgl. Tabelle S. 7).
-­	Für alle Themenfelder werden, jeweils schwerpunktmäßig, die unterrichtsleitenden Prinzipien beachtet (vgl. S. 24 – 25).
-
-Fachliche Arbeitsweisen:
-Das Verständnis für die gesellschaftswissenschaftlichen Inhalte und Zusammenhänge sollte durch viele Visualisierungen und wenn möglich durch Modelle unterstützt werden. Für die geografische Orientierung ist beständige Kartenarbeit, für die historische Einordnung der Themen und Inhalte ist eine fortgesetzte und intensive Arbeit mit einem Zeitfries (beschriftet und bebildert) zwingend.		
-
-Unterrichtsleitende Prinzipien:
-
-Die Schülerinnen und Schüler üben sich im selbstständigen Denken und Urteilen und setzen sich mit Urteilen und unterschiedlichen Perspektiven anderer auseinander. Dabei übt die Lehrkraft keine Dominanz im Sinne erwünschter Meinungen aus (Pluralität und Überwältigungsverbot).
-Gesellschaftliche Probleme der Gegenwart, aktuelle Konflikte und Kontroversen werden im Unterricht, der Entwicklung und dem Verständnis der Lernenden angemessen, thematisiert und reflektiert, sodass auch widersprüchliche Sichtweisen und Interessen deutlich werden (Kontroversität). Auch die unterschiedlichen Beweggründe, Ziele und Perspektiven Beteiligter in der Vergangenheit, wie sie in historischen Quellen zum Ausdruck kommen, werden im Unterricht wahrgenommen und untersucht (Multiperspektivität).
-Die Auswahl der Lerngegenstände im Fach Gesellschaftswissenschaften berücksichtigt gegenwärtige gesellschaftliche Probleme und ist an der Lebens- und Erfahrungswelt der Schülerinnen und Schüler orientiert (Gegenwarts- und Lebensweltbezug).
-Für die Auswahl und Profilierung der Lerngegenstände ist leitend, dass sie an authentischen und situativen Problemsituationen anknüpfen (z. B. Widersprüche und Diskrepanzen). Im Unterricht werden Leitfragen aufgegriffen bzw. entwickelt, die ein Strukturierungsmerkmal für den Unterricht bilden (Problem- und Leitfragenorientierung).
-Die Auseinandersetzung mit den Lerninhalten erfolgt exemplarisch. So können Lernende grundlegende und verallgemeinerbare Einsichten und Erkenntnisse gewinnen, die sie auf andere Probleme, Fragen und Themen übertragen können (Exemplarität).
-Im Lernprozess sammeln die Schülerinnen und Schüler Erfahrungen mit verschiedenen Methoden, die meist auch handlungsorientiert sind (z. B. simulatives Handeln, Befragungen) und erarbeiten vielfältige Produkte (z. B. Spielszenen, Leserbriefe, Kartenzeichnungen, einfache historische Darstellungen/Narrationen). Auf diese Weise entstehen vielgestaltige Ergebnisse und Formate für Entscheidungs-, Gestaltungs- und Präsentationsprozesse (Handlungs- und Produktorientierung).
-Die individuelle Vielfalt der Lernenden im Hinblick auf persönliche, soziokulturelle und ethnische Hintergründe sowie unterschiedliche Lebensweisen sind ein wichtiger Ausgangspunkt für die Planung des Unterrichts, die an das Leben der Schülerinnen und Schüler anknüpft. Die gleichberechtigte Teilhabe am gesellschaftlichen Leben, unabhängig von ethnischer und kultureller Herkunft, sozialem und wirtschaftlichem Status, Geschlecht und sexueller Orien-tierung, Alter und Behinderung sowie Religion und Weltanschauung, bildet sowohl die Basis für die Unterrichtspraxis als auch einen zentralen Inhalt im Sinne des inklusiven Lernens. Inklusives Lernen respektiert Vielfalt, untersucht aber auch Mechanismen und Ausdrucksformen der Konstruktion von Ungleichheit. In einem inklusiven Fachunterricht können sich alle Lernenden einer Gruppe gemeinsam mit denselben Themenfeldern und Themen beschäftigen. Zugleich können sie auch binnendifferenziert arbeiten, z. B. durch aufgegliederte und ausgewählte Inhalte für Teilgruppen, durch unterschiedliche Komplexität und den Grad des Abstraktionsniveaus in den Inhalten, den Materialien und Aufgabenstellungen (Berücksichtigung von Vielfalt und inklusives Lernen).
-Der Fachunterricht öffnet den Blick der Lernenden auf für sie bisher unbekannte Probleme und andersartige Erfahrungen sowie Perspektiven in Zeit und Raum, die wiederum den Blick auf das Eigene und Vertraute erweitern. Im Unterrichtszusammenhang reflektieren die 
-Lernenden ihre Erfahrungen als Angehörige unterschiedlicher Gruppen (z. B. private oder regionale) und gewinnen darüber hinaus ein Selbstverständnis als Weltbürgerin bzw. Weltbürger (Identitätsbildung und Berücksichtigung von Inter- bzw. Transkulturalität).
-In ihrem Alltag begegnen Schülerinnen und Schüler vielfältigen Deutungen der Vergangenheit in der sie umgebenden Geschichtskultur, z. B. in Form von Filmen, Comics, Kinder- und Jugendliteratur, Spielen und Werbung mit historischem Bezug, Feiertagen, aber auch in Ausstellungen oder Museen (Berücksichtigung von Geschichtskultur). Ebenso sind sie mit aktu-ellen gesellschaftspolitischen Fragestellungen und Problemen über die Medien (z. B. in Filmberichten, Nachrichten oder Internetbeiträgen) sowie über Diskussionen in sozialen Netzwerken oder auch in ihrem direkten Lebensumfeld konfrontiert (Berücksichtigung von Gesellschaftspolitik). Im Unterricht werden solche Deutungen und Diskussionen mit dem Ziel thematisiert, sie kritisch reflektieren und einordnen zu können. Zugleich werden die Schülerinnen und Schüler an Möglichkeiten der Teilhabe und Übernahme von Verantwortung (vor allem im schulischen Raum) herangeführt und lernen, diese wahrzunehmen (Partizipation).
-Um sich im gesellschaftlichen und kulturellen Leben orientieren zu können, gehören auch die Berücksichtigung relevanter historischer wie gegenwärtiger Persönlichkeiten, Ereignisse und Strukturen oder Phänomene der Lokal- und Regionalgeschichte, insbesondere aus aktuellem Anlass, in den gesellschaftswissenschaftlichen Unterricht (kulturelle Orientierung und Nahraumbezug).
-Außerschulische Lernorte wie Ausstellungen und Museen sowie geografisch, historisch oder politisch bedeutsame Orte erweitern den schulischen Lernraum und geben wertvolle, den Unterricht ergänzende Impulse. Gleiches gilt für Gespräche mit Sachkundigen sowie mit Zeitzeuginnen und Zeitzeugen. Besuche, Gespräche oder Befragungen werden von den Lernenden mit eigenen Aktivitäten unterstützt und in Verknüpfung mit den Unterrichtsthemen intensiv vor- sowie nachbereitet (Berücksichtigung von außerschulischen Lernorten).
-Projektorientiertes Arbeiten unterstützt die Wirksamkeit individuellen Lernens. Auch die Teil-nahme an Wettbewerben unterstützt die Kompetenzen und Ziele des gesellschaftswissenschaftlichen Unterrichts. Dieser setzt hierfür Impulse und nutzt deren Möglichkeiten (Projektorientierung und Wettbewerbe).
-Anhand konkreter Beispiele und Zusammenhänge lernen die Schülerinnen und Schüler Fachbegriffe kennen und üben sich in ihrer Anwendung. Die Fachsprache als Teil der Bildungssprache ermöglicht ihnen die aktive Teilhabe am politischen, gesellschaftlichen und kulturellen Leben (Berücksichtigung der Fachsprache).
-
-Übersicht über die Themenfelder
-
-Obligatorische Themenfelder
-- 3.1	Ernährung – wie werden Menschen satt?
-- 3.2	Wasser – nur Natur oder in Menschenhand?
-- 3.3	Stadt und städtische Vielfalt – Gewinn oder ein Problem?
-- 3.4	Europa – grenzenlos?
-- 3.5	Tourismus und Mobilität – schneller, weiter, klüger?
-- 3.6	Demokratie und Mitbestimmung – Gleichberechtigung für alle?
-
-Wahlobligatorische Themenfelder (Mindestens eines ist pro Schuljahr auszuwählen)
-- 3.7	Kinderwelten – heile Welten?
-- 3.8	Mode und Konsum – mitmachen um jeden Preis?
-- 3.9	Medien – immer ein Gewinn?
-- 3.10	Vielfalt in der Gesellschaft – Herausforderung und/oder Chance?
-- 3.11	Arbeiten, um zu leben – leben, um zu arbeiten?
-- 3.12	Religionen in der Gesellschaft – Miteinander oder Gegeneinander?
-- 3.13	Eigenes Thema (z. B. aus aktuellem Anlass, nach Schülerinteressen …)
+ 	 </area>
+  	  	  	 
+	</c2>
+	<c3>
+		<id>C-GEWI-3</id>
+		<title>Themen und Inhalte</title>
+		<vortext>
+			<id>C-GEWI-3-0</id>
+			<title></title>
+			<content>
+			</content>
+			<subtext>
+				<id>C-GEWI-3-0-1</id>
+				<title>Übersicht über die Themenfelder</title>
+				<content>
+				</content>
+			</subtext>
 		</vortext>
 	<themainhalt>
-			<id>C-GEWI-3-1</id>
-			<title>Ernährung – wie werden Menschen satt?</title>
-			<content>
-			Dieses Themenfeld eignet sich als Einstieg in das neue Fach. Es bietet mit dem ersten Thema die Möglichkeit zu klären, was Geschichte ist und woher wir unser Wissen über die Vergangenheit gewinnen. Mit dem zweiten Thema kann geklärt werden, womit sich Geografie beschäftigt, das dritte und vierte Thema können mit den grundlegenden Fragen und Anliegen der Politischen Bildung bekannt machen. Der Blick auf das gesamte Themenfeld und seine Fragestellung verdeutlicht schließlich den gesellschaftswissenschaftlichen Ansatz, der sowohl die zeitliche als auch die räumliche sowie die gesellschaftliche Perspektive berücksichtigt und zueinander in Beziehung setzt.
-			Die Lernenden erarbeiten in diesem Themenfeld den Zusammenhang von einer gesicherten Ernährung und der Entstehung von Kultur. Sie erkennen, welche Faktoren für die Sicherung von Nahrung bedeutend sind. Nahrungsproduktion, -verteilung und -mangel werden historisch und gegenwärtig in Deutschland sowie aus globaler Perspektive kritisch betrachtet. Dabei kann das Thema Leben und Überleben in Alt- und Jungsteinzeit (auch erweiternd) als Querschnitt unterrichtet werden.
-			Das Themenfeld bietet Anknüpfungspunkte zu den übergreifenden Themen Verbraucherbildung und Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen.
-			</content>
+		<id>C-GEWI-3-1</id>
+		<title>Ernährung – wie werden Menschen satt?</title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-GEWI-3-1-1</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-1-1</id>
-				<title>Themen</title>
-				<content>Leben und Überleben in Alt- und Jungsteinzeit</content>
-				<inhalt>
-					<id>C-GEWI-3-1-1-1</id>
-					<title>Inhalte</title>
-					<content>­	Jagen und Sammeln</content>
-					<content>­	Beginn des Ackerbaus und der Viehzucht (physisch-geografische Voraussetzungen, z. B. Klimaabhängigkeit, Spezialisierung, Arbeitsgeräte)</content>
-					<content>­	Sesshaftigkeit und Siedlungsbeginn</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-1-1-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Modellbau (z. B. Dorf, Geräte)</content>
-					<content>­	ein Museum erkunden und Sachquellen untersuchen</content>
-					<content>­	thematische Karten und Schaubilder auswerten</content>
-					<content>­	archäologische Grabung besuchen und experimentelle Archäologie kennenlernen</content>
-				</inhalt>
-			</inhalt>	
+				<id>C-GEWI-3-1-1-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
 			<inhalt>
-				<id>C-GEWI-3-1-2</id>
-				<title>Themen</title>
-				<content>Landwirtschaft in Deutschland und ihre natürlichen Voraussetzungen</content>
-				<inhalt>
-					<id>C-GEWI-3-1-2-1</id>
-					<title>Inhalte</title>
-					<content>­	natürliche Voraussetzungen für landwirtschaftliche Nutzung (Klima, Boden, Relief)</content>
-					<content>­	landwirtschaftliche Nutzung in verschiedenen Landschaften von der Küste bis zu den Alpen</content>
-					<content>­	Nutzungen haben Auswirkungen (intensiver und ökologischer Anbau)</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-1-2-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Modell der Glazialen Serie beschreiben</content>
-					<content>­	Fotos, Filme und topografische Karten auswerten</content>
-					<content>­	Kartenskizze erstellen</content>
-					<content>­	einen landwirtschaftlichen Betrieb besuchen und erkunden</content>
-				</inhalt>
-			</inhalt>
+				<id>C-GEWI-3-1-1-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-1-2</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-1-3</id>
-				<title>Themen</title>
-				<content>Überfluss und Mangel in der „Einen Welt“</content>
-				<inhalt>
-					<id>C-GEWI-3-1-3-1</id>
-					<title>Inhalte</title>
-					<content>­	Globalisierung im Supermarkt (z. B. Herkunft, Wege, Nachhaltigkeit)</content>
-					<content>­	saisonale und regionale Produkte</content>
-					<content>­	Ursachen und Auswirkungen von Überfluss und Mangel auf die Lebensbedingungen in der „Einen Welt“, Fairer Handel</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-1-3-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Recherchen im Supermarkt durchführen</content>
-					<content>­	Tagebuch führen und auswerten (z. B. Umgang mit Lebensmitteln)</content>
-					<content>­	thematische Weltkarte auswerten</content>
-				</inhalt>
-			</inhalt>	
-				<inhalt>
-				<id>C-GEWI-3-1-4</id>
-				<title>Themen</title>
-				<content>Verbraucherschutz</content>
-				<inhalt>
-					<id>C-GEWI-3-1-4-1</id>
-					<title>Inhalte</title>
-					<content>­	Lebensmittelstandards und Lebensmittelskandale</content>
-					<content>­	Verbraucherzentralen und -schutzorganisationen, Siegel</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-1-4-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Internetrecherche (z. B. zu Zusatzstoffen, aktuellen Problemfällen) durchführen</content>
-					<content>­	Informationsbroschüre (z. B. zu Siegeln) erstellen</content>
-				</inhalt>
-				</inhalt>	
-		</themainhalt>
+				<id>C-GEWI-3-1-2-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-1-2-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-1-3</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-1-3-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-1-3-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-1-4</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-1-4-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-1-4-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEWI-3-2</id>
+		<title>Ernährung – wie werden Menschen satt?</title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-GEWI-3-2-1</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-2-1-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-2-1-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-2-2</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-2-2-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-2-2-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-2-3</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-2-3-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-2-3-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-2-4</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-2-4-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-2-4-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+	</themainhalt>
 		<themainhalt>
-			<id>C-GEWI-3-2</id>
-			<title>Wasser – nur Natur oder in Menschenhand?</title>
-			<content>
-			Wasser und Eis gestalten die natürlichen Voraussetzungen und Lebensbedingungen von Menschen; gleichzeitig greift der Mensch zu seinem Schutz, aber auch mit dem Ziel der Umgestaltung in diese ein, wie an Küsten und Flüssen nachvollzogen werden kann.
-			Das Vorhandensein von Trinkwasser ist historisch wie gegenwärtig eine Voraussetzung für die Entstehung menschlicher Siedlungen und Kultur. Je nach Zeit und Ort kann Wasser auch zur Herausforderung oder zum Streitpunkt werden.
-			Am historischen Fallbeispiel der Hochkultur Ägyptens (die auch als Querschnitt unterrichtet werden kann), wird offensichtlich, welche Auswirkungen Wasser, seine formenden Kräfte und seine Nutzung im Zusammenhang mit anderen (Natur-)Faktoren und geografischen Gegebenheiten haben können. Sie zeigen sich nicht nur im Siedlungsverhalten, sondern auch in der Entstehung und Ausprägung von Gesellschaft und Staat. Diese Zusammenhänge, wie auch Aspekte menschlicher Verantwortung, werden auch für Gegenwart und Zukunft ersichtlich.
-			Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen und Interkulturelle Bildung finden hier Berücksichtigung.
-			</content>
+		<id>C-GEWI-3-3</id>
+		<title>Ernährung – wie werden Menschen satt?</title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-GEWI-3-3-1</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-2-1</id>
-				<title>Themen</title>
-				<content>Wasser und Eis gestalten</content>
-				<inhalt>
-					<id>C-GEWI-3-2-1-1</id>
-					<title>Inhalte</title>
-					<content>­	Küstenformen, z. B. geprägt von Eis, Gezeiten, Meeren und Ozeanen</content>
-					<content>­	Küstenschutz und Naturschutzgebiete (Maßnahmen und Verhalten)</content>
-					<content>­	Flüsse von der Quelle bis zur Mündung (am Beispiel eines deutschen Flusses und des Nils): Erosion, Transport, Ablagerung, Überschwemmung (natürliche und durch menschliches Handeln beeinflusste Prozesse)</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-2-1-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Experiment (z. B. zu Küstenformungsprozessen) durchführen</content>
-					<content>­	Verhaltenskodex (zum Küstenschutz) entwickeln</content>
-					<content>­	Zeitraffer und Satellitenaufnahmen auswerten</content>
-					<content>­	thematische (Atlas-)Karten auswerten</content>
-					<content>­	Nachschlagewerke nutzen</content>
-					<content>­	Mindmap zum Thema anfertigen</content>
-				</inhalt>
-			</inhalt>	
+				<id>C-GEWI-3-3-1-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
 			<inhalt>
-				<id>C-GEWI-3-2-2</id>
-				<title>Themen</title>
-				<content>Bedeutung von Wasser für Menschen und Staaten früher: Beispiel Ägypten</content>
-				<inhalt>
-					<id>C-GEWI-3-2-2-1</id>
-					<title>Inhalte</title>
-					<content>­	Menschen siedeln am Nil (Klimaveränderungen als Ursache)</content>
-					<content>­	Bewässerungssysteme und Ackerbaukultur</content>
-					<content>­	Ein Staat entsteht: Gesellschaft und Hierarchie</content>
-					<content>­	Kennzeichen von Hochkulturen</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-2-2-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Modellbau (z. B. Niltal, Oase)</content>
-					<content>­	Museum erkunden</content>
-					<content>­	Stationenlernen durchführen</content>
-					<content>­	Informationsplakate (zu den Kennzeichen von Hochkulturen) erarbeiten</content>
-				</inhalt>
-			</inhalt>
+				<id>C-GEWI-3-3-1-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-3-2</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-2-3</id>
-				<title>Themen</title>
-				<content>Bedeutung von Wasser für Menschen und Staaten heute</content>
-				<inhalt>
-					<id>C-GEWI-3-2-3-1</id>
-					<title>Inhalte</title>
-					<content>­	Wasser als Überlebens- und Konfliktfaktor (z. B. natürliche Voraussetzungen, Zugang zu Trinkwasser, Brunnenbau, Staudämme, Kampf um Wasser zwischen Staaten und Firmen, Abwässer)</content>
-					<content>­	Wasser als Wirtschaftsfaktor (z. B. Fischfang, Transportwege, Häfen, Energiegewinnung)</content>
-					<content>­	Wasser als Freizeitfaktor (z. B. natürliche und künstliche Seengebiete, Sport und Erholung)</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-2-3-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Zeitraffer, Satellitenaufnahmen und Klimadiagramme auswerten</content>
-					<content>­	(Internet-)Recherchen (z. B. zur Wassernutzung) durchführen</content>
-					<content>­	Vergleiche (z. B. Wasserzugang und Umgang mit Abwässern hier und anderswo) anstellen</content>
-					<content>­	ehemaliges Tagebaugebiet erkunden</content>
-					<content>­	Informations- oder Werbeflyer für die nähere Umgebung (zu Sport und Erholung am Wasser) erarbeiten</content>
-				</inhalt>
-			</inhalt>	
-		</themainhalt>
-		<themainhalt>
-			<id>C-GEWI-3-3</id>
-			<title>Stadt und städtische Vielfalt – Gewinn oder ein Problem?</title>
-			<content>
-			Städte als Lebensraum zählen zu den typischen Siedlungsformen der Menschheit und sind Spiegel des jeweiligen Kulturraums. Über Zeit und Raum weisen sie viele übereinstimmende, ähnliche, aber auch unterschiedliche Merkmale und Probleme auf, die exemplarisch betrachtet werden. Durch ihre im Vergleich zu anderen Siedlungsformen besonders dichte Besiedelung und vielfältige Bevölkerungsstruktur sind (Groß-)Städte in Vergangenheit und Gegenwart häufig gekennzeichnet von Verkehrs- und Umweltbelastungen, hoher Kriminalität oder Zersiedelung des Umlandes. Zugleich zeichnen sie sich jedoch in der Regel durch u. a. Vielfalt, Dynamik und Innovation aus.
-			Die beiden Themen sollten zunächst in ihrer Spezifik und im Anschluss vergleichend bear-beitet werden.
-			Die übergreifenden Themen Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen und Mobilitätsbildung und Verkehrserziehung werden einbezogen.
-			</content>
+				<id>C-GEWI-3-3-2-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
 			<inhalt>
-				<id>C-GEWI-3-3-1</id>
-				<title>Themen</title>
-				<content>Frühe Städte und Großstädte früher</content>
-				<inhalt>
-					<id>C-GEWI-3-3-1-1</id>
-					<title>Inhalte</title>
-					<content>­	frühe Städte, z. B. Çatalhöyük und Tell Brak: Lage und Merkmale</content>
-					<content>­	Antike Großstadt Rom: Struktur, Aufbau und Funktion (Wohnen, Arbeiten, Bildung, Versorgung, Verwaltung, Kultur und Erholung)</content>
-					<content>­	Probleme (z. B. Verdichtung und Umweltbelastung) und Chancen (z. B. Vielfalt und Innovation)</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-3-1-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Fotos und Berichte von Ausgrabungen auswerten</content>
-					<content>­	Modellbau (z. B. römische Häuser/Möbel/Mosaik; Straßenbauquerschnitt)</content>
-					<content>­	Bildquellen auswerten</content>
-					<content>­	Geschichte einer frühen/ antiken Stadt erzählen</content>
-				</inhalt>
-			</inhalt>	
+				<id>C-GEWI-3-3-2-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-3-3</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-3-2</id>
-				<title>Themen</title>
-				<content>Städtische Siedlungen heute</content>
-				<inhalt>
-					<id>C-GEWI-3-3-2-1</id>
-					<title>Inhalte</title>
-					<content>­	städtische Siedlungen bzw. (Groß-)Stadt im Großraum Berlin-Brandenburg am ausgewählten Beispiel (Wohnen, Arbeiten, Bildung, Versorgung, Verwaltung, Kultur und Erholung)</content>
-					<content>­	Probleme (z. B. Verdichtung und Umweltbelastung) und Chancen (z. B. Vielfalt und Innovation)</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-3-2-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Mental Map erstellen</content>
-					<content>­	Interviews führen</content>
-					<content>­	Flyer zu einer nahegelegenen Stadt erstellen (z. B. für Kinder)</content>
-					<content>­	Stadterkundung in der Umgebung durchführen</content>
-					<content>­	Wegekarte/Fahrplan des ÖNPV zur/innerhalb der (Groß-)Stadt recherchieren</content>
-					<content>­	tabellarischen Vergleich anlegen (Rom in der Antike und eine Stadt im Raum Berlin-Brandenburg heute)</content>
-					<content>­	ein Werturteil zur Fragestellung des Themas bilden</content>
-				</inhalt>
-			</inhalt>	
-		</themainhalt>
-		<themainhalt>
-			<id>C-GEWI-3-4</id>
-			<title>Europa – grenzenlos?</title>
-			<content>
-			Am Leitbild der Grenzen und der Vielfalt wird Europa als geografischer, wirtschaftlicher, politischer, kultureller und historischer Raum in den Blick genommen. Dabei werden Gemein-samkeiten und Unterschiede europäischer Staaten herausgestellt.
-			So entspricht Europa als Kontinent nicht der Europäischen Union; Klima- und Vegetations-zonen innerhalb Europas verlaufen anders als Staatsgrenzen; Sprachen, Brauchtum und Religionen sind divers und kaum einzugrenzen; neben dem Euro gibt es weitere Währungen; europäische Handelswege über Grenzen hinweg brachten schon in der Antike Austausch und nicht nur von Waren; Migrationsbewegungen gehörten immer schon zu Europa dazu; Mauern, Gesetze und Einstellungen schufen und schaffen Grenzen in Europa.
-			Das Themenfeld eröffnet die Möglichkeit, Europa und die EU als Lebensraum mit vielen Herausforderungen in Geschichte und Gegenwart wahrzunehmen sowie sich Chancen und Auswirkungen auf das Zusammenleben der Menschen in Zeit und Raum bewusstzumachen.
-			Das Thema Europa in der Antike: Beispiel Römisches Reich eröffnet die Möglichkeit, das Römische Reich auch als historischen Querschnitt zu bearbeiten.
-			Europabildung in der Schule und Demokratiebildung werden als übergreifende Themen in dieses Themenfeld einbezogen.
-			</content>
+				<id>C-GEWI-3-3-3-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
 			<inhalt>
-				<id>C-GEWI-3-4-1</id>
-				<title>Themen</title>
-				<content>Europa als Kontinent</content>
-				<inhalt>
-					<id>C-GEWI-3-4-1-1</id>
-					<title>Inhalte</title>
-					<content>­	Lage und Größe (im Vergleich zu den anderen Kontinenten)</content>
-					<content>­	Naturraum Europa: Leben in verschiedenen Klima- und Vegetationszonen</content>
-					<content>­	politische Gliederung</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-4-1-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Kartenskizzen erstellen</content>
-					<content>­	Klimadiagramme auswerten</content>
-					<content>­	Puzzle/Lernspiel erstellen</content>
-				</inhalt>
-			</inhalt>	
+				<id>C-GEWI-3-3-3-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-3-4</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-4-2</id>
-				<title>Themen</title>
-				<content>Europa in der Antike: Beispiel Römisches Reich</content>
-				<inhalt>
-					<id>C-GEWI-3-4-2-1</id>
-					<title>Inhalte</title>
-					<content>­	Entwicklung und Ausdehnung des Römischen Reichs (Herrschaft, Militär, Kultur, Handelswege sowie -güter, Handel mit den Germanen)</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-4-2-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	thematische Karten ergänzen</content>
-					<content>­	Quellen, Geschichtskarten und geschichtskulturelle Darstellungen auswerten</content>
-				</inhalt>
-			</inhalt>
+				<id>C-GEWI-3-3-4-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
 			<inhalt>
-				<id>C-GEWI-3-4-3</id>
-				<title>Themen</title>
-				<content>Europa heute: Europäische Union</content>
-				<inhalt>
-					<id>C-GEWI-3-4-3-1</id>
-					<title>Inhalte</title>
-					<content>­	Mitgliedsstaaten und Grenzen</content>
-					<content>­	Gemeinsamkeiten und Unterschiede (Währung, Kultur, Alltag, Tradition, Wirtschaft, Sprache)</content>
-					<content>­	aktuelle Herausforderungen (z. B. friedliches Zusammenleben)</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-4-3-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Stationenlernen durchführen</content>
-					<content>­	Ausstellung zu den Staaten in Gruppenarbeit erstellen</content>
-					<content>­	Mystery-Methode erproben</content>
-				</inhalt>
-				<inhalt>
-				<id>C-GEWI-3-4-4</id>
-				<title>Themen</title>
-				<content>Große Veränderungen und ihre Ursachen</content>
-				<inhalt>
-					<id>C-GEWI-3-4-4-1</id>
-					<title>Inhalte</title>
-					<content>­	Migration früher und heute in Europa (z. B. Griechische Koloni-sation, Völkerwanderung, gegenwärtige Flüchtlingsbewegungen)</content>
-					<content>­	Deutschland zweigeteilt (z. B. Alltag und Kindheit in zwei Staaten, eine Mauer durch Berlin) und wieder vereint</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-4-4-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Expertenrunde durchführen</content>
-					<content>­	aktuelle Zeitungsartikel und Berichte mit Texten von antiken Autoren vergleichen</content>
-					<content>­	Zeitzeugengespräch führen</content>
-					<content>­	eine Gedenkstätte besuchen</content>
-					<content>­	Berliner Mauerweg erkunden</content>
-				</inhalt>
-			</inhalt>	
-			</inhalt>		
-		</themainhalt>
-		<themainhalt>
-			<id>C-GEWI-3-5</id>
-			<title>Tourismus und Mobilität – schneller, weiter, klüger?</title>
-			<content>
-			Menschen sind nicht erst mobil und reisen nicht erst, seit es das Auto oder das Flugzeug gibt. Straßennetze und Wasserwege wurden vor allem für Handelsbeziehungen, aber auch aus militärischen Gründen angelegt. In diesem Themenfeld werden Fragen nach Veränderungen rund um das Reisen erarbeitet, z. B. im Blick auf Ziele und Motivationen. Die Vor- und Nachteile von Mobilität und Reisen sind zu hinterfragen. Dabei wird deutlich, dass Reisen verändert und Einfluss nimmt, sowohl auf den reisenden Menschen als auch auf die Reisewege und -ziele (Mensch, Natur, Kultur, Wirtschaft). Auch die Art sich fortzubewegen (z. B. Auto, Flugzeug) und das Ausmaß gegenwärtiger Mobilität zeigen vielfältige Auswirkungen. Schließlich bietet das Themenfeld einen Ein- und Überblick in die Besonderheiten Deutschlands.
-			Die übergreifenden Themen Europabildung in der Schule, Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen sowie Mobilitätsbildung und Verkehrserziehung sind berücksichtigt.
-			</content>
+				<id>C-GEWI-3-3-4-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEWI-3-4</id>
+		<title>Ernährung – wie werden Menschen satt?</title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-GEWI-3-4-1</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-5-1</id>
-				<title>Themen</title>
-				<content>Von der Geschichte des Reisens</content>
-				<inhalt>
-					<id>C-GEWI-3-5-1-1</id>
-					<title>Inhalte</title>
-					<content>­	Transportwege und -mittel an ausgewählten Beispielen</content>
-					<content>­	Motive zu Reisen (z. B. Handels-, Forschungs-, Entdeckungs- und Pilgerreisen) an Beispielen</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-5-1-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Wegevergleich (mit historischem und aktuellem Kartenmaterial) vornehmen</content>
-					<content>­	Quellen zu Reiseberichten untersuchen</content>
-					<content>­	Fallbeispiele zu unterschiedlichen Reisemotiven vorstellen (Auf den Spuren von …)</content>
-				</inhalt>
-			</inhalt>	
+				<id>C-GEWI-3-4-1-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
 			<inhalt>
-				<id>C-GEWI-3-5-2</id>
-				<title>Themen</title>
-				<content>Reisen heute: Perspektiven im Widerstreit</content>
-				<inhalt>
-					<id>C-GEWI-3-5-2-1</id>
-					<title>Inhalte</title>
-					<content>­	Reiseziele, -arten (z. B. Wandern, Fahrrad, Zug, Flugzeug) und Organisationsformen (z. B. Indivi-dual- und Gruppenreisen)</content>
-					<content>­	Vor- und Nachteile für Menschen, Flora, Fauna und das Klima: Interessenkonflikte am aktuellen Beispiel</content>
-					<content>­	Merkmale von sanftem bzw. nachhaltigem Tourismus (ökolo-gische, ökonomische und sozio-kulturelle Ziele) und von Pauschaltourismus</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-5-2-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Planspiel zu Reiseplanungen durchführen</content>
-					<content>­	Fahrpläne und Reisekataloge auswerten</content>
-					<content>­	Collage (Bild und Text) erstellen</content>
-					<content>­	Pro- und Kontradebatte durchführen</content>
-					<content>­	Mystery-Methode erproben</content>
-					<content>­	Klimadiagramme auswerten</content>
-					<content>­	ein Portfolio zum Thema anlegen</content>
-				</inhalt>
-				<inhalt>
-				<id>C-GEWI-3-5-3</id>
-				<title>Themen</title>
-				<content>Eine Reise durch Deutschland</content>
-				<inhalt>
-					<id>C-GEWI-3-5-3-1</id>
-					<title>Inhalte</title>
-					<content>­	Bundesländer und ihre Besonderheiten</content>
-					<content>­	Besonderheiten der Großlandschaften Deutschlands (Oberflächenformen, Entstehung, touristisches Potenzial)</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-5-3-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Reportagen erstellen</content>
-					<content>­	Lernplakate entwickeln</content>
-					<content>­	Expertenrunde durchführen</content>
-					<content>­	Reiseführer über Deutschland auswerten</content>
-					<content>­	Webquest erstellen</content>
-				</inhalt>
-			</inhalt>
-			</inhalt>	
-		</themainhalt>
-		<themainhalt>
-			<id>C-GEWI-3-6</id>
-			<title>Demokratie und Mitbestimmung – Gleichberechtigung für alle?</title>
-			<content>
-			Eine wichtige Voraussetzung für ein friedliches Zusammenleben der Menschen ist die Aushandlung und Etablierung gemeinsamer Regeln.
-			Auftretende Konflikte und deren Bewältigung können zunächst am Beispiel der Familie als vertrauter Gruppe analysiert werden. Im Vergleich verschiedener Generationen, Familien-formen und Kulturen lassen sich Gemeinsamkeiten und Unterschiede, bedingt durch zeitliche Veränderung, Entwicklung und kulturelle Hintergründe aufzeigen. Ergänzend werden schulische Instrumente der Mitbestimmung, demokratische Entscheidungsfindungen und kompromissorientierte Aushandlungsprozesse kennengelernt, aber auch eingeübt.
-			Demokratie und Mitbestimmung auf gesellschaftlicher Ebene werden zunächst in ihrer historischen Entstehung im antiken Athen und anschließend für einen aktuellen bundesdeutschen Zusammenhang betrachtet. Im Vergleich lassen sich Ähnlichkeiten, aber auch Unterschiede erkennen.
-			Insgesamt ist für die Betrachtung und Beurteilung bedeutsam, dass es je nach Zeit und Kulturraum große Unterschiede in den Voraussetzungen gab und gibt und dass auch die Handlungs- und Entscheidungsmöglichkeiten der Menschen sehr verschieden waren und sind.
-			Demokratiebildung und Gewaltprävention sind die übergreifenden Themen, die im Fokus des Themenfeldes stehen.
-			</content>
+				<id>C-GEWI-3-4-1-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-4-2</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-6-1</id>
-				<title>Themen</title>
-				<content>Zusammenleben und Mitbestimmung in Familie und Schule</content>
-				<inhalt>
-					<id>C-GEWI-3-6-1-1</id>
-					<title>Inhalte</title>
-					<content>­	Familie: Regeln und Entscheidungen; soziale Rollen und Rollenkonflikte</content>
-					<content>­	schulische Gremien</content>
-					<content>­	im Klassenrat Probleme lösen und Entscheidungen treffen</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-6-1-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Rollenspiel durchführen</content>
-					<content>­	Themen und Probleme für den Klassenrat zusammentragen</content>
-					<content>­	Mitwirkungsmöglichkeiten (z. B. im Mittagessensausschuss) erkunden</content>
-				</inhalt>
-			</inhalt>	
+				<id>C-GEWI-3-4-2-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
 			<inhalt>
-				<id>C-GEWI-3-6-2</id>
-				<title>Themen</title>
-				<content>Demokratie und Mitbestimmung früher und heute</content>
-				<inhalt>
-					<id>C-GEWI-3-6-2-1</id>
-					<title>Inhalte</title>
-					<content>­	Entstehung der Demokratie (Ursachen der Entstehung, Merkmale der athenischen Demokratie und ihre Einrichtungen)</content>
-					<content>­	Merkmale unserer Demokratie (Wahlen, Parteien, Regierung, Parlament) am aktuellen Beispiel</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-6-2-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Rollenspiel zur Verdeutlichung des antiken demokratischen Wahlrechts durchführen</content>
-					<content>­	Meinungen zur Beurteilung der athenischen Demokratie vergleichen</content>
-					<content>­	Beteiligungsmöglichkeiten von Kindern und Jugendlichen im lokalen Umfeld (z. B. in einem Kinderparlament) recherchieren</content>
-				</inhalt>
-			</inhalt>
+				<id>C-GEWI-3-4-2-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-4-3</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-6-3</id>
-				<title>Themen</title>
-				<content>Flächennutzung: Interessen und Konflikte</content>
-				<inhalt>
-					<id>C-GEWI-3-6-3-1</id>
-					<title>Inhalte</title>
-					<content>­	Flächennutzung: Interessen und Konflikte im lokalen Umfeld am konkreten Beispiel</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-6-3-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Stadtteil erkunden</content>
-					<content>­	Sachkundige/Interessenvertreterinnen und -vertreter einladen</content>
-					<content>­	im Nahraum für Kinder und Jugendliche ausgewiesene Orte recherchieren (z. B. eine Karte erstellen/eine Zählung durchführen)</content>
-					<content>­	eine Umfrage durchführen</content>
-					<content>­	eine Anfrage, einen Brief formulieren und versenden</content>
-				</inhalt>
-			</inhalt>		
-		</themainhalt>
-		<themainhalt>
-			<id>C-GEWI-3-7</id>
-			<title>Kinderwelten – heile Welten?</title>
-			<content>
-			Kinderwelten in Vergangenheit und Gegenwart, in unterschiedlichen Kulturen und Gesell-schaften weisen eine große Vielfalt hinsichtlich der Lebensbedingungen von Kindern auf. Auch auf die Frage danach, was für den jeweiligen Alltag von Kindern typisch oder normal ist, wird man verschiedene Antworten finden.
-			Für die Erarbeitung bieten sich längsschnittartige Betrachtungen an, die jeweils an historischen und gegenwärtigen Schwerpunkten die Besonderheiten und Veränderungen verdeutlichen und die Zusammenhänge von Zeit, Kultur, Gesellschaft, Politik und geografischen Bedingungen hinterfragen.
-			Die Unterschiede, die für Kinderarbeit, -armut und -rechte festzustellen sind, verdeutlichen ebenso, wie vielfältig Maßstäbe gestaltet sind und wie sie sich in konkreten Konstellationen verändern können.
-			Die übergreifenden Themen Demokratiebildung, Interkulturelle Bildung und Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen münden in das Themenfeld ein.
-			</content>
+				<id>C-GEWI-3-4-3-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
 			<inhalt>
-				<id>C-GEWI-3-7-1</id>
-				<title>Themen</title>
-				<content>Zusammenleben in der Familie und Erziehung früher und heute</content>
-				<inhalt>
-					<id>C-GEWI-3-7-1-1</id>
-					<title>Inhalte</title>
-					<content>­	Kindheit – Familie – Erziehung früher: in der Antike (Athen und Sparta) in der Aufklärung (Bauern- und Prinzenkinder in der Mark Brandenburg) im Nachkriegsdeutschland (in der Region Berlin-Brandenburg in Ost und West)</content>
-					<content>­	Kindheit – Familie – Erziehung heute: Biografien aus aller Welt und ihre Einflussfaktoren (z. B. Familie, kulturelle Prägung, Lebensbedingungen)</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-7-1-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	mit dem Zeitfries arbeiten</content>
-					<content>­	historische Biografien in unterschiedlichen Zeiten/zur gleichen Zeit vergleichen</content>
-					<content>­	Biografien an der Weltkarte verorten</content>
-					<content>­	Zeitzeugengespräch führen</content>
-					<content>­	eine Geschichte der Kindheit (für eine oder mehrere Epochen) erzählen</content>
-					<content>­	ein Portfolio zum Thema anlegen</content>
-					<content>­	ein Werturteil zur Fragestellung des Themas bilden</content>
-				</inhalt>
-			</inhalt>	
+				<id>C-GEWI-3-4-3-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-4-4</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-7-2</id>
-				<title>Themen</title>
-				<content>Kinderarbeit, Kinderarmut, Kinderrechte</content>
-				<inhalt>
-					<id>C-GEWI-3-7-2-1</id>
-					<title>Inhalte</title>
-					<content>­	Kinderarbeit in der Geschichte (z. B. in der Antike, im Mittelalter, in der Industrialisierung) anhand von Beispielen</content>
-					<content>­	Lebensbedingungen von Kindern in der Einen Welt (jeweils in Bei-spielen): Kinderarbeit und -armut rund um den Globus, Kinderrechte und Kinderrechtskonvention (Umsetzung und Missachtung), Kindersoldaten, Kinderschutzorganisationen</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-7-2-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Text- und Bildquellen auswerten</content>
-					<content>­	Filmmaterial auswerten und in verschiedenen Medien recherchieren</content>
-					<content>­	Artikel für die Schülerzeitung schreiben</content>
-					<content>­	Ausstellung für die Schule erarbeiten</content>
-					<content>­	Informationsbroschüre für Mitschülerinnen und Mitschüler entwerfen</content>
-					<content>­	Aktionsgruppen (z. B. NGOs) und Aktivistinnen und Aktivisten recherchieren</content>
-				</inhalt>
-			</inhalt>	
-		</themainhalt>
-		<themainhalt>
-			<id>C-GEWI-3-8</id>
-			<title>Mode und Konsum – mitmachen um jeden Preis?</title>
-			<content>
-			Im Übergang von der Kindheit zur Pubertät setzten sich Schülerinnen und Schüler in der Regel intensiv und mit wachsendem Interesse mit ihrem Äußeren und auch mit Fragen der Mode auseinander. Sie agieren jetzt zunehmend als eigenständige Konsumentinnen und Konsumenten und sind Zielgruppe der Werbung. Das Themenfeld knüpft an diese Erfah-rungen an und thematisiert, ausgehend vom eigenen Modebewusstsein, die Frage nach Nutzen, Sinn und Wirkung von Kleidung in verschiedenen Zeiten und Räumen. Das Thema Werbung und Kaufverhalten lenkt den Blick auf die ökonomischen Aspekte des Werbens, Handelns und Wirtschaftens mit dem Ziel, Verkaufsstrategien und eigenes Kaufverhalten zu reflektieren. Mit der Thematisierung des Produktionswegs werden Fragen der Nachhaltigkeit und sozialen Gerechtigkeit aufgegriffen. Hier bietet sich die Erarbeitung anhand eines Produkt-Fallbeispiels (z. B. Jeans) an, um komplexe Zusammenhänge aufzuzeigen und die Schülerinnen und Schüler für die globalen Auswirkungen auch ihres Kaufverhaltens zu sensibilisieren.
-			Als übergreifende Themen spielen Verbraucherbildung, Nachhaltige Entwicklung/Leben in globalen Zusammenhängen, Kulturelle Bildung, Gleichstellung und Gleichberechtigung der Geschlechter (Gender Mainstreaming) und Bildung zur Akzeptanz von Vielfalt (Diversity) eine Rolle.
-			</content>
+				<id>C-GEWI-3-4-4-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
 			<inhalt>
-				<id>C-GEWI-3-8-1</id>
-				<title>Themen</title>
-				<content>Kleider machen Leute</content>
-				<inhalt>
-					<id>C-GEWI-3-8-1-1</id>
-					<title>Inhalte</title>
-					<content>­	Anpassung und eigener Stil (Gruppe und Identität)</content>
-					<content>­	Mode in verschiedenen Zeiten: was Männer und Frauen, Arme und Reiche tragen (z. B. Kleiderordnungen und Konventionen im Mittelalter, in der preußisch-höfischen Gesellschaft)</content>
-					<content>­	Nutzen von Kleidung in verschiedenen Naturräumen (früher und heute)</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-8-1-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	experimentelles Rollenspiel erproben</content>
-					<content>­	Interviews mit Gleichaltrigen führen</content>
-					<content>­	Bildquellen auswerten</content>
-					<content>­	szenisches Spiel (Benimmkurse für verschiedene Epochen) entwickeln</content>
-					<content>­	Wirkung von Kleidung für verschiedene Zeiten durch eine Modenschau nachempfinden</content>
-				</inhalt>
-			</inhalt>	
+				<id>C-GEWI-3-4-4-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEWI-3-5</id>
+		<title>Ernährung – wie werden Menschen satt?</title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-GEWI-3-5-1</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-8-2</id>
-				<title>Themen</title>
-				<content>Werbung und Kaufverhalten</content>
-				<inhalt>
-					<id>C-GEWI-3-8-2-1</id>
-					<title>Inhalte</title>
-					<content>­	von der Tausch- zur Geldwirtschaft</content>
-					<content>­	Werbeversprechen und Verkaufsstrategien</content>
-					<content>­	Umgang mit Taschengeld (Rechtliches und Privates)</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-8-2-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	mit dem Zeitfries arbeiten</content>
-					<content>­	Werbefilme und -plakate analysieren</content>
-					<content>­	Produktplatzierung im Super-markt/in Modeabteilungen erkunden</content>
-				</inhalt>
-			</inhalt>
+				<id>C-GEWI-3-5-1-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
 			<inhalt>
-				<id>C-GEWI-3-8-3</id>
-				<title>Themen</title>
-				<content>Vom Rohstoff in die Einkaufstüte</content>
-				<inhalt>
-					<id>C-GEWI-3-8-3-1</id>
-					<title>Inhalte</title>
-					<content>­	Produktionskette am Beispiel eines Kleidungsstücks</content>
-					<content>­	Arbeitsbedingungen (z. B. in asiatischen Ländern) und Kostenkalkulation</content>
-					<content>­	Nachhaltigkeit</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-8-3-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Fallbeispiel (z. B. Jeans) untersuchen und vorstellen</content>
-					<content>­	Filme und Texte auswerten</content>
-					<content>­	Plakate erstellen</content>
-					<content>­	Artikel für die Schülerzeitschrift verfassen</content>
-				</inhalt>
-			</inhalt>		
-		</themainhalt>
-		<themainhalt>
-			<id>C-GEWI-3-9</id>
-			<title>Medien – immer ein Gewinn?</title>
-			<content>
-			Jede Erfindung und Nutzung neuer Medien hat, von der Erfindung der Schrift angefangen, in der Menschheitsgeschichte deutliche Veränderungen auf vielen Ebenen bewirkt (z. B. in Gesellschaft, Kultur, Politik und Wirtschaft). Den Entwicklungsschritten und ihren Wirkungen wie auch den Veränderungen, die im Leben der Menschen jeweils zu beobachten waren und sind, wird mit diesem Themenfeld nachgegangen. Deutlich wird dabei in Vergangenheit und Gegenwart, dass Vorteile und Chancen wie auch Nachteile und Gefahren dazugehören, die kritisch einzuschätzen und abzuwägen sind. Der Umgang mit den modernen und sich ständig weiter verändernden Medien wird hier auch aus der Perspektive der Lernenden betrachtet, erprobt und ausgewertet.
-			Von den übergreifenden Themen finden Verbraucherbildung, Gewaltprävention, Kulturelle Bildung, Demokratiebildung sowie Gesundheitsförderung Beachtung.
-			</content>
+				<id>C-GEWI-3-5-1-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-5-2</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-9-1</id>
-				<title>Themen</title>
-				<content>Medienvielfalt heute</content>
-				<inhalt>
-					<id>C-GEWI-3-9-1-1</id>
-					<title>Inhalte</title>
-					<content>­	Medien- und Kommunikationsvielfalt (Printmedien, elektronische Medien)</content>
-					<content>­	Aufgaben und Verantwortung von Massenmedien</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-9-1-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Ausstellung zum Thema erarbeiten</content>
-					<content>­	Massenmedien untersuchen</content>
-				</inhalt>
-			</inhalt>	
+				<id>C-GEWI-3-5-2-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
 			<inhalt>
-				<id>C-GEWI-3-9-2</id>
-				<title>Themen</title>
-				<content>Entwicklung der Medien</content>
-				<inhalt>
-					<id>C-GEWI-3-9-2-1</id>
-					<title>Inhalte</title>
-					<content>­	von der Erfindung der Schrift und des Papyrus über den Buchdruck bis zu den modernen Medien (Erfindungen, Techniken, gesellschaftliche Auswirkungen)</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-9-2-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	ein Museum erkunden</content>
-					<content>­	Präsentation in Gruppen erarbeiten</content>
-					<content>­	mit dem Zeitfries arbeiten</content>
-				</inhalt>
-			</inhalt>
+				<id>C-GEWI-3-5-2-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-5-3</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-9-3</id>
-				<title>Themen</title>
-				<content>Nutzung des Internets</content>
-				<inhalt>
-					<id>C-GEWI-3-9-3-1</id>
-					<title>Inhalte</title>
-					<content>­	Chancen und Gefahren (Recherchieren, Kommunizieren, Spielen, Manipulieren)</content>
-					<content>­	Kommunikation rund um den Globus</content>
-					<content>­	soziale Netzwerke und aktuelle Probleme (z. B. Cybermobbing)</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-9-3-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Formen kreativer Mediennutzung erkunden</content>
-					<content>­	Tagebuch zur Mediennutzung führen</content>
-					<content>­	Fallbeispiele bearbeiten und vorstellen</content>
-				</inhalt>
-			</inhalt>	
+				<id>C-GEWI-3-5-3-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
 			<inhalt>
-				<id>C-GEWI-3-9-4</id>
-				<title>Themen</title>
-				<content>Entwicklung von Karten</content>
-				<inhalt>
-					<id>C-GEWI-3-9-4-1</id>
-					<title>Inhalte</title>
-					<content>­	Vielfalt der Karten</content>
-					<content>­	digitale Karten: Chancen und Gefahren der mobilen Karten- und Ortungstechnologie</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-9-4-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	eine Werkstatt (Kartenerstellung) einrichten</content>
-					<content>­	Orte mithilfe digitaler Kartentechnologien finden</content>
-				</inhalt>
-			</inhalt>	
-		</themainhalt>
-		<themainhalt>
-			<id>C-GEWI-3-10</id>
-			<title>Vielfalt in der Gesellschaft – Herausforderung und/oder Chance?</title>
-			<content>
-			Ausgehend von der Heterogenität der Lerngruppe ermöglicht das Themenfeld die Auseinan-dersetzung mit der Heterogenität von Gesellschaft bzw. Gesellschaften in Vergangenheit und Gegenwart.
-			Von der Identifikation mit unterschiedlichen Gruppen über den Umgang mit Verschiedenheit und Vielfalt bieten die Themen Möglichkeiten, um sich mit sozialer Ungleichheit, Vorurteilen, Diskriminierung und Toleranz zu befassen. Dabei können für die jeweiligen Beispiele die Mechanismen untersucht und infrage gestellt werden, die zu Definitionen von Anderssein bzw. Zugehörigkeit führen.
-			Geeignet sind Lerngegenstände und Methoden, die Schülerinnen und Schüler mit ihren eigenen Einstellungen und Erfahrungen konfrontieren und zum Reflektieren anregen, ohne sie zu überwältigen.
-			Die übergreifenden Themen Demokratiebildung, Gewaltprävention, Gleichstellung und Gleichberechtigung der Geschlechter (Gender Mainstreaming), Interkulturelle Bildung und Umgang mit Vielfalt (Diversity) sowie Sexualerziehung/Bildung für sexuelle Selbstbestimmung werden in diesem Themenfeld besonders berücksichtigt.
-			</content>
+				<id>C-GEWI-3-5-3-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-5-4</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-10-1</id>
-				<title>Themen</title>
-				<content>Soziale Gruppen</content>
-				<inhalt>
-					<id>C-GEWI-3-10-1-1</id>
-					<title>Inhalte</title>
-					<content>­	was Gruppen ausmacht (z. B. Familie, Clique, Ethnie, Lebensstil)</content>
-					<content>­	Gruppenkonflikte und Möglichkeiten, damit konstruktiv umzugehen</content>
-					<content></content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-10-1-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Rollenspiele durchführen</content>
-					<content>­	Netzwerke sozialer Gruppen visualisieren</content>
-					<content>­	Spiele zur Konfliktbewältigung erproben</content>
-				</inhalt>
-			</inhalt>	
+				<id>C-GEWI-3-5-4-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
 			<inhalt>
-				<id>C-GEWI-3-10-2</id>
-				<title>Themen</title>
-				<content>Menschen sind verschieden</content>
-				<inhalt>
-					<id>C-GEWI-3-10-2-1</id>
-					<title>Inhalte</title>
-					<content>­	was Verschiedenheit ausmacht (z. B. Geschlecht und sexuelle Orientierung, Religion, Weltanschauung, Begabung, Behinderung, Sprache, Kultur, Geschichte, Alter und Interessen)</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-10-2-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Steckbriefen/Lebensläufen Fotos zuordnen und sich mit Vorurteilen auseinandersetzen</content>
-					<content>­	Steckbriefe auf einer Weltkarte verorten</content>
-				</inhalt>
-				<inhalt>
-				<id>C-GEWI-3-10-3</id>
-				<title>Themen</title>
-				<content>Ausgrenzung und Teilhabe</content>
-				<inhalt>
-					<id>C-GEWI-3-10-3-1</id>
-					<title>Inhalte</title>
-					<content>­	Umgang mit Ausgegrenzten früher (z. B. in der Antike: Fremdar-beiter im Alten Ägypten, Gladiatoren in Rom; im Mittelalter: Juden, Gaukler, Henker; im Nationalsozialismus: Juden, Sinti und Roma, Menschen mit Behinderungen) anhand konkreter Schicksale</content>
-					<content>­	Umgang mit Ausgegrenzten heute (z. B. in unserer Gesellschaft, in anderen Gesellschaften)</content>
-					<content>­	wie aus dem Nebeneinander ein Miteinander werden kann (früher und heute, hier und anderswo) in exemplarischen Beispielen</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-10-3-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	ein Museum, eine Gedenkstätte besuchen</content>
-					<content>­	Statistiken und Schaubilder (z. B. zum Bildungsniveau) auswerten</content>
-					<content>­	lokale Initiativen und Projekte erkunden und vorstellen</content>
-					<content>­	geschichtskulturelle Darstellungen auswerten</content>
-				</inhalt>
-			</inhalt>
-			</inhalt>	
-		</themainhalt>
-		<themainhalt>
-			<id>C-GEWI-3-11</id>
-			<title>Arbeiten, um zu leben – leben, um zu arbeiten?</title>
-			<content>
-			In der Geschichte der Menschheit spielt Arbeit eine nicht nur grundlegende, sondern auch alltägliche Rolle, um für das Überleben zu sorgen.
-			In der Gegenwart sind unsere gesellschaftlichen Gewohnheiten, die von einer deutlichen Trennung von Arbeit und Freizeit ausgehen, nicht die Regel, vergleicht man sie mit Erfahrungen anderer Gesellschaften. 
-			Mit dem Themenfeld kann für diese Zusammenhänge sensibilisiert und eine Betrachtung, die die eigenen Erfahrungen für das Normale halten, infrage gestellt und erweitert werden. 
-			Als übergreifende Themen finden Gleichstellung und Gleichberechtigung der Geschlechter (Gender Mainstreaming), Demokratiebildung, Bildung zur Akzeptanz von Vielfalt (Diversity), Verbraucherbildung sowie Berufs- und Studienorientierung Berücksichtigung.
-			</content>
+				<id>C-GEWI-3-5-4-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEWI-3-6</id>
+		<title>Ernährung – wie werden Menschen satt?</title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-GEWI-3-6-1</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-11-1</id>
-				<title>Themen</title>
-				<content>Arbeit: Pflicht oder Recht des Menschen?</content>
-				<inhalt>
-					<id>C-GEWI-3-11-1-1</id>
-					<title>Inhalte</title>
-					<content>­	von der Arbeitsteilung (Metallzeiten) zu Berufen (im Mittelalter)</content>
-					<content>­	Frauenarbeit früher und heute sowie regional und global: Notwendigkeit, Selbstverständlichkeit, Luxus</content>
-					<content>­	„Männerberufe“ und „Frauenberufe“; Ansprüche auf Gleichberechtigung in der Arbeitswelt</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-11-1-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	mit Bildquellen Collagen erstellen</content>
-					<content>­	Interviews führen</content>
-					<content>­	unterschiedliche Tages- und Wochenabläufe zusammenstellen und vergleichen</content>
-					<content>­	gesetzliche Vorgaben untersuchen</content>
-				</inhalt>
-			</inhalt>	
+				<id>C-GEWI-3-6-1-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
 			<inhalt>
-				<id>C-GEWI-3-11-2</id>
-				<title>Themen</title>
-				<content>Wenn das Leben mehr als Arbeit ist</content>
-				<inhalt>
-					<id>C-GEWI-3-11-2-1</id>
-					<title>Inhalte</title>
-					<content>­	freie Zeit in der Antike (z. B. Brot und Spiele im Römischen Reich)</content>
-					<content>­	die Erfindung der Freizeit (im 19. Jahrhundert)</content>
-					<content>­	Freizeit heute: Ansprüche, Gestaltungsmöglichkeiten, Alternativen (z. B. Verknüpfung mit ehrenamtlichem Engagement)</content>
-					<content>­	Bedeutung von Freizeit im globalen Vergleich anhand ausgewählter Raumbeispiele</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-11-2-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Plakat zu Freizeitbeschäftigungen über Zeit und Raum erstellen</content>
-					<content>­	Orts- oder Stadtteilerkundung (z. B. als Zählung oder Messung) durchführen</content>
-					<content>­	Orts- oder Stadtteilplan zum Thema Freizeit erstellen</content>
-					<content>­	Interviews führen</content>
-					<content>­	Steckbriefe zu Angeboten verschiedener Träger zusammentragen</content>
-				</inhalt>
-			</inhalt>
+				<id>C-GEWI-3-6-1-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-6-2</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-11-3</id>
-				<title>Themen</title>
-				<content>Leben und Arbeiten hier und anderswo</content>
-				<inhalt>
-					<id>C-GEWI-3-11-3-1</id>
-					<title>Inhalte</title>
-					<content>­	Leben und Arbeiten im weltweiten Vergleich (z. B. unter Berücksichtigung verschiedener natürlicher und kultureller Hintergründe)</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-11-3-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Sachtexte auswerten und eigene Sachtexte verfassen</content>
-					<content>­	Grafiken und Schaubilder auswerten</content>
-					<content>­	ein Werturteil zur Fragestellung des Themas bilden</content>
-				</inhalt>
-			</inhalt>		
-		</themainhalt>
-		<themainhalt>
-			<id>C-GEWI-3-12</id>
-			<title>Religionen in der Gesellschaft – Miteinander oder Gegeneinander?</title>
-			<content>
-			Religionen gehören zur Menschheitsgeschichte, sie sind in großer Vielfalt in allen Zeiten und Kulturen nachweisbar. Als bedeutsam haben sich insbesondere die großen Weltreligionen erwiesen, die sowohl Gemeinsamkeiten als auch deutliche Unterschiede in ihrer Entstehung und Verbreitung aufweisen.
-			Religionen werden nicht nur durch ihre Überzeugungen, Dogmen und Schriften repräsentiert, sondern erlangen, z. B. durch ihre Protagonistinnen und Protagonisten, Einrichtungen und Organisationen, Wirksamkeit und Gestaltungskraft. Somit stehen sie in Geschichte und Gegenwart in vielfältigen Verflechtungen, z. B. auch mit Bereichen der Politik und der Wirtschaft.
-			Ihr Aufeinandertreffen führte und führt, insbesondere im modernen Medienzeitalter, sowohl zum Mit- und Neben-, aber auch zum Gegeneinander.
-			Von den übergreifenden Themen wird hier vor allem die Kulturelle Bildung bedeutsam.
-			</content>
+				<id>C-GEWI-3-6-2-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
 			<inhalt>
-				<id>C-GEWI-3-12-1</id>
-				<title>Themen</title>
-				<content>Ursprünge von Religiosität und Göttervielfalt</content>
-				<inhalt>
-					<id>C-GEWI-3-12-1-1</id>
-					<title>Inhalte</title>
-					<content>­	Funde und ihre Deutungen: Alt- und Jungsteinzeit und Metallzeiten</content>
-					<content>­	Religion in der Antike (z. B. Götterwelt und Glaubensüberzeugungen der Ägypter oder Griechen oder Römer)</content>
-					<content>­	zur Bedeutsamkeit von Religion und Glaube für den Menschen</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-12-1-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Gruppenpuzzle durchführen</content>
-					<content>­	Rollenspiel (z. B. zum ägyptischen Totengericht) erarbeiten</content>
-					<content>­	über Religion und Glauben philosophieren</content>
-				</inhalt>
-			</inhalt>	
+				<id>C-GEWI-3-6-2-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-6-3</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-12-2</id>
-				<title>Themen</title>
-				<content>Die großen monotheistischen Weltreligionen und ihr Entstehungskontext</content>
-				<inhalt>
-					<id>C-GEWI-3-12-2-1</id>
-					<title>Inhalte</title>
-					<content>­	Judentum</content>
-					<content>­	Christentum</content>
-					<content>­	Islam</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-12-2-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	Stationenlernen durchführen</content>
-					<content>­	eine Synagoge, eine Kirche und eine Moschee besuchen</content>
-					<content>­	Gespräche/Interviews mit Vertreterinnen und Vertretern der Religionen führen</content>
-					<content>­	Karte mit Orten religiöser Stätten im Nahraum anlegen</content>
-				</inhalt>
-			</inhalt>
+				<id>C-GEWI-3-6-3-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
 			<inhalt>
-				<id>C-GEWI-3-12-3</id>
-				<title>Themen</title>
-				<content>Andere Weltreligionen</content>
-				<inhalt>
-					<id>C-GEWI-3-12-3-1</id>
-					<title>Inhalte</title>
-					<content>­	Hinduismus</content>
-					<content>­	Buddhismus</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-12-3-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	eine Weltkarte zur Verbreitung der Religionen entwickeln</content>
-				</inhalt>
-			</inhalt>	
+				<id>C-GEWI-3-6-3-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-6-4</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
 			<inhalt>
-				<id>C-GEWI-3-12-4</id>
-				<title>Themen</title>
-				<content>Zum Wechselverhältnis der Religionen untereinander</content>
-				<inhalt>
-					<id>C-GEWI-3-12-4-1</id>
-					<title>Inhalte</title>
-					<content>­	Neben-, Mit- und Gegeneinander von Religionen am historischen Beispiel (z. B. Alexandria in der Antike, Geschichte der iberischen Halbinsel, Kreuzzüge)</content>
-					<content>­	Konflikte, Dialog und friedlicher Austausch am aktuellen Beispiel</content>
-				</inhalt>
-				<inhalt>
-					<id>C-GEWI-3-12-4-2</id>
-					<title>Unterrichtsanregungen</title>
-					<content>­	aus Quellen und Darstellungen einen zusammenfassenden Sachtext schreiben</content>
-					<content>­	in Medien recherchieren</content>
-				</inhalt>
-			</inhalt>
-		</themainhalt>
+				<id>C-GEWI-3-6-4-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-6-4-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEWI-3-7</id>
+		<title>Ernährung – wie werden Menschen satt?</title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-GEWI-3-7-1</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-7-1-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-7-1-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-7-2</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-7-2-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-7-2-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-7-3</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-7-3-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-7-3-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-7-4</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-7-4-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-7-4-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEWI-3-8</id>
+		<title>Ernährung – wie werden Menschen satt?</title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-GEWI-3-8-1</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-8-1-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-8-1-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-8-2</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-8-2-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-8-2-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-8-3</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-8-3-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-8-3-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-8-4</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-8-4-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-8-4-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEWI-3-9</id>
+		<title>Ernährung – wie werden Menschen satt?</title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-GEWI-3-9-1</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-9-1-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-9-1-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-9-2</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-9-2-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-9-2-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-9-3</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-9-3-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-9-3-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-9-4</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-9-4-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-9-4-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEWI-3-10</id>
+		<title>Ernährung – wie werden Menschen satt?</title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-GEWI-3-10-1</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-10-1-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-10-1-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-10-2</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-10-2-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-10-2-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-10-3</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-10-3-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-10-3-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-10-4</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-10-4-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-10-4-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEWI-3-11</id>
+		<title>Ernährung – wie werden Menschen satt?</title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-GEWI-3-11-1</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-11-1-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-11-1-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-11-2</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-11-2-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-11-2-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-11-3</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-11-3-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-11-3-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-11-4</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-11-4-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-11-4-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+	</themainhalt>
+	<themainhalt>
+		<id>C-GEWI-3-12</id>
+		<title>Ernährung – wie werden Menschen satt?</title>
+		<content>
+		</content>
+		<inhalt>
+			<id>C-GEWI-3-12-1</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-12-1-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-12-1-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-12-2</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-12-2-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-12-2-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-12-3</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-12-3-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-12-3-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+		<inhalt>
+			<id>C-GEWI-3-12-4</id>
+			<title>Thema Leben und Überleben in Alt- und Jungsteinzeit</title>
+			<inhalt>
+				<id>C-GEWI-3-12-4-1-1</id>
+				<title>Inhalte</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+			<inhalt>
+				<id>C-GEWI-3-12-4-1-2</id>
+				<title>Unterrichtsanregungen</title>
+				<content></content>
+			    <content></content>
+			    <content></content>
+			</inhalt> 
+		</inhalt>
+	</themainhalt>
+	
 	</c3>
-		</fach>		
+</fach>
