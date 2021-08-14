@@ -1,5 +1,4 @@
-{
-  "mainTopics": {
+[
   "@context": "https://schema.org/",
   "@type": "Thing",
   "name": "Sprache",
@@ -20,5 +19,5 @@
   "name": "Soziales",
   "identifier":"4"
 }
-}
+]
 
