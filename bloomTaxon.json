@@ -1,6 +1,6 @@
 
         {
-                "@context": "https://schema.org/"
+                "@context": "https://schema.org/",
                 "@type": ["DefinedTermSet","bloomTaxonomy"],
                 "@id": "https://en.wikipedia.org/wiki/Bloom's_taxonomy",
                 "name": "Bloom's Taxonomy",
@@ -10,7 +10,7 @@
                 "@id": "https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Evaluation",
                 "termCode": "1-1",
                 "name": "Evaluate",
-                "alternateName": "Evaluation",
+                "alternateName": ["Evaluation"],
                 "description": "Evaluation involves presenting and defending opinions by making judgments about information, the validity of ideas, or quality of work based on a set of criteria. Its characteristics include: Judgments in terms of internal evidence or Judgments in terms of external criteria.Example: Which kinds of apples are best for baking a pie, and why?",
                 "inDefinedTermSet": "https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Evaluation"
         },
@@ -19,7 +19,7 @@
                 "@id": "https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Synthesis",
                 "name": "Create",
                 "termCode": "1-2",
-                "alternateName": "Synthesis",
+                "alternateName": ["Synthesis"],
                 "description": "Synthesis involves building a structure or pattern from diverse elements; it also refers to the act of putting parts together to form a whole. Its characteristics include: Production of a unique communication,Production of a plan, or proposed set of operations or Derivation of a set of abstract relations.Example: Convert an unhealthy recipe for apple pie to a healthy recipe by replacing your choice of ingredients. Argue for the health benefits of using the ingredients you chose versus the original ones.",
                 "inDefinedTermSet": "https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Synthesis"
         },{
@@ -27,7 +27,7 @@
                 "@id": "https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Analysis",
                 "name": "Analyze",
                 "termCode": "1-3",
-                "alternateName":{"Analysis"},
+                "alternateName":["Analysis"],
                 "description": "Analysis involves examining and breaking information into component parts, determining how the parts relate to one another, identifying motives or causes, making inferences, and finding evidence to support generalizations. Its characteristics include: Analysis of elements, Analysis of relationships, Analysis of organization. Example: Compare and contrast four ways of serving foods made with apples and examine which ones have the highest health benefits.",
                 "inDefinedTermSet": ""
                 
@@ -36,7 +36,7 @@
    "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Application",
    "name":"Apply",
    "termCode":"1-4",
-   "alternateName":{"Application"},
+   "alternateName":["Application"],
    "description":"Application involves using acquired knowledge—solving problems in new situations by applying acquired knowledge, facts, techniques and rules. Learners should be able to use prior knowledge to solve problems, identify connections and relationships and how they apply in new situations. Example: Would apples prevent scurvy, a disease caused by a deficiency in vitamin C?",
    "inDefinedTermSet":""
 },{
@@ -44,7 +44,7 @@
    "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Comprehension",
    "name":"Understand",
    "termCode":"1-5",
-   "alternateName":{"Comprehension"},
+   "alternateName":["Comprehension"],
    "description":"Comprehension involves demonstrating an understanding of facts and ideas by organizing, summarizing, translating, generalizing, giving descriptions, and stating the main ideas.Example: Summarize the identifying characteristics of a Golden Delicious apple and a Granny Smith apple.",
    "inDefinedTermSet":""
 },{
@@ -52,10 +52,10 @@
    "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Knowledge",
    "name":"Remember",
    "termCode":"1-6",
-   "alternateName":{"Knowledge"},
+   "alternateName":["Knowledge"],
    "description":"Knowledge involves recognizing or remembering facts, terms, basic concepts, or answers without necessarily understanding what they mean. Its characteristics may include:Knowledge of specifics—terminology, specific facts; Knowledge of ways and means of dealing with specifics—conventions, trends and sequences, classifications and categories; Knowledge of the universals and abstractions in a field—principles and generalizations, theories and structures.Example: Name three common varieties of apple.",
    "inDefinedTermSet":""
-}                     ]
+}                     ],
                 "bloomAffektive":[                        
                         {
    "@type":"DefinedTerm",
