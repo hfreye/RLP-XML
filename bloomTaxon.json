@@ -89,8 +89,7 @@
    "alternateName":"",
    "description":"The student actively participates in the learning process, not only attends to a stimulus; the student also reacts in some way.",
    "inDefinedTermSet":""
-}
-                {
+},{
    "@type":"DefinedTerm",
    "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Receiving",
    "name":"Receiving",
