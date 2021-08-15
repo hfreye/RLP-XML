@@ -3,17 +3,17 @@
 	xmlns="http://bsbb.eu" 
 	xsi:schemaLocation="http://bsbb.eu bctype.xsd">
 	<id>B-BCS</id>
-	<title>Basiscurriculum Srachbildung</title>
+	<title>Basiscurriculum Sprachbildung</title>
 	<bc1>
 		<id>B-BCS-1</id>
-		<title>Die Bedeutung der Srachbildung</title>
+		<title>Die Bedeutung der Sprachbildung</title>
 		<content>
 		Eine flexible und sichere Sprachkompetenz ist von entscheidender Bedeutung für die individuelle Identitätsbildung sowie für die Teilhabe an Gesellschaft und Kultur. Sie ist eine Grundvoraussetzung für lebenslanges Lernen. Sprachbildung ist daher Teil von Bildung insgesamt und Aufgabe aller an Schule Beteiligten. Die Mehrsprachigkeit bietet eine Chance, die Entwicklung von Sprachkompetenz zusätzlich zu unterstützen und zu fördern. Mehrsprachig aufwachsende Schülerinnen und Schüler verfügen über spezifische Kompetenzen, die genutzt und weiterentwickelt werden können.
 		</content>
 	</bc1>
 	<bc2>
 		<id>B-BCS-2</id>
-		<title>Der Beitrag der Srachbildung zum Kompetenzerwerb in den Unterrichtsfächern</title>
+		<title>Der Beitrag der Sprachbildung zum Kompetenzerwerb in den Unterrichtsfächern</title>
 		<subtext>
 			<id>B-BCS-2-1</id>
 			<title></title>
@@ -41,7 +41,7 @@ mit einer breiten Kenntnis von Text- und Gesprächssorten
 		</subtext>
 		<subtext>
 			<id>B-BCS-2-2</id>
-			<title>Kompetenzmodell Srachbildung</title>
+			<title>Kompetenzmodell Sprachbildung</title>
 			<content>
 Kompetenzbereiche der Sprachbildung, die für das Lernen in allen Fächern von Bedeutung sind:
 Im Kompetenzmodell sind die zentralen sprachlichen Kompetenzbereiche benannt. Für jeden Bereich werden im Folgenden sprachliche Kompetenzen ausgewiesen, die die Schülerinnen und Schüler im Unterricht der Jahrgangsstufen 1 bis 10 erwerben. Die Niveaustufe G schließt dabei die für Niveaustufe D beschriebenen Kompetenzen ein (nähere Erläuterungen zu den Niveaustufen siehe Teil C, Kapitel 2). Einige Standards sind niveauübergreifend dargestellt.			

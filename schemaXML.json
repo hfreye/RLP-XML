@@ -1,0 +1,44 @@
+"educationalAlignment":
+      {
+       "@context":  "https://schema.org/",
+       "@type": "AlignmentObject",
+       "name": "Name des Lehrinhalts",
+       "identifier": "6stelliger Code bestehend aus: Richtung-4StelligeNummer-BloomTaxonomy",
+       "alternateName": [verschiedene, Namen],
+       "description": "Beschreibung des Inhalts",
+       "mainEntityOfPage": "übergeordnetes Fach",
+       "alignmentType": "educationalSubject",
+       "educationalFramework": "Rahmenlehrplan Berlin-Brandenburg",
+       "targetName": "Thema",
+       "targetUrl": "Link zu Thema",
+       "taxonRank": "Link to Bloom",
+       "potentialAction": "teaches" or "assesses",
+       "timeRequired": "hour or week etc.",
+       "typicalAgeRange": "10-12",
+       "audience": {
+           "@type": "EducationalAudience",
+           "EducationalAudience": "Klassenstufe",
+        },
+       "characterAttribute":"video game def",
+      "educationalLevel": [
+      {
+          "@type": "DefinedTerm",
+          "name": "Level 2",
+          "inDefinedTermSet": {
+                "@type": "DefinedTermSet",
+            "name": "SCQF",
+            "url": "https://scqf.org.uk/"
+          }
+      },
+      {
+          "@type": "DefinedTerm",
+          "name": "KS 3",
+          "inDefinedTermSet": {
+                "@type": "DefinedTermSet",
+            "name": "The National Curriculum for England",
+            "url": "https://www.gov.uk/government/collections/national-curriculum"
+          }
+      }
+     ],
+  "url" : "http://example.org/lessonplan"
+}

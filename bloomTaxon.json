@@ -1,0 +1,189 @@
+{
+   "@context":"https://schema.org/",
+   "@type":[
+      "DefinedTermSet",
+      "bloomTaxonomy"
+   ],
+   "@id":"https://en.wikipedia.org/wiki/Bloom's_taxonomy",
+   "name":"Bloom's Taxonomy",
+   "bloomKnowledge":[
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Evaluation",
+         "termCode":"1-1",
+         "name":"Evaluate",
+         "alternateName":[
+            "Evaluation"
+         ],
+         "description":"Evaluation involves presenting and defending opinions by making judgments about information, the validity of ideas, or quality of work based on a set of criteria. Its characteristics include: Judgments in terms of internal evidence or Judgments in terms of external criteria.Example: Which kinds of apples are best for baking a pie, and why?",
+         "inDefinedTermSet":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Evaluation"
+      },
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Synthesis",
+         "name":"Create",
+         "termCode":"1-2",
+         "alternateName":[
+            "Synthesis"
+         ],
+         "description":"Synthesis involves building a structure or pattern from diverse elements; it also refers to the act of putting parts together to form a whole. Its characteristics include: Production of a unique communication,Production of a plan, or proposed set of operations or Derivation of a set of abstract relations.Example: Convert an unhealthy recipe for apple pie to a healthy recipe by replacing your choice of ingredients. Argue for the health benefits of using the ingredients you chose versus the original ones.",
+         "inDefinedTermSet":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Synthesis"
+      },
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Analysis",
+         "name":"Analyze",
+         "termCode":"1-3",
+         "alternateName":[
+            "Analysis"
+         ],
+         "description":"Analysis involves examining and breaking information into component parts, determining how the parts relate to one another, identifying motives or causes, making inferences, and finding evidence to support generalizations. Its characteristics include: Analysis of elements, Analysis of relationships, Analysis of organization. Example: Compare and contrast four ways of serving foods made with apples and examine which ones have the highest health benefits.",
+         "inDefinedTermSet":""
+      },
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Application",
+         "name":"Apply",
+         "termCode":"1-4",
+         "alternateName":[
+            "Application"
+         ],
+         "description":"Application involves using acquired knowledge—solving problems in new situations by applying acquired knowledge, facts, techniques and rules. Learners should be able to use prior knowledge to solve problems, identify connections and relationships and how they apply in new situations. Example: Would apples prevent scurvy, a disease caused by a deficiency in vitamin C?",
+         "inDefinedTermSet":""
+      },
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Comprehension",
+         "name":"Understand",
+         "termCode":"1-5",
+         "alternateName":[
+            "Comprehension"
+         ],
+         "description":"Comprehension involves demonstrating an understanding of facts and ideas by organizing, summarizing, translating, generalizing, giving descriptions, and stating the main ideas.Example: Summarize the identifying characteristics of a Golden Delicious apple and a Granny Smith apple.",
+         "inDefinedTermSet":""
+      },
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Knowledge",
+         "name":"Remember",
+         "termCode":"1-6",
+         "alternateName":[
+            "Knowledge"
+         ],
+         "description":"Knowledge involves recognizing or remembering facts, terms, basic concepts, or answers without necessarily understanding what they mean. Its characteristics may include:Knowledge of specifics—terminology, specific facts; Knowledge of ways and means of dealing with specifics—conventions, trends and sequences, classifications and categories; Knowledge of the universals and abstractions in a field—principles and generalizations, theories and structures.Example: Name three common varieties of apple.",
+         "inDefinedTermSet":""
+      }
+   ],
+   "bloomAffektive":[
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Characterizing",
+         "name":"Characterizing",
+         "termCode":"2-5",
+         "alternateName":"",
+         "description":"The student at this level tries to build abstract knowledge.",
+         "inDefinedTermSet":""
+      },
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Organizing",
+         "name":"Organizing",
+         "termCode":"2-4",
+         "alternateName":"",
+         "description":"The student can put together different values, information, and ideas, and can accommodate them within his/her own schema; the student is comparing, relating and elaborating on what has been learned.",
+         "inDefinedTermSet":""
+      },
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Valuing",
+         "name":"Valuing",
+         "termCode":"2-3",
+         "alternateName":"",
+         "description":"The student attaches a value to an object, phenomenon, or piece of information. The student associates a value or some values to the knowledge they acquired.",
+         "inDefinedTermSet":""
+      },
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Responding",
+         "name":"Responding",
+         "termCode":"2-2",
+         "alternateName":"",
+         "description":"The student actively participates in the learning process, not only attends to a stimulus; the student also reacts in some way.",
+         "inDefinedTermSet":""
+      },
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Receiving",
+         "name":"Receiving",
+         "termCode":"2-1",
+         "alternateName":"",
+         "description":"The lowest level; the student passively pays attention. Without this level, no learning can occur. Receiving is about the student's memory and recognition as well",
+         "inDefinedTermSet":""
+      }
+   ],
+   "bloomPsychomotor":[
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Perception",
+         "name":"Perception",
+         "termCode":"3-1",
+         "alternateName":"",
+         "description":"The ability to use sensory cues to guide motor activity:  This ranges from sensory stimulation, through cue selection, to translation.Examples: Detects non-verbal communication cues. Estimate where a ball will land after it is thrown and then moving to the correct location to catch the ball. Adjusts heat of the stove to correct temperature by smell and taste of food. Adjusts the height of the forks on a forklift by comparing where the forks are in relation to the pallet. Key words: chooses, describes, detects, differentiates, distinguishes, identifies, isolates, relates, selects.",
+         "inDefinedTermSet":""
+      },
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Set",
+         "name":"Set",
+         "termCode":"3-2",
+         "alternateName":"",
+         "description":"Readiness to act: It includes mental, physical, and emotional sets. These three sets are dispositions that predetermine a person's response to different situations (sometimes called mindsets). This subdivision of psychomotor is closely related with the responding to phenomena subdivision of the affective domain. Examples: Knows and acts upon a sequence of steps in a manufacturing process. Recognizes his or her abilities and limitations. Shows desire to learn a new process (motivation).Keywords: begins, displays, explains, moves, proceeds, reacts, shows, states, volunteers.",
+         "inDefinedTermSet":""
+      },
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Guided_response",
+         "name":"Guided response",
+         "termCode":"3-3",
+         "alternateName":"",
+         "description":"The early stages of learning a complex skill that includes imitation and trial and error: Adequacy of performance is achieved by practicing. Examples: Performs a mathematical equation as demonstrated. Follows instructions to build a model. Responds to hand-signals of the instructor while learning to operate a forklift. Keywords: copies, traces, follows, reacts, reproduces, responds.",
+         "inDefinedTermSet":""
+      },
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Mechanism",
+         "name":"Mechanism",
+         "termCode":"3-4",
+         "alternateName":"",
+         "description":"The intermediate stage in learning a complex skill: Learned responses have become habitual and the movements can be performed with some confidence and proficiency. Examples: Use a personal computer. Repair a leaking tap. Drive a car. Key words: assembles, calibrates, constructs, dismantles, displays, fastens, fixes, grinds, heats, manipulates, measures, mends, mixes, organizes, sketches.",
+         "inDefinedTermSet":""
+      },
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Complex_overt_response",
+         "name":"Complex overt response",
+         "termCode":"3-5",
+         "alternateName":"",
+         "description":"The skillful performance of motor acts that involve complex movement patterns: Proficiency is indicated by a quick, accurate, and highly coordinated performance, requiring a minimum of energy. This category includes performing without hesitation and automatic performance. For example, players will often utter sounds of satisfaction or expletives as soon as they hit a tennis ball or throw a football because they can tell by the feel of the act what the result will produce. Examples: Maneuvers a car into a tight parallel parking spot. Operates a computer quickly and accurately. Displays competence while playing the piano. Key words: assembles, builds, calibrates, constructs, dismantles, displays, fastens, fixes, grinds, heats, manipulates, measures, mends, mixes, organizes, sketches. (Note: The key words are the same as in mechanism, but will have adverbs or adjectives that indicate that the performance is quicker, better, more accurate, etc.).",
+         "inDefinedTermSet":""
+      },
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Adaptation",
+         "name":"Adaptation",
+         "termCode":"3-6",
+         "alternateName":"",
+         "description":"Skills are well developed and the individual can modify movement patterns to fit special requirements. Examples: Responds effectively to unexpected experiences. Modifies instruction to meet the needs of the learners. Performs a task with a machine that was not originally intended for that purpose (the machine is not damaged and there is no danger in performing the new task). Key words: adapts, alters, changes, rearranges, reorganizes, revises, varies.",
+         "inDefinedTermSet":""
+      },
+      {
+         "@type":"DefinedTerm",
+         "@id":"https://en.wikipedia.org/wiki/Bloom%27s_taxonomy#Origination",
+         "name":"Origination",
+         "termCode":"3-7",
+         "alternateName":"",
+         "description":"Creating new movement patterns to fit a particular situation or specific problem: Learning outcomes emphasize creativity based upon highly developed skills. Examples: Constructs a new set or pattern of movements organized around a novel concept or theory. Develops a new and comprehensive training program. Creates a new gymnastic routine. Key words: arranges, builds, combines, composes, constructs, creates, designs, initiates, makes, originates.",
+         "inDefinedTermSet":""
+      }
+   ]
+}
