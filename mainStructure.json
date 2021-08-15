@@ -1,23 +1,28 @@
-[
-  "@context": "https://schema.org/",
-  "@type": "Thing",
-  "name": "Sprache",
-  "identifier":"1"
-  },{
-  "@context": "https://schema.org/",
-  "@type": "Thing",
-  "name": "Logik",
-  "identifier":"2"
-},{
-  "@context": "https://schema.org/",
-  "@type": "Thing",
-  "name": "Bewegung",
-  "identifier":"3"
-},{
-  "@context": "https://schema.org/",
-  "@type": "Thing",
-  "name": "Soziales",
-  "identifier":"4"
+{
+   "mainCategories":[
+      {
+         "@context":"https://schema.org/",
+         "@type":"Thing",
+         "name":"Sprache",
+         "identifier":"1"
+      },
+      {
+         "@context":"https://schema.org/",
+         "@type":"Thing",
+         "name":"Logik",
+         "identifier":"2"
+      },
+      {
+         "@context":"https://schema.org/",
+         "@type":"Thing",
+         "name":"Bewegung",
+         "identifier":"3"
+      },
+      {
+         "@context":"https://schema.org/",
+         "@type":"Thing",
+         "name":"Soziales",
+         "identifier":"4"
+      }
+   ]
 }
-]
-
